@@ -13,6 +13,10 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
   alojamiento el mismo día, por qué Booking no tiene oferta en los pueblos
   pequeños, por qué KakaoMap la muestra pero exige cuenta de KakaoTalk para
   reservar, y cómo se consigue habitación presentándose en la puerta.
+- El día 15 cuenta la cena de barbacoa de hanwoo y, sobre todo, que su hotel
+  fue **el primero al que llegaron sin reserva**: había sitio, y poco después
+  el hotel se llenó. Enlazado desde la entrada de alojamiento, que añade el
+  consejo de llegar con luz.
 - El día 11 corrige las manzanas: se compraron en el mercadillo de 문경 사과
   pero se comieron más adelante, en una tienda 24 h, con noodles instantáneos,
   huevos, rábano encurtido y sándwiches, antes del baño de pies.

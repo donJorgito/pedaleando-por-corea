@@ -80,6 +80,13 @@ coges. Sin reserva, sin plataforma y sin hablar coreano. En los moteles de
 carretera coreanos hay sitio casi siempre y están acostumbrados a que llegue
 gente sin avisar.
 
+La primera vez fue en **Guji**, camino de Dodongseowon
+([día 15]({{ site.baseurl }}{% post_url 2026-10-19-dia-15-dodongseowon-y-el-espectaculo-nocturno %})):
+nos plantamos en la puerta sin saber si habría sitio. Lo había — y **un rato
+después el hotel estaba completo**. Salió bien por poco, y eso resume el
+método: funciona, pero no te duermas. **Llega con luz**, no a las nueve de la
+noche.
+
 Dicho de otra forma: **no vas a dormir en la calle**. En el peor de los casos
 pierdes media hora dando vueltas por el pueblo.
 

@@ -57,14 +57,46 @@ mejores del viaje. El recinto iluminado, de noche, vacío de turistas y en
 silencio, es otra cosa completamente distinta de lo que habíamos visto por la
 tarde.
 
-Cenamos al volver: **54.470 wones**, unos 36 € los tres.
+## Y de cena, barbacoa coreana otra vez
 
-## Dormir
+Al volver del espectáculo cenamos **barbacoa coreana**, que a estas alturas
+del viaje ya era casi una liturgia.
 
-Esa noche fue en el **Daol Hotel**, en Guji, cerca del río. Y aquí un detalle
-de las cuentas que nos hizo dudar al repasarlas: aparecen **dos apuntes
-idénticos de 39,84 €** para la misma etapa. No es un error — **pagó la mitad
-cada uno de los hermanos**.
+De las de pedir en pantalla: un kiosco táctil en la mesa con las fotos y los
+precios, y tú eliges. Nos salió **한우 차돌박이** —falda de **hanwoo**, la
+vaca autóctona coreana, que es la carne buena— a **12.990 wones los 100
+gramos**.
+
+La mesa lleva la **parrilla de carbón encastrada** en el centro y un **tubo
+extractor que baja del techo** justo encima. Te traen la carne cruda, la vas
+poniendo tú, y alrededor se va llenando todo de banchan. Das la vuelta a los
+trozos con unas pinzas, los cortas con tijeras sobre la propia parrilla y los
+comes envueltos en hoja de lechuga.
+
+**54.470 wones los tres**, unos 36 €.
+
+Y el remate, ya en el hotel: **mascarillas faciales coreanas**, de las de
+lámina. Cuando llevas dos semanas en Corea, acabas haciendo cosas así.
+
+## Dormir: el primero a la aventura
+
+Esa noche fue en el **Daol Hotel**, en Guji, cerca del río: **79,68 €** los
+tres. Y fue **el primer hotel del viaje al que llegamos sin reserva**.
+
+Hasta aquí habíamos ido encontrando sitio por Booking el mismo día. Pero esta
+zona ya es Corea rural, y en la aplicación no había nada. Así que nos
+plantamos en la puerta sin saber si habría habitación.
+
+La hubo. Y la jugada salió redonda, porque **un rato más tarde el hotel estaba
+completo**. Si llegamos una hora después, nos quedamos fuera.
+
+Es la primera vez que vimos las dos caras del asunto a la vez: que
+**presentarse funciona**, y que **funciona hasta que deja de funcionar**. A
+partir de aquí lo hicimos varias veces más, y siempre con el mismo cosquilleo
+hasta que te dan la llave.
+
+Lo cuento entero, con el porqué de que Booking no sirva en los pueblos, en
+[dónde dormir en el 국토종주]({{ site.baseurl }}{% post_url 2026-10-17-donde-dormir-en-el-gukto-jongju %}).
 
 ---
 

@@ -38,6 +38,8 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
   `gitleaks-action` v3.0.0 y `markdownlint-cli2-action` v24.2.0.
 - Las tablas de Markdown pasan a tener los pipes espaciados de forma
   consistente, para cumplir `MD060`, la regla nueva de markdownlint 0.41.
+- La devolución de las bicis deja de contarse como un sobresalto: el taller
+  avisa al alquilar de que el pago es en efectivo, y así se llevó preparado.
 - `blog.RQ001` admite ahora entradas **temáticas** (`AAAA-MM-DD-<titulo>.md`)
   además de las diarias; su test distingue los dos patrones.
 - El coste del pasaporte del ciclista en la entrada del día 1 pasa de «unos

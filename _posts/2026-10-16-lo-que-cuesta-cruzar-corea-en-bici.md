@@ -53,7 +53,8 @@ Lo más caro del viaje después de los vuelos y el hotel.
 - **Alquiler**: tres híbridas Giant Toughroad SLR durante doce días,
   **275.000 wones cada una**. En total, 537 € entre los tres.
 - **Devolución en Busan**: **50.000 wones por bici**, 150.000 en total
-  (unos 100 €). Se paga allí y **en efectivo**: conviene llevarlo contado.
+  (unos 100 €). Se paga allí y **en efectivo**, y el taller te lo avisa al
+  alquilar para que lo lleves preparado.
 - **Pasaporte del ciclista**: **4.000 wones** (unos 2,60 €). Es la libreta que
   vas sellando en las cabinas de certificación. Para emitirlo te piden el
   pasaporte de verdad, porque va a tu nombre. Nosotros compramos dos, no tres:
@@ -61,8 +62,8 @@ Lo más caro del viaje después de los vuelos y el hotel.
 - **Medallas del final**: **12.000 wones cada una** (unos 7,75 €). Compramos
   dos, las de quienes llevaban pasaporte: 24.000 wones.
 
-Sumado: unos **219 € por persona** en bici para cruzar el país. La devolución
-pillando desprevenido es el único sobresalto; el resto se sabe de antemano.
+Sumado: unos **219 € por persona** en bici para cruzar el país. Sin sorpresas:
+todo esto se sabe de antemano, incluido lo del efectivo de la devolución.
 
 ## El premio: certificado y medalla
 

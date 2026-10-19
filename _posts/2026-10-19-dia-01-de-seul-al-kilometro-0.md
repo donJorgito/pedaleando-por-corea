@@ -17,8 +17,9 @@ hacia Busan: pedaleas en dirección contraria.
 Recogimos las tres bicis por la mañana en un taller del barrio de **Mapo**, en
 Seúl. Habíamos reservado con meses de antelación: tres **Giant Toughroad SLR**
 híbridas, talla S, doce días, 275.000 wones cada una. La devolución en Busan se
-paga allí y en efectivo, 50.000 wones por bici. Conviene saberlo antes de llegar
-con la tarjeta en la mano.
+paga allí, 50.000 wones por bici, y el taller nos avisó desde el principio de
+que sería **en efectivo** y lo lleváramos preparado. Así lo hicimos, y no hubo
+ningún problema al entregarlas.
 
 Con las alforjas puestas y el papeleo hecho, eran ya las once pasadas.
 

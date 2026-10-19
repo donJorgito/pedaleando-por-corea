@@ -9,6 +9,14 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 ### Added
 
+- El día 16 identifica la **«cena picosita»**: era **닭갈비** en el
+  **복면닭갈비** (천주로 1069, Buk-myeon, Changwon), un restaurante con **un
+  solo plato en la carta**. Dos raciones de 17.000 wones —cada una pensada
+  para dos personas— dan los 34.000 del apunte. Se añade qué es el dakgalbi,
+  la tabla con la conversación real por traductor con la camarera y el aviso
+  de que el picante no se puede ajustar. Verificado cruzando el GPS de la
+  foto del plato (35,3464 N / 128,6070 E) con la ficha de Naver Map, el
+  horario 11:00–20:30 y el precio de su carta.
 - Entrada temática nueva: **dónde dormir en el 국토종주**. El método de buscar
   alojamiento el mismo día, por qué Booking no tiene oferta en los pueblos
   pequeños, por qué KakaoMap la muestra pero exige cuenta de KakaoTalk para

@@ -5,6 +5,8 @@ description: >-
   Excursión a la fortaleza de Hwaseong en Suwon por 2.000 wones de tren, la
   calle del pollo frito y subida nocturna a la Torre N de Seúl.
 tags: [corea, seul, suwon, hwaseong, comida, dia-a-dia]
+layout: dia
+dia: 6
 ---
 
 Día de excursión fuera de Seúl por la mañana y de mirador por la noche. Y de

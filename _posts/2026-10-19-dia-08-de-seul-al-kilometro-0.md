@@ -6,6 +6,8 @@ description: >-
   al mar Amarillo. Cómo llegar hasta allí, qué es el pasaporte del ciclista y
   cuánto cuesta, y por qué el primer día acabas donde empezaste.
 tags: [corea, gukto-jongju, seul, incheon, yeouido, cabinas, dia-a-dia]
+layout: dia
+dia: 8
 ---
 
 El país se cruza de noroeste a sureste, de Seúl a Busan, y el contador oficial

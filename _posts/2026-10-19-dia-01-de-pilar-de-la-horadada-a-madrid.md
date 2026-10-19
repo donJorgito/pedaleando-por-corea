@@ -6,6 +6,8 @@ description: >-
   Madrid y la Korea e-Arrival Card ya tramitada. El papeleo previo y la
   despedida del primer día.
 tags: [corea, gukto-jongju, preparativos, dia-a-dia, viaje]
+layout: dia
+dia: 1
 ---
 
 Las crónicas de viaje suelen empezar en el aeropuerto de destino, como si

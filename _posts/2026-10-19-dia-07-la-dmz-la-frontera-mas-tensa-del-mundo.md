@@ -6,6 +6,8 @@ description: >-
   Gamaksan, el tercer túnel de infiltración y el parque de Imjingak. Qué
   cuesta, cómo se reserva y qué se ve de verdad.
 tags: [corea, dmz, imjingak, corea-del-norte, excursiones, dia-a-dia]
+layout: dia
+dia: 7
 ---
 
 Último día en Seúl antes de coger las bicis, y lo dedicamos a lo que para

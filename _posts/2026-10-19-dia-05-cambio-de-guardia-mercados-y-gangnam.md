@@ -6,6 +6,8 @@ description: >-
   tortuga y los mercados de Tongin y Gwangjang. Comer en un mercado coreano
   por seis euros entre tres.
 tags: [corea, seul, mercados, gwangjang, gangnam, comida, dia-a-dia]
+layout: dia
+dia: 5
 ---
 
 El día que más kilómetros hicimos a pie y el que mejor se come por menos

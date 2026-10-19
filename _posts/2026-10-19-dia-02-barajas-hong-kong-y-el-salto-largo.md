@@ -6,6 +6,8 @@ description: >-
   Cómo se encadenan los dos tramos hasta Seúl y qué supone perder un día
   entero de calendario.
 tags: [corea, gukto-jongju, vuelos, preparativos, dia-a-dia]
+layout: dia
+dia: 2
 ---
 
 Segundo día de viaje y todavía no habíamos visto Corea. Esto conviene tenerlo

@@ -1,5 +1,5 @@
 ---
-layout: home
+layout: page
 title: Pedaleando por Corea
 ---
 
@@ -10,3 +10,34 @@ alojamientos y la ida al kilómetro 0.
 
 Fuimos tres. Esto es lo que vimos, lo que costó, dónde dormimos, qué comimos y
 en qué nos equivocamos — por si a alguien le sirve para preparar el suyo.
+
+## El viaje, día a día
+
+{% assign dias = site.posts | where_exp: "p", "p.dia" | sort: "dia" %}
+
+Están publicadas **{{ dias | size }} de las 24 jornadas**. Se leen en orden,
+empezando por el día 1: al final de cada una hay enlace a la siguiente.
+
+<ol class="lista-dias">
+{% for p in dias %}
+  <li value="{{ p.dia }}">
+    <a href="{{ p.url | relative_url }}">{{ p.title }}</a>
+    <span class="lista-dias__fecha">{{ p.date | date: "%d/%m" }}</span>
+  </li>
+{% endfor %}
+</ol>
+
+## Por temas
+
+Las entradas que no cuentan un día concreto, sino algo que atraviesa el viaje
+entero.
+
+<ul class="lista-temas">
+{% assign temas = site.posts | where_exp: "p", "p.dia == nil" | sort: "date" %}
+{% for p in temas %}
+  <li>
+    <a href="{{ p.url | relative_url }}">{{ p.title }}</a>
+    {% if p.description %}<br><small>{{ p.description | strip_newlines | truncate: 160 }}</small>{% endif %}
+  </li>
+{% endfor %}
+</ul>

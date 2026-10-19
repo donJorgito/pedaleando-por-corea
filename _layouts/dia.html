@@ -1,0 +1,33 @@
+---
+layout: post
+---
+
+{{ content }}
+
+{% assign n_anterior = page.dia | minus: 1 %}
+{% assign n_siguiente = page.dia | plus: 1 %}
+{% assign anterior = site.posts | where: "dia", n_anterior | first %}
+{% assign siguiente = site.posts | where: "dia", n_siguiente | first %}
+
+<nav class="nav-dias" aria-label="Navegación entre días del viaje">
+  <div class="nav-dias__lado nav-dias__lado--anterior">
+    {% if anterior %}
+      <a rel="prev" href="{{ anterior.url | relative_url }}">
+        <span class="nav-dias__etiqueta">← Día {{ anterior.dia }}</span>
+        <span class="nav-dias__titulo">{{ anterior.title }}</span>
+      </a>
+    {% endif %}
+  </div>
+  <div class="nav-dias__lado nav-dias__lado--siguiente">
+    {% if siguiente %}
+      <a rel="next" href="{{ siguiente.url | relative_url }}">
+        <span class="nav-dias__etiqueta">Día {{ siguiente.dia }} →</span>
+        <span class="nav-dias__titulo">{{ siguiente.title }}</span>
+      </a>
+    {% endif %}
+  </div>
+</nav>
+
+<p class="nav-dias__indice">
+  <a href="{{ '/' | relative_url }}">Todas las entradas, por orden</a>
+</p>

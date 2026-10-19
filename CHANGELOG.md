@@ -9,6 +9,16 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 ### Added
 
+- La portada lista las jornadas **en orden, del día 1 en adelante**, en vez
+  del orden inverso que trae el tema por defecto, y separa las entradas
+  temáticas en su propia sección.
+- Cada entrada diaria enlaza con la **anterior** y la **siguiente**, para
+  poder leer el viaje entero sin volver al índice.
+- Requisito `blog.RQ007` y su test para que ese orden y esa navegación no se
+  puedan romper sin que salte CI.
+- Gate 5 de CI: **se construye el sitio en cada PR**. Hasta ahora un error de
+  Liquid o de SCSS solo habría aparecido al desplegar, porque `pages.yml`
+  solo corre en `main`.
 - Las tiendas 24 h **no tienen baño**; en cambio la ruta tiene servicios
   públicos continuamente, que es el dato que de verdad sirve en bici.
 - Aviso de vigencia destacado al principio de la entrada del presupuesto:

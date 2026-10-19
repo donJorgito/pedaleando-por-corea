@@ -6,6 +6,8 @@ description: >-
   y la primera cena coreana. Lo que conviene resolver nada más llegar: eSIM,
   transporte y efectivo.
 tags: [corea, seul, incheon, transporte, comida, dia-a-dia]
+layout: dia
+dia: 3
 ---
 
 A las **15:16** hora local tocamos tierra en el **aeropuerto de Incheon**.

@@ -1,0 +1,67 @@
+---
+# Front matter vacío a propósito: es lo que hace que Jekyll procese el SCSS.
+---
+
+@import "minima";
+
+/* Índice: la lista de días conserva su número aunque falten jornadas. */
+.lista-dias {
+  padding-left: 1.6em;
+
+  li {
+    margin-bottom: 0.4em;
+  }
+}
+
+.lista-dias__fecha {
+  color: #828282;
+  font-size: 0.85em;
+  margin-left: 0.5em;
+  white-space: nowrap;
+}
+
+.lista-temas li {
+  margin-bottom: 0.9em;
+}
+
+/* Navegación entre días, al pie de cada entrada. */
+.nav-dias {
+  border-top: 1px solid #e8e8e8;
+  display: flex;
+  flex-wrap: wrap;
+  gap: 1em;
+  justify-content: space-between;
+  margin-top: 2.5em;
+  padding-top: 1.2em;
+
+  a {
+    display: block;
+    text-decoration: none;
+  }
+}
+
+.nav-dias__lado {
+  flex: 1 1 14em;
+  min-width: 0;
+}
+
+.nav-dias__lado--siguiente {
+  text-align: right;
+}
+
+.nav-dias__etiqueta {
+  display: block;
+  font-weight: 600;
+}
+
+.nav-dias__titulo {
+  color: #424242;
+  display: block;
+  font-size: 0.9em;
+}
+
+.nav-dias__indice {
+  font-size: 0.9em;
+  margin-top: 1.2em;
+  text-align: center;
+}

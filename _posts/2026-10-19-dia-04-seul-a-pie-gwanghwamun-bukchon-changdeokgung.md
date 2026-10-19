@@ -6,6 +6,8 @@ description: >-
   hanok de Bukchon y el palacio de Changdeokgung. Qué cuesta y cómo
   organizarlo andando.
 tags: [corea, seul, palacios, bukchon, free-tour, dia-a-dia]
+layout: dia
+dia: 4
 ---
 
 Primer día entero en Corea, y el plan fue el más sensato posible con el

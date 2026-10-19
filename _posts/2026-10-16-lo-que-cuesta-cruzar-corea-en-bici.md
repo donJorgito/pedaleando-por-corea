@@ -51,7 +51,8 @@ día por cabeza**, sin contar el avión.
 Lo más caro del viaje después de los vuelos y el hotel.
 
 - **Alquiler**: tres híbridas Giant Toughroad SLR durante doce días,
-  **275.000 wones cada una**. En total, 537 € entre los tres.
+  **275.000 wones cada una**. En total, 537 € entre los tres. Importante:
+  venían **equipadas** (ver más abajo), así que ese precio no se queda corto.
 - **Devolución en Busan**: **50.000 wones por bici**, 150.000 en total
   (unos 100 €). Se paga allí y **en efectivo**, y el taller te lo avisa al
   alquilar para que lo lleves preparado.
@@ -64,6 +65,26 @@ Lo más caro del viaje después de los vuelos y el hotel.
 
 Sumado: unos **219 € por persona** en bici para cruzar el país. Sin sorpresas:
 todo esto se sabe de antemano, incluido lo del efectivo de la devolución.
+
+### Qué incluye el alquiler, y qué tuvimos que llevar
+
+Esto vale dinero y casi nunca se cuenta. Las bicis venían con:
+
+- **Casco.**
+- **Portaequipajes** trasero.
+- **Luces LED** delantera y trasera, **recargables**.
+- **Candado de contraseña.**
+
+Es decir: no hay que comprar nada de eso ni cargarlo en el avión. De casa solo
+llevamos dos cosas, y las dos son baratas y caben en cualquier hueco:
+
+- **Pulpos elásticos** para atar la mochila al portaequipajes.
+- **Soporte de móvil para el manillar**, que lo montamos nosotros. Con la ruta
+  siendo lo que es —navegación constante— esto no es opcional.
+
+**No llevamos alforjas.** Cada uno iba con su mochila atada al portaequipajes
+con los pulpos, y fue suficiente para tres semanas. Es la combinación de eso
+con la lavadora gratis: si puedes lavar casi cada noche, no necesitas volumen.
 
 ## El premio: certificado y medalla
 
@@ -185,7 +206,7 @@ pero poco.
 ## Lavadora y secadora: casi siempre gratis
 
 Esto merece apartado propio porque es lo que decide cuánta ropa metes en las
-alforjas, y es la mejor noticia del viaje.
+la mochila, y es la mejor noticia del viaje.
 
 En los alojamientos de la ruta hay **lavadora y secadora**, y **basta con
 pedirlas**. Te dejan usar las dos, **con el jabón incluido**, sin cobrar nada.
@@ -230,7 +251,8 @@ falta y cuánto pesa:
   viaje. Poco dinero, pero conviene contarlo.
 - Bebidas por el camino, cafés sueltos y caprichos.
 - **Las compras del final**, que pueden dispararse: ver más abajo.
-- El equipamiento previo (alforjas, ropa, cascos), que ya llevábamos de casa.
+- Lo poco que se lleva de casa: los pulpos y el soporte de móvil. El casco
+  venía con la bici.
 - Los trámites de entrada al país, que cada uno hizo por su lado.
 
 ## Las compras y los caprichos: ojo con los últimos días

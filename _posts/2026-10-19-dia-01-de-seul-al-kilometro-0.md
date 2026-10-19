@@ -21,7 +21,13 @@ paga allí, 50.000 wones por bici, y el taller nos avisó desde el principio de
 que sería **en efectivo** y lo lleváramos preparado. Así lo hicimos, y no hubo
 ningún problema al entregarlas.
 
-Con las alforjas puestas y el papeleo hecho, eran ya las once pasadas.
+Las bicis venían equipadas: **casco, portaequipajes, luces LED recargables
+delante y detrás, y candado de contraseña**. No hizo falta llevar alforjas —
+cada uno ató su mochila al portaequipajes con pulpos elásticos— y lo único que
+montamos nosotros fue el **soporte de móvil en el manillar**, que en esta ruta
+es casi obligatorio.
+
+Con las mochilas atadas y el papeleo hecho, eran ya las once pasadas.
 
 ## El kilómetro 0 está en Incheon, no en Seúl
 

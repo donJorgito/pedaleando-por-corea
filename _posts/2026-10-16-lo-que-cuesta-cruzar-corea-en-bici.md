@@ -184,9 +184,14 @@ días**.
 
 Desayunábamos y comíamos casi siempre en las tiendas de conveniencia:
 **CU**, **GS25** y **7-Eleven**. En Corea están por todas partes, también en
-mitad de la ruta ciclista, abren 24 horas, tienen mesa para sentarte, agua
-caliente para los noodles y baño. Para quien va en bici son el avituallamiento
-resuelto.
+mitad de la ruta ciclista, abren 24 horas, tienen **mesa para sentarte** y
+**agua caliente** para prepararte los noodles allí mismo. Para quien va en
+bici son el avituallamiento resuelto.
+
+**Baño no tienen** —o al menos no vimos ninguna que lo tuviera—, pero da
+igual: en la ruta del 국토종주 hay **servicios públicos continuamente**, bien
+señalizados y en buen estado. Es una de esas cosas que no esperas y que hacen
+el viaje mucho más cómodo de lo previsto.
 
 Lo que caía casi a diario:
 

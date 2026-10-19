@@ -9,6 +9,8 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 ### Added
 
+- Las tiendas 24 h **no tienen baño**; en cambio la ruta tiene servicios
+  públicos continuamente, que es el dato que de verdad sirve en bici.
 - Aviso de vigencia destacado al principio de la entrada del presupuesto:
   los precios son de septiembre-octubre de 2026 y hay que leerlos como orden
   de magnitud, no como tarifa.

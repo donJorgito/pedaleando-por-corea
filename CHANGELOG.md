@@ -9,6 +9,14 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 ### Added
 
+- El día 17 cuenta dos cosas que faltaban: **The Terrazzo fue el segundo y
+  último hotel al que se llegó sin reserva** —enlazado desde la entrada de
+  alojamiento, que hasta ahora solo nombraba el primero— y el buffet tiene
+  nombre: **다담뜰한식뷔페 양산점** (물금읍 가촌로 171), **12.000 wones por
+  adulto**, que por tres son los 36.000 wones del apunte. Allí se probó el
+  **식혜**, el agua dulce de arroz; el resto de platos ya se venían comiendo
+  desde el primer día. Localizado por el GPS de la foto de la cena, a unos
+  siete metros de la ficha de Naver Map.
 - `blog.RQ008` nuevo, con su test: comprueba las seis vías por las que se
   escapaba una fecha —permalink, layout, portada, nombre de fichero, front
   matter y prosa—. Verificado en negativo: las ocho comprobaciones fallan al

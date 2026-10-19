@@ -4,9 +4,10 @@ date: 2026-10-19 08:32:00 +0200
 layout: dia
 dia: 17
 description: >-
-  Penúltima etapa del 국토종주: de Changwon a Yangsan por el Nakdong, con la
-  cabina del Centro del Agua y la sensación rara de que mañana se acaba.
-tags: [corea, gukto-jongju, yangsan, nakdonggang, dia-a-dia]
+  Penúltima etapa del 국토종주: de Changwon a Yangsan por el Nakdong, el
+  segundo y último hotel al que llegamos sin reserva, y un buffet coreano de
+  12.000 wones por cabeza donde probamos el 식혜.
+tags: [corea, gukto-jongju, yangsan, nakdonggang, buffet, sikhye, comida, dia-a-dia]
 ---
 
 Penúltima etapa, y la más corta de fotos de todo el viaje: **37**. Cuando
@@ -22,12 +23,60 @@ ancho, recto y con las cabinas muy espaciadas.
 A las **15:48** pasamos por el **parque del Memorial**, ya en Mulgeum, y de
 ahí al hotel.
 
-## El último hotel antes de Busan
+## El último hotel antes de Busan, otra vez sin reserva
 
 Dormimos en **The Terrazzo**, en Yangsan: **100.000 wones**, unos 66 € los
-tres. Y cenamos en un **buffet** por **36.000 wones** — **23,87 € entre
-tres**, que para comer sin límite es de las mejores relaciones calidad-precio
-del viaje.
+tres. Y tampoco aquí llevábamos reserva.
+
+Fue la **segunda y última vez en todo el viaje** que nos presentamos en la
+puerta de un hotel sin saber si habría sitio — la primera había sido en Guji,
+dos etapas antes. Volvió a salir bien. El método, con sus límites, está
+contado en
+[dónde dormir en el 국토종주]({{ site.baseurl }}{% post_url 2026-10-17-donde-dormir-en-el-gukto-jongju %}):
+dos veces en once etapas, y ninguna acabó mal.
+
+## El buffet coreano: comer sin límite por 12.000 wones
+
+La cena fueron **36.000 wones** — **23,87 € entre tres**, y es de las mejores
+relaciones calidad-precio del viaje entero.
+
+El sitio es el **다담뜰한식뷔페 양산점**, en 경남 양산시 물금읍 가촌로 171,
+a un paseo del hotel. Un **한식뷔페**: buffet libre de comida coreana, que
+allí es una categoría propia y una institución de barrio.
+
+La cuenta no tiene truco: **12.000 wones por adulto**, los mismos para todos,
+sin menús ni extras. Tres por doce son los 36.000 del apunte.
+
+Funciona en autoservicio puro: coges un plato, te sirves lo que quieras de la
+isla central las veces que quieras y, al terminar, **llevas tú mismo el plato
+sucio** al carro de la entrada —hay un cartel que lo recuerda—. El agua, los
+*banchan* y la bebida de después van incluidos.
+
+En la isla central hay lo que uno esperaría de una casa coreana un domingo:
+guisos, salteados, fritos, varios arroces, sopa, verduras aliñadas, hojas
+para envolver y una fila entera de *banchan*.
+
+Y aquí está lo interesante, que es justo lo contrario de una anécdota: **no
+comimos nada que no hubiéramos comido ya**. Diecisiete días después de
+aterrizar, un buffet coreano entero no tenía un solo plato nuevo que
+ofrecernos. Esa es la gracia del 한식뷔페: no es cocina de restaurante, es la
+comida de todos los días, toda junta y en cantidad.
+
+### Lo nuevo sí fue la bebida
+
+Lo único que no habíamos probado antes fue el **식혜 (sikhye)**: un **agua
+dulce de arroz**, fría, dulzona, con granos de arroz flotando en el fondo. Es
+el postre líquido clásico coreano y en los buffets está siempre, al final de
+la fila, en un dispensador junto a los cafés.
+
+No es un capricho nuestro: **식혜 es una de las cosas más mencionadas en las
+reseñas de este buffet**, que tiene más de mil cuatrocientas.
+
+Abre de **11:00 a 20:00**. Aquí está su ficha: **[다담뜰한식뷔페 양산점 en
+Naver Map](https://map.naver.com/p/entry/place/1418272524)**.
+
+Si pasas la noche en Yangsan y llegas con hambre de etapa, esto es lo que
+buscas.
 
 ## La víspera
 
@@ -44,5 +93,6 @@ Dormimos pronto.
 ---
 
 **Datos del día** · Changwon → Yangsan · 1 cabina: 양산물문화관 ·
-Alojamiento: The Terrazzo, 100.000 wones · Cena: buffet, 36.000 wones ·
+Alojamiento: The Terrazzo, 100.000 wones, el segundo y último sin reserva ·
+Cena: buffet 다담뜰한식뷔페, 12.000 wones por cabeza · Lo nuevo: el 식혜 ·
 Mañana: el mar.

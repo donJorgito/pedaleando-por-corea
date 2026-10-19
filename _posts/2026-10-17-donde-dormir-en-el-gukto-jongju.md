@@ -87,6 +87,11 @@ después el hotel estaba completo**. Salió bien por poco, y eso resume el
 método: funciona, pero no te duermas. **Llega con luz**, no a las nueve de la
 noche.
 
+La segunda —y última— fue el **The Terrazzo**, en Yangsan, la víspera de
+llegar al mar
+([día 17]({{ site.baseurl }}{% post_url 2026-10-19-dia-17-yangsan-la-vispera-del-mar %})).
+Misma operación, mismo resultado.
+
 Dicho de otra forma: **no vas a dormir en la calle**. En el peor de los casos
 pierdes media hora dando vueltas por el pueblo.
 

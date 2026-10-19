@@ -1,0 +1,13 @@
+# Reglas de linting de Markdown.
+# Referencia: https://github.com/DavidAnson/markdownlint/blob/main/doc/Rules.md
+default: true
+
+# Las entradas del blog son prosa larga: no limitamos el ancho de línea.
+MD013: false
+# Permitimos HTML puntual (iframes del mapa, figure/figcaption).
+MD033: false
+# El primer encabezado no tiene que ser H1: Jekyll lo genera del front matter.
+MD041: false
+# Varios encabezados con el mismo texto son válidos entre secciones distintas.
+MD024:
+  siblings_only: true

@@ -1,0 +1,14 @@
+# Jekyll
+_site/
+.jekyll-cache/
+.jekyll-metadata
+.sass-cache/
+
+# Dependencias locales
+vendor/
+.bundle/
+Gemfile.lock
+
+# Sistema
+.DS_Store
+Thumbs.db

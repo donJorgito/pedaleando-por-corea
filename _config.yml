@@ -1,0 +1,40 @@
+# Configuración de Jekyll. GitHub Pages la construye con la acción
+# actions/jekyll-build-pages, que fija las versiones de las gemas: quedan
+# pineadas a través del SHA de la acción en .github/workflows/.
+
+title: Pedaleando por Corea
+tagline: Seúl → Busan en bicicleta por el 국토종주
+description: >-
+  Crónica día a día de cruzar Corea del Sur en bicicleta, de Seúl a Busan por
+  la ruta 국토종주 (Gukto Jongju): las cabinas de certificación, los
+  alojamientos, la comida, los puertos de montaña y lo que cuesta de verdad.
+lang: es
+author: Jorge Lázaro Molina
+
+url: "https://donjorgito.github.io"
+baseurl: "/pedaleando-por-corea"
+
+theme: minima
+plugins:
+  - jekyll-feed      # RSS, para el futuro podcast y para lectores
+  - jekyll-sitemap   # sitemap.xml: lo que Google usa para indexar (RQ002)
+  - jekyll-seo-tag   # etiquetas title/description/og en cada página (RQ002)
+
+permalink: /:year/:month/:day/:title/
+timezone: Europe/Madrid
+
+defaults:
+  - scope:
+      path: ""
+      type: posts
+    values:
+      layout: post
+
+exclude:
+  - requirements/
+  - tests/
+  - CONTRIBUTING.md
+  - CHANGELOG.md
+  - CODEOWNERS
+  - CLAUDE.md
+  - .pre-commit-config.yaml

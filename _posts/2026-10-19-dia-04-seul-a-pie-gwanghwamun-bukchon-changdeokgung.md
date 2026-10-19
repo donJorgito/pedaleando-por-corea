@@ -34,10 +34,16 @@ resto de Seúl.
 ## La comida casera, y la lección del menú único
 
 Antes de subir a Bukchon paramos a comer, y esa acabó siendo una de las
-mejores comidas del viaje. A las **12:18** estábamos sentados en un sitio
-pequeño de barrio, de cocina casera: mesa corrida de madera, paredes lisas,
-una nevera de bebidas al fondo y un servilletero en medio. Nada de carta en
+mejores comidas del viaje. A las **12:18** estábamos sentados en una
+callejuela de **[Insadong](https://map.naver.com/p/search/%EC%84%9C%EC%9A%B8%20%EC%9D%B8%EC%82%AC%EB%8F%99)**
+(인사동), el barrio que queda de camino entre Gwanghwamun y Bukchon, en un
+sitio pequeño de cocina casera: mesa corrida de madera, paredes lisas, una
+nevera de bebidas al fondo y un servilletero en medio. Nada de carta en
 inglés ni de fotos en la puerta.
+
+No apuntamos el nombre, así que no puedo mandarte a ese sitio exacto. Tampoco
+hace falta: Insadong está lleno de callejuelas como esa, y lo que cuenta es
+saber reconocerlas.
 
 **Menú único.** No eliges: te sacan lo que hay ese día, y lo que hay es una
 mesa entera. Una olla de barro con guiso, una cazuela de algo estofado en

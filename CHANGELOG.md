@@ -9,6 +9,10 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 ### Added
 
+- La comida casera del día 4 se sitúa en una callejuela de Insadong, con
+  enlace a Naver Map del barrio. No se nombra el restaurante porque no se
+  pudo identificar: el GPS de la foto cae en un portal sin restaurantes y el
+  más cercano no encaja ni con el interior ni con el menú único.
 - El día 4 cuenta la comida casera de menú único que se habían quedado en una
   línea suelta: 29.700 wones los tres, en su sitio cronológico (antes de
   Bukchon) y con la comparación con la merienda, que costó un 26 % más.

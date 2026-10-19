@@ -58,9 +58,31 @@ Lo más caro del viaje después de los vuelos y el hotel.
   vas sellando en las cabinas de certificación. Para emitirlo te piden el
   pasaporte de verdad, porque va a tu nombre. Nosotros compramos dos, no tres:
   no hace falta uno por cabeza si no todo el grupo va a por el certificado.
+- **Medallas del final**: **12.000 wones cada una** (unos 7,75 €). Compramos
+  dos, las de quienes llevaban pasaporte: 24.000 wones.
 
-Sumado: unos **214 € por persona** en bici para cruzar el país. La devolución
+Sumado: unos **219 € por persona** en bici para cruzar el país. La devolución
 pillando desprevenido es el único sobresalto; el resto se sabe de antemano.
+
+## El premio: certificado y medalla
+
+Esto es lo que hay al final de los 633 km, y cuesta mucho menos de lo que uno
+se imagina.
+
+Al llegar a Busan vas con el pasaporte lleno de sellos al **centro de
+certificación integrado** (통합인증센터) del estuario del Nakdong, lo revisan y
+te expiden allí mismo el **국토종주 인증서**, el *Certificate of Cross Country
+Cycling Road*. Es una lámina con sello dorado en relieve, firmada por el
+Ministerio de Clima, Energía y Medio Ambiente y el Ministerio del Interior y
+Seguridad, emitida por K-water. Lleva **tu nombre**, un número de certificación
+y la fecha, y dice literalmente que has completado los 633 km de la ruta
+nacional. Por eso te piden el pasaporte de verdad cuando compras la libreta:
+el nombre que pongas ahí es el que acaba impreso en el diploma.
+
+Y con él, una **medalla** dorada con cinta tricolor: **12.000 wones**, unos
+7,75 €. Nosotros compramos dos, las de los que llevábamos pasaporte.
+
+Menos de ocho euros. Es, de largo, el dinero mejor gastado del viaje.
 
 ## Dormir
 

@@ -45,6 +45,20 @@ Aquí nos dimos el capricho del viaje:
 Las almejas y gambas salen a **26 € por persona**: lo más caro que comimos en
 todo el viaje. Y lo volveríamos a pagar.
 
+### El pez sable, que es lo que hay que pedir
+
+Pero si hay que quedarse con un plato, no es el marisco: es el **pescaíto
+frito**, porque dentro venía **갈치 (galchi), el pez sable**, frito en tramos.
+
+Es un pescado largo y plano, de carne blanca y muy fina, que se come
+separándola del espinazo central con los palillos. **Estaba en temporada** y
+se notaba: fue uno de los mejores bocados de las tres semanas. Y los tres
+comimos por **28.000 wones**, menos de diecinueve euros, con arroz, sopa y
+banchan incluidos.
+
+Dicho de otra forma: lo caro de Jagalchi fue el marisco, y lo memorable fue el
+pescado barato. Si pasas por allí, pregunta por el galchi.
+
 ## Huinnyeoul, el barrio del acantilado
 
 A las **17:02** cruzamos a la isla de Yeongdo para ver **흰여울문화마을

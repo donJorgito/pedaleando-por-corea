@@ -53,6 +53,24 @@ sin una sola avería. Ni un pinchazo.
 
 Se hace raro soltarlas.
 
+## El primer té sin bici: un Mixue al lado del hotel
+
+Sin bicis y ya instalados en el **Angel Hotel**, lo primero que hicimos fue
+sentarnos en el **Mixue que había justo al lado**. A las **14:45** teníamos
+delante un vaso enorme de **흑당밀크티**, té con leche de **azúcar moreno y
+perlas de tapioca**, tamaño L.
+
+Si el nombre no te suena, apúntalo: **Mixue (蜜雪冰城, «ciudad de hielo de
+nieve de miel»)** es una cadena china fundada en **1997** en Zhengzhou que
+vende helado soft y tés. A cierre de 2025 tenía **59.823 establecimientos**,
+lo que la convierte —por número de tiendas— en **la mayor cadena de
+restauración del mundo**, por delante de cualquier marca occidental que se te
+ocurra. En Corea las ves por todas partes y su gracia es el precio: va de lo
+baratísimo a lo barato.
+
+Once días de pedalear para terminar celebrándolo con un té con perlas. No
+todos los brindis necesitan alcohol.
+
 ## Y entonces, el mar
 
 Por la tarde cogimos el metro hasta **Haeundae**, la playa grande de Busan. A
@@ -74,5 +92,6 @@ Después de 633 kilómetros, no se nos ocurrió mejor forma de cerrarlo.
 
 **Datos del día** · Yangsan → Busan · **Cabina final: 낙동강하구둑** ·
 Certificado 국토종주 y medalla (12.000 wones) · Devolución de las bicis:
-150.000 wones en efectivo · Playa de Haeundae · Alojamiento: Angel Hotel,
-Busan · Cena: barbacoa ilimitada, 43.800 wones.
+150.000 wones en efectivo · El brindis: un 흑당밀크티 en el Mixue de al lado
+del hotel · Playa de Haeundae · Alojamiento: Angel Hotel, Busan · Cena:
+barbacoa ilimitada, 43.800 wones.

@@ -75,28 +75,6 @@ comes envueltos en hoja de lechuga.
 
 **54.470 wones los tres**, unos 36 €.
 
-### El chuletón de vaca gallega, en Valencia
-
-Y aquí pasó lo mejor de la noche, que no estaba en la carta.
-
-El **cocinero** se acercó a la mesa al oírnos hablar y resultó que **tenía un
-amigo español**. Se quedó un rato de conversación —a medias, con gestos y con
-mucha voluntad por las dos partes— para contarnos que **la mejor carne que
-había comido en su vida fue un chuletón de vaca gallega, en Valencia**, con
-ese amigo.
-
-Un cocinero coreano que trabaja hanwoo todos los días, dándole el primer
-puesto a una vaca de Galicia comida en Valencia. Difícil de superar.
-
-Y como le caímos simpáticos, remató invitándonos a **dos trozos de lo que él
-decía que era la mejor vaca de Corea**: dos piezas gruesas y muy veteadas,
-nada que ver con la falda finísima que habíamos pedido, marcadas a cuchillo y
-con unas hierbas por encima antes de ir a la parrilla.
-
-De todo lo que uno se trae de un viaje así, los ratos de este tipo son los que
-más se repiten al contarlo. No cuestan nada, no salen en ninguna guía y no se
-pueden planificar.
-
 Y el remate, ya en el hotel: **mascarillas faciales coreanas**, de las de
 lámina. Cuando llevas dos semanas en Corea, acabas haciendo cosas así.
 

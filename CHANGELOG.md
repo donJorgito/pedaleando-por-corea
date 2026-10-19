@@ -9,6 +9,10 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 ### Added
 
+- El día 20 cita el **갈치 (galchi), el pez sable frito**, que venía en el
+  pescaíto frito de Jagalchi y estaba en temporada: 28.000 wones para tres, y
+  mejor bocado que el marisco caro.
+
 - **La gente que nos encontramos**, que es lo que de verdad se cuenta después:
   - Día 15: el **cocinero de la barbacoa** tenía un amigo español y se acercó
     a contarnos que la mejor carne de su vida fue un **chuletón de vaca
@@ -208,6 +212,24 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
   4.000 wones» a la cifra exacta del recibo.
 
 ### Fixed
+
+- **El cocinero de la carne era del día 12, no del día 15.** Y la historia es
+  mejor de lo que se habia contado, porque está escrita: hay captura de la
+  traducción que nos pasó por el móvil, y se cita entera. El corte que regaló
+  era **안창살 (anchangsal)**, que él presenta como el más caro de Corea, y lo
+  que recordaba de España era **carne madurada** en un restaurante cerca del
+  aeropuerto de Valencia. El asador de Gumi, en 원평동, tiene cámaras de
+  maduración a la vista. Se retira del día 15 la versión equivocada.
+- **El té de Mixue era del día 18, no del día 3.** «El día de la llegada» era
+  la llegada a Busan, no a Corea. La foto lo fija: 14:45, al lado del Angel
+  Hotel, un **흑당밀크티** tamaño L con perlas, trece minutos después de la
+  foto donde se lee el rótulo del hotel.
+- **El día 21 no fue un «día tonto»**: fue **el día de las tiendas**, dedicado
+  a Daiso, Olive Young y la cosmética coreana. Reescrito y renombrado — las
+  nueve fotos del día, el mínimo del viaje, se explican porque estuvieron
+  dentro de las tiendas. Se incorpora el detalle logístico: a la ida solo
+  mochila, a la vuelta una maleta de Daiso de 10.000 wones para traer las
+  compras.
 
 - **Los seis enlaces internos entre entradas estaban rotos.** `{% raw %}{% post_url %}{% endraw %}`
   devuelve la URL sin el `baseurl`, y en un sitio de proyecto eso da un 404.

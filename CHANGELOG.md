@@ -127,6 +127,16 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - El coste del pasaporte del ciclista en la entrada del día 1 pasa de «unos
   4.000 wones» a la cifra exacta del recibo.
 
+### Fixed
+
+- **Los seis enlaces internos entre entradas estaban rotos.** `{% raw %}{% post_url %}{% endraw %}`
+  devuelve la URL sin el `baseurl`, y en un sitio de proyecto eso da un 404.
+  Ahora todos llevan `{{ site.baseurl }}` delante.
+- `blog.RQ006` comprueba que todo `post_url` lleve el `baseurl`, y el gate de
+  construcción revisa el HTML generado en busca de enlaces internos sin él.
+  Ninguno de los dos existía, por eso los seis enlaces pasaron los cinco
+  gates y se publicaron rotos.
+
 ## [0.1.0] - 2026-10-19
 
 ### Added

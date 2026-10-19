@@ -53,9 +53,9 @@ Y lo que no cambiaríamos: nada del resto.
 
 Si has llegado hasta aquí preparando tu propio viaje, espero que algo de esto
 te sirva. Las entradas con los números están en
-[lo que cuesta cruzar Corea en bici]({% post_url 2026-10-16-lo-que-cuesta-cruzar-corea-en-bici %}),
+[lo que cuesta cruzar Corea en bici]({{ site.baseurl }}{% post_url 2026-10-16-lo-que-cuesta-cruzar-corea-en-bici %}),
 y el relato entero empieza en
-[el día 1]({% post_url 2026-10-19-dia-01-de-pilar-de-la-horadada-a-madrid %}).
+[el día 1]({{ site.baseurl }}{% post_url 2026-10-19-dia-01-de-pilar-de-la-horadada-a-madrid %}).
 
 안녕히 가세요.
 

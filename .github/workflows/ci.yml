@@ -57,3 +57,20 @@ jobs:
           for f in _site/index.html _site/sitemap.xml _site/feed.xml; do
             [ -s "$f" ] || { echo "falta o está vacío: $f"; exit 1; }
           done
+
+      # Red de seguridad sobre el HTML ya generado: en un sitio de proyecto
+      # todo enlace interno tiene que empezar por el baseurl. Sin esto, un
+      # {% post_url %} sin {{ site.baseurl }} se publica roto y ningún gate
+      # se entera (nos pasó con seis enlaces).
+      - name: Comprobar que no hay enlaces internos sin baseurl
+        run: |
+          base=$(grep -E '^baseurl:' _config.yml | sed -E 's/.*"(.*)".*/\1/')
+          [ -n "$base" ] || { echo "no se pudo leer baseurl de _config.yml"; exit 1; }
+          malos=$(grep -rhoE 'href="/[^"]*"' _site --include='*.html' \
+                  | sort -u | grep -v "^href=\"$base" || true)
+          if [ -n "$malos" ]; then
+            echo "Enlaces internos sin el baseurl '$base':"
+            printf '%s\n' "$malos"
+            exit 1
+          fi
+          echo "todos los enlaces internos llevan el baseurl"

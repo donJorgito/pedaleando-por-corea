@@ -11,14 +11,23 @@ for f in _posts/*.md *.md; do
       http*|mailto:*|\#*) continue ;;
       *post_url*)
         # Enlace Liquid entre entradas: {% post_url NOMBRE-SIN-EXTENSION %}.
-        # Es la forma correcta de enlazar en Jekyll, porque la resuelve en
-        # construcción. Aquí basta con comprobar que la entrada existe.
+        # Dos comprobaciones, y la segunda es la que duele:
+        #   1) que la entrada referenciada exista;
+        #   2) que lleve delante {{ site.baseurl }}. post_url devuelve la URL
+        #      SIN el baseurl, así que en un sitio de proyecto
+        #      (usuario.github.io/repo) el enlace sale roto y el build NO
+        #      avisa. Nos pasó con los seis enlaces del blog.
         slug=$(printf '%s' "$destino" \
                | sed -E 's/.*post_url[[:space:]]+([^[:space:]%}]+).*/\1/')
         if [ ! -f "_posts/$slug.md" ]; then
           echo "RQ006: post_url a una entrada inexistente en $(basename "$f"): $slug"
           err=1
         fi
+        case "$destino" in
+          *site.baseurl*) ;;
+          *) echo "RQ006: post_url sin {{ site.baseurl }} delante en $(basename "$f"): $slug"
+             err=1 ;;
+        esac
         continue ;;
     esac
     ruta=${destino%%#*}

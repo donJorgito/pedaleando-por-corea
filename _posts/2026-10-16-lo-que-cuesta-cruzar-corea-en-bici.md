@@ -140,7 +140,7 @@ limpios, con wifi y sitio para meter las bicis.
 Ninguna de las noches de etapa estaba reservada de antemano: las íbamos
 buscando el mismo día. Cómo se hace eso, y por qué en los pueblos pequeños
 Booking no sirve, lo cuento en
-[dónde dormir en el 국토종주]({% post_url 2026-10-17-donde-dormir-en-el-gukto-jongju %}).
+[dónde dormir en el 국토종주]({{ site.baseurl }}{% post_url 2026-10-17-donde-dormir-en-el-gukto-jongju %}).
 
 ## Comer
 
@@ -220,7 +220,7 @@ pero poco.
   17.000 wones por persona (unos 11 €). En **metro** habrían sido unos **4.900
   por cabeza**, y un **Uber** para los tres, de 48.000 a 60.000 — es decir,
   casi lo mismo que el bus yendo tres. Lo cogimos por puro cansancio;
-  [lo cuento en el día 3]({% post_url 2026-10-19-dia-03-llegada-a-seul %}).
+  [lo cuento en el día 3]({{ site.baseurl }}{% post_url 2026-10-19-dia-03-llegada-a-seul %}).
 - **KTX de Busan a Seúl** para la vuelta: 104,20 € los tres, **34,73 € cada
   uno**.
 - **Buses a excursiones** (ida y vuelta al templo de Haeinsa desde Daegu):

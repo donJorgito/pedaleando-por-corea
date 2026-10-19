@@ -102,7 +102,7 @@ Nuestra recomendación, con el viaje ya hecho:
 ## Lo que costó
 
 Los precios concretos de cada noche están en
-[lo que cuesta cruzar Corea en bici]({% post_url 2026-10-16-lo-que-cuesta-cruzar-corea-en-bici %}):
+[lo que cuesta cruzar Corea en bici]({{ site.baseurl }}{% post_url 2026-10-16-lo-que-cuesta-cruzar-corea-en-bici %}):
 en resumen, **de 40 a 90 € la noche** con las dos habitaciones incluidas, y
 los moteles de ruta siempre limpios, con wifi, con sitio para las bicis y con
 **lavadora y secadora gratis con solo pedirlas**.

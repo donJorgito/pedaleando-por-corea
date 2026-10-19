@@ -97,8 +97,23 @@ cenábamos los tres:
 - La primera noche en Seúl, recién llegados y con hambre de avión, soltamos
   **107.000 wones entre tres** (69 €). Es la excepción, no la norma.
 
-La cena de celebración al llegar a Busan y el marisco de la lonja son las dos
-excepciones donde da igual lo que cueste.
+### Las dos cenas donde daba igual lo que costase
+
+Llegar a Busan y comer en la lonja eran los dos caprichos del viaje, y ninguno
+de los dos resultó caro:
+
+- **La cena de celebración**, el día que llegamos a Busan y devolvimos las
+  bicis: **barbacoa coreana ilimitada, 43.800 wones para dos** (29 €). Salen a
+  **14,50 € por cabeza** por comer carne hasta decir basta. Después de 700 km
+  no se nos ocurrió mejor forma de cerrar la ruta.
+- **El marisco de la lonja de Busan**: pescaíto frito, **28.000 wones para
+  tres** (18,58 €), y luego **almejas y gambas, 80.000 wones para dos**
+  (53,27 €). El plato fuerte sale a **26 € por persona** y es lo más caro que
+  comimos en todo el viaje — y lo volveríamos a pagar.
+
+Ese mismo día cayó además un **sushi giratorio, 63.450 wones para tres**
+(42,25 €). Busan es puerto y se nota: es donde tiene sentido gastarse el
+dinero en comer.
 
 ### Desayunos y comidas: las tiendas 24 h
 

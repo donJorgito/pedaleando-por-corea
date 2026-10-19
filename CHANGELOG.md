@@ -12,6 +12,9 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Entrada temática con el presupuesto real del viaje, a partir de las cuentas
   compartidas del grupo: totales por concepto, media por persona y día, y
   precios sueltos (bicis, hoteles de etapa, cenas, transportes).
+- Las dos cenas «de capricho» de Busan — la barbacoa de celebración y el
+  marisco de la lonja — dejan de mencionarse de pasada y pasan a tener sus
+  cifras.
 - La entrada del presupuesto incorpora el gasto individual en tiendas 24 h
   (CU, GS25, 7-Eleven), que no estaba en las cuentas compartidas y pesa 10-20 €
   por persona y día, más un apartado propio para la lavandería y un

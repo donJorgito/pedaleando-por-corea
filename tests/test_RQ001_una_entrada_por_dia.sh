@@ -3,22 +3,18 @@
 set -uo pipefail
 cd "$(dirname "$0")/.."
 err=0
-# Toda entrada, diaria o temática, se fecha con su fecha de PUBLICACIÓN, que
-# es posterior al viaje: el itinerario exacto no se publica (blog.RQ008).
-FIN_DEL_VIAJE=2026-10-19
+# La fecha del nombre de fichero es la de PUBLICACIÓN, no la de la jornada.
+# De que no sea una fecha del viaje se encarga blog.RQ008, que lo comprueba
+# sin tener que escribir aquí el calendario del viaje. Aquí solo se valida el
+# patrón del nombre y que la serie esté completa.
 
 n=$(find _posts -name '*.md' | wc -l | tr -d ' ')
 [ "$n" -ge 1 ] || { echo "RQ001: no hay ninguna entrada en _posts/"; err=1; }
 
 for f in _posts/*.md; do
   base=$(basename "$f")
-  fecha=${base:0:10}
   if printf '%s' "$base" | grep -qE '^20[0-9]{2}-[01][0-9]-[0-3][0-9]-(dia-[0-9]{2}-)?.+\.md$'; then
-    if [[ ! "$fecha" > "$FIN_DEL_VIAJE" ]]; then
-      echo "RQ001: $base se fecha el $fecha, no después del viaje" \
-           "(la fecha del fichero es la de publicación)"
-      err=1
-    fi
+    :
   else
     echo "RQ001: nombre fuera de patrón (AAAA-MM-DD-dia-NN-titulo.md" \
          "o AAAA-MM-DD-titulo.md): $base"

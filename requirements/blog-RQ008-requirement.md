@@ -14,6 +14,7 @@ La restricción aplica a todo lo que el sitio publica: el texto, las URL, lo que
 
 - Ninguna URL del sitio contiene la fecha: el `permalink` de `_config.yml` no usa `:year`, `:month` ni `:day`.
 - Ninguna página imprime la fecha de publicación de una entrada. El layout `post` del tema se sobrescribe localmente para no sacar el bloque `post-meta` con el `<time>`.
-- Ningún nombre de fichero de `_posts/` lleva una fecha comprendida en el viaje (el periodo del viaje), ni lo lleva el campo `date:` de su front matter. Las entradas se fechan con su fecha de **publicación**, posterior al viaje.
-- El texto de las entradas, de la portada y del `README` no contiene fechas exactas del viaje: ni «<día> de septiembre», ni «<día>/<mes>/2026», ni equivalentes. Sí puede nombrar el mes o el periodo.
+- Ninguna entrada se fecha con el día del viaje que cuenta. La comprobación no puede consistir en comparar contra el calendario del viaje, porque eso obligaría a escribirlo en el repositorio, que es público: se verifica exigiendo que **las 24 entradas diarias compartan una misma fecha de fichero**. Siendo 24 jornadas distintas, ninguna puede entonces ser la suya, y el itinerario no se puede reconstruir.
+- El campo `date:` del front matter coincide con la fecha del nombre de fichero, que es la de **publicación**. Es la fecha que acaban anunciando `feed.xml` y `sitemap.xml`.
+- El texto de las entradas, de la portada y del `README` no da ninguna fecha de día concreto: ni «<día> de septiembre», ni «<día>/<mes>/2026», ni equivalentes. Sí puede nombrar el mes o el periodo.
 - La fecha de un hecho histórico o de una consulta externa (por ejemplo, «el túnel se descubrió en octubre de 1978» o «precios consultados en octubre de 2026») queda fuera de esta restricción: no es el itinerario.

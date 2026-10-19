@@ -1,6 +1,6 @@
 ---
 title: "Día 9 · Del Han a Yeoju: la vía verde, la presa de Paldang y seis cabinas"
-date: 2026-10-19 21:00:00 +0900
+date: 2026-10-19 08:16:00 +0200
 layout: dia
 dia: 9
 description: >-

@@ -1,6 +1,6 @@
 ---
 title: "Día 12 · El museo de la bicicleta de Sangju y el principio del Nakdong"
-date: 2026-10-19 21:00:00 +0900
+date: 2026-10-19 08:22:00 +0200
 layout: dia
 dia: 12
 description: >-

@@ -1,6 +1,6 @@
 ---
 title: "Día 20 · Gamcheon, la lonja de Jagalchi y un espectáculo de drones sobre el mar"
-date: 2026-10-19 22:00:00 +0900
+date: 2026-10-19 08:38:00 +0200
 layout: dia
 dia: 20
 description: >-

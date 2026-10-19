@@ -1,6 +1,6 @@
 ---
 title: "Día 21 · El día tonto: pizza, hamburguesas y el mercado de Bujeon"
-date: 2026-10-19 21:00:00 +0900
+date: 2026-10-19 08:40:00 +0200
 layout: dia
 dia: 21
 description: >-

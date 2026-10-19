@@ -1,6 +1,6 @@
 ---
 title: "Día 2 · Barajas, Hong Kong y el salto largo"
-date: 2026-10-19 11:32:00 +0200
+date: 2026-10-19 08:02:00 +0200
 description: >-
   Madrid–Hong Kong con Cathay Pacific: 10.500 km y la noche entera en el aire.
   Cómo se encadenan los dos tramos hasta Seúl y qué supone perder un día

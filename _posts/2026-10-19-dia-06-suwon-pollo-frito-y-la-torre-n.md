@@ -1,6 +1,6 @@
 ---
 title: "Día 6 · Suwon, la calle del pollo frito y la Torre N de Seúl"
-date: 2026-10-19 22:00:00 +0900
+date: 2026-10-19 08:10:00 +0200
 description: >-
   Excursión a la fortaleza de Hwaseong en Suwon por 2.000 wones de tren, la
   calle del pollo frito y subida nocturna a la Torre N de Seúl.

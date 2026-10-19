@@ -1,6 +1,6 @@
 ---
 title: "Día 22 · El KTX de vuelta a Seúl: 400 km en dos horas y media"
-date: 2026-10-19 21:00:00 +0900
+date: 2026-10-19 08:42:00 +0200
 layout: dia
 dia: 22
 description: >-

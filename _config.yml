@@ -20,7 +20,9 @@ plugins:
   - jekyll-sitemap   # sitemap.xml: lo que Google usa para indexar (RQ002)
   - jekyll-seo-tag   # etiquetas title/description/og en cada página (RQ002)
 
-permalink: /:year/:month/:day/:title/
+# Sin fecha en la URL: las entradas diarias cuentan "el día N" del viaje,
+# no el día del calendario. Las fechas exactas no se publican (RQ008).
+permalink: /:title/
 timezone: Europe/Madrid
 
 defaults:

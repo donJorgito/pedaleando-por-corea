@@ -1,6 +1,6 @@
 ---
 title: "Día 13 · De Gumi a Daegu, río abajo y a la ciudad"
-date: 2026-10-19 21:00:00 +0900
+date: 2026-10-19 08:24:00 +0200
 layout: dia
 dia: 13
 description: >-

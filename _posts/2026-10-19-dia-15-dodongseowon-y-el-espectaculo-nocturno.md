@@ -1,6 +1,6 @@
 ---
 title: "Día 15 · Dodongseowon: una academia confuciana del siglo XVI, y su espectáculo nocturno"
-date: 2026-10-19 22:00:00 +0900
+date: 2026-10-19 08:28:00 +0200
 layout: dia
 dia: 15
 description: >-

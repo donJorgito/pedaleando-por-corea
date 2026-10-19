@@ -9,6 +9,11 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 ### Added
 
+- `blog.RQ008` nuevo, con su test: comprueba las seis vías por las que se
+  escapaba una fecha —permalink, layout, portada, nombre de fichero, front
+  matter y prosa—. Verificado en negativo: las ocho comprobaciones fallan al
+  reintroducir cada fuga.
+
 - El día 16 identifica la **«cena picosita»**: era **닭갈비** en el
   **복면닭갈비** (천주로 1069, Buk-myeon, Changwon), un restaurante con **un
   solo plato en la carta**. Dos raciones de 17.000 wones —cada una pensada
@@ -120,6 +125,24 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
   presupuesto final realista de 2.300 € por cabeza.
 
 ### Changed
+
+- **El blog ya no publica las fechas exactas del viaje.** Estar tres semanas
+  fuera de casa en unos días concretos es un dato personal que no aporta nada
+  al lector y que, una vez indexado, no se retira. El viaje se sitúa ahora por
+  periodo —«la última semana de septiembre y las dos primeras de octubre de
+  2026»— y se organiza por número de jornada, que es lo que de verdad sirve
+  para preparar la ruta. En concreto:
+  - Las URL pierden la fecha: `/dia-16-la-orilla.../` en vez de
+    `/AAAA/MM/DD/dia-16-la-orilla.../`. **Las URL antiguas dejan de
+    funcionar**, que es justo lo que se busca.
+  - Se sobrescribe el layout `post` de minima para que no imprima la fecha
+    bajo el título.
+  - Las 24 entradas diarias se renombran y se refechan con su fecha de
+    publicación, de modo que ni el nombre del fichero, ni el `feed.xml`, ni
+    el `sitemap.xml` delaten el itinerario.
+  - La portada ya no muestra el `dd/mm` de cada jornada.
+  - `blog.RQ001` pasa a exigir lo contrario que antes: la fecha del fichero
+    tiene que ser **posterior** al viaje, no caer dentro.
 
 - Todas las acciones de CI/CD suben de versión mayor en un único lote, para
   que `upload-pages-artifact` y `deploy-pages` no queden descompasadas:

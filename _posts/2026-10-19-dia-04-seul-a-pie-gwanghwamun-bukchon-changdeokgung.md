@@ -1,6 +1,6 @@
 ---
 title: "Día 4 · Seúl a pie: Gwanghwamun, Bukchon y el palacio de Changdeokgung"
-date: 2026-10-19 19:00:00 +0900
+date: 2026-10-19 08:06:00 +0200
 description: >-
   Primer día completo en Seúl: free tour por el centro histórico, una comida
   casera de menú único por menos de 6,50 € por cabeza, el barrio hanok de

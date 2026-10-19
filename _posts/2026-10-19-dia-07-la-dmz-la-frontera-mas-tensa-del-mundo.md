@@ -1,6 +1,6 @@
 ---
 title: "Día 7 · La DMZ: el tercer túnel, Imjingak y la frontera más tensa del mundo"
-date: 2026-10-19 21:00:00 +0900
+date: 2026-10-19 08:12:00 +0200
 description: >-
   Excursión de un día a la zona desmilitarizada: el puente colgante de
   Gamaksan, el tercer túnel de infiltración y el parque de Imjingak. Qué

@@ -1,6 +1,6 @@
 ---
 title: "Día 23 · La última mañana en Seúl y el camino a Incheon"
-date: 2026-10-19 21:00:00 +0900
+date: 2026-10-19 08:44:00 +0200
 layout: dia
 dia: 23
 description: >-

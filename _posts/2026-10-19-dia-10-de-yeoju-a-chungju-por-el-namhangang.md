@@ -1,6 +1,6 @@
 ---
 title: "Día 10 · De Yeoju a Chungju: el Namhangang y el final de la vía del río"
-date: 2026-10-19 21:00:00 +0900
+date: 2026-10-19 08:18:00 +0200
 layout: dia
 dia: 10
 description: >-

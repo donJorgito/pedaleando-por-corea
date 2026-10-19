@@ -1,6 +1,6 @@
 ---
 title: "Día 3 · Llegada a Seúl: el bus del aeropuerto y la primera cena"
-date: 2026-10-19 20:11:00 +0900
+date: 2026-10-19 08:04:00 +0200
 description: >-
   Aterrizaje en Incheon, cómo llegar al centro de Seúl en bus por 17.000 wones
   y la primera cena coreana. Lo que conviene resolver nada más llegar: eSIM,

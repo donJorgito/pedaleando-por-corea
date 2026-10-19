@@ -1,6 +1,6 @@
 ---
 title: "Día 18 · La meta: el certificado, la devolución de las bicis y el mar de Haeundae"
-date: 2026-10-19 22:00:00 +0900
+date: 2026-10-19 08:34:00 +0200
 layout: dia
 dia: 18
 description: >-

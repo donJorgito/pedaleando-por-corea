@@ -1,6 +1,6 @@
 ---
 title: "Día 1 · De Pilar de la Horadada a Madrid, que también cuenta"
-date: 2026-10-19 20:00:00 +0200
+date: 2026-10-19 08:00:00 +0200
 description: >-
   El viaje a Corea empieza en la puerta de casa, con 382 km de coche hasta
   Madrid y la Korea e-Arrival Card ya tramitada. El papeleo previo y la

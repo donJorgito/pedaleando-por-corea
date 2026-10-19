@@ -1,6 +1,6 @@
 ---
 title: "Día 14 · Descanso en Daegu: Haeinsa, la medicina oriental y el mercado nocturno"
-date: 2026-10-19 22:00:00 +0900
+date: 2026-10-19 08:26:00 +0200
 layout: dia
 dia: 14
 description: >-

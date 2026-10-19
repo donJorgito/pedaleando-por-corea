@@ -1,6 +1,6 @@
 ---
 title: "Día 11 · Ihwaryeong, el puerto más alto de la ruta, y un baño de pies"
-date: 2026-10-19 21:00:00 +0900
+date: 2026-10-19 08:20:00 +0200
 layout: dia
 dia: 11
 description: >-

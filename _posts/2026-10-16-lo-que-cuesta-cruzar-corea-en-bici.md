@@ -11,10 +11,10 @@ tags: [corea, gukto-jongju, presupuesto, precios, alojamiento, bicicletas, comid
 
 > ⚠️ **Precios de septiembre y octubre de 2026.** Todo lo que hay en esta
 > página son los importes que pagamos nosotros **en la última semana de
-> septiembre y las dos primeras de octubre de 2026**, convertidos a un cambio de **1.547 wones por
-> euro**. Un año después, ni los precios ni el tipo de cambio serán los
-> mismos: úsalo como **orden de magnitud y proporción entre partidas**, no
-> como tarifa. Si lees esto mucho más tarde, las proporciones —cuánto pesa el
+> septiembre y las dos primeras de octubre de 2026**, convertidos a un cambio
+> de **1.547 wones por euro**. Un año después, ni los precios ni el tipo de
+> cambio serán los mismos: úsalo como **orden de magnitud y proporción entre
+> partidas**, no como tarifa. Si lees esto mucho más tarde, las proporciones —cuánto pesa el
 > alojamiento frente a la comida, por ejemplo— aguantarán mejor que las
 > cifras.
 

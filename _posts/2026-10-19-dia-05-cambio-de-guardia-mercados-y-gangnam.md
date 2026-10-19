@@ -1,6 +1,6 @@
 ---
 title: "Día 5 · Cambio de guardia, mercados de Seúl y el caballito de Gangnam"
-date: 2026-10-19 20:00:00 +0900
+date: 2026-10-19 08:08:00 +0200
 description: >-
   Gyeongbokgung y su cambio de guardia, la Casa Azul, el museo del barco
   tortuga, los mercados de Tongin y Gwangjang y la Starfield Library del

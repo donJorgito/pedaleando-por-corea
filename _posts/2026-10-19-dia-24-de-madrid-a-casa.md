@@ -1,6 +1,6 @@
 ---
 title: "Día 24 · De Madrid a casa, con el certificado en la mochila"
-date: 2026-10-19 20:00:00 +0200
+date: 2026-10-19 08:46:00 +0200
 description: >-
   Último día del viaje: aterrizaje en Barajas, 245 km de coche hasta Pilar de
   la Horadada y el balance de 24 días cruzando Corea en bicicleta.

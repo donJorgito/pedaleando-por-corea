@@ -1,6 +1,6 @@
 ---
 title: "Día 16 · La orilla que nadie te cuenta: cambiar de lado del río para ahorrarte las cuestas"
-date: 2026-10-19 21:00:00 +0900
+date: 2026-10-19 08:30:00 +0200
 layout: dia
 dia: 16
 description: >-

@@ -1,7 +1,8 @@
 # `pedaleando-por-corea`
 
 Blog del viaje en bicicleta **Seúl → Busan** por la ruta **국토종주 (Gukto
-Jongju)**, en la última semana de septiembre y las dos primeras de octubre de 2026. Publicado con Jekyll
+Jongju)**, en la última semana de septiembre y las dos primeras de octubre
+de 2026. Publicado con Jekyll
 en GitHub Pages: <https://donjorgito.github.io/pedaleando-por-corea/>
 
 ## Introduction

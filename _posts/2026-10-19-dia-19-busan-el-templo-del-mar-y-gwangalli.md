@@ -1,6 +1,6 @@
 ---
 title: "Día 19 · Busan: el templo sobre el mar y la playa de Gwangalli"
-date: 2026-10-19 21:00:00 +0900
+date: 2026-10-19 08:36:00 +0200
 layout: dia
 dia: 19
 description: >-

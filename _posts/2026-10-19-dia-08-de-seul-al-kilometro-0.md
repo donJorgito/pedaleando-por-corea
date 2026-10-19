@@ -1,6 +1,6 @@
 ---
 title: "Día 8 · Primera etapa en bici: de Seúl al kilómetro 0, y vuelta a dormir a la misma calle"
-date: 2026-10-19 20:00:00 +0900
+date: 2026-10-19 08:14:00 +0200
 description: >-
   El 국토종주 no empieza en Seúl: empieza 30 km al oeste, en una esclusa junto
   al mar Amarillo. Cómo llegar hasta allí, qué es el pasaporte del ciclista y

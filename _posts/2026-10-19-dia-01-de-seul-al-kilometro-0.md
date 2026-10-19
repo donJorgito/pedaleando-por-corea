@@ -41,7 +41,8 @@ certificación: cabinas telefónicas reconvertidas, con un sello dentro y el map
 de la ruta en el cristal.
 
 El **pasaporte del ciclista** (자전거길 여행 수첩) es la libreta donde vas
-sellando. Nos costó unos **4.000 wones** y hay un detalle que conviene llevar
+sellando. Costó **4.000 wones** —de los tres que íbamos, al final lo compramos
+dos— y hay un detalle que conviene llevar
 preparado: **te piden el pasaporte de verdad para emitirlo**, porque la libreta
 se expide **a tu nombre** y ese nombre es el que acaba en el certificado final.
 Así que no lo dejes en la habitación del hotel el día que empiezas.

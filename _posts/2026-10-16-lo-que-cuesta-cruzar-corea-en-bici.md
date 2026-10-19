@@ -3,9 +3,10 @@ title: "Lo que cuesta cruzar Corea en bici: las cuentas reales de tres semanas"
 date: 2026-10-16 12:00:00 +0200
 description: >-
   Cuánto costó de verdad el 국토종주 de Seúl a Busan: vuelos, alquiler y
-  devolución de las bicis, hoteles de etapa, cenas, pasaporte del ciclista y
-  transportes. Cifras exactas de tres personas durante 24 días.
-tags: [corea, gukto-jongju, presupuesto, precios, alojamiento, bicicletas, preparativos]
+  devolución de las bicis, hoteles de etapa, cenas, desayunos en las tiendas
+  24 h, lavandería y pasaporte del ciclista. Cifras de tres personas en 24
+  días, y el presupuesto realista: 2.300 € por cabeza.
+tags: [corea, gukto-jongju, presupuesto, precios, alojamiento, bicicletas, comida, preparativos]
 ---
 
 Casi todo lo que se encuentra sobre esta ruta habla de kilómetros y de cuestas,
@@ -99,6 +100,35 @@ cenábamos los tres:
 La cena de celebración al llegar a Busan y el marisco de la lonja son las dos
 excepciones donde da igual lo que cueste.
 
+### Desayunos y comidas: las tiendas 24 h
+
+Esto no aparece en la tabla de arriba porque cada uno lo pagaba por su cuenta,
+y las cifras que siguen son de memoria, no de recibo. Pero es seguramente lo
+más útil de todo el artículo, porque es el gasto que se repite **todos los
+días**.
+
+Desayunábamos y comíamos casi siempre en las tiendas de conveniencia:
+**CU**, **GS25** y **7-Eleven**. En Corea están por todas partes, también en
+mitad de la ruta ciclista, abren 24 horas, tienen mesa para sentarte, agua
+caliente para los noodles y baño. Para quien va en bici son el avituallamiento
+resuelto.
+
+Lo que caía casi a diario:
+
+- Sándwich de huevo — el clásico coreano, y está mucho mejor de lo que suena.
+- Ensaladas preparadas, huevos cocidos y rábano encurtido.
+- **Instant noodles**, que te preparas allí mismo con el agua caliente.
+- Fruta: uvas, manzanas, piña y la **peramanzana** coreana, que es media
+  manzana y media pera y es una maravilla después de pedalear.
+
+Sale por **5 a 10 € el desayuno y otros 5 a 10 € la comida**, por persona. O
+sea, cuenta **de 10 a 20 € al día por cabeza** que no están en las cuentas
+compartidas.
+
+Cuando pillábamos un **Paris Baguette** cerca, desayunábamos allí: café bueno
+de verdad y bollería que merece la pena. Cuesta algo más que la tienda 24 h,
+pero poco.
+
 ## Moverse sin la bici
 
 - **Bus del aeropuerto de Incheon al centro de Seúl**: 17.000 wones por persona
@@ -109,8 +139,26 @@ excepciones donde da igual lo que cueste.
   29.100 wones por trayecto para los tres, unos 6,40 € por persona y trayecto.
 - **Taxi/Uber urbano**: 11.800 wones una carrera corta de noche, menos de 8 €
   entre tres. Barato y siempre disponible.
-- **Lavandería** del hotel: **3.000 a 5.000 wones** por lavadora. Dos lavados en
-  todo el viaje bastaron.
+- **Tarjeta T-money** para bus y metro: **algo menos de 30.000 wones por
+  persona** (unos 19 €) para **todos** los trayectos urbanos de las tres
+  semanas, Seúl y Busan incluidos. Se compra en cualquier tienda 24 h y se
+  recarga allí mismo; el transporte público coreano es baratísimo.
+
+## La lavadora: casi siempre gratis
+
+Esto merece su propio apartado porque viajando con tres mudas cambia la vida.
+
+Lavábamos **casi todos los días**, y **casi siempre salió gratis**: en la
+mayoría de los alojamientos de la ruta basta con pedirla. Te dejan usar la
+lavadora **con el jabón incluido**, sin cobrar nada. En Seúl también fue
+gratis.
+
+El único sitio donde pagamos fue **Busan**: **8.000 wones en total** (unos
+5 €) entre tres. Es decir, veinticuatro días de viaje y menos de dos euros por
+cabeza en lavandería.
+
+Si estás calculando cuánta ropa meter en las alforjas, cuenta con poder lavar
+cada noche. Nosotros no lo sabíamos al salir.
 
 ## Las visitas
 
@@ -121,12 +169,33 @@ confuciana, los mercados — o son gratis o cuestan la entrada simbólica.
 
 ## Lo que no está en estas cuentas
 
-Para que nadie se lleve una sorpresa planificando con estas cifras: falta todo
-el gasto individual, que en nuestro caso fueron sobre todo desayunos, bebidas
-por el camino y algún capricho. Tampoco está el equipamiento previo (alforjas,
-ropa, cascos) ni los trámites de entrada al país, que cada uno hizo por su
-lado.
+Para que nadie se lleve una sorpresa planificando con estas cifras, lo que
+falta y cuánto pesa:
 
-Con ese margen, **2.000 € por persona es un presupuesto honesto** para hacer
-este viaje desde España: vuelos, 24 días, hotel todas las noches, bici de
-alquiler y comer fuera sin mirar mucho el precio.
+- **Desayunos y comidas en las tiendas 24 h**, que cada uno pagaba de su
+  bolsillo: **10 a 20 € por persona y día**. En 24 días son entre **240 y
+  480 € más** por cabeza. Es, con diferencia, el hueco grande.
+- La **T-money** de cada uno: algo menos de **30.000 wones** (19 €) en todo el
+  viaje. Poco dinero, pero conviene contarlo.
+- Bebidas por el camino, cafés sueltos, souvenirs y caprichos.
+- El equipamiento previo (alforjas, ropa, cascos), que ya llevábamos de casa.
+- Los trámites de entrada al país, que cada uno hizo por su lado.
+
+## El presupuesto de verdad
+
+Sumando lo compartido y lo individual:
+
+| | Por persona |
+| --- | ---: |
+| Gastos compartidos | 1.808 € |
+| Desayunos y comidas por libre (24 días) | 240 – 480 € |
+| T-money (bus y metro, todo el viaje) | 19 € |
+| **Total realista** | **2.070 – 2.310 €** |
+
+Así que **2.300 € por persona es el presupuesto honesto** para hacer este
+viaje desde España, con todo dentro: vuelos, 24 días, hotel todas las noches,
+bici de alquiler y comer fuera sin mirar el precio.
+
+Sobre el terreno, descontando ya los vuelos, son **50 a 60 € por persona y
+día**: unos 40 € de gasto compartido más lo que cada uno se gaste en las
+tiendas.

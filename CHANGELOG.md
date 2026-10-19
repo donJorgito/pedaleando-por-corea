@@ -12,6 +12,10 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Entrada temática con el presupuesto real del viaje, a partir de las cuentas
   compartidas del grupo: totales por concepto, media por persona y día, y
   precios sueltos (bicis, hoteles de etapa, cenas, transportes).
+- La entrada del presupuesto incorpora el gasto individual en tiendas 24 h
+  (CU, GS25, 7-Eleven), que no estaba en las cuentas compartidas y pesa 10-20 €
+  por persona y día, más un apartado propio para la lavandería y un
+  presupuesto final realista de 2.300 € por cabeza.
 
 ### Changed
 

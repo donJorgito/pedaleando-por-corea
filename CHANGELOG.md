@@ -9,6 +9,9 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 ### Added
 
+- Siete entradas diarias nuevas, del día 1 al 7: los dos días de viaje hasta
+  Corea, la llegada a Seúl y los cuatro días de la capital (centro histórico,
+  mercados, Suwon y la DMZ).
 - Entrada temática con el presupuesto real del viaje, a partir de las cuentas
   compartidas del grupo: totales por concepto, media por persona y día, y
   precios sueltos (bicis, hoteles de etapa, cenas, transportes).
@@ -42,6 +45,10 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
   LED recargables y candado de contraseña) y lo único que hubo que llevar de
   casa: pulpos y soporte de móvil. Se corrige que llevaran alforjas: iban con
   la mochila atada al portaequipajes.
+- Las entradas diarias se numeran por **día de viaje** (01-24), no por etapa
+  en bici: la primera jornada sobre la bici pasa de `dia-01` a `dia-08`, que
+  es el día del viaje que le corresponde. Evita la colisión de numeración con
+  los días de Seúl previos.
 - La devolución de las bicis deja de contarse como un sobresalto: el taller
   avisa al alquilar de que el pago es en efectivo, y así se llevó preparado.
 - `blog.RQ001` admite ahora entradas **temáticas** (`AAAA-MM-DD-<titulo>.md`)

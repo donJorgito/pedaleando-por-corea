@@ -1,5 +1,5 @@
 ---
-title: "Día 1 en bici: de Seúl al kilómetro 0, y vuelta a dormir a la misma calle"
+title: "Día 8 · Primera etapa en bici: de Seúl al kilómetro 0, y vuelta a dormir a la misma calle"
 date: 2026-10-19 20:00:00 +0900
 description: >-
   El 국토종주 no empieza en Seúl: empieza 30 km al oeste, en una esclusa junto

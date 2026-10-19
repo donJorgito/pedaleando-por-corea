@@ -9,6 +9,24 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 ### Added
 
+- **La gente que nos encontramos**, que es lo que de verdad se cuenta después:
+  - Día 15: el **cocinero de la barbacoa** tenía un amigo español y se acercó
+    a contarnos que la mejor carne de su vida fue un **chuletón de vaca
+    gallega comido en Valencia**. Nos invitó a **dos trozos de lo que él
+    decía que era la mejor vaca de Corea** — dos piezas gruesas y veteadas,
+    nada que ver con la falda fina que habíamos pedido.
+  - Día 16: a mediodía, en un **CU** de la ruta, el dependiente **hablaba algo
+    de español** y acabó **invitando a un café a los tres**.
+  - Día 10: en el bunsik de Mokhaeng-dong **se asombraron de que fuéramos
+    españoles**; por allí no pasan turistas.
+  - Día 3: el primer té del viaje fue en un **Mixue** al lado del hotel. Se
+    explica qué es la cadena, con los datos verificados en su ficha: china,
+    de 1997, helado y tés, **59.823 locales** a cierre de 2025, la mayor del
+    mundo por número de tiendas.
+
+- `blog.RQ008` detecta ahora las fechas escritas como **«del N al N»**,
+  sin nombre de mes. Así se habían colado las noches de Seúl en las entradas
+  de los días 1 y 3, que el patrón anterior no veía. Las dos corregidas.
 - El día 17 cuenta dos cosas que faltaban: **The Terrazzo fue el segundo y
   último hotel al que se llegó sin reserva** —enlazado desde la entrada de
   alojamiento, que hasta ahora solo nombraba el primero— y el buffet tiene

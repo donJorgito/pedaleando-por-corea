@@ -47,7 +47,8 @@ A estas alturas del viaje ya estaba pagado y reservado casi todo lo caro:
 
 - Los **vuelos de ida y vuelta**, 1.794,63 € entre los tres — unos **598 € por
   persona** — con **Cathay Pacific** vía Hong Kong.
-- El **hotel de los primeros días en Seúl**, cinco noches.
+- El **hotel de los primeros días en Seúl**, las cinco noches del día 3 al
+  día 8 del viaje.
 - Las **tres bicicletas**, apalabradas con meses de antelación en un taller de
   Mapo.
 - La **excursión a la DMZ**, que se reserva con antelación o te quedas sin

@@ -87,6 +87,13 @@ también son gratis y te los rellenan— y la cerveza aparte.
 Ese es el verdadero precio de comer en la Corea rural, y ninguna guía te lo
 cuenta porque hay que entrar en sitios como este para verlo.
 
+Y hubo otra cosa que tampoco sale en las guías: **el asombro de que fuéramos
+españoles**. En Mokhaeng-dong no llegan turistas, y menos a cenar a un bunsik
+de barrio. Que entren tres españoles en bici a pedir gimbap es, directamente,
+un acontecimiento. Esa reacción —mitad sorpresa, mitad alegría— se repitió
+varias veces en la Corea de los pueblos, y es una de las mejores razones para
+salirse de la ruta turística.
+
 Aquí está su ficha: **[황금분식 en Naver
 Map](https://map.naver.com/p/entry/place/1255774022)**. Y un detalle que a un
 ciclista le interesa: **abre a las seis de la mañana**, así que sirve también

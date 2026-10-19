@@ -71,7 +71,9 @@ for f in _posts/*.md index.md README.md; do
   [ -f "$f" ] || continue
   # La fecha de publicación del front matter la validan los puntos 3 y 4;
   # aquí se mira solo la prosa.
-  hallado=$(grep -nE '[0-9]{1,2} de (septiembre|octubre)|[0-9]{1,2}/[0-9]{1,2}/20[0-9]{2}|20[0-9]{2}-(09|10)-[0-3][0-9]' "$f" \
+  # «del N al N» es una fecha aunque no nombre el mes: así se nos colaron
+  # las noches de Seúl en dos entradas.
+  hallado=$(grep -nE '[0-9]{1,2} de (septiembre|octubre)|[0-9]{1,2}/[0-9]{1,2}/20[0-9]{2}|20[0-9]{2}-(09|10)-[0-3][0-9]|\bdel [0-9]{1,2} al [0-9]{1,2}\b' "$f" \
             | grep -vE "$EXCEPCIONES" | grep -v 'post_url' \
             | grep -vE '^[0-9]+:date:' || true)
   if [ -n "$hallado" ]; then

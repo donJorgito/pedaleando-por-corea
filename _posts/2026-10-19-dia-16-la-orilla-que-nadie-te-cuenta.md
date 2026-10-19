@@ -43,6 +43,20 @@ km en las piernas, cien metros de desnivel que te ahorras se notan mucho.
 
 No es hacer trampa: las cabinas ya están selladas. Es llegar al hotel entero.
 
+## La comida: el dependiente que hablaba español
+
+A mediodía paramos a comer en un **CU** de la ruta, como tantas veces. Y esta
+vez el que estaba detrás del mostrador **hablaba algo de español**.
+
+Se puso a charlar con nosotros con lo que tenía, encantado de poder usarlo, y
+acabó **invitándonos a un café a los tres**. Sin más motivo que el de que le
+hizo gracia la situación.
+
+Una tienda 24 h es el sitio menos romántico del mundo para que te pase algo
+así, y ahí está el detalle: la amabilidad en Corea no aparece donde la
+esperarías. Aparece en el mostrador de una tienda de carretera, a mitad de
+etapa, con tres tíos sudados mirando el expositor de los noodles.
+
 ## Dormir en un balneario
 
 El alojamiento de esa noche fue el **숲속온천호텔** (literalmente, «hotel

@@ -69,6 +69,22 @@ las cenas se quedaron entre 20 y 40 € **para tres**, y las de mercado en seis
 o siete. Pero si vas a hacer este viaje, cuenta con que la primera noche vas a
 pagar la novatada.
 
+## Y el primer té, en un Mixue al lado del hotel
+
+El remate de la noche fue un **té en un Mixue** que había justo al lado del
+alojamiento.
+
+Si no te suena el nombre, conviene que te suene: **Mixue (蜜雪冰城, «ciudad de
+hielo de nieve de miel»)** es una cadena china fundada en 1997 en Zhengzhou
+que vende helado soft y tés, y que a cierre de 2025 tenía **59.823
+establecimientos** — es, por número de tiendas, **la mayor cadena de
+restauración del mundo**, por delante de cualquier marca occidental que se te
+ocurra. En Corea están por todas partes.
+
+Su gracia es el precio: la carta va de lo baratísimo a lo barato. Después de
+una cena de 107.000 wones, sentarse con un té a la puerta del hotel es la
+manera más rápida de aprender la lección del día.
+
 ## Navegación: instala Naver Map y KakaoMap
 
 Un aviso que se agradece antes de llegar: en Corea **la navegación se hace con
@@ -134,4 +150,5 @@ engorro a las once de la noche del primer día.
 
 **Datos del día** · Hong Kong → Incheon → Seúl · 2.067 km en avión + 49 km en
 bus · Bus del aeropuerto 17.000 wones/persona · Cena 107.000 wones los tres ·
-Alojamiento: Seúl, cinco noches reservadas · Mañana: el centro histórico a pie.
+Alojamiento: Seúl, cinco noches reservadas · El primer té: un Mixue al lado
+del hotel · Mañana: el centro histórico a pie.

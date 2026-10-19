@@ -91,9 +91,10 @@ La hubo. Y la jugada salió redonda, porque **un rato más tarde el hotel estaba
 completo**. Si llegamos una hora después, nos quedamos fuera.
 
 Es la primera vez que vimos las dos caras del asunto a la vez: que
-**presentarse funciona**, y que **funciona hasta que deja de funcionar**. A
-partir de aquí lo hicimos varias veces más, y siempre con el mismo cosquilleo
-hasta que te dan la llave.
+**presentarse funciona**, y que **funciona hasta que deja de funcionar**. Solo
+nos hizo falta repetirlo **una vez más** en todo el viaje, y fue con el mismo
+cosquilleo hasta que te dan **la tarjeta de la habitación** — porque llaves,
+de las de metal, hace años que no se usan.
 
 Lo cuento entero, con el porqué de que Booking no sirva en los pueblos, en
 [dónde dormir en el 국토종주]({{ site.baseurl }}{% post_url 2026-10-17-donde-dormir-en-el-gukto-jongju %}).

@@ -13,6 +13,8 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
   alojamiento el mismo día, por qué Booking no tiene oferta en los pueblos
   pequeños, por qué KakaoMap la muestra pero exige cuenta de KakaoTalk para
   reservar, y cómo se consigue habitación presentándose en la puerta.
+- Llegar sin reserva pasó **dos veces en once etapas**, no «varias», y lo que
+  dan al registrarte es **una tarjeta**, no una llave.
 - El día 15 cuenta la cena de barbacoa de hanwoo y, sobre todo, que su hotel
   fue **el primero al que llegaron sin reserva**: había sitio, y poco después
   el hotel se llenó. Enlazado desde la entrada de alojamiento, que añade el

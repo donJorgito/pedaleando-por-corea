@@ -103,8 +103,9 @@ Nuestra recomendación, con el viaje ya hecho:
   reservar donde se puede, KakaoMap para saber qué hay cuando Booking está
   vacío.
 - **Intenta tener KakaoTalk activado antes de salir.**
-- Y asume que **algún día te tocará presentarte en la puerta**. No es un
-  problema, es parte del viaje.
+- Y asume que **algún día te tocará presentarte en la puerta**. A nosotros nos
+  pasó **dos veces en once etapas**: no es la norma, pero conviene contar con
+  ello. No es un problema, es parte del viaje.
 
 ## Lo que costó
 

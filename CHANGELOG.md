@@ -15,6 +15,9 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Apartado nuevo sobre el premio del final: el certificado `국토종주 인증서` que
   expide K-water en el centro de certificación del Nakdong y la medalla
   (12.000 wones cada una).
+- Apartado sobre las compras del final (Olive Young, Daiso) y el truco del
+  equipaje facturado: ir solo con mochila a la ida deja libre el bulto de
+  bodega para volver con una maleta comprada allí por 10.000 wones.
 - Las dos cenas «de capricho» de Busan — la barbacoa de celebración y el
   marisco de la lonja — dejan de mencionarse de pasada y pasan a tener sus
   cifras.

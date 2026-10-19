@@ -214,9 +214,38 @@ falta y cuánto pesa:
   480 € más** por cabeza. Es, con diferencia, el hueco grande.
 - La **T-money** de cada uno: algo menos de **30.000 wones** (19 €) en todo el
   viaje. Poco dinero, pero conviene contarlo.
-- Bebidas por el camino, cafés sueltos, souvenirs y caprichos.
+- Bebidas por el camino, cafés sueltos y caprichos.
+- **Las compras del final**, que pueden dispararse: ver más abajo.
 - El equipamiento previo (alforjas, ropa, cascos), que ya llevábamos de casa.
 - Los trámites de entrada al país, que cada uno hizo por su lado.
+
+## Las compras: ojo con los últimos días
+
+El gasto que nadie presupuesta y que acaba siendo de los mayores del viaje.
+
+Corea es la meca de la cosmética, y los últimos días en Busan y Seúl se van en
+**Olive Young** y **Daiso**. Dos de los tres se dejaron ahí cerca de **300 €**
+en cremas y productos de belleza. El tercero, cero. Así que esto no es una
+cifra que puedas meter en el presupuesto medio: o te pasa o no te pasa, pero
+si te pasa son 300 € que no habías contado.
+
+Daiso además es donde se resuelve el problema de volver cargado: una **maleta
+de ruedas por 10.000 wones**, menos de siete euros. Cumplió perfectamente el
+viaje de vuelta.
+
+### El truco del equipaje facturado
+
+Esto es planificación pura y conviene pensarlo antes de comprar el billete.
+
+Nuestros vuelos **incluían maleta facturada**, pero a la ida no la usamos:
+fuimos **solo con mochila**, porque las bicis eran de alquiler y no hacía
+falta más. A la vuelta, en cambio, cada uno facturó una maleta — compradas
+allí — **sin pagar un euro de más**, porque el derecho ya estaba incluido en
+el billete.
+
+O sea: si tu tarifa lleva bulto en bodega, ir ligero a la ida no te ahorra
+nada, pero te deja todo el hueco libre para volver. Y una maleta de 10.000
+wones en Daiso es más barata que cualquier recargo por exceso de equipaje.
 
 ## El presupuesto de verdad
 
@@ -228,10 +257,12 @@ Sumando lo compartido y lo individual:
 | Desayunos y comidas por libre (24 días) | 240 – 480 € |
 | T-money (bus y metro, todo el viaje) | 19 € |
 | **Total realista** | **2.070 – 2.310 €** |
+| Compras y cosmética, si caes | + 0 – 300 € |
 
 Así que **2.300 € por persona es el presupuesto honesto** para hacer este
 viaje desde España, con todo dentro: vuelos, 24 días, hotel todas las noches,
-bici de alquiler y comer fuera sin mirar el precio.
+bici de alquiler y comer fuera sin mirar el precio. Súmale hasta 300 € más si
+piensas entrar en Olive Young.
 
 Sobre el terreno, descontando ya los vuelos, son **50 a 60 € por persona y
 día**: unos 40 € de gasto compartido más lo que cada uno se gaste en las

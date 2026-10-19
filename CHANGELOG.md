@@ -9,6 +9,9 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 ### Added
 
+- El día 4 cuenta la comida casera de menú único que se habían quedado en una
+  línea suelta: 29.700 wones los tres, en su sitio cronológico (antes de
+  Bukchon) y con la comparación con la merienda, que costó un 26 % más.
 - El día 3 explica cuál de las dos aplicaciones de mapas usar para qué:
   Naver Map a pie, KakaoMap en bici, y por qué conviene registrar cuenta en
   las dos (los favoritos).

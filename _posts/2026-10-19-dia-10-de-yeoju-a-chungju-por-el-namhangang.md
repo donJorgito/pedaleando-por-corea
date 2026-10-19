@@ -7,7 +7,7 @@ description: >-
   Tercera etapa del 국토종주 remontando el río Namhangang de Yeoju a Chungju,
   pasando por las presas de Gangcheon y Binaeseom hasta Tangeumdae, donde se
   acaba el río y empieza la montaña.
-tags: [corea, gukto-jongju, namhangang, chungju, tangeumdae, cabinas, dia-a-dia]
+tags: [corea, gukto-jongju, namhangang, chungju, tangeumdae, cabinas, comida, dia-a-dia]
 ---
 
 Día de río. De los que no tienen una anécdota grande y sin embargo son los que
@@ -55,13 +55,49 @@ Esa noche dormimos en el **충주 호텔 발리**, en Dongnyang-myeon, a las afu
 de Chungju: **97.000 wones**, unos 63 € los tres. Un motel de carretera de los
 que abundan en la ruta — limpio, con sitio para las bicis y sin pretensiones.
 
-Las fotos de la noche nos sitúan a las siete menos cuarto todavía dando
-vueltas por el pueblo buscando dónde cenar. Esa noche, por cierto, **no quedó
-ningún gasto apuntado en las cuentas comunes**: cada uno resolvió por su lado,
-seguramente en una tienda 24 h.
+## La cena: cruzar el río a un bunsik de barrio
+
+Para cenar **cruzamos el río**. El hotel queda en la orilla este, en
+Dongnyang-myeon, y el pueblo con vida está enfrente, en **목행동
+(Mokhaeng-dong)** — el mismo barrio del puente de 목행교, por si te suena de
+lo del dataset.
+
+Acabamos en un **분식 (bunsik)** de barrio llamado **황금분식**, en la calle
+행정13길. Los *bunsik* son el equivalente coreano a un bar de comidas de toda
+la vida: carta corta, precios bajos, rótulo amarillo y fluorescentes. Nada de
+turismo.
+
+Esto fue exactamente lo que pedimos, con los precios de su carta:
+
+| Plato | Wones | € |
+| --- | ---: | ---: |
+| Gimbap de atún (참치김밥) | 4.500 | 2,91 |
+| Gimbap de huevo (계란김밥) | 5.000 | 3,23 |
+| Sopa de mandu en caldo de huesos (사골만두국) | 8.000 | 5,17 |
+| Fideos fríos picantes (비빔냉면) | 9.000 | 5,82 |
+| **Total de comida** | **26.500** | **17,13** |
+
+Más una cerveza. Y **agua**, que en Corea **siempre es gratis**: te la ponen
+en la mesa sin pedirla, del dispensador, y nadie te la cobra jamás. Ni en un
+bunsik de pueblo ni en un restaurante de Seúl.
+
+Con eso cenamos tres personas: **diecisiete euros**, banchan incluidos —que
+también son gratis y te los rellenan— y la cerveza aparte.
+
+Ese es el verdadero precio de comer en la Corea rural, y ninguna guía te lo
+cuenta porque hay que entrar en sitios como este para verlo.
+
+Esa noche **no quedó apuntada en las cuentas comunes** — de ahí que al
+repasarlas pareciera que no habíamos cenado. Pagó alguien por su cuenta y no
+llegó a la app.
+
+Está [por aquí](https://map.naver.com/p/search/%EC%B6%A9%EC%A3%BC%20%ED%99%A9%EA%B8%88%EB%B6%84%EC%8B%9D),
+en Mokhaeng-dong. Si pasas la noche en esta zona, cruza el puente: se come
+mejor y más barato que en lo que hay al lado del hotel.
 
 ---
 
 **Datos del día** · Yeoju → Chungju · 3 cabinas: 강천보, 비내섬, 탄금대 ·
 Lo mejor: el río sin una sola cuesta · Lo peor: nada, y eso ya es mucho ·
-Alojamiento: 충주 호텔 발리, 97.000 wones · Mañana: Ihwaryeong.
+Alojamiento: 충주 호텔 발리, 97.000 wones · Cena: bunsik 황금분식, en
+Mokhaeng-dong · Mañana: Ihwaryeong.

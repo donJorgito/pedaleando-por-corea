@@ -13,6 +13,11 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
   alojamiento el mismo día, por qué Booking no tiene oferta en los pueblos
   pequeños, por qué KakaoMap la muestra pero exige cuenta de KakaoTalk para
   reservar, y cómo se consigue habitación presentándose en la puerta.
+- El día 10 cuenta la cena que faltaba: el bunsik **황금분식** al otro lado
+  del río, en Mokhaeng-dong, con la comanda exacta y los precios leídos de la
+  foto de su carta: 26.500 wones de comida para tres, 17 €. Y el apunte de
+  que el agua en Corea siempre es gratis.
+  Antes el texto especulaba con que habían cenado en una tienda 24 h.
 - El día 8 aclara que el certificado final **no se recoge en la oficina de
   Incheon** sino en otra parecida en Busan, y añade la comida en un CU entre
   las dos esclusas del canal Ara.

@@ -26,7 +26,8 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - La entrada del presupuesto incorpora el gasto individual en tiendas 24 h
   (CU, GS25, 7-Eleven), que no estaba en las cuentas compartidas y pesa 10-20 €
   por persona y día, más un apartado propio para la lavandería —lavadora Y secadora,
-  gratis con solo pedirlas, lo que permite viajar con dos o tres mudas— y un
+  gratis con solo pedirlas, pero con 30 min de lavado y 45 de secado y la
+  máquina compartida, así que hay que estar con la alarma— y un
   presupuesto final realista de 2.300 € por cabeza.
 
 ### Changed

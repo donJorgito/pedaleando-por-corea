@@ -188,12 +188,22 @@ alforjas, y es la mejor noticia del viaje.
 
 En los alojamientos de la ruta hay **lavadora y secadora**, y **basta con
 pedirlas**. Te dejan usar las dos, **con el jabón incluido**, sin cobrar nada.
-Lavábamos **casi todas las noches**: metías la ropa al llegar, y a la mañana
-siguiente estaba lavada y seca. En Seúl también fue gratis.
+Lavábamos **casi todas las noches**. En Seúl también fue gratis.
 
-El único sitio donde pagamos fue **Busan**: **5.000 wones la lavadora y 3.000
-la secadora**, 8.000 en total (unos 5 €) entre tres. Veinticuatro días de
-viaje y menos de dos euros por cabeza en lavandería.
+El único sitio donde pagamos fue **Busan**: unos **4.000 wones cada máquina**,
+8.000 en total (unos 5 €) entre tres. Veinticuatro días de viaje y menos de
+dos euros por cabeza en lavandería.
+
+### No es «ponerla y olvidarte»
+
+Conviene saberlo porque condiciona la tarde: el lavado son unos **30 minutos**
+y el secado otros **45**. Hora y cuarto largo, y hay que **estar pendiente con
+la alarma del móvil** para ir a recoger la ropa en cuanto termina cada ciclo.
+
+No es por manía: **la máquina es compartida con el resto de huéspedes** y hay
+cola. Dejar la colada dentro toda la noche no es una opción, y sería una
+faena para los demás. Así que lo que haces al llegar es ducharte, poner la
+lavadora, poner la alarma, y organizar la cena alrededor de esos dos avisos.
 
 La consecuencia práctica, que es la que importa: **puedes cruzar Corea con dos
 o tres mudas**. No hace falta cargar ropa para una semana, y en bici cada kilo
@@ -227,10 +237,13 @@ falta y cuánto pesa:
 El gasto que nadie presupuesta y que acaba siendo de los mayores del viaje.
 
 Corea es la meca de la cosmética, y los últimos días en Busan y Seúl se van en
-**Olive Young** y **Daiso**. Dos de los tres se dejaron ahí cerca de **300 €**
-en cremas y productos de belleza. El tercero, cero. Así que esto no es una
-cifra que puedas meter en el presupuesto medio: o te pasa o no te pasa, pero
-si te pasa son 300 € que no habías contado.
+**Olive Young** y **Daiso**. Dos de los tres se dejaron ahí cerca de **300 €
+cada uno** en cremas y productos de belleza — unos 600 € entre los dos. El
+tercero, cero.
+
+Así que esto no es una cifra que puedas meter en el presupuesto medio: o te
+pasa o no te pasa. Pero si te pasa son **300 € por cabeza** que no habías
+contado, y es más de lo que cuesta el alquiler de la bici.
 
 Daiso además es donde se resuelve el problema de volver cargado: una **maleta
 de ruedas por 10.000 wones**, menos de siete euros. Cumplió perfectamente el

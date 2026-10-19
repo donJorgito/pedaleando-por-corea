@@ -24,9 +24,12 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
     de 1997, helado y tés, **59.823 locales** a cierre de 2025, la mayor del
     mundo por número de tiendas.
 
-- `blog.RQ008` detecta ahora las fechas escritas como **«del N al N»**,
-  sin nombre de mes. Así se habían colado las noches de Seúl en las entradas
-  de los días 1 y 3, que el patrón anterior no veía. Las dos corregidas.
+- `blog.RQ008` detecta ahora las fechas escritas en la forma **«del N al
+  N»**, sin nombre de mes. Así se habían colado las noches de Seúl en las
+  entradas de los días 1 y 3, que el patrón anterior no veía. Las dos
+  corregidas. El ejemplo se escribe con N y no con los números reales: un
+  requisito de privacidad no puede documentarse citando el dato que
+  protege.
 - El día 17 cuenta dos cosas que faltaban: **The Terrazzo fue el segundo y
   último hotel al que se llegó sin reserva** —enlazado desde la entrada de
   alojamiento, que hasta ahora solo nombraba el primero— y el buffet tiene

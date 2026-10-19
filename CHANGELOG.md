@@ -13,6 +13,9 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
   alojamiento el mismo día, por qué Booking no tiene oferta en los pueblos
   pequeños, por qué KakaoMap la muestra pero exige cuenta de KakaoTalk para
   reservar, y cómo se consigue habitación presentándose en la puerta.
+- El día 11 corrige las manzanas: se compraron en el mercadillo de 문경 사과
+  pero se comieron más adelante, en una tienda 24 h, con noodles instantáneos,
+  huevos, rábano encurtido y sándwiches, antes del baño de pies.
 - El día 10 cuenta la cena que faltaba: el bunsik **황금분식** al otro lado
   del río, en Mokhaeng-dong, con la comanda exacta y los precios leídos de la
   foto de su carta: 26.500 wones de comida para tres, 17 €. Y el apunte de

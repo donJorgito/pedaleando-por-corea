@@ -5,8 +5,8 @@ layout: dia
 dia: 11
 description: >-
   La etapa dura del 국토종주: los puertos de Sojoryeong e Ihwaryeong (539 m,
-  el punto más alto de todas las rutas certificadas de Corea), un mercadillo
-  de manzanas y un baño de pies termal gratis en Mungyeong.
+  el punto más alto de todas las rutas certificadas de Corea), el mercadillo
+  de manzanas de Mungyeong y un baño de pies termal gratis.
 tags: [corea, gukto-jongju, saejae, ihwaryeong, mungyeong, puertos, dia-a-dia]
 ---
 
@@ -48,12 +48,29 @@ abajo hacia Mungyeong sin tocar los pedales.
 
 ## Las manzanas de Mungyeong
 
-Bajando, sobre las **14:45**, paramos en un **mercadillo de manzanas** al
-borde de la carretera, un puesto callejero a pleno sol. Mungyeong es tierra de
-manzana coreana y se nota: compramos y nos las comimos allí mismo, sentados a
-una mesa.
+Bajando del puerto paramos en un **mercadillo de manzanas** al borde de la
+carretera: una hilera de puestos con toldos rojos a pleno sol, cajas de
+manzanas rojas y verdes apiladas hasta arriba, tarros de conserva y carteles
+que anuncian **문경 사과**, manzana de Mungyeong, con el logo del ayuntamiento
+en la carpa.
 
-Después de subir un puerto, una manzana fría sabe a gloria.
+Mungyeong es tierra de manzana y aquí no es un reclamo turístico: es el
+producto de la comarca, vendido por quien lo cultiva, a pie de carretera.
+Compramos unas cuantas.
+
+## Y la comida, un poco más adelante
+
+Las manzanas no nos las comimos allí: tiramos un rato más y paramos a comer en
+una **tienda 24 h**, de las que tienen mesas junto al ventanal.
+
+Y esa fue la comida: **noodles instantáneos** —preparados con el agua caliente
+de la propia tienda—, **huevos cocidos**, **rábano encurtido**, **sándwiches**
+y las manzanas de postre. Es el menú tipo de la ruta, y cuesta unos pocos
+euros por cabeza.
+
+Después de subir un puerto de 539 metros, sentarse en una silla de verdad, con
+aire acondicionado y una manzana de la comarca, es mejor que cualquier
+restaurante.
 
 ## El baño de pies, que es gratis
 
@@ -84,5 +101,6 @@ que el cuerpo pide después de un día así.
 
 **Datos del día** · Chungju → Mungyeong · Puertos de Sojoryeong (~380 m) e
 **Ihwaryeong (539 m)** · 4 cabinas: 수안보온천, 행촌교차로, 이화령, 불정역 ·
+Comida: noodles, huevos, rábano y manzanas de Mungyeong en una tienda 24 h ·
 Lo mejor: el baño de pies · Lo peor: la cuesta, obviamente · Alojamiento:
 성보촌 유스호스텔, 129.600 wones · Cena: caldo de huesos, 62.000 wones.

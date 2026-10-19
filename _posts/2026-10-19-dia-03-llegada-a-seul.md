@@ -94,9 +94,41 @@ después de diecinueve años de bloqueo. Pero en agosto de 2026 Google Maps
 Corea](https://techypick.com/google-maps-korea-navigation/), y cuando fuimos
 nosotros, en septiembre y octubre, tampoco.
 
-Conclusión práctica: **compruébalo antes de viajar**, y mientras tanto
-instala Naver Map y KakaoMap. Para la ruta en bici, además, KakaoMap tiene
-marcadas las cabinas de certificación.
+Conclusión práctica: **compruébalo antes de viajar**, y mientras tanto instala
+las dos coreanas. Porque no sirven para lo mismo.
+
+### Cuál usar para qué
+
+Aviso: lo que viene es **mi opinión personal**, la de alguien que pasó tres
+semanas usando las dos. Habrá quien prefiera justo al revés, y las
+aplicaciones cambian con cada actualización. Pruébalas tú.
+
+Dicho eso, esto es lo que me funcionó:
+
+| | A pie | Bus y metro | En bici |
+| --- | --- | --- | --- |
+| **Naver Map** | Muy bien. La mejor | Muy bien | **Muy mal** |
+| **KakaoMap** | Peor que Naver | — | **La mejor** |
+
+Resumido: **para moverte por la ciudad, andando o en transporte público,
+Naver Map**; **sobre la bici, KakaoMap**. En mi experiencia no es un matiz:
+Naver navegando en bici va francamente mal, y Kakao a pie se queda corta al
+lado de Naver.
+
+Acabamos con las dos instaladas, saltando de una a otra según fuéramos
+pedaleando o paseando. Para la ruta, además, KakaoMap tiene marcadas las
+**cabinas de certificación**.
+
+### Regístrate en las dos
+
+Merece la pena **crear cuenta en las dos**, y hacerlo con calma antes de
+salir. El motivo es sencillo: con cuenta puedes **guardar favoritos**, y sin
+ella no. Poder ir marcando sitios en el mapa y recuperarlos después es lo que
+convierte la aplicación en una herramienta de planificación y no solo en un
+buscador.
+
+Es de esas cosas que cuestan cinco minutos en el sofá de casa y son un
+engorro a las once de la noche del primer día.
 
 ---
 

@@ -9,6 +9,9 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 ### Added
 
+- El día 3 explica cuál de las dos aplicaciones de mapas usar para qué:
+  Naver Map a pie, KakaoMap en bici, y por qué conviene registrar cuenta en
+  las dos (los favoritos).
 - El día 3 compara las tres formas de bajar de Incheon al centro (metro
   ~4.900 wones/persona, bus 17.000, Uber 48.000-60.000 el trayecto) y explica
   por qué cogimos el bus pese a no ser la opción sensata.

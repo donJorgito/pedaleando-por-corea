@@ -181,21 +181,24 @@ pero poco.
   semanas, Seúl y Busan incluidos. Se compra en cualquier tienda 24 h y se
   recarga allí mismo; el transporte público coreano es baratísimo.
 
-## La lavadora: casi siempre gratis
+## Lavadora y secadora: casi siempre gratis
 
-Esto merece su propio apartado porque viajando con tres mudas cambia la vida.
+Esto merece apartado propio porque es lo que decide cuánta ropa metes en las
+alforjas, y es la mejor noticia del viaje.
 
-Lavábamos **casi todos los días**, y **casi siempre salió gratis**: en la
-mayoría de los alojamientos de la ruta basta con pedirla. Te dejan usar la
-lavadora **con el jabón incluido**, sin cobrar nada. En Seúl también fue
-gratis.
+En los alojamientos de la ruta hay **lavadora y secadora**, y **basta con
+pedirlas**. Te dejan usar las dos, **con el jabón incluido**, sin cobrar nada.
+Lavábamos **casi todas las noches**: metías la ropa al llegar, y a la mañana
+siguiente estaba lavada y seca. En Seúl también fue gratis.
 
-El único sitio donde pagamos fue **Busan**: **8.000 wones en total** (unos
-5 €) entre tres. Es decir, veinticuatro días de viaje y menos de dos euros por
-cabeza en lavandería.
+El único sitio donde pagamos fue **Busan**: **5.000 wones la lavadora y 3.000
+la secadora**, 8.000 en total (unos 5 €) entre tres. Veinticuatro días de
+viaje y menos de dos euros por cabeza en lavandería.
 
-Si estás calculando cuánta ropa meter en las alforjas, cuenta con poder lavar
-cada noche. Nosotros no lo sabíamos al salir.
+La consecuencia práctica, que es la que importa: **puedes cruzar Corea con dos
+o tres mudas**. No hace falta cargar ropa para una semana, y en bici cada kilo
+cuenta. Nosotros no lo sabíamos al salir y fuimos más cargados de lo
+necesario.
 
 ## Las visitas
 

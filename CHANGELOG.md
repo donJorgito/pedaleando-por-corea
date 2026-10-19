@@ -9,6 +9,8 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 ### Added
 
+- Días 12, 13 y 14: el museo de la bicicleta de Sangju y el paso al Nakdong,
+  la llegada a Daegu, y el día de descanso con Haeinsa y el mercado de Seomun.
 - Tres etapas nuevas en bici: día 9 (Seúl → Yeoju por la vía verde), día 10
   (Yeoju → Chungju por el Namhangang) y día 11 (Chungju → Mungyeong, con
   Ihwaryeong y el baño de pies termal).

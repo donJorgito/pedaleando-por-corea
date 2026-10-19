@@ -39,10 +39,15 @@ funciona.
 A las **15:38** entramos en el **tercer túnel de infiltración**, y esto ya es
 otra cosa.
 
-Es uno de los túneles excavados por Corea del Norte bajo la zona
-desmilitarizada en dirección a Seúl, descubiertos y sellados por el Sur. Se
-baja por una rampa larga con casco —te lo dan a la entrada y lo vas a
-necesitar, porque el techo es bajo y se golpea— hasta el punto donde el
+Es uno de los túneles que Corea del Norte excavó bajo la zona desmilitarizada
+en dirección a Seúl. Se descubrió en **octubre de 1978**, después de detectar
+meses antes una explosión subterránea, y está a **44 km de Seúl**: menos de
+una hora en coche. Mide unos **1.635 metros**, con una sección de apenas
+**2 × 2 metros**, y se calculaba que por él podía pasar **una división
+completa por hora**.
+
+Se baja por una rampa larga con casco —te lo dan a la entrada y lo vas a
+necesitar, porque con dos metros de techo se golpea— hasta el punto donde el
 recorrido se corta con un muro de hormigón.
 
 Es una de esas visitas que no son espectaculares visualmente —es un túnel de

@@ -58,8 +58,23 @@ enlaces de sitios que nos pasamos fueron **15 de Naver Map y 9 de KakaoMap**.
 De Google Maps, **ninguno**. Sin habérnoslo propuesto, en tres semanas acabamos
 usando exclusivamente las dos aplicaciones coreanas.
 
-Instálalas antes de salir y acostúmbrate a buscar en ellas. Para la ruta en
-bici, además, KakaoMap tiene marcadas las cabinas de certificación.
+El motivo es legal, no técnico: durante casi dos décadas Corea del Sur ha
+prohibido exportar fuera del país su cartografía de alta precisión, y Google
+procesa sus mapas en servidores globales. Sin esos datos, no hay indicaciones
+paso a paso.
+
+**Esto está cambiando justo ahora**, así que ojo con la fecha en la que leas
+esto. El gobierno coreano aprobó condicionalmente la exportación [el 27 de
+febrero de
+2026](https://www.reuters.com/world/asia-pacific/south-korea-approves-google-bid-export-high-precision-map-data-2026-02-27/),
+después de diecinueve años de bloqueo. Pero en agosto de 2026 Google Maps
+[seguía sin dar navegación en
+Corea](https://techypick.com/google-maps-korea-navigation/), y cuando fuimos
+nosotros, en septiembre y octubre, tampoco.
+
+Conclusión práctica: **compruébalo antes de viajar**, y mientras tanto
+instala Naver Map y KakaoMap. Para la ruta en bici, además, KakaoMap tiene
+marcadas las cabinas de certificación.
 
 ---
 

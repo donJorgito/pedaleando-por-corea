@@ -9,6 +9,11 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 ### Added
 
+- Aviso de vigencia destacado al principio de la entrada del presupuesto:
+  los precios son de septiembre-octubre de 2026 y hay que leerlos como orden
+  de magnitud, no como tarifa.
+- Referencia de precios de bótox en España (150-350 € por zona, 300-450 € el
+  tercio superior) para que los 110 € de Seúl signifiquen algo, con fuentes.
 - Siete entradas diarias nuevas, del día 1 al 7: los dos días de viaje hasta
   Corea, la llegada a Seúl y los cuatro días de la capital (centro histórico,
   mercados, Suwon y la DMZ).
@@ -45,6 +50,14 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
   LED recargables y candado de contraseña) y lo único que hubo que llevar de
   casa: pulpos y soporte de móvil. Se corrige que llevaran alforjas: iban con
   la mochila atada al portaequipajes.
+- Los importes de alojamiento se aclaran: casi todas las noches fueron **dos
+  habitaciones dobles**, no una triple, así que los precios por noche son de
+  las dos juntas.
+- El apartado de navegación del día 3 recupera el motivo legal, ya verificado
+  y fechado: Corea aprobó la exportación cartográfica en febrero de 2026 pero
+  Google Maps seguía sin navegación durante el viaje.
+- El tercer túnel de la DMZ recupera sus cifras, ya verificadas: octubre de
+  1978, 44 km de Seúl, 1.635 m y sección de 2 × 2 m.
 - Las entradas diarias se numeran por **día de viaje** (01-24), no por etapa
   en bici: la primera jornada sobre la bici pasa de `dia-01` a `dia-08`, que
   es el día del viaje que le corresponde. Evita la colisión de numeración con

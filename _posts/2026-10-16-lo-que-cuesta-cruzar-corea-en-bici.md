@@ -9,6 +9,15 @@ description: >-
 tags: [corea, gukto-jongju, presupuesto, precios, alojamiento, bicicletas, comida, preparativos]
 ---
 
+> ⚠️ **Precios de septiembre y octubre de 2026.** Todo lo que hay en esta
+> página son los importes que pagamos nosotros **en la última semana de
+> septiembre y las dos primeras de octubre de 2026**, convertidos a un cambio de **1.547 wones por
+> euro**. Un año después, ni los precios ni el tipo de cambio serán los
+> mismos: úsalo como **orden de magnitud y proporción entre partidas**, no
+> como tarifa. Si lees esto mucho más tarde, las proporciones —cuánto pesa el
+> alojamiento frente a la comida, por ejemplo— aguantarán mejor que las
+> cifras.
+
 Casi todo lo que se encuentra sobre esta ruta habla de kilómetros y de cuestas,
 y muy poco de dinero. Nosotros llevamos la cuenta desde el primer billete de
 avión hasta el último plato de mandus, así que aquí van las cifras tal cual
@@ -108,11 +117,18 @@ Menos de ocho euros. Es, de largo, el dinero mejor gastado del viaje.
 
 ## Dormir
 
-Dormimos en hotel todas las noches, en habitación de tres, entre Seúl, las
-etapas de la ruta y Busan.
+Dormimos en hotel todas las noches, entre Seúl, las etapas de la ruta y
+Busan. Y un detalle que explica los precios: **casi siempre fueron dos
+habitaciones dobles**, no una triple — una para uno de nosotros y otra para
+la pareja. Así que los importes que vienen abajo son, la mayoría de las
+noches, **lo que costaron las dos habitaciones juntas**.
+
+Si vais tres y os apañáis en una habitación, esto sale más barato de lo que
+leeréis aquí.
 
 Los hoteles de etapa — moteles de carretera, casi todos — salieron entre
-**40 y 90 € la noche para los tres**, es decir, **de 13 a 30 € por persona**.
+**40 y 90 € la noche**, con las dos habitaciones incluidas: **de 13 a 30 € por
+persona**.
 Los dos extremos los marcan la quinta etapa (44,81 €, el más barato) y la
 segunda (89,58 €). Las ciudades grandes suben: Daegu fueron 206,88 € por dos
 noches, y las cuatro noches seguidas en Busan, 197,03 €.
@@ -278,10 +294,28 @@ Ya puestos en el país donde esto es industria nacional, dos de nosotros se
 hicieron un **tratamiento de bótox en Seúl** el penúltimo día: **cuatro zonas
 de la cara por unos 110 €**.
 
-No es un gasto del viaje en bici, evidentemente, y no voy a decirte si sale a
-cuenta frente a lo que cuesta en España porque no lo he comprobado. Pero dejo
-la cifra porque es un dato real y difícil de encontrar: si vas a estar tres
-semanas en Corea y te lo estabas planteando, ahí tienes el orden de magnitud.
+No es un gasto del viaje en bici, evidentemente. Pero dejo la cifra porque es
+un dato real y difícil de encontrar, y porque la comparación es llamativa.
+
+**La referencia en España**, consultada en octubre de 2026 en dos
+comparadores de precios de medicina estética:
+
+| | Precio en España |
+| --- | --- |
+| Una sola zona | 150 – 350 € |
+| Sesión completa (orientativo) | 200 – 400 € |
+| Tercio superior entero, que son tres zonas | 300 – 450 € |
+
+Fuentes: [Clínicas de Estética, junio de
+2026](https://clinicasdeestetica.com/blog/precio-botox-espana/) y
+[datosde.com](https://datosde.com/un-botox).
+
+O sea: lo que en España cuesta **tres zonas** —de 300 a 450 €— en Seúl fueron
+**cuatro por 110 €**. Entre tres y cuatro veces más barato.
+
+Que cada cual saque sus conclusiones: no soy médico, no valoro el producto ni
+la clínica, y esto no es una recomendación. Es solo el precio que pagamos
+nosotros, puesto al lado del de aquí para que signifique algo.
 
 ### El truco del equipaje facturado
 

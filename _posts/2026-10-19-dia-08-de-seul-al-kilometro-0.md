@@ -45,16 +45,27 @@ después de media jornada pedaleando.
 
 ## El pasaporte del ciclista: qué es, cuánto cuesta y qué te piden
 
-Junto al arco está la primera caseta roja. Son las **인증센터**, las cabinas de
-certificación: cabinas telefónicas reconvertidas, con un sello dentro y el mapa
-de la ruta en el cristal.
+Aquí conviene aclarar algo que casi nadie explica, y que confunde al llegar:
+**la cabina y el centro de certificación no son el mismo sitio.**
 
-El **pasaporte del ciclista** (자전거길 여행 수첩) es la libreta donde vas
+- **La cabina (인증센터)** es la caseta roja que ves junto al arco: una cabina
+  telefónica reconvertida, al aire libre, con un sello dentro y el mapa de la
+  ruta en el cristal. **Ahí solo se sella**, tú mismo, cuando quieras. No hay
+  nadie atendiendo.
+- **El centro de certificación** es una **oficina**, con su mostrador y su
+  personal. Está **muy cerca** de la cabina, pero es otro edificio. **Ahí es
+  donde se compra y se emite el pasaporte**, y donde al final del viaje te dan
+  el certificado.
+
+Así que el primer día hay que pasar por los dos: primero a la oficina a por la
+libreta, y después a la cabina a estrenarla.
+
+El **pasaporte del ciclista** (자전거길 여행 수첩) es esa libreta donde vas
 sellando. Costó **4.000 wones** —de los tres que íbamos, al final lo compramos
-dos— y hay un detalle que conviene llevar
-preparado: **te piden el pasaporte de verdad para emitirlo**, porque la libreta
-se expide **a tu nombre** y ese nombre es el que acaba en el certificado final.
-Así que no lo dejes en la habitación del hotel el día que empiezas.
+dos— y hay un detalle que conviene llevar preparado: **te piden el pasaporte de
+verdad para emitirlo**, porque la libreta se expide **a tu nombre** y ese
+nombre es el que acaba en el certificado final. Así que no lo dejes en la
+habitación del hotel el día que empiezas.
 
 A partir de ahí dejas de pensar en kilómetros y empiezas a pensar en cabinas:
 el viaje se organiza solo, de sello en sello.
@@ -64,8 +75,9 @@ Sello número uno. Y media vuelta.
 ## El canal Ara, 21 kilómetros de rodar fácil
 
 De la esclusa del mar a la del río Han hay **21 km** por el canal Ara, y es el
-tramo más amable que te vas a encontrar: carril bici ancho, asfalto nuevo, llano
-absoluto y el canal siempre a la derecha. Se rueda rápido y da una falsa
+tramo más amable que te vas a encontrar: carril bici ancho, asfalto nuevo,
+llano absoluto y, en el sentido de la marcha —ya con el primer sello y rumbo
+a Seúl—, **el canal siempre a la izquierda**. Se rueda rápido y da una falsa
 sensación de que el viaje entero va a ser así de cómodo.
 
 A las cuatro de la tarde sellábamos en **아라한강갑문**, la esclusa que conecta
@@ -90,13 +102,21 @@ por la mañana habíamos recogido las bicis. Después de unos **67 kilómetros**
 habíamos vuelto al punto de partida: el día entero había consistido en ir a
 buscar el principio de la ruta.
 
-Nos equivocamos un par de veces, retrocedimos más de lo necesario y llegamos de
-noche. Pero el pasaporte tenía tres sellos y las bicis habían aguantado, que era
-todo lo que hacía falta.
+Nos equivocamos un par de veces, retrocedimos más de lo necesario y llegamos
+de noche. Pero el pasaporte tenía tres sellos, y las bicis habían aguantado.
+Nosotros también.
+
+Lo celebramos como se celebra en Corea: **barbacoa coreana** en un sitio cerca
+del alojamiento, con arroz con setas. **52.000 wones**, unos 34 €. Te sientas
+alrededor de la parrilla encastrada en la mesa, te traen la carne cruda y la
+vas haciendo tú mientras se llena la mesa de banchan.
+
+Después de un primer día que había consistido en pedalear en dirección
+contraria, costaba imaginar mejor final.
 
 ---
 
 **Datos del día** · Seúl (Mapo) → Incheon (Ara Seohae, km 0) → Seúl (Yeouido) ·
 ~67 km · 3 cabinas: 아라서해갑문, 아라한강갑문, 여의도 · Alojamiento: Alto 201
-(Mapo, Seúl) · Lo mejor: el canal Ara · Lo peor: gastar la mañana en llegar a la
-salida.
+(Mapo, Seúl) · Cena: barbacoa coreana, 52.000 wones · Lo mejor: el canal Ara ·
+Lo peor: gastar la mañana en llegar a la salida.

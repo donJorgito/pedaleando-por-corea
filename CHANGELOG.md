@@ -9,6 +9,11 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 ### Added
 
+- El día 8 distingue la **cabina** (la caseta roja donde sellas tú mismo) del
+  **centro de certificación** (la oficina de al lado donde se emite el
+  pasaporte), que el texto confundía.
+- El canal Ara queda **a la izquierda** en el sentido de la marcha, no a la
+  derecha, y el día se cierra con la barbacoa coreana cerca del alojamiento.
 - Se quita la talla de las bicicletas de la entrada del día 8: es un dato
   personal de los tres y no aporta nada al relato.
 - El día 4 incorpora el espectáculo nocturno que faltaba: la fuente del

@@ -62,10 +62,10 @@ Dongnyang-myeon, y el pueblo con vida está enfrente, en **목행동
 (Mokhaeng-dong)** — el mismo barrio del puente de 목행교, por si te suena de
 lo del dataset.
 
-Acabamos en un **분식 (bunsik)** de barrio llamado **황금분식**, en la calle
-행정13길. Los *bunsik* son el equivalente coreano a un bar de comidas de toda
-la vida: carta corta, precios bajos, rótulo amarillo y fluorescentes. Nada de
-turismo.
+Acabamos en un **분식 (bunsik)** de barrio llamado **황금분식**, en
+충북 충주시 행정11길 40. Los *bunsik* son el equivalente coreano a un bar de
+comidas de toda la vida: carta corta, precios bajos, rótulo naranja en la
+fachada y fluorescentes dentro. Nada de turismo.
 
 Esto fue exactamente lo que pedimos, con los precios de su carta:
 
@@ -91,9 +91,13 @@ Esa noche **no quedó apuntada en las cuentas comunes** — de ahí que al
 repasarlas pareciera que no habíamos cenado. Pagó alguien por su cuenta y no
 llegó a la app.
 
-Está [por aquí](https://map.naver.com/p/search/%EC%B6%A9%EC%A3%BC%20%ED%99%A9%EA%B8%88%EB%B6%84%EC%8B%9D),
-en Mokhaeng-dong. Si pasas la noche en esta zona, cruza el puente: se come
-mejor y más barato que en lo que hay al lado del hotel.
+Aquí está su ficha: **[황금분식 en Naver
+Map](https://map.naver.com/p/entry/place/1255774022)**. Y un detalle que a un
+ciclista le interesa: **abre a las seis de la mañana**, así que sirve también
+para desayunar antes de arrancar la etapa.
+
+Si pasas la noche en esta zona, cruza el puente: se come mejor y más barato
+que en lo que hay al lado del hotel.
 
 ---
 

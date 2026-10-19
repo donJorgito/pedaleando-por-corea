@@ -16,7 +16,8 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - El día 10 cuenta la cena que faltaba: el bunsik **황금분식** al otro lado
   del río, en Mokhaeng-dong, con la comanda exacta y los precios leídos de la
   foto de su carta: 26.500 wones de comida para tres, 17 €. Y el apunte de
-  que el agua en Corea siempre es gratis.
+  que el agua en Corea siempre es gratis. Enlace directo a su ficha de Naver
+  Map, ya verificada, y dirección oficial (행정11길 40).
   Antes el texto especulaba con que habían cenado en una tienda 24 h.
 - El día 8 aclara que el certificado final **no se recoge en la oficina de
   Incheon** sino en otra parecida en Busan, y añade la comida en un CU entre

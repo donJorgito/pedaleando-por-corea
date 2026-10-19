@@ -13,4 +13,5 @@ Junto a las entradas diarias, el sitio puede publicar **entradas temáticas** (p
 - Todo fichero de `_posts/` encaja en uno de los dos patrones: diaria o temática.
 - Cada entrada **diaria** sigue el patrón `AAAA-MM-DD-dia-NN-<titulo>.md` y su fecha cae dentro del rango del viaje.
 - No hay dos entradas diarias con el mismo número de día.
+- La serie está **completa**: existen las 24 jornadas, de la 1 a la 24, sin huecos ni días fuera de rango.
 - Cada entrada **temática** sigue el patrón `AAAA-MM-DD-<titulo>.md` y su fecha no es anterior al inicio del viaje.

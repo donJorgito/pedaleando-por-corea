@@ -29,7 +29,19 @@ for f in _posts/*.md; do
   fi
 done
 
-dups=$(ls _posts/*-dia-[0-9][0-9]-*.md 2>/dev/null \
-       | sed -E 's/.*-dia-([0-9]{2})-.*/\1/' | sort | uniq -d)
+numeros=$(ls _posts/*-dia-[0-9][0-9]-*.md 2>/dev/null \
+          | sed -E 's/.*-dia-([0-9]{2})-.*/\1/' | sed 's/^0//' | sort -n)
+
+dups=$(printf '%s\n' "$numeros" | uniq -d)
 [ -z "$dups" ] || { echo "RQ001: número de día repetido: $dups"; err=1; }
+
+# El viaje son 24 jornadas: la serie tiene que estar completa, sin huecos.
+TOTAL=24
+for n in $(seq 1 "$TOTAL"); do
+  printf '%s\n' "$numeros" | grep -qx "$n" \
+    || { echo "RQ001: falta la entrada del día $n"; err=1; }
+done
+sobran=$(printf '%s\n' "$numeros" | awk -v t="$TOTAL" '$1>t')
+[ -z "$sobran" ] || { echo "RQ001: día fuera del viaje (1..$TOTAL): $sobran"; err=1; }
+
 exit $err

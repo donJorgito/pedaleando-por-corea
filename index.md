@@ -15,8 +15,8 @@ en qué nos equivocamos — por si a alguien le sirve para preparar el suyo.
 
 {% assign dias = site.posts | where_exp: "p", "p.dia" | sort: "dia" %}
 
-Están publicadas **{{ dias | size }} de las 24 jornadas**. Se leen en orden,
-empezando por el día 1: al final de cada una hay enlace a la siguiente.
+Las **{{ dias | size }} jornadas** del viaje, en orden. Se leen empezando por
+el día 1: al final de cada una hay enlace a la siguiente.
 
 <ol class="lista-dias">
 {% for p in dias %}

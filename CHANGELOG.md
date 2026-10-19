@@ -9,6 +9,11 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 ### Added
 
+- **El diario queda completo**: días 19 a 24, de Busan al regreso a casa.
+  Haedong Yonggungsa y Gwangalli, Gamcheon y la lonja de Jagalchi con los
+  drones de Gwangalli, el día flojo, el KTX de vuelta, la última mañana y el
+  balance final.
+- `blog.RQ001` comprueba ahora que **no falte ninguna de las 24 jornadas**.
 - Días 15 a 18, hasta la meta: Dodongseowon y su espectáculo nocturno, el
   truco de cambiar de orilla en Haman, la víspera en Yangsan y el día final
   con el certificado, la devolución de las bicis y Haeundae.

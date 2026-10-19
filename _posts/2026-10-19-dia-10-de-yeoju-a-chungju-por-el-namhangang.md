@@ -87,10 +87,6 @@ también son gratis y te los rellenan— y la cerveza aparte.
 Ese es el verdadero precio de comer en la Corea rural, y ninguna guía te lo
 cuenta porque hay que entrar en sitios como este para verlo.
 
-Esa noche **no quedó apuntada en las cuentas comunes** — de ahí que al
-repasarlas pareciera que no habíamos cenado. Pagó alguien por su cuenta y no
-llegó a la app.
-
 Aquí está su ficha: **[황금분식 en Naver
 Map](https://map.naver.com/p/entry/place/1255774022)**. Y un detalle que a un
 ciclista le interesa: **abre a las seis de la mañana**, así que sirve también

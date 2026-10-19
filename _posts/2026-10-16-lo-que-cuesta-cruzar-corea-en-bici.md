@@ -219,7 +219,7 @@ falta y cuánto pesa:
 - El equipamiento previo (alforjas, ropa, cascos), que ya llevábamos de casa.
 - Los trámites de entrada al país, que cada uno hizo por su lado.
 
-## Las compras: ojo con los últimos días
+## Las compras y los caprichos: ojo con los últimos días
 
 El gasto que nadie presupuesta y que acaba siendo de los mayores del viaje.
 
@@ -232,6 +232,17 @@ si te pasa son 300 € que no habías contado.
 Daiso además es donde se resuelve el problema de volver cargado: una **maleta
 de ruedas por 10.000 wones**, menos de siete euros. Cumplió perfectamente el
 viaje de vuelta.
+
+### Medicina estética: 110 € por cuatro zonas
+
+Ya puestos en el país donde esto es industria nacional, dos de nosotros se
+hicieron un **tratamiento de bótox en Seúl** el penúltimo día: **cuatro zonas
+de la cara por unos 110 €**.
+
+No es un gasto del viaje en bici, evidentemente, y no voy a decirte si sale a
+cuenta frente a lo que cuesta en España porque no lo he comprobado. Pero dejo
+la cifra porque es un dato real y difícil de encontrar: si vas a estar tres
+semanas en Corea y te lo estabas planteando, ahí tienes el orden de magnitud.
 
 ### El truco del equipaje facturado
 

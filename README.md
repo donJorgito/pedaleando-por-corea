@@ -40,7 +40,7 @@ pre-commit run --all-files         # obligatorio antes de cada push
 ## Variables
 
 | Dónde | Clave | Para qué |
-|---|---|---|
+| --- | --- | --- |
 | `_config.yml` | `url` + `baseurl` | dirección pública del sitio |
 | `_config.yml` | `plugins` | SEO e indexación |
 | `_posts/*.md` | `title`, `date`, `description`, `tags` | metadatos de cada entrada |
@@ -53,12 +53,14 @@ de CI/CD están pineadas al SHA de 40 caracteres con el semver en comentario.
 ## Tested Versions
 
 | Componente | Versión |
-|---|---|
-| `actions/checkout` | v4.2.2 |
+| --- | --- |
+| `actions/checkout` | v7.0.1 |
+| `actions/configure-pages` | v5.0.0 |
 | `actions/jekyll-build-pages` | v1.0.13 |
-| `actions/deploy-pages` | v4.0.5 |
-| `gitleaks/gitleaks-action` | v2.3.7 |
-| `DavidAnson/markdownlint-cli2-action` | v16.0.0 |
+| `actions/upload-pages-artifact` | v5.0.0 |
+| `actions/deploy-pages` | v5.0.1 |
+| `gitleaks/gitleaks-action` | v3.0.0 |
+| `DavidAnson/markdownlint-cli2-action` | v24.2.0 |
 | Runner | `ubuntu-24.04` |
 
 ## Supporting Documents

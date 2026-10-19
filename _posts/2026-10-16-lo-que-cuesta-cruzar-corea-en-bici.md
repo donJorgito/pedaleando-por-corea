@@ -27,7 +27,7 @@ de la vuelta a casa desde el aeropuerto. Es la media: según a qué cenas fuera
 cada uno, la cuenta final osciló entre 1.687 y 1.928 €.
 
 | Concepto | Total (3 personas) | Media por persona |
-|---|---:|---:|
+| --- | ---: | ---: |
 | Vuelos y seguros de viaje | 1.922,49 € | 640,83 € |
 | Alojamiento (Seúl, etapas y Busan) | 1.456,14 € | 485,38 € |
 | Comida y bebida compartida | 837,29 € | 279,10 € |

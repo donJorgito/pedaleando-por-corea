@@ -137,6 +137,11 @@ El alojamiento es el 27 % del presupuesto total y el gasto que más se puede
 apretar si no te importa bajar de categoría: todos los moteles de ruta estaban
 limpios, con wifi y sitio para meter las bicis.
 
+Ninguna de las noches de etapa estaba reservada de antemano: las íbamos
+buscando el mismo día. Cómo se hace eso, y por qué en los pueblos pequeños
+Booking no sirve, lo cuento en
+[dónde dormir en el 국토종주]({% post_url 2026-10-17-donde-dormir-en-el-gukto-jongju %}).
+
 ## Comer
 
 **837 € entre tres en comida compartida**, que son 279 € por cabeza en 24 días:

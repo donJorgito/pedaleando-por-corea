@@ -66,7 +66,10 @@ serán casi todos: pedalear, sellar, repetir.
 ## Dormir en Yeoju y la barbacoa de rigor
 
 El alojamiento era el **Ilsung Condo Namhan River (일성 남한강 콘도)**, en
-Yeoju, junto al río: **137.750 wones**, unos 89 € para los tres.
+Yeoju, junto al río: **137.750 wones**, unos 89 € para los tres. Lo buscamos
+ese mismo día: no llevábamos ni una noche de etapa reservada de casa, y a
+partir de aquí esa fue la rutina — pedalear hasta que el cuerpo dijera basta y
+buscar entonces. [Cómo lo hacíamos]({% post_url 2026-10-17-donde-dormir-en-el-gukto-jongju %}).
 
 Y la cena, **barbacoa coreana otra vez**: **67.000 wones**, 43 €. Se convirtió
 en costumbre, y no hay mejor forma de reponer después de doce horas sobre la

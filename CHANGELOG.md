@@ -9,6 +9,13 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 ### Added
 
+- Entrada temática nueva: **dónde dormir en el 국토종주**. El método de buscar
+  alojamiento el mismo día, por qué Booking no tiene oferta en los pueblos
+  pequeños, por qué KakaoMap la muestra pero exige cuenta de KakaoTalk para
+  reservar, y cómo se consigue habitación presentándose en la puerta.
+- El día 8 aclara que el certificado final **no se recoge en la oficina de
+  Incheon** sino en otra parecida en Busan, y añade la comida en un CU entre
+  las dos esclusas del canal Ara.
 - **El diario queda completo**: días 19 a 24, de Busan al regreso a casa.
   Haedong Yonggungsa y Gwangalli, Gamcheon y la lonja de Jagalchi con los
   drones de Gwangalli, el día flojo, el KTX de vuelta, la última mañana y el

@@ -54,11 +54,14 @@ Aquí conviene aclarar algo que casi nadie explica, y que confunde al llegar:
   nadie atendiendo.
 - **El centro de certificación** es una **oficina**, con su mostrador y su
   personal. Está **muy cerca** de la cabina, pero es otro edificio. **Ahí es
-  donde se compra y se emite el pasaporte**, y donde al final del viaje te dan
-  el certificado.
+  donde se compra y se emite el pasaporte.**
 
 Así que el primer día hay que pasar por los dos: primero a la oficina a por la
 libreta, y después a la cabina a estrenarla.
+
+Y una precisión para el final del viaje: **el certificado no se recoge aquí**.
+Te lo dan en **otra oficina parecida, en Busan**, al terminar la ruta. Son dos
+sitios distintos en los dos extremos del país.
 
 El **pasaporte del ciclista** (자전거길 여행 수첩) es esa libreta donde vas
 sellando. Costó **4.000 wones** —de los tres que íbamos, al final lo compramos
@@ -79,6 +82,11 @@ tramo más amable que te vas a encontrar: carril bici ancho, asfalto nuevo,
 llano absoluto y, en el sentido de la marcha —ya con el primer sello y rumbo
 a Seúl—, **el canal siempre a la izquierda**. Se rueda rápido y da una falsa
 sensación de que el viaje entero va a ser así de cómodo.
+
+A mitad de camino entre las dos esclusas paramos a comer en un **CU**, una de
+las tiendas 24 h que hay junto al carril. Fue la primera de muchas: a partir
+de ese día, desayunar y comer en un CU, un GS25 o un 7-Eleven se convirtió en
+la rutina de casi todas las jornadas.
 
 A las cuatro de la tarde sellábamos en **아라한강갑문**, la esclusa que conecta
 el canal con el río. A partir de ahí ya es el Han, y el paisaje cambia: Seúl

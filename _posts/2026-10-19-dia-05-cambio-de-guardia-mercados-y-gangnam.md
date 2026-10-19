@@ -3,9 +3,9 @@ title: "Día 5 · Cambio de guardia, mercados de Seúl y el caballito de Gangnam
 date: 2026-10-19 20:00:00 +0900
 description: >-
   Gyeongbokgung y su cambio de guardia, la Casa Azul, el museo del barco
-  tortuga y los mercados de Tongin y Gwangjang. Comer en un mercado coreano
-  por seis euros entre tres.
-tags: [corea, seul, mercados, gwangjang, gangnam, comida, dia-a-dia]
+  tortuga, los mercados de Tongin y Gwangjang y la Starfield Library del
+  COEX. Comer en un mercado coreano por seis euros entre tres.
+tags: [corea, seul, mercados, gwangjang, gangnam, coex, biblioteca, comida, dia-a-dia]
 layout: dia
 dia: 5
 ---
@@ -75,8 +75,30 @@ Es una tontería y lo sabes mientras vas, pero está ahí y hay cola para la
 foto. Gangnam, alrededor, es el contraste completo con Bukchon: cristal,
 marcas y avenidas de ocho carriles.
 
+## La biblioteca dentro del centro comercial
+
+Y entonces entras en el COEX a dar una vuelta y te encuentras con **esto**,
+que acabó siendo lo mejor de la tarde con diferencia.
+
+Se llama **별마당 도서관**, la **Starfield Library**, y está en el atrio
+central del centro comercial. No es una metáfora ni una librería disfrazada:
+son **estanterías curvas de trece metros** —unos cuatro pisos— llenas de
+libros hasta arriba, iluminadas por dentro, subiendo a ambos lados de un
+atrio acristalado. Abajo hay mesas y gente leyendo de verdad, en mitad del
+trasiego de las tiendas.
+
+Lo mejor: **es gratis**. Se entra sin pagar, puedes coger libros de los
+estantes bajos, sentarte y quedarte leyendo. No hay entrada ni taquilla. Un
+espacio público dentro de un centro comercial privado, y funciona.
+
+Estuvimos allí sobre las **18:23**, con el cielo ya azul oscuro al otro lado
+del cristal y las estanterías encendidas. Si vas a Gangnam, aunque no te
+interesen ni las marcas ni el caballito, entra a verla. Tienes los horarios
+en la [página oficial](https://m.starfield.co.kr/coexmall/library/intro?lang=en).
+
 ---
 
 **Datos del día** · Seúl a pie y en metro · Gyeongbokgung, Casa Azul, museo
-Chungmugong, mercados de Tongin y Gwangjang, COEX · Comida y cena de mercado:
-75.200 wones los tres · Alojamiento: Seúl · Mañana: Suwon y su fortaleza.
+Chungmugong, mercados de Tongin y Gwangjang, COEX y la Starfield Library ·
+Comida y cena de mercado: 75.200 wones los tres · Alojamiento: Seúl ·
+Mañana: Suwon y su fortaleza.

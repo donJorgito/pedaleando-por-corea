@@ -9,6 +9,9 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 ### Added
 
+- El día 5 incorpora la **Starfield Library** (별마당 도서관) del COEX, que se
+  había quedado fuera: estanterías de trece metros, entrada gratuita y enlace
+  a la página oficial.
 - La comida casera del día 4 se sitúa en una callejuela de Insadong, con
   enlace a Naver Map del barrio. No se nombra el restaurante porque no se
   pudo identificar: el GPS de la foto cae en un portal sin restaurantes y el

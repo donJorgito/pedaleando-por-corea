@@ -9,6 +9,9 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 ### Added
 
+- Tres etapas nuevas en bici: día 9 (Seúl → Yeoju por la vía verde), día 10
+  (Yeoju → Chungju por el Namhangang) y día 11 (Chungju → Mungyeong, con
+  Ihwaryeong y el baño de pies termal).
 - El día 8 distingue la **cabina** (la caseta roja donde sellas tú mismo) del
   **centro de certificación** (la oficina de al lado donde se emite el
   pasaporte), que el texto confundía.

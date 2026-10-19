@@ -9,6 +9,8 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 ### Added
 
+- Se quita la talla de las bicicletas de la entrada del día 8: es un dato
+  personal de los tres y no aporta nada al relato.
 - El día 4 incorpora el espectáculo nocturno que faltaba: la fuente del
   puente de Banpo (달빛무지개분수) sobre el río Han y las islas de Sebitseom.
 - El día 5 incorpora la **Starfield Library** (별마당 도서관) del COEX, que se

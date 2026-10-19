@@ -4,9 +4,9 @@ date: 2026-10-19 19:00:00 +0900
 description: >-
   Primer día completo en Seúl: free tour por el centro histórico, una comida
   casera de menú único por menos de 6,50 € por cabeza, el barrio hanok de
-  Bukchon y el palacio de Changdeokgung. Qué cuesta y cómo organizarlo
-  andando.
-tags: [corea, seul, palacios, bukchon, free-tour, dia-a-dia]
+  Bukchon, el palacio de Changdeokgung y, de noche, la fuente del puente de
+  Banpo sobre el río Han. Qué cuesta y cómo organizarlo andando.
+tags: [corea, seul, palacios, bukchon, insadong, banpo, rio-han, free-tour, dia-a-dia]
 layout: dia
 dia: 4
 ---
@@ -91,9 +91,45 @@ La cafetería coreana es un fenómeno en sí mismo: hay una cada veinte metros,
 el café está bien hecho y la bollería es buena. No es un recurso de
 emergencia, es un plan. Pero no es barato, y conviene saberlo.
 
+## La noche: el puente que echa agua
+
+Y el día terminó con lo mejor, que además **no costó nada**.
+
+Bajamos al **parque del río Han**, a la altura del **puente de Banpo**
+(반포대교), a ver la **달빛무지개분수**, la *Moonlight Rainbow Fountain*. El
+puente tiene cientos de surtidores a lo largo de todo su costado que escupen
+agua hacia el río, iluminados de colores y acompasados con música. Visto
+desde la orilla es una cortina de agua de más de un kilómetro cayendo del
+puente.
+
+Llegamos para **el pase de las 19:30** y nos sentamos en la hierba, con
+cientos de personas alrededor haciendo exactamente lo mismo: familias,
+parejas y grupos de amigos sentados en el suelo mirando un puente. Dura unos
+veinte minutos.
+
+Datos útiles, que [confirma la oficina de turismo
+coreana](https://english.visitkorea.or.kr/svc/contents/contentsView.do?vcontsId=91783):
+funciona **de abril a octubre**, todos los días, **de cuatro a seis pases
+diarios de veinte minutos**. Es al aire libre y **gratis**: te sientas en el
+parque y ya está. Si llueve o hace mucho viento, se cancela.
+
+## Sebitseom, las islas flotantes
+
+Después caminamos un poco río arriba hasta **세빛섬 (Sebitseom)**, tres islas
+artificiales flotando sobre el Han, iluminadas de azul y morado. A las
+**20:06** andábamos por allí, entre la gente, con una **luna gigante
+iluminada** instalada en el paseo que era, previsiblemente, el sitio donde
+todo el mundo se hacía la foto.
+
+Es un plan de noche muy agradecido después de un día entero andando: la
+ribera del Han está llena de gente hasta tarde, hay tiendas 24 h para
+comprar algo y sentarte, y se respira fresco. Si estás en Seúl en temporada
+de fuente, dedícale una noche.
+
 ---
 
 **Datos del día** · Seúl a pie · Gwanghwamun, comida casera de menú único,
-Bukchon, Changdeokgung · Free tour 50.000 wones los tres · Comida 29.700 ·
-Merienda 37.500 · Alojamiento: Seúl · Mañana: el cambio de guardia y el
-mercado de Gwangjang.
+Bukchon, Changdeokgung y, de noche, la fuente del puente de Banpo y
+Sebitseom · Free tour 50.000 wones los tres · Comida 29.700 · Merienda
+37.500 · La fuente, gratis · Alojamiento: Seúl · Mañana: el cambio de
+guardia y el mercado de Gwangjang.

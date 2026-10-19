@@ -155,6 +155,11 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 ### Changed
 
+- La lavandería de Busan fueron **4.000 wones el lavado y 4.000 el secado**,
+  no 5.000 y 3.000. Los dos apuntes de Settle Up repartían calderilla entre
+  los hermanos; el precio de las máquinas era el mismo. El total, 8.000
+  wones, no cambia.
+
 - **El blog ya no publica las fechas exactas del viaje.** Estar tres semanas
   fuera de casa en unos días concretos es un dato personal que no aporta nada
   al lector y que, una vez indexado, no se retira. El viaje se sitúa ahora por

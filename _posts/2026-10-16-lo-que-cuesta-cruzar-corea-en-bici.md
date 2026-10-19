@@ -234,8 +234,8 @@ pero poco.
 
 ## Lavadora y secadora: casi siempre gratis
 
-Esto merece apartado propio porque es lo que decide cuánta ropa metes en las
-la mochila, y es la mejor noticia del viaje.
+Esto merece apartado propio porque es lo que decide cuánta ropa metes en la
+mochila, y es la mejor noticia del viaje.
 
 En los alojamientos de la ruta hay **lavadora y secadora**, y **basta con
 pedirlas**. Te dejan usar las dos, **con el jabón incluido**, sin cobrar nada.

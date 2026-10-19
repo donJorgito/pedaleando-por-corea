@@ -46,7 +46,7 @@ donde está el mercado nocturno. Cenamos por **20.000 wones los tres**, unos
 ## Y la lavadora
 
 Ese día pusimos lavadora, y fue **la única vez en todo el viaje que pagamos
-por lavar**: **5.000 wones el lavado y 3.000 el secado**. En los moteles de
+por lavar**: **4.000 wones el lavado y 4.000 el secado**. En los moteles de
 la ruta nos las habían dejado gratis con solo pedirlas.
 
 Ocho mil wones en veinticuatro días. No está mal.

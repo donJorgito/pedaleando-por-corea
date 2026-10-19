@@ -211,8 +211,11 @@ pero poco.
 
 ## Moverse sin la bici
 
-- **Bus del aeropuerto de Incheon al centro de Seúl**: 17.000 wones por persona
-  (unos 11 €).
+- **Del aeropuerto de Incheon al centro de Seúl**: nosotros pagamos el **bus**,
+  17.000 wones por persona (unos 11 €). En **metro** habrían sido unos **4.900
+  por cabeza**, y un **Uber** para los tres, de 48.000 a 60.000 — es decir,
+  casi lo mismo que el bus yendo tres. Lo cogimos por puro cansancio;
+  [lo cuento en el día 3]({% post_url 2026-10-19-dia-03-llegada-a-seul %}).
 - **KTX de Busan a Seúl** para la vuelta: 104,20 € los tres, **34,73 € cada
   uno**.
 - **Buses a excursiones** (ida y vuelta al templo de Haeinsa desde Daegu):

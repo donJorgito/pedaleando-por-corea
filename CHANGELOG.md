@@ -9,6 +9,10 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 ### Added
 
+- El día 3 compara las tres formas de bajar de Incheon al centro (metro
+  ~4.900 wones/persona, bus 17.000, Uber 48.000-60.000 el trayecto) y explica
+  por qué cogimos el bus pese a no ser la opción sensata.
+- `blog.RQ006` valida también los enlaces Liquid `post_url` entre entradas.
 - La portada lista las jornadas **en orden, del día 1 en adelante**, en vez
   del orden inverso que trae el tema por defecto, y separa las entradas
   temáticas en su propia sección.

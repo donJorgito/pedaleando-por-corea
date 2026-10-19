@@ -13,17 +13,37 @@ dia: 3
 A las **15:16** hora local tocamos tierra en el **aeropuerto de Incheon**.
 Cincuenta horas después de salir de casa, por fin Corea.
 
-## Del aeropuerto al centro: el bus
+## Del aeropuerto al centro: las tres opciones, y lo que hicimos
 
-Hay tres formas de bajar de Incheon a Seúl —tren exprés, bus y taxi— y
-nosotros cogimos el **bus**: **17.000 wones por persona**, unos 11 €, para los
-**49 km** que separan el aeropuerto del centro.
+Son **49 km** de Incheon al centro de Seúl y hay tres maneras de bajar. Estos
+son los precios que miramos allí mismo, recién aterrizados:
 
-Es la opción que recomendaría llegando con equipaje y con el cuerpo cambiado
-de hora: sale de la misma terminal, te deja cerca de los hoteles del centro,
-vas sentado y sin transbordos, y te da una primera hora de ciudad por la
-ventanilla que el metro no te da. Tardamos **casi cinco horas** entre esperar,
-rodar y llegar al hotel: a las **20:11** estábamos en Seúl.
+| Opción | Precio | Para tres |
+| --- | ---: | ---: |
+| **Metro / tren** | ~4.900 wones por persona | ~14.700 |
+| **Bus al centro** | 17.000 wones por persona | 51.000 |
+| **Uber** | — | 48.000 – 60.000 |
+
+Dos conclusiones que no esperábamos. La primera: **el metro es la opción
+sensata**, más rápido y más de tres veces más barato. La segunda: **el Uber
+sale prácticamente igual que el bus** yendo tres, porque el bus se paga por
+cabeza y el coche no. En grupo, el taxi deja de ser el capricho que uno
+supone.
+
+Y aun así cogimos el bus. Llevábamos cincuenta horas de puerta a puerta y
+estábamos demasiado espesos para empezar el viaje peleándonos con
+transbordos, máquinas de billetes y salidas de metro en un alfabeto que no
+sabíamos leer.
+
+No nos arrepentimos, porque el bus resultó ser **una barbaridad de cómodo**:
+butacones enormes y reclinables, de los de dormir de verdad, durante la hora y
+media de trayecto hasta el centro. Entre aterrizar, pasar los trámites,
+esperar y rodar, a las **20:11** estábamos en Seúl.
+
+**Qué haríamos otra vez**: el metro. Es más rápido y mucho más barato, y
+llegando descansado no tiene ninguna dificultad. Pero si aterrizas fundido
+después de dos días de aviones, esos 17.000 wones compran hora y media de
+sueño, y eso también vale dinero.
 
 ## Las tres cosas que conviene resolver nada más llegar
 

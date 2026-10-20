@@ -9,6 +9,24 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 ### Added
 
+- El día 3 cuenta **dónde fue la primera cena**: **다올 숯불구이 명동점
+  (DAOL)**, 명동8길 8-11, un asador de carbón de Myeongdong elegido en el bus
+  desde el aeropuerto. Qué se pidió —tiras de ternera, panceta, los banchan,
+  el ssamjang, el ajo crudo, cerveza Terra— y el rango de precios de su
+  carta, que explica los 107.000 wones. Identificado por el enlace de Naver
+  Map que circuló por el grupo, que resuelve a esa ficha exacta.
+
+- El día 5 se reordena a como pasó y se completa:
+  - **Tongin** pasa a tener sección propia, con el picoteo de las 11:46.
+  - **토속촌 (Tosokchon)**, el asador de pollos con la cola en la puerta por
+    el que pasaron de largo, y lo que les dijo un español que salía. Se deja
+    escrito que la mención a la guía Michelin **no se sostiene**: el sitio no
+    figura en ella.
+  - **Deoksugung** y el chaparrón que les mandó al metro, que faltaban.
+  - **Gwangjang** se amplía con lo que se comió de verdad: 순대, 떡볶이,
+    돼지껍데기 y 어묵 con su caldo, además del bindaetteok y el mayak gimbap
+    que ya estaban.
+
 - El día 22 pasa de ser solo el del KTX a contar el día entero: la cita de
   **bótox** en una clínica de Myeongdong (12:48), la comida en el **명동교자
   본점** —퇴계로 129, en la guía Michelin de Seúl, carta de cuatro platos,
@@ -201,6 +219,10 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
   castellano como el resto del repositorio.
 
 ### Fixed
+
+- **KakaoMap en bus y metro no es un hueco en la tabla.** La comparativa del
+  día 3 dejaba la casilla vacía, como si no sirviera; va solo un poco por
+  detrás de Naver Map y se puede usar perfectamente.
 
 - **El último trayecto en coche eran unos 450 km, no 245.** El día 24 daba
   245 km de Madrid a Pilar de la Horadada; por carretera son unos 450, cerca

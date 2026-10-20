@@ -40,6 +40,40 @@ marea de gente a cualquier hora. Es donde se deja el dinero en cosmética
 coreana quien venga a eso — y dos de nosotros venían a eso. Aquí se remató la
 compra que habían empezado el día anterior en Busan.
 
+### La casa-santuario de la dueña
+
+Pero lo que no se olvida de ese alojamiento no es el alojamiento: es la
+dueña.
+
+Ella y su hermana —se presentaron como **Momo y Koko**— son **fans
+declaradas de 이찬원 (Lee Chan-won)**, y la casa es un santuario. Nada más
+entrar, el pasillo y la escalera están forrados de **pósteres, fotos
+enmarcadas bajo tiras de neón, vitrinas con cromos y hasta un traje de
+escenario de lentejuelas colgado en un marco**. Uno de los carteles es de su
+club de fans global: «이燦ONE 세계무대로 가즈아», «Lee Chan-won, a los
+escenarios del mundo».
+
+Y aquí está la parte que no esperas: **이찬원 no es un ídolo de K-pop.** Es
+un cantante de **trot**, el género popular coreano de toda la vida —algo así
+como lo que la copla es en España—, nacido en Ulsan en 1996, que se hizo
+famoso en 2020 quedando **séptimo en el concurso de televisión *Mr. Trot***
+y al que en Corea llaman **찬또배기 (Chantobaegi)**. Y mueve fandom de
+estadio, con clubes internacionales y todo.
+
+La señora nos llevó al pasillo, nos **hizo suscribirnos a su canal**, nos
+colocó en fila delante de los pósteres, nos hizo las fotos — y **nos regaló
+un álbum suyo a cada uno**: tres cajas planas y precintadas con la cara del
+cantante en la portada, del tamaño de un CD pero sin disco dentro.
+
+Fue intensa. Pero del tipo de intensidad que te alegra el día: se comunicaba
+con el traductor del móvil y nos dejó escrito cómo llegar a la estación de
+Myeongdong —«si sales de mi casa, bajas las escaleras y caminas recto hacia
+la derecha durante 6 minutos»— con el mismo entusiasmo con el que nos
+enseñaba las vitrinas.
+
+Tres semanas cruzando Corea en bici y el último alojamiento acabó siendo el
+más memorable.
+
 ## El bótox, antes de nada
 
 Lo primero del día, nada más soltar las mochilas, fue una cita que venía de
@@ -114,19 +148,31 @@ sopa caliente, y tiene todo el sentido del mundo.
 
 Abren de **11:00 a 22:00**.
 
-## La maleta
+## Las maletas, y dónde se compran
 
-Ya de noche, en el **Daiso** de Myeongdong, se compró **una maleta de ruedas
-por 10.000 wones**, menos de siete euros, para poder facturar de vuelta todo
-lo comprado. Como habíamos ido con mochila y el billete incluía bulto en
-bodega, el hueco estaba libre.
+Habíamos ido **solo con mochila**, pero el billete incluía bulto en bodega, así
+que a la vuelta el hueco estaba libre y había que llenarlo con todo lo
+comprado. Hubo que comprar equipaje de última hora, y salieron dos bultos de
+dos sitios distintos:
 
-Una maleta de seis euros y medio sale más barata que cualquier recargo por
-exceso de equipaje. Si vas a comprar cosmética, cuenta con ello.
+- En el **Daiso** de Myeongdong, **una maleta normal, sin ruedas, por 5.000
+  wones**. Tres euros y pico.
+- Y la de ruedas, en **un puesto de los 지하상가**, las galerías comerciales
+  subterráneas que conectan las estaciones de metro de Seúl: **10.000
+  wones**, menos de siete euros.
+
+Esos pasadizos subterráneos son un mundo en sí mismo —cientos de puestos de
+ropa, bolsos, maletas y electrónica bajo las calles— y son el sitio donde
+resolver cualquier cosa que te haga falta a última hora, más baratos que el
+Daiso para algunas cosas y abiertos hasta tarde.
+
+Diez euros entre las dos maletas. Menos que cualquier recargo por exceso de
+equipaje. Si vas a comprar cosmética, cuenta con ello.
 
 ---
 
 **Datos del día** · Busan → Seúl en KTX (34,73 € por persona) · Myeongdong ·
-Alojamiento: Soo Guest House, 150.000 wones · Comida: 명동교자 본점 ·
+Alojamiento: Soo Guest House, 150.000 wones, y la casa-santuario de su dueña ·
+Comida: 명동교자 본점 ·
 Cena: mandus callejeros (12.000 wones) y barbacoa en 조박사등갈비 ·
-Maleta: 10.000 wones.
+Maletas: 5.000 en Daiso y 10.000 en los 지하상가.

@@ -9,6 +9,15 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 ### Added
 
+- El día 22 cuenta **la casa-santuario del último alojamiento**: la dueña y su
+  hermana son fans de **이찬원 (Lee Chan-won)**, el pasillo está forrado de
+  pósteres, vitrinas y un traje de escenario enmarcado, y les hizo
+  suscribirse a su canal, les hizo las fotos y les regaló un álbum a cada
+  uno. Con el dato que da la vuelta a la anécdota: **no es K-pop, es trot**
+  —el género popular coreano—, y el cantante se hizo famoso quedando séptimo
+  en *Mr. Trot* en 2020. El nombre salió del propio cartel del club de fans
+  que aparece en la foto.
+
 - **Los sitios donde se cenó empiezan a tener nombre y enlace a Naver Map.**
   Esta tanda cubre:
   - Día 6: **진미통닭**, en la calle del pollo frito de Suwon (정조로800번길
@@ -267,9 +276,15 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - **Los 55,50 € del día 24 no eran transporte, eran la comida.** Es el
   almuerzo en el restaurante Marino de Honrubia, 18,50 € por cabeza.
 
-- **La maleta de Daiso se compró el día 22 en Myeongdong, no el 21 en
-  Busan.** Estaba contada en los dos sitios; el apunte de gastos la fecha ya
-  en Seúl, así que se queda solo en el día 22.
+- **Las maletas eran dos, y la de ruedas no era de Daiso.** En Daiso se
+  compró una normal, sin ruedas, por 5.000 wones; la de ruedas salió de un
+  puesto de los 지하상가, las galerías subterráneas del metro de Seúl, por
+  10.000. Corregido en la entrada del día 22 y en la de presupuesto, que
+  atribuían las dos cosas a Daiso.
+
+- **La maleta se compró el día 22 en Myeongdong, no el 21 en Busan.** Estaba
+  contada en los dos sitios; el apunte de gastos la fecha ya en Seúl, así que
+  se queda solo en el día 22.
 
 - **El gasto de cosmética fue de dos días, no de uno.** Los cerca de 300 €
   por cabeza se repartieron entre el día de tiendas en Busan y el día

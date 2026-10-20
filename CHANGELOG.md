@@ -9,9 +9,10 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 ### Added
 
-- **Cuarta tanda de fotos** (`blog.RQ010`), **13 más**, para engordar los días
+- **Cuarta tanda de fotos** (`blog.RQ010`), **21 más**, para engordar los días
   que se habían quedado con dos o tres: el día 10 (Yeoju → Chungju) sube de 2
-  a 8 y el día 11 (el puerto de Ihwaryeong) de 3 a 10. Entran el paso por
+  a 8, el día 11 (el puerto de Ihwaryeong) de 3 a 10 y el día 12 (Sangju y el
+  principio del Nakdong) de 3 a 11. Entran el paso por
   encima de la presa de 강천보, el **gato azul de 강천섬** —la escultura que se
   queda sin nombre porque el cartel no se lee—, el camino de 탄금대, el cruce
   de moteles de 용교리 con su castillo de neón, la carta del bunsik y la cena
@@ -47,6 +48,43 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
   que hicimos**, y que el carril se llama 새재 자전거길 por un paso, el
   문경새재, **por el que no pasa**: cruza por Ihwaryeong, cuatro kilómetros al
   suroeste.
+
+  Del día 12 entran ocho: el **pasaporte abierto en la página del Nakdonggang**
+  delante de la cabina del 상주상풍교, el museo de la bicicleta de Sangju por
+  fuera y su **biciclo** por dentro, el **túnel de luz de 원평동** al
+  anochecer, y la cena entera —la mesa con la parrilla y los platillos, la
+  tabla de hanwoo, **la pantalla del traductor del cocinero** y la foto con
+  él—. La página del pasaporte es la que más ha dado: de ahí salen las
+  **distancias entre cabinas** impresas en el mapa (11 km al 상주보, 17 al
+  낙단보, 19 al 구미보, 35 al de Chilgok → 47 km de sello a sello ese día) y la
+  letra pequeña del pie, que dice que el tramo del Nakdong del 국토종주, de
+  상주상풍교 a 낙동강하구둑, mide **324 km** — o sea que al sellar el 상풍교
+  quedaban 324 de los 633 y aún no se había llegado a la mitad.
+
+  Dos **correcciones** del día 12 contra la evidencia. El sello del 상풍교 pasa
+  de **10:26 a 10:12**, que es la hora de la foto en la que el sello **ya está
+  puesto** en el pasaporte (las 10:26 eran las fotos de grupo, un cuarto de
+  hora después). Y se cae lo de que «en el patio de fuera hasta prestan bicis
+  raras para dar una vuelta»: lo que hay es una **fila de bicis antiguas
+  apoyadas en la barandilla de la terraza** y, dentro, un biciclo **atornillado
+  a una peana** para subirse a hacerse la foto. Se describe lo que se ve.
+
+  Hallazgos de leer los rótulos con lupa: el cartel oficial de la cabina dice
+  **«SANGJUSANGPUNG BRIDEG»**, con la G y la E cambiadas; la pancarta del museo
+  anuncia el **주말 문화학교** en el salón multiusos del 2.º piso, **el 2.º y el
+  4.º domingo de cada mes de 13:00 a 16:00**; y las cámaras del asador son
+  **음이온 해동숙성고** de marca **Everest**, cámaras de descongelado y
+  maduración por iones negativos.
+
+  Privacidad y criterio del día 12 (`blog.RQ005`): la pantalla del traductor se
+  publica **entera** porque no hay en ella ningún dato personal —solo
+  «스페인어» y el botón «새 번역»— y porque es la prueba de que la cita larga del
+  post está transcrita palabra por palabra. La foto **con el cocinero** se
+  publica **sin difuminar y sin nombre**: posó él, abrazado a los dos, y no hay
+  ningún dato identificativo a la vista. El placard de precios de la mesa se
+  comprobó al 300 %: no se lee nada. Y el túnel de luz **se queda sin nombre a
+  propósito**: no hay cartel en la foto y no se ha podido verificar que tenga
+  uno, así que se dice eso.
 
 - **Tercera tanda de fotos** (`blog.RQ010`), **44 más**, que completan los
   días 13 a 24: el campo de 핑크뮬리 y la cena de Daegu; el día de descanso

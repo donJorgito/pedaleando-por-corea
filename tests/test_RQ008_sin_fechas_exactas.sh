@@ -67,7 +67,7 @@ done
 #    ("octubre de 2026") y las fechas que no son del itinerario, que van
 #    listadas abajo como excepciones comprobadas una a una.
 EXCEPCIONES='octubre de 1978'
-for f in _posts/*.md index.md README.md; do
+for f in _posts/*.md index.md README.md mapa.html; do
   [ -f "$f" ] || continue
   # La fecha de publicación del front matter la validan los puntos 3 y 4;
   # aquí se mira solo la prosa.

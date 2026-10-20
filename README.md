@@ -45,11 +45,17 @@ pre-commit run --all-files         # obligatorio antes de cada push
 | `_config.yml` | `url` + `baseurl` | dirección pública del sitio |
 | `_config.yml` | `plugins` | SEO e indexación |
 | `_posts/*.md` | `title`, `date`, `description`, `tags` | metadatos de cada entrada |
+| `mapa.html` | `permalink: /mapa/` | la página del mapa, que se genera y no se escribe a mano |
 
 ## Dependencias
 
-Ninguna dependencia en tiempo de ejecución: el sitio es estático. Las acciones
-de CI/CD están pineadas al SHA de 40 caracteres con el semver en comentario.
+El sitio es estático y las entradas no cargan nada de fuera. La única
+excepción es la página del mapa (`/mapa/`), que en el navegador del lector
+carga **Leaflet** desde `unpkg` y las teselas de **OpenTopoMap** y **Esri**:
+un mapa sin teselas no es un mapa. Van pineadas por versión en la propia URL.
+
+Las acciones de CI/CD están pineadas al SHA de 40 caracteres con el semver en
+comentario.
 
 ## Versiones en uso
 
@@ -62,6 +68,7 @@ de CI/CD están pineadas al SHA de 40 caracteres con el semver en comentario.
 | `actions/deploy-pages` | v5.0.1 |
 | `gitleaks/gitleaks-action` | v3.0.0 |
 | `DavidAnson/markdownlint-cli2-action` | v24.2.0 |
+| Leaflet (solo en `/mapa/`) | 1.9.4 |
 | Runner | `ubuntu-24.04` |
 
 ## Documentación de apoyo

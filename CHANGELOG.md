@@ -9,6 +9,29 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 ### Added
 
+- **El mapa de la ruta, publicado en el propio sitio** (`blog.RQ011`), en
+  `/mapa/` y enlazado desde la portada y desde la cabecera: los cinco
+  carriles bici oficiales por colores, el **trazado real reconstruido con el
+  GPS de las fotos** de cada jornada, las **31 cabinas** con las que se
+  sellaron marcadas aparte, los **8 alojamientos** con su precio y los puntos
+  que se fueron guardando en KakaoMap. Tres fondos de mapa (relieve, callejero
+  y satélite) y leyenda.
+
+  Hasta ahora ese mapa solo existía servido desde una Raspberry Pi de casa.
+  Ahora lo sirve GitHub Pages como el resto del blog, así que no depende de
+  que haya luz en el salón.
+
+  Lo que no se publica: el mapa de trabajo del que sale está **fechado** —
+  pistas por día de calendario, hora exacta de cada sello, noche de cada
+  alojamiento—, así que la página la genera
+  `_tools/generar-mapa-publico.py`, que coge solo las coordenadas, traduce
+  **todas** las fechas a «día N», tira los campos internos del proceso (la
+  distancia entre la foto y la cabina, cuándo se guardó cada punto) y
+  **aborta sin escribir nada** si en la salida queda algo con forma de fecha.
+  La fecha de salida del viaje se le pasa por argumento: es el único dato que
+  convierte un día de calendario en un número de jornada y no está escrita en
+  ningún fichero del repositorio.
+
 - **Segunda tanda de fotos** (`blog.RQ010`), **23 más**: el avión y el salto
   largo, el robot Taekwon V, Bukchon, Changdeokgung con sus 잡상 y su 책가도,
   el cambio de guardia de Gyeongbokgung, el 거북선 de 충무공이야기, Gwangjang,
@@ -302,6 +325,13 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
   presupuesto final realista de 2.300 € por cabeza.
 
 ### Changed
+
+- **Dos gates que no miraban donde hacía falta.** `blog.RQ008` comprobaba las
+  fechas en la prosa de las entradas, el índice y el `README`, así que una
+  página nueva como `mapa.html` entraba sin pasar por ahí: ahora también la
+  recorre. Y `blog.RQ006` solo sabía resolver `post_url` entre entradas, de
+  modo que daba por roto cualquier enlace a una página del sitio: ahora
+  comprueba que exista una página que declare ese `permalink`.
 
 - `actions/configure-pages` sube a v6.0.0. La tabla de versiones del
   `README` se actualiza con ella.

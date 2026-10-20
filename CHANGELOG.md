@@ -9,9 +9,10 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 ### Added
 
-- **Cuarta tanda de fotos** (`blog.RQ010`), **30 más**, para engordar los días
-  que se habían quedado con dos o tres: el día 8 (de Seúl al kilómetro 0) sube
-  de 3 a 12, el día 10 (Yeoju → Chungju) de 2
+- **Cuarta tanda de fotos** (`blog.RQ010`), **41 más**, para engordar los días
+  que se habían quedado con dos o tres: el día 6 (Suwon y la Torre N) sube de
+  3 a 14, el día 8 (de Seúl al kilómetro 0) de 3 a 12, el día 10 (Yeoju →
+  Chungju) de 2
   a 8, el día 11 (el puerto de Ihwaryeong) de 3 a 10 y el día 12 (Sangju y el
   principio del Nakdong) de 3 a 11. Entran el paso por
   encima de la presa de 강천보, el **gato azul de 강천섬** —la escultura que se
@@ -100,6 +101,38 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
   de precios de la carta tal como estaba esa noche y el dato de que los
   **정식** del mediodía van a 11.000 y 12.000 wones, que es lo que respalda el
   «sitio de barrio para oficinistas» que ya decía el texto.
+
+  Y del día 6 entran once, que es el día que peor parado estaba: tres fotos
+  para una fortaleza Patrimonio de la Humanidad, un palacio, nueve mercados y
+  una torre. Ahora están el **LOVE del parque de 장안**, la **puerta norte** de
+  Hwaseong desde los escalones y su placa en hanja —**長安門**, legible en la
+  foto—, el **수원천** corriendo por dentro de la muralla, las figuras
+  recortadas y el **patio del 우화관** en el palacio, el logo de **«JINMI
+  CHICKEN SINCE 1981»** en el cristal de la pollería, **las dos bandejas** de
+  pollo en la mesa, una galería del mercado cubierto, Seúl de noche desde
+  Namsan y los **candados** del mirador.
+
+  Con ellas el post gana cuatro secciones y los datos que las sostienen, todos
+  verificados: la muralla mide **5,74 km** y se hizo entre **1794 y 1796** con
+  el diseño de **Jeong Yak-yong**, que se inventó una grúa y un carro para
+  abaratarla y lo anotó todo en el **화성성역의궤**, el informe de obra que
+  permitió reconstruirla igual después de la guerra de Corea; **장안문** es la
+  puerta norte pero también la principal, porque el rey llegaba desde Hanyang,
+  se llama así por **Chang'an** y es **más grande que Namdaemun**, o sea la
+  puerta de muralla más grande del país; el **화홍문** es puerta de agua,
+  puente y puesto militar a la vez, y fue la tercera obra más cara de la
+  fortaleza; el **우화관** era la casa de huéspedes oficial y se reabrió en
+  **2024**, ciento diecinueve años después; y el **수원남문시장** no es un
+  mercado sino **nueve**, el conjunto más grande de Gyeonggi, con 220 años y
+  fundado por el mismo rey que la muralla. Se corrige de paso el orden del día:
+  entre la muralla y el pollo estuvo el palacio, que no se contaba.
+
+  Privacidad del día 6 (`blog.RQ005`): en la foto de la mesa se han
+  **mosaicado dos caras** de la mesa de al lado —una con gafas, perfectamente
+  reconocible a 844 px—. En la del mercado no hizo falta: comprobado al 400 %,
+  lo que parecía una cara de frente es un cogote. Y se descarta la foto del
+  rótulo de la parada de autobús climatizada, que lleva dos teléfonos
+  impresos.
 
   Criterio del día 8: no hizo falta difuminar nada (`blog.RQ005`), porque las
   únicas caras son las de los tres y el único tercero es un ciclista de

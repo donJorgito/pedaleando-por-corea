@@ -3,9 +3,9 @@ title: "Día 5 · Cambio de guardia, mercados de Seúl y el caballito de Gangnam
 date: 2026-10-19 08:08:00 +0200
 description: >-
   Gyeongbokgung y su cambio de guardia, la Casa Azul, el museo del barco
-  tortuga, los mercados de Tongin y Gwangjang y la Starfield Library del
-  COEX. Comer en un mercado coreano por seis euros entre tres.
-tags: [corea, seul, mercados, gwangjang, gangnam, coex, biblioteca, comida, dia-a-dia]
+  tortuga, Deoksugung bajo la lluvia, los mercados de Tongin y Gwangjang y la
+  Starfield Library del COEX. Qué se come en un mercado coreano y por cuánto.
+tags: [corea, seul, mercados, tongin, gwangjang, deoksugung, gangnam, coex, biblioteca, comida, dia-a-dia]
 layout: dia
 dia: 5
 ---
@@ -34,31 +34,86 @@ diez minutos del bullicio.
 
 ## El museo del barco tortuga
 
-A la una entramos en el **museo Chungmugong**, dedicado al almirante **Yi
-Sun-sin**, el mismo de la estatua de Gwanghwamun, y a sus **barcos tortuga**
-(거북선): los navíos acorazados con los que derrotó a la flota japonesa en el
-siglo XVI. Es pequeño, está bien montado y explica por qué ese hombre está en
-todas partes en Corea.
+Pero antes de entrar ahí habíamos hecho la primera parada de comer del día,
+que conviene contar aparte.
 
-## Comer en los mercados: lo mejor y lo más barato
+## Tongin: picotear por seis euros entre tres
 
-Aquí está el consejo del día, y es de los buenos. Ese día comimos en dos
-mercados y nos gastamos esto **entre tres**:
+A las **11:46** estábamos picoteando en el **mercado de Tongin (통인시장)**,
+en Seochon, el barrio de callejuelas que queda al oeste de Gyeongbokgung. Es
+un mercado de barrio, cubierto y estrecho, nada preparado para el turista.
+
+Nos salió por esto, **entre los tres**:
 
 | Qué | Wones | € |
 | --- | ---: | ---: |
-| Sushi del mercado de **Tongin** | 10.000 | 6,42 |
-| Patatitas y cerveza en Tongin | 10.200 | 6,55 |
-| Fritanga y empanadillas en **Gwangjang** | 45.000 | 28,88 |
-| Torta frita de marisco en el mercado | 10.000 | 6,42 |
+| Sushi del mercado | 10.000 | 6,42 |
+| Patatitas y cerveza | 10.200 | 6,55 |
 
-El **mercado de Gwangjang** es una institución: pasillos de puestos con
-banquetas, y la gente comiendo de pie o en la barra. Lo clásico son los
-**bindaetteok** —tortas fritas de judía mungo, que se hacen a la vista— y el
-**mayak gimbap**, el «gimbap droga», que se llama así por lo que engancha.
+Seis euros y medio entre tres por cada cosa. Nos fuimos de allí con el
+estómago resuelto, y eso tuvo consecuencias.
 
-Comer así no es solo barato: es donde está la comida de verdad. **Seis euros
-entre tres** por una comida de mercado, y te vas lleno.
+### El asador de pollos al que no entramos
+
+Bajando de Tongin hacia el sur, por las callejuelas de **체부동**, pasamos
+por la puerta de **토속촌 (Tosokchon)**, en 자하문로5길 5, a doscientos metros
+de la salida 2 del metro de Gyeongbokgung. Es una casa de **삼계탕** —el
+pollo entero relleno de arroz y ginseng, cocido en su caldo— y de **전기구이
+통닭**, pollo asado al horno eléctrico.
+
+Y había **una cola tremenda**. De esas que doblan la esquina.
+
+Un español que salía en ese momento nos paró para decirnos que estaba
+buenísimo y que era de los sitios famosos del barrio. Pero veníamos de
+picotear en Tongin, no teníamos hambre y la cola no invitaba, así que
+seguimos andando.
+
+Lo cuento por dos motivos. El primero, práctico: **si quieres comer ahí, ve
+con hambre y ve pronto**; con más de 15.000 reseñas en Naver Map, la cola es
+la norma, no la excepción. El segundo, por honestidad: a nosotros nos
+dijeron que el sitio tenía mención de la guía Michelin, y repasándolo luego
+**no aparece en la guía**. Tiene algo probablemente mejor, que es sesenta
+años de fama y una cola en la puerta a diario.
+
+## Deoksugung, y entonces se puso a llover
+
+Después del museo nos quedaba palacio, así que a las **14:00** nos fuimos al
+**palacio de Deoksugung (덕수궁)**, el más céntrico de los cinco, pegado al
+ayuntamiento, con esa mezcla rara de pabellones de madera y edificios de
+piedra de estilo occidental de principios del siglo XX.
+
+Y ahí se acabó el plan a pie: **se puso a llover con ganas**. Así que desde
+el propio palacio bajamos al metro y nos fuimos al otro mercado, que estaba
+a cubierto.
+
+## Gwangjang: aquí sí comimos de verdad
+
+A las **15:12** entrábamos en el **mercado de Gwangjang (광장시장)**, y esto
+ya fue una comida en condiciones. Es una institución: pasillos de puestos con
+banquetas, la gente comiendo de pie o apretada en una barra, y la cocinera
+trabajando a medio metro de tu plato.
+
+Nos salió por **45.000 wones los tres** la fritanga y las empanadillas, más
+**10.000** de una torta frita de marisco. Unos 35 € entre tres para hartarse,
+y lo que fue cayendo da para una lista:
+
+- **순대 (sundae)** — la morcilla coreana: tripa rellena de fideos de
+  boniato y sangre, cortada en rodajas y servida con sal con pimienta.
+- **떡볶이 (tteokbokki)** — los cilindros de pastel de arroz en salsa roja
+  picante y dulce. El plato más popular del país.
+- **돼지껍데기** — piel de cerdo a la plancha, gelatinosa y crujiente a la
+  vez. De las cosas que no vas a pedir en un restaurante y aquí se piden
+  solas.
+- **어묵 (eomuk)** — el pastel de pescado ensartado en un palo, hirviendo en
+  su caldo. Coges el palo, te sirves un vaso del caldo en el que están
+  cociendo, y pagas al final por los palos que has dejado. En octubre, con
+  la humedad de Seúl, ese caldo caliente vale su peso en oro.
+- **빈대떡 (bindaetteok)** — las tortas fritas de judía mungo que se hacen a
+  la vista, chisporroteando en sartenes del tamaño de una rueda.
+- **마약김밥 (mayak gimbap)** — el «gimbap droga», que se llama así por lo
+  que engancha.
+
+Comer así no es solo barato: es donde está la comida de verdad.
 
 Hubo también un gasto de **2.000 wones en gachapones** que alguien se apuntó
 religiosamente en las cuentas del grupo. Corea es un país peligroso para quien
@@ -98,7 +153,7 @@ en la [página oficial](https://m.starfield.co.kr/coexmall/library/intro?lang=en
 
 ---
 
-**Datos del día** · Seúl a pie y en metro · Gyeongbokgung, Casa Azul, museo
-Chungmugong, mercados de Tongin y Gwangjang, COEX y la Starfield Library ·
-Comida y cena de mercado: 75.200 wones los tres · Alojamiento: Seúl ·
-Mañana: Suwon y su fortaleza.
+**Datos del día** · Seúl a pie y en metro · Gyeongbokgung, Casa Azul,
+Tongin, museo Chungmugong, Deoksugung bajo la lluvia, Gwangjang, COEX y la
+Starfield Library · Comida y cena de mercado: 75.200 wones los tres ·
+Alojamiento: Seúl · Mañana: Suwon y su fortaleza.

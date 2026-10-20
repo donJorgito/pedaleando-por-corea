@@ -60,6 +60,28 @@ Por orden de urgencia real:
 
 ## La primera cena
 
+Soltamos las mochilas y salimos a cenar a las nueve pasadas, a **다올
+숯불구이 명동점 (DAOL)**, en 명동8길 8-11: un asador de carbón en pleno
+**Myeongdong**. Lo elegimos en el bus desde el aeropuerto, entre tres o cuatro
+fichas de Naver Map que nos fuimos pasando por el grupo.
+
+Fue la entrada en materia perfecta, porque la **barbacoa coreana** acabó
+siendo lo que más repetimos en todo el viaje. Funciona así: la mesa lleva
+**una parrilla de carbón encastrada en el centro**, te traen la carne cruda y
+la vas haciendo tú con unas pinzas.
+
+Pedimos carne para los tres —**tiras finas de ternera** y una pieza más
+gruesa de **panceta**— y con ella llegó lo que en Corea viene siempre, gratis
+y sin pedirlo: lechuga y hojas de perilla para envolver, **kimchi**, rábano
+encurtido, ensalada de col, **ssamjang** —la pasta de soja y guindilla con la
+que se unta—, **ajo crudo en láminas** para asarlo en un hueco de la parrilla
+y un cuenco de aceite de sésamo con sal para mojar. Y cerveza **Terra**, una
+de las dos marcas que vas a ver en todas partes.
+
+En su carta la carne va de los **18.000 wones** de la panceta madurada a los
+**67.000** del solomillo de *hanwoo*, la vaca autóctona coreana. Cierran a
+las diez.
+
 **107.000 wones los tres**, unos 69 €. Es, con diferencia, la cena más cara
 de todo el viaje, y no porque fuera la mejor: porque llegas con hambre de
 avión, no sabes todavía lo que cuestan las cosas y pides de más.
@@ -107,13 +129,14 @@ Dicho eso, esto es lo que me funcionó:
 
 | | A pie | Bus y metro | En bici |
 | --- | --- | --- | --- |
-| **Naver Map** | Muy bien. La mejor | Muy bien | **Muy mal** |
-| **KakaoMap** | Peor que Naver | — | **La mejor** |
+| **Naver Map** | Muy bien. La mejor | Muy bien. La mejor | **Muy mal** |
+| **KakaoMap** | Peor que Naver | Un poco peor que Naver | **La mejor** |
 
 Resumido: **para moverte por la ciudad, andando o en transporte público,
 Naver Map**; **sobre la bici, KakaoMap**. En mi experiencia no es un matiz:
-Naver navegando en bici va francamente mal, y Kakao a pie se queda corta al
-lado de Naver.
+Naver navegando en bici va francamente mal, mientras que Kakao en bus y metro
+solo va un poco por detrás —se puede usar perfectamente— y a pie sí se queda
+corta al lado de Naver.
 
 Acabamos con las dos instaladas, saltando de una a otra según fuéramos
 pedaleando o paseando. Para la ruta, además, KakaoMap tiene marcadas las
@@ -133,5 +156,6 @@ engorro a las once de la noche del primer día.
 ---
 
 **Datos del día** · Hong Kong → Incheon → Seúl · 2.067 km en avión + 49 km en
-bus · Bus del aeropuerto 17.000 wones/persona · Cena 107.000 wones los tres ·
-Alojamiento: Seúl, cinco noches reservadas · Mañana: el centro histórico a pie.
+bus · Bus del aeropuerto 17.000 wones/persona · Cena: barbacoa en 다올
+숯불구이 명동점, 107.000 wones los tres · Alojamiento: Seúl, cinco noches
+reservadas · Mañana: el centro histórico a pie.

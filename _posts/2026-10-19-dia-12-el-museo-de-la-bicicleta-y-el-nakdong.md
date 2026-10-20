@@ -5,10 +5,11 @@ layout: dia
 dia: 12
 description: >-
   De Mungyeong a Gumi: el museo de la bicicleta de Sangju (gratis), el cambio
-  al río Nakdong y las presas de Sangju, Nakdan y Gumi. Y la barbacoa más cara
-  del viaje, donde el cocinero nos regaló anchangsal por tener un amigo
+  al río Nakdong y las presas de Sangju, Nakdan y Gumi. La foto con el
+  ciclista coreano con el que no dejábamos de coincidir, y la barbacoa más
+  cara del viaje, donde el cocinero nos regaló anchangsal por tener un amigo
   español.
-tags: [corea, gukto-jongju, sangju, nakdonggang, gumi, cabinas, hanwoo, anchangsal, dia-a-dia]
+tags: [corea, gukto-jongju, sangju, nakdonggang, gumi, cabinas, hanwoo, anchangsal, gente, dia-a-dia]
 ---
 
 Después del día de los puertos tocaba uno de recompensa, y lo fue: **todo
@@ -42,6 +43,37 @@ pedaleado**. Doce días dentro y aún no habíamos llegado a la mitad.
 Un detalle de regalo: fíjate en el cartel azul de la caseta. Dice
 **SANGJUSANGPUNG BRIDEG**. Con la G y la E cambiadas de sitio, en una cabina
 oficial del itinerario nacional.
+
+## El cuarto de la foto
+
+Y catorce minutos después del sello, a las **10:26**, en la pasarela de madera
+que hay junto a esa misma cabina, nos hicimos **la foto que más me gusta de
+todo el viaje**. Y en ella no somos tres.
+
+{% include foto.html src="dia-12-con-el-ciclista-coreano.jpg" ancho="1500" alto="1121" alt="Los tres viajeros y un ciclista coreano mayor, los cuatro en fila y abrazados por los hombros, apoyados en una barandilla de madera sobre el río Nakdong; él lleva casco rojo, gafas, cortavientos azul marino y un buff claro al cuello. Detrás, el río ancho, un puente de vigas azules y los montes." pie="Los cuatro en la pasarela del 상주상풍교, a las 10:26. Él es el del casco rojo: el ciclista coreano con el que no dejábamos de coincidir." %}
+
+El del **casco rojo y el cortavientos azul marino** es un ciclista coreano
+**jubilado, de unos sesenta y muchos** según lo que entendimos, que estaba
+haciendo la misma ruta que nosotros. No nos quedamos con su nombre: no había
+idioma común que diera para mucho más que gestos.
+
+Lo que hubo fue **insistencia del azar**. Nos lo cruzamos **en varias paradas
+y en días distintos** —no llevábamos la cuenta— hasta que dejó de ser
+casualidad y pasó a ser un saludo con la mano en cuanto nos reconocíamos de
+lejos.
+
+Y aquí, en el 상풍교, el saludo se convirtió en lo que tenía que convertirse:
+alguien propuso la foto, nos pusimos los cuatro en fila, nos echamos el brazo
+por el hombro como si nos conociéramos de siempre y listo. Mira las caras: no
+hay nada forzado ahí.
+
+Es lo que tiene una ruta lineal de 633 km. Todo el mundo va en la misma
+dirección, a velocidades parecidas, parando en los mismos sitios porque son
+los únicos sitios donde parar. **La ruta te empareja con desconocidos sin
+pedirte permiso.** Nosotros salimos de Seúl siendo tres, y durante unos días
+fuimos vagamente cuatro, sin haberlo hablado y sin poder hablarlo.
+
+Si lees esto y eres tú: gracias por la foto.
 
 Y a las **11:06** paramos en una cosa que no esperábamos: el **museo de la
 bicicleta de Sangju (상주 자전거박물관)**.
@@ -190,6 +222,7 @@ tiene ningún sentido.
 **Datos del día** · Mungyeong → Gumi · 4 cabinas: 상풍교, 상주보, 낙단보,
 구미보 · **47 km de sello a sello**, en 4 h 42 min · Desde el 상풍교 quedaban
 **324 de los 633 km** del 국토종주 · Lo mejor: el museo de la bicicleta,
-gratis y al lado del carril · Alojamiento: Sky Motel, 68.112 wones · Cena:
+gratis y al lado del carril · La foto del día: los cuatro en la pasarela del
+상풍교, con el ciclista coreano · Alojamiento: Sky Motel, 68.112 wones · Cena:
 barbacoa premium de hanwoo, 98.000 wones · Lo que no se olvida: el 안창살 que
 nos invitó el cocinero.

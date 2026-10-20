@@ -516,6 +516,39 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
   gratis con solo pedirlas, pero con 30 min de lavado y 45 de secado y la
   máquina compartida, así que hay que estar con la alarma— y un
   presupuesto final realista de 2.300 € por cabeza.
+- **Quinta tanda de fotos** (`blog.RQ010`), **seis más**, todas de mesa y de
+  gente. Cuatro son cenas que faltaban: la **cena de Myeongdong** del día 7
+  —mesa de formica, sillas de escay y cuencos de sopa, con el GPS de la foto
+  cayendo en Myeongdong— y el **bingsu de mango con gofre del 포엠** esa misma
+  noche; del día 14, los **rollos de panceta** en la plancha del puesto y los
+  tres **cenando sentados en el suelo del mercado de Seomun**, con las
+  bandejas apoyadas en un tablón delante de una persiana cerrada; y del día
+  16, el **dakgalbi ya hecho** quince minutos después de la foto del crudo que
+  ya estaba publicada.
+- **El cuarto de la foto**, apartado nuevo en el día 12 (`blog.RQ010`): el
+  **ciclista coreano** con el que el grupo no dejaba de coincidir, y la foto
+  de los cuatro abrazados en la pasarela del **상주상풍교**. La foto no estaba
+  localizada: se encontró barriendo las hojas de contacto día a día, y el
+  sitio sale del GPS de la propia imagen —36.49881, 128.26584, a diez metros
+  de la cabina de 상주상풍교, catorce minutos después del sello de las 10:12—.
+  Lo que no se puede verificar se deja marcado como lo que es: que se cruzaron
+  **en varias paradas y en días distintos** es recuerdo del grupo, no hay más
+  fotos suyas en el resto del corpus.
+
+  Privacidad de esta tanda (`blog.RQ005`): **seis caras de fondo**
+  mosaicadas —una en la cena del mercado de Seomun y cinco en la mesa de al
+  lado del asador de dakgalbi—, y comprobadas a 200 % de zoom, porque con
+  `-blur` a esos tamaños se seguían reconociendo. Se **descartó** una foto del
+  día 21 que no era de cena sino el cartel del wifi del hotel, con usuario y
+  contraseña legibles.
+
+  Y un hueco que toca documentar en vez de rellenar: **los días 1, 2, 4, 5 y
+  21 no tienen ninguna foto de cena**. No es que no se publique: es que no
+  existe en el corpus. Barriendo el EXIF de los cinco días, el 1 y el 2 no
+  tienen **ninguna** foto después de las 18:00; la tarde del 4 es la fuente de
+  Banpo y la luna gigante; la del 5, la biblioteca de Starfield y las manos
+  doradas del Gangnam Style; y del 21 solo hay el mercado de Bujeon a
+  mediodía. La pizza de aquella noche no se fotografió.
 
 ### Changed
 

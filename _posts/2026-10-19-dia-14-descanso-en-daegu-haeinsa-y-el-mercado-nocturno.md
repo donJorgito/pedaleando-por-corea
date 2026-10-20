@@ -81,6 +81,8 @@ nocturno de comida.
 
 {% include foto.html src="dia-14-mercado-de-seomun.jpg" ancho="844" alto="1500" alt="Un puesto del mercado nocturno: una mano con guante negro pasa un soplete de llama sobre dados de carne en una plancha, con ajos y pimientos verdes al lado." pie="El «steak» del puesto 24 del mercado de Seomun, soplete incluido. Diez mil wones, 6,61 € para los tres." %}
 
+{% include foto.html src="dia-14-rollos-de-panceta.jpg" ancho="844" alto="1500" alt="Plancha de un puesto de mercado con dos docenas de rollos de panceta rellenos de verdura dorándose en fila, el soplete de gas apoyado al lado y, detrás, un cartel metálico de prohibido aparcar." pie="Los rollos de panceta rellenos de verdura, en fila sobre la plancha y con el soplete a mano. Nueve mil wones, 5,95 € los tres." %}
+
 Cenamos a base de picoteo, que es como hay que hacerlo:
 
 | Qué | Wones | € (los tres) |
@@ -93,6 +95,15 @@ Cenamos a base de picoteo, que es como hay que hacerlo:
 **35.500 wones de cena entre tres**: menos de 8 € por cabeza, comiendo de
 puesto en puesto hasta no poder más. Esto es lo que hace que comer en Corea
 sea lo que es.
+
+{% include foto.html src="dia-14-la-cena-en-el-mercado.jpg" ancho="844" alto="1500" alt="Los tres viajeros sentados en el suelo del mercado delante de una persiana metálica roja pintada con cactus, comiendo con palillos de madera de unas bandejas apoyadas en un tablón: rollos envueltos en papel de aluminio, una tarrina de fideos y latas de cerveza." pie="Y la mesa resultó ser un tablón en el suelo, delante de una persiana cerrada: las bandejas, los palillos de madera y las latas. Así se cena en el mercado de Seomun." %}
+
+Porque la otra mitad del asunto es **dónde** te lo comes: los puestos te dan
+la bandeja y el sitio te lo buscas tú. El nuestro fue **un tablón apoyado en
+el suelo delante de una persiana cerrada** —pintada con cactus, que eso
+tampoco lo elegimos—, con las latas al lado y el mercado pasando por delante.
+Y no éramos los únicos sentados en el suelo, ni mucho menos los primeros en
+tener la idea.
 
 ## Lo que cuesta un día de descanso
 

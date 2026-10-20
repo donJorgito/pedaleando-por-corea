@@ -34,8 +34,13 @@ margen: había que **facturar las maletas** —las compradas la víspera, cargad
 de cosmética— y no era día para ir apurados.
 
 Sobró tiempo, y se agradeció. Incheon es un aeropuerto para pasearlo: a las
-**13:32** andábamos haciéndonos fotos con uno de **los robots que circulan por
-las terminales** guiando a la gente, y a las **14:15** estábamos en el
+**13:32** andábamos con uno de **los robots que circulan solos por las
+terminales**: te guían hasta la puerta que buscas, y además llevan **cámara y
+pantalla**, así que te hacen fotos y selfies ahí mismo, con su carita de
+dibujo animado puesta. No es una atracción montada para el turista: es cómo
+se informa a la gente en Incheon.
+
+Y a las **14:15** estábamos en el
 **Korean Traditional Culture Center**, un pequeño centro cultural dentro de la
 propia terminal, con figuras a tamaño real vestidas de **hanbok** de la corte
 de Joseon, con sus quitasoles azul y rojo. Entrada libre, para pasajeros en

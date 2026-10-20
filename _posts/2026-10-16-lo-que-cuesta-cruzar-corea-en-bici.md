@@ -40,9 +40,9 @@ cada uno, la cuenta final osciló entre 1.687 y 1.928 €.
 | --- | ---: | ---: |
 | Vuelos y seguros de viaje | 1.922,49 € | 640,83 € |
 | Alojamiento (Seúl, etapas y Busan) | 1.456,14 € | 485,38 € |
-| Comida y bebida compartida | 837,29 € | 279,10 € |
+| Comida y bebida compartida | 892,79 € | 297,60 € |
 | Bicicletas (alquiler, devolución, pasaportes) | 658,14 € | 219,38 € |
-| Transporte (buses, KTX, taxis, gasolina) | 343,21 € | 114,40 € |
+| Transporte (buses, KTX, taxis, gasolina) | 287,71 € | 95,90 € |
 | Visitas y ocio (DMZ, tours) | 200,64 € | 66,88 € |
 | Lavandería | 5,31 € | 1,77 € |
 | **Total** | **5.423,22 €** | **1.807,74 €** |
@@ -144,7 +144,7 @@ Booking no sirve, lo cuento en
 
 ## Comer
 
-**837 € entre tres en comida compartida**, que son 279 € por cabeza en 24 días:
+**893 € entre tres en comida compartida**, que son 298 € por cabeza en 24 días:
 **unos 12 € al día** por persona, y eso comiendo fuera todos los días y cenando
 siempre en restaurante o en mercado. Comer en Corea es sorprendentemente barato
 si comes donde come la gente.

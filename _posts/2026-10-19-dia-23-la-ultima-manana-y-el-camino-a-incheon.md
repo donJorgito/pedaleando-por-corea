@@ -29,7 +29,17 @@ Una hora larga de trayecto, por unos **4.900 wones** por persona en lugar de
 los 17.000 del bus. Más rápido y tres veces más barato, como ya sospechábamos
 el primer día.
 
-A las **14:35** estábamos en el **aeropuerto de Incheon**.
+A las **11:59** estábamos ya en el **aeropuerto de Incheon**, con horas de
+margen: había que **facturar las maletas** —las compradas la víspera, cargadas
+de cosmética— y no era día para ir apurados.
+
+Sobró tiempo, y se agradeció. Incheon es un aeropuerto para pasearlo: a las
+**13:32** andábamos haciéndonos fotos con uno de **los robots que circulan por
+las terminales** guiando a la gente, y a las **14:15** estábamos en el
+**Korean Traditional Culture Center**, un pequeño centro cultural dentro de la
+propia terminal, con figuras a tamaño real vestidas de **hanbok** de la corte
+de Joseon, con sus quitasoles azul y rojo. Entrada libre, para pasajeros en
+tránsito.
 
 ## Y de vuelta
 

@@ -10,8 +10,8 @@ layout: dia
 dia: 24
 ---
 
-A las **09:27** aterrizábamos en **Barajas**. A las ocho de la tarde
-estábamos en casa.
+A las **09:27** aterrizábamos en **Barajas**. Por la tarde ya estábamos en
+casa.
 
 ## Los últimos 450 kilómetros
 
@@ -40,8 +40,12 @@ costaba una cena de barbacoa coreana para tres en cualquier pueblo del
 Nakdong.
 
 Y el apunte final de las cuentas del viaje no puede ser más prosaico: **79 €
-de gasolina**. Después de veinticuatro días, de 633 kilómetros oficiales y de
-tres ríos, el viaje se acaba repostando en una gasolinera de la A-31.
+de gasolina**, que son **los dos trayectos juntos**, la ida y la vuelta. Es
+lo que cuesta llegar al avión y volver del avión: menos de veintisiete euros
+por cabeza por unos novecientos kilómetros de coche, diez horas al volante
+entre los dos trayectos. Después
+de veinticuatro días, de 633 kilómetros de carril bici y de tres ríos, la
+última línea de las cuentas del viaje es el depósito del coche.
 
 ## El balance
 
@@ -82,5 +86,6 @@ y el relato entero empieza en
 ---
 
 **Datos del día** · Hong Kong → Madrid → Pilar de la Horadada · unos 450 km
-en coche · Almuerzo en el Marino de Honrubia: 55,50 € · Gasolina: 79 € ·
+en coche · Almuerzo en el Marino de Honrubia: 55,50 € · Gasolina de ida y
+vuelta: 79 € ·
 **Fin del viaje.**

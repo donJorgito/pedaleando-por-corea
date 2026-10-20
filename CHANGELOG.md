@@ -276,6 +276,25 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - **Los 55,50 € del día 24 no eran transporte, eran la comida.** Es el
   almuerzo en el restaurante Marino de Honrubia, 18,50 € por cabeza.
 
+- **La hora del aeropuerto del día 23 era la de la última foto, no la de la
+  llegada.** Estuvieron en Incheon desde las 11:59, con horas de margen para
+  facturar las maletas nuevas, no desde las 14:35. Y con el tiempo de sobra
+  hay dos cosas que contar que faltaban: los robots de las terminales y el
+  Korean Traditional Culture Center.
+
+- **En el día 24 no se repostó al final, y los 79 € son de los dos
+  trayectos.** Era la gasolina de la ida y de la vuelta juntas, unos 900 km;
+  el depósito venía lleno de antes. También se ajusta la hora de llegada a
+  casa, que no fue a las ocho.
+
+- **Los 55,50 € del Marino estaban contados como transporte en la tabla de
+  presupuesto.** Al ser comida, cambian dos filas: transporte baja a 287,71 €
+  y comida sube a 892,79 €. El total del viaje no se mueve.
+
+- **El día 22 no explicaba por qué el tren hace menos kilómetros que la
+  bici.** Ahora da los dos números: 387 km de línea de alta velocidad (442 la
+  clásica) frente a los 633 del carril bici, que va siguiendo los ríos.
+
 - **Las maletas eran dos, y la de ruedas no era de Daiso.** En Daiso se
   compró una normal, sin ruedas, por 5.000 wones; la de ruedas salió de un
   puesto de los 지하상가, las galerías subterráneas del metro de Seúl, por

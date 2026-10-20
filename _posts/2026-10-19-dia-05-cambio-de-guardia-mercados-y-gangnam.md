@@ -56,7 +56,8 @@ estómago resuelto, y eso tuvo consecuencias.
 ### El asador de pollos al que no entramos
 
 Bajando de Tongin hacia el sur, por las callejuelas de **체부동**, pasamos
-por la puerta de **토속촌 (Tosokchon)**, en 자하문로5길 5, a doscientos metros
+por la puerta de **[토속촌 (Tosokchon)](https://map.naver.com/p/entry/place/35597924)**,
+en 자하문로5길 5, a doscientos metros
 de la salida 2 del metro de Gyeongbokgung. Es una casa de **삼계탕** —el
 pollo entero relleno de arroz y ginseng, cocido en su caldo— y de **전기구이
 통닭**, pollo asado al horno eléctrico.

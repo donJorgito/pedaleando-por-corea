@@ -25,6 +25,8 @@ Luego vienen los dos puertos. El primero, **소조령 (Sojoryeong)**, ronda los
 **380 metros**. A las **12:40** estábamos en la cabina del **cruce de
 Haengchon (행촌교차로)**, entre uno y otro.
 
+{% include foto.html src="dia-11-cabina-suanbo.jpg" ancho="844" alto="1500" alt="Ciclista sonriendo delante de la cabina de certificación de 수안보온천." pie="수안보온천, al pie de la subida. La cara es de antes." %}
+
 ## Ihwaryeong: 539 metros, y no hay nada más alto
 
 Y entonces, **이화령 (Ihwaryeong)**.
@@ -45,6 +47,8 @@ considerable.
 
 Y después, lo mejor del día: **la bajada**. Kilómetros y kilómetros cuesta
 abajo hacia Mungyeong sin tocar los pedales.
+
+{% include foto.html src="dia-11-cabina-ihwaryeong.jpg" ancho="844" alto="1500" alt="Ciclista sonriendo delante de la cabina de certificación del área de descanso de 이화령, en lo alto del puerto." pie="이화령휴게소, 539 metros. El punto más alto de la ruta y la única cabina que de verdad se gana." %}
 
 ## Las manzanas de Mungyeong
 
@@ -85,6 +89,8 @@ gente.
 
 Si vas a hacer esta etapa, **búscalo**. Es la mejor recompensa posible y no
 cuesta nada.
+
+{% include foto.html src="dia-11-cabina-buljeong.jpg" ancho="844" alto="1500" alt="Ciclista delante de la cabina de certificación de 문경불정역 sosteniendo abierto el pasaporte con los sellos." pie="문경불정역, ya con el puerto hecho y la tarde cayendo." %}
 
 ## El final de la etapa
 

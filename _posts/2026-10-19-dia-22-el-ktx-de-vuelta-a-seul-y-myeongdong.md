@@ -132,6 +132,14 @@ Y después, a las **19:30**, la despedida de verdad: **barbacoa coreana** en
 de Myeongdong. Y este es el apunte que más me importa del día: **no había un
 solo turista dentro**. Mesas de oficinistas, soju, ruido, y nosotros tres.
 
+Y hay algo más, que descubrimos revisando las fotos para escribir esto:
+**es el mismo restaurante de la primera noche del viaje**. La misma parrilla,
+el mismo tablón de precios, la misma pared de azulejos firmados. Entramos la
+primera noche porque era lo que pillaba cerca del alojamiento y volvimos la
+última por lo mismo, sin acordarnos. Diecinueve días y mil doscientos
+kilómetros entre una cena y otra, en la misma mesa. Está contado también en
+el [día 3]({{ site.baseurl }}{% post_url 2026-10-19-dia-03-llegada-a-seul %}).
+
 Es un sitio de barrio de toda la vida —salió en *백반기행*, un programa de
 televisión coreano dedicado a la comida de diario— y la carta lo dice todo:
 

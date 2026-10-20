@@ -25,6 +25,8 @@ A las **10:03** sellábamos en la **cabina de 뚝섬 (Ttukseom)**, todavía dent
 de Seúl. Luego el río va abriéndose, aparecen los primeros campos y, sin darte
 cuenta, la ciudad se ha acabado.
 
+{% include foto.html src="dia-09-cabina-ttukseom.jpg" ancho="844" alto="1500" alt="Cabina de certificación junto al carril bici del río Han, con dos ciclistas y sus bicicletas cargadas al lado." pie="뚝섬전망콤플렉스, todavía dentro de Seúl. El carril bici del Han pasa por la puerta y la ciudad no se acaba nunca." %}
+
 ## La presa de Paldang
 
 Hacia las **12:38** llegamos a la **presa de Paldang (팔당댐)**, en Namyangju:
@@ -45,6 +47,8 @@ la que sellamos a las **12:47**. El andén sigue ahí, con sus carteles viejos.
 Es, con diferencia, el tramo más bonito de los primeros días: asfalto nuevo,
 sombra, túneles, el río al lado y ni un coche. Si alguien quiere hacer solo un
 pedazo de la ruta, este.
+
+{% include foto.html src="dia-09-cabina-neungnae.jpg" ancho="844" alto="1500" alt="Primer plano de un ciclista con casco azul dentro de una cabina de certificación, sosteniendo abierto el pasaporte del ciclista con los sellos estampados." pie="능내역, en una estación de tren que ya no es estación. El pasaporte abierto es la razón por la que se para en todas." %}
 
 ## Yangsu-ri y el resto de la tarde
 
@@ -107,6 +111,10 @@ Dos lecciones de las que sirven:
 2. **Mira qué hay alrededor de la cabina antes de decidir dónde duermes.**
    Muchas están en mitad de la nada, pegadas a una presa, sin un solo
    servicio. El carril está pensado para encadenar sellos, no para alojarte.
+
+{% include foto.html src="dia-09-presa-de-ipo.jpg" ancho="844" alto="1500" alt="El río al atardecer desde la orilla, con cañas en primer plano y un puente a contraluz al fondo. No se ve ni una casa." pie="La presa de Ipo a las cuatro y media de la tarde. Esto es literalmente todo lo que hay: por eso hubo que seguir hasta Yeoju con la noche encima." %}
+
+{% include foto.html src="dia-09-cabina-yeojubo.jpg" ancho="844" alto="1500" alt="Cabina roja de certificación con el cartel 여주보 y un ciclista de pie en la puerta con el pasaporte en la mano." pie="여주보, al final de un día de 128 kilómetros y un grupo perdido. La última cabina del día siempre se sella con otra cara." %}
 
 ## Dormir en Yeoju y la barbacoa de rigor
 

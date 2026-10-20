@@ -20,6 +20,8 @@ siguiendo desde Sangju se entrega al mar.
 
 El pasaporte estaba completo.
 
+{% include foto.html src="dia-18-meta-633-km.jpg" ancho="844" alto="1500" alt="Hito de piedra en el suelo junto al carril bici con la palabra FINISH grabada y, debajo, la cifra 633 km; encima, el cartel del final del carril bici del Nakdonggang." pie="La meta: FINISH, 633 km. Un hito de piedra medio comido por la hierba al borde del carril bici, sin nadie al lado. Así se acaba el 국토종주." %}
+
 ## El certificado: la cabina y la oficina, otra vez
 
 Y aquí es donde vuelve a importar la distinción del primer día. **La cabina

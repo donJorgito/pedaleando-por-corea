@@ -29,6 +29,10 @@ se cierran, aparecen los primeros montes de verdad y el río se estrecha.
 Es un día tranquilo, de rodar y poco más, y conviene agradecerlo: **al día
 siguiente llega la montaña**.
 
+{% include foto.html src="dia-10-cabina-gangcheonbo.jpg" ancho="844" alto="1500" alt="Carril bici de asfalto con la señalización pintada en el suelo, curvando hacia una cabina roja de certificación que se ve pequeña al fondo, con ciclistas al lado." pie="강천보 a primera hora. Así se ven las cabinas desde lejos: una cabina roja en medio de la nada y el carril bici llevándote a ella." %}
+
+{% include foto.html src="dia-10-cabina-binaeseom.jpg" ancho="844" alto="1500" alt="Cabina de certificación con el cartel 비내섬 y un ciclista sosteniendo abierto el pasaporte sellado." pie="비내섬. Tres cabinas en un día y ninguna cuesta: es la jornada más cómoda de toda la ruta." %}
+
 ## Tangeumdae: donde se acaba el río
 
 La cabina de **탄금대 (Tangeumdae)**, a las 14:44, no es una cabina

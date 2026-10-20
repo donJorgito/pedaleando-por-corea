@@ -49,6 +49,12 @@ Las presas del Nakdong son una constante del resto del viaje: edificios
 grandes, modernos, con su mirador y su cabina al lado. Sirven para medir lo
 que llevas.
 
+{% include foto.html src="dia-12-cabina-sangjubo.jpg" ancho="844" alto="1500" alt="Cabina de certificación con el cartel 상주보 y un ciclista en la puerta con el pasaporte en la mano, entre árboles." pie="상주보, la primera de las tres presas del día." %}
+
+{% include foto.html src="dia-12-cabina-nakdanbo.jpg" ancho="844" alto="1500" alt="Cabina roja de certificación al final de una rampa de cemento, con una bicicleta cargada con alforjas en primer plano." pie="낙단보. Las cabinas casi nunca están al nivel del carril: hay que subir la bici, o dejarla abajo y confiar." %}
+
+{% include foto.html src="dia-12-cabina-gumibo.jpg" ancho="844" alto="1500" alt="Cabina de certificación de 구미보 vista desde fuera, con un ciclista dentro inclinado sobre el pupitre para sellar." pie="구미보, la tercera. Tres presas en un día: el Nakdong se recorre así, de esclusa en esclusa." %}
+
 ## Gumi, y la cena más cara
 
 Dormimos en el **Sky Motel (스카이모텔)**, en pleno centro de Gumi: **68.112

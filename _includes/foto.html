@@ -1,0 +1,31 @@
+{%- comment -%}
+Una foto del viaje, con su pie. Parámetros:
+
+  src    nombre del fichero dentro de assets/img/  (obligatorio)
+  alt    descripción para quien no ve la imagen    (obligatorio, blog.RQ010)
+  ancho  anchura real en píxeles                   (obligatorio)
+  alto   altura real en píxeles                    (obligatorio)
+  pie    texto del figcaption, admite Markdown     (opcional)
+
+`ancho` y `alto` no son decorativos: sin ellos el navegador no sabe cuánto
+hueco reservar y el texto salta cuando carga la imagen. Los calcula
+`_tools/preparar-foto.sh`, que es lo que genera estas líneas.
+{%- endcomment -%}
+{%- assign foto_ancho = include.ancho | plus: 0 -%}
+{%- assign foto_alto = include.alto | plus: 0 -%}
+{%- comment -%}
+Casi todas las fotos del viaje son verticales, de móvil. A ancho completo
+ocupan pantalla y media y hay que hacer scroll para seguir leyendo, así que
+las verticales se marcan y el CSS les pone un techo de altura.
+{%- endcomment -%}
+<figure class="foto{% if foto_alto > foto_ancho %} foto--vertical{% endif %}">
+  <img src="{{ include.src | prepend: '/assets/img/' | relative_url }}"
+       alt="{{ include.alt | escape }}"
+       width="{{ include.ancho }}"
+       height="{{ include.alto }}"
+       loading="lazy"
+       decoding="async">
+  {%- if include.pie and include.pie != '' %}
+  <figcaption>{{ include.pie | markdownify | remove: '<p>' | remove: '</p>' | strip }}</figcaption>
+  {%- endif %}
+</figure>

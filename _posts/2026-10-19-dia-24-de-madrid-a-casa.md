@@ -2,9 +2,10 @@
 title: "Día 24 · De Madrid a casa, con el certificado en la mochila"
 date: 2026-10-19 08:46:00 +0200
 description: >-
-  Último día del viaje: aterrizaje en Barajas, 245 km de coche hasta Pilar de
-  la Horadada y el balance de 24 días cruzando Corea en bicicleta.
-tags: [corea, gukto-jongju, balance, regreso, dia-a-dia]
+  Último día del viaje: aterrizaje en Barajas, unos 450 km de coche hasta
+  Pilar de la Horadada con parada en una venta de la A-3, y el balance de 24
+  días cruzando Corea en bicicleta.
+tags: [corea, gukto-jongju, balance, regreso, comida, dia-a-dia]
 layout: dia
 dia: 24
 ---
@@ -12,16 +13,35 @@ dia: 24
 A las **09:27** aterrizábamos en **Barajas**. A las ocho de la tarde
 estábamos en casa.
 
-## Los últimos 245 kilómetros
+## Los últimos 450 kilómetros
 
-De Madrid a **Pilar de la Horadada** hay 245 km de coche, que hicimos con las
+De Barajas a **Pilar de la Horadada** hay **unos 450 km de coche** —los
+mismos de la ida, ahora al revés—, cerca de cinco horas que hicimos con las
 maletas nuevas en el maletero y el cuerpo en una zona horaria que no era
 ninguna de las dos.
 
-Los dos últimos apuntes de las cuentas del viaje son de ese día, y no pueden
-ser más prosaicos: **55,50 € de transporte** y **79 € de gasolina**. Después
-de veinticuatro días, de 633 kilómetros oficiales y de tres ríos, el viaje se
-acaba repostando en una gasolinera de la A-31.
+## El almuerzo: la barbacoa española
+
+A mitad de camino, a las **13:15**, paramos a comer en el **restaurante
+Marino**, en **Honrubia (Cuenca)**, a pie de A-3. Y lo que pedimos, visto
+desde el avión del que acabábamos de bajar, tiene gracia: **plato
+combinado** de **huevo frito, patatas fritas, panceta, morcilla y chorizo a
+la parrilla**.
+
+O sea, **la versión española de la barbacoa coreana**: carne hecha a la
+brasa, variada, con guarnición, para compartir mesa y tardar un rato. Lo
+mismo que llevábamos tres semanas comiendo en 숯불 y hornillos empotrados,
+pero con morcilla y con pan.
+
+De postre, **palmera de chocolate y café**.
+
+**55,50 € los tres**, 18,50 € por cabeza. Que es, casi al céntimo, lo que
+costaba una cena de barbacoa coreana para tres en cualquier pueblo del
+Nakdong.
+
+Y el apunte final de las cuentas del viaje no puede ser más prosaico: **79 €
+de gasolina**. Después de veinticuatro días, de 633 kilómetros oficiales y de
+tres ríos, el viaje se acaba repostando en una gasolinera de la A-31.
 
 ## El balance
 
@@ -61,5 +81,6 @@ y el relato entero empieza en
 
 ---
 
-**Datos del día** · Hong Kong → Madrid → Pilar de la Horadada · 245 km en
-coche · Transporte y gasolina: 134,50 € los tres · **Fin del viaje.**
+**Datos del día** · Hong Kong → Madrid → Pilar de la Horadada · unos 450 km
+en coche · Almuerzo en el Marino de Honrubia: 55,50 € · Gasolina: 79 € ·
+**Fin del viaje.**

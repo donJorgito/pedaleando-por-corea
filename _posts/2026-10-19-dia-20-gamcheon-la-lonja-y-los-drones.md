@@ -68,6 +68,21 @@ Busan— que va bordeando el acantilado con el puerto enfrente.
 
 Si Gamcheon es color, Huinnyeoul es horizonte.
 
+### Un bingsu de té antes de empezar el paseo
+
+Justo en el **arranque del sendero** hay una cafetería que se llama **포엠
+(Poem)** —**명동포엠 부산직영점**, en 해안산책길 10— y ahí paramos antes de
+echar a andar. Es una casa de **빙수 (bingsu)**: lo tienen de té verde, de
+té con leche, de mango, de fresa, de melón.
+
+Nosotros pedimos el **de té**, y fue de las mejores cosas dulces del viaje:
+**10,68 €** para dos.
+
+El bingsu es hielo rallado finísimo —tanto que parece nieve, no hielo
+picado— con leche, y encima lo que toque: pasta de judía roja, fruta
+fresca, helado. Con el calor que hacía aquella tarde y el mar delante, no se
+nos ocurre mejor manera de empezar el acantilado.
+
 ## Y de noche, drones
 
 Y el final: a las **18:51**, de vuelta en **Gwangalli**, un **espectáculo de
@@ -83,5 +98,5 @@ Busan se despidió por todo lo alto.
 ---
 
 **Datos del día** · Busan, sin bici · Gamcheon, Jagalchi, Huinnyeoul, drones
-en Gwangalli · Comido en la lonja: 108.000 wones · Lo mejor: todo · Lo peor:
-que se acababa.
+en Gwangalli · Comido en la lonja: 108.000 wones · Bingsu de té en Poem:
+10,68 € · Lo mejor: todo · Lo peor: que se acababa.

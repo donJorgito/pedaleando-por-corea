@@ -290,8 +290,8 @@ El gasto que nadie presupuesta y que acaba siendo de los mayores del viaje.
 
 Corea es la meca de la cosmética, y los últimos días en Busan y Seúl se van en
 **Olive Young** y **Daiso**. Dos de los tres se dejaron ahí cerca de **300 €
-cada uno** en cremas y productos de belleza — unos 600 € entre los dos. El
-tercero, cero.
+cada uno** en cremas y productos de belleza — unos 600 € entre los dos, **en
+dos jornadas**: una en Busan y otra en Myeongdong. El tercero, cero.
 
 Así que esto no es una cifra que puedas meter en el presupuesto medio: o te
 pasa o no te pasa. Pero si te pasa son **300 € por cabeza** que no habías
@@ -304,8 +304,8 @@ viaje de vuelta.
 ### Medicina estética: 110 € por cuatro zonas
 
 Ya puestos en el país donde esto es industria nacional, dos de nosotros se
-hicieron un **tratamiento de bótox en Seúl** el penúltimo día: **cuatro zonas
-de la cara por unos 110 €**.
+hicieron un **tratamiento de bótox en Seúl**, en una clínica de Myeongdong,
+el último día completo en Corea: **cuatro zonas de la cara por unos 110 €**.
 
 No es un gasto del viaje en bici, evidentemente. Pero dejo la cifra porque es
 un dato real y difícil de encontrar, y porque la comparación es llamativa.

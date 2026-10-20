@@ -9,21 +9,43 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 ### Added
 
+- El día 22 pasa de ser solo el del KTX a contar el día entero: la cita de
+  **bótox** en una clínica de Myeongdong (12:48), la comida en el **명동교자
+  본점** —퇴계로 129, en la guía Michelin de Seúl, carta de cuatro platos,
+  kalguksu 12.000 y mandu 13.000 wones, kimchi de ajo y fideos de balde— y la
+  última cena en dos tiempos: **mandus callejeros** a las 18:57 y **barbacoa
+  coreana en 조박사등갈비** (퇴계로16길 8) a las 19:30, un sitio de barrio sin
+  un solo turista dentro, con la carta y el **후식** de 누룽지탕 o 잔치국수.
+  Los dos restaurantes se localizaron cruzando el GPS de las fotos con Naver
+  Map: 8 m y 7 m de error respectivamente.
+
+- El día 20 añade el **bingsu de té en 포엠 (Poem)** —명동포엠 부산직영점,
+  해안산책길 10—, justo en el arranque del sendero de Huinnyeoul: 10,68 € para
+  dos, y qué es un bingsu.
+
+- El día 24 cuenta el **almuerzo del camino**: el restaurante **Marino**, en
+  Honrubia (Cuenca), a pie de A-3, con un plato combinado de huevo, patatas,
+  panceta, morcilla y chorizo a la parrilla —la versión española de la
+  barbacoa coreana— más palmera de chocolate y café. Los **55,50 €** son de
+  esa comida, no de transporte. Localizado por el GPS de la foto, a unos 22 m
+  de la ficha del restaurante.
+
 - El día 20 cita el **갈치 (galchi), el pez sable frito**, que venía en el
   pescaíto frito de Jagalchi y estaba en temporada: 28.000 wones para tres, y
   mejor bocado que el marisco caro.
 
 - **La gente que nos encontramos**, que es lo que de verdad se cuenta después:
-  - Día 15: el **cocinero de la barbacoa** tenía un amigo español y se acercó
+  - Día 12: el **cocinero de la barbacoa** tenía un amigo español y se acercó
     a contarnos que la mejor carne de su vida fue un **chuletón de vaca
     gallega comido en Valencia**. Nos invitó a **dos trozos de lo que él
     decía que era la mejor vaca de Corea** — dos piezas gruesas y veteadas,
     nada que ver con la falda fina que habíamos pedido.
   - Día 16: a mediodía, en un **CU** de la ruta, el dependiente **hablaba algo
-    de español** y acabó **invitando a un café a los tres**.
+    de español** y acabó **invitando a café recién hecho a los tres**, con
+    leche fresca para cortarlo.
   - Día 10: en el bunsik de Mokhaeng-dong **se asombraron de que fuéramos
     españoles**; por allí no pasan turistas.
-  - Día 3: el primer té del viaje fue en un **Mixue** al lado del hotel. Se
+  - Día 18: el té del día de la llegada a Busan fue en un **Mixue**. Se
     explica qué es la cadena, con los datos verificados en su ficha: china,
     de 1997, helado y tés, **59.823 locales** a cierre de 2025, la mayor del
     mundo por número de tiendas.
@@ -179,6 +201,26 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
   castellano como el resto del repositorio.
 
 ### Fixed
+
+- **El último trayecto en coche eran unos 450 km, no 245.** El día 24 daba
+  245 km de Madrid a Pilar de la Horadada; por carretera son unos 450, cerca
+  de cinco horas, los mismos que la ida que ya contaba bien el día 1.
+
+- **Los 55,50 € del día 24 no eran transporte, eran la comida.** Es el
+  almuerzo en el restaurante Marino de Honrubia, 18,50 € por cabeza.
+
+- **La maleta de Daiso se compró el día 22 en Myeongdong, no el 21 en
+  Busan.** Estaba contada en los dos sitios; el apunte de gastos la fecha ya
+  en Seúl, así que se queda solo en el día 22.
+
+- **El gasto de cosmética fue de dos días, no de uno.** Los cerca de 300 €
+  por cabeza se repartieron entre el día de tiendas en Busan y el día
+  siguiente en Myeongdong. Corregido en la entrada del día 21 y en la de
+  presupuesto.
+
+- **El bótox fue el último día completo en Corea**, no el penúltimo, y la
+  entrada de ese día lo cuenta ahora con su hora; la de presupuesto solo
+  llevaba la cifra.
 
 - El dependiente del CU del día 16 no invitó «a un café»: invitó a **café
   recién hecho a los tres**, y además sacó **leche fresca** por si alguno lo

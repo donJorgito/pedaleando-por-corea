@@ -23,6 +23,8 @@ ancho, recto y con las cabinas muy espaciadas.
 A las **15:48** pasamos por el **parque del Memorial**, ya en Mulgeum, y de
 ahí al hotel.
 
+{% include foto.html src="dia-17-cabina-yangsan.jpg" ancho="844" alto="1500" alt="Dos ciclistas sonriendo en la cabina de certificación del Yangsan Water Culture Center, con el pasaporte abierto entre los dos." pie="양산물문화관, la única cabina del día. La penúltima de las treinta y cinco." %}
+
 ## El último hotel antes de Busan, otra vez sin reserva
 
 Dormimos en **The Terrazzo**, en Yangsan: **100.000 wones**, unos 66 € los

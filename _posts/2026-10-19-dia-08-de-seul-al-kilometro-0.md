@@ -43,6 +43,8 @@ Nos llevó la mitad del día. Llegamos al arco de salida a la una y media de la
 tarde, con el estuario delante y esa sensación rara de estar empezando algo
 después de media jornada pedaleando.
 
+{% include foto.html src="dia-08-cabina-kilometro-0.jpg" ancho="844" alto="1500" alt="Cabina roja de certificación con el cartel 아라서해갑문; dentro, un ciclista inclinado sobre el pupitre sellando el pasaporte." pie="Kilómetro 0, en la esclusa del mar del Oeste. Una cabina de teléfonos roja, un sello colgado de una cadena y nadie vigilando: el sistema entero consiste en que te lo estampas tú." %}
+
 ## El pasaporte del ciclista: qué es, cuánto cuesta y qué te piden
 
 Aquí conviene aclarar algo que casi nadie explica, y que confunde al llegar:
@@ -93,6 +95,8 @@ el canal con el río. A partir de ahí ya es el Han, y el paisaje cambia: Seúl
 aparece poco a poco, los puentes se multiplican y de pronto hay gente corriendo,
 familias en bici y puestos de ramyeon.
 
+{% include foto.html src="dia-08-cabina-ara-han.jpg" ancho="844" alto="1500" alt="Cabina roja de certificación con el cartel 아라한강갑문 y un ciclista en la puerta, con el pupitre de sellar a su lado." pie="아라한강갑문, kilómetro 21: donde el canal Ara desemboca en el Han y se acaba lo fácil." %}
+
 ## Yeouido, y una cabina que no está donde dice el mapa
 
 La tercera cabina del día es la de **여의도**, en la punta noroeste de la isla.
@@ -102,6 +106,8 @@ La cabina está en 여의도동 81-8, al borde del parque del Han. Llegamos a la
 cinco menos cuarto.
 
 Tres sellos el primer día. Ninguno de ellos nos había acercado a Busan.
+
+{% include foto.html src="dia-08-cabina-yeouido.jpg" ancho="844" alto="1500" alt="Cabina de certificación de 여의도 con los cristales desmontados y un ciclista con casco sellando dentro." pie="La de 여의도, con media cabina sin cristales. El sello estaba, que es lo único que importa." %}
 
 ## Dormir donde empezamos
 

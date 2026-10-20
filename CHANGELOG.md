@@ -9,6 +9,27 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 ### Added
 
+- **El blog tiene fotos** (`blog.RQ010`). Primera tanda, **24**: la salida
+  delante del ayuntamiento, la puerta de embarque, la primera cena, y sobre
+  todo **las cabinas de certificación** —diecisiete, de las treinta y cinco
+  de la ruta— cruzando el GPS de cada foto con las coordenadas de cada
+  cabina y quedándose con las que están a menos de 40 metros. Más el hito de
+  la meta con sus 633 km.
+
+  Con su andamiaje, que es lo que permite seguir añadiendo sin pensárselo:
+  `_includes/foto.html` (un `figure` con pie en Markdown, `loading="lazy"` y
+  el tamaño declarado para que el texto no salte al cargar) y
+  `_tools/preparar-foto.sh`, que reescala, **quita el EXIF entero** —las
+  fotos del viaje llevan coordenadas y hora exacta, las dos cosas que este
+  repositorio no publica— y escribe la línea de `include` ya medida.
+
+  Y una decisión que vale para todas las que vengan: los tres del viaje
+  salen a cara descubierta, pero **la gente que aparece de fondo sin haberlo
+  elegido se difumina** — con una máscara elíptica suavizada, no con un
+  recuadro borroso, que canta más que la propia cara. En un asador o en un
+  mercado no se puede hacer una foto sin que salga alguien más, y eso no
+  convierte a quien cenaba en la mesa de al lado en parte de la crónica.
+
 - **Tema oscuro** (`blog.RQ009`). El sitio respeta el `prefers-color-scheme`
   del sistema operativo o del navegador —sin JavaScript, solo con la media
   query— y añade un botón fijo abajo a la derecha para forzar claro u oscuro,
@@ -286,6 +307,20 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
   castellano como el resto del repositorio.
 
 ### Fixed
+
+- **La primera cena del viaje no fue donde decía el día 3: fue donde la
+  última.** El post daba 다올 숯불구이 명동점, que era solo una de las fichas
+  de Naver que se pasaron por el grupo en el bus del aeropuerto. La foto de
+  esa cena tiene el **mismo tablón de precios, la misma parrilla y la misma
+  pared de azulejos firmados** que la del día 22, y su GPS cae a **7 metros**
+  del otro: las dos cenas fueron en **조박사등갈비**. Corregido en el día 3,
+  con lo que de verdad se pidió (등갈비, costilla de cerdo) y su carta real,
+  y contado en los dos posts, que ahora se enlazan: diecinueve días y mil
+  doscientos kilómetros entre una cena y otra, en la misma mesa, sin
+  habérselo propuesto.
+
+  De paso, la hora: no se cenó «a las nueve pasadas». La foto es de las
+  **20:11** y la cuenta se pagó a las **20:53**.
 
 - **En el aeropuerto no había figuras: había actores.** El día 23 describía
   el Korean Traditional Culture Center «con figuras a tamaño real vestidas de

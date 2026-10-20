@@ -23,6 +23,8 @@ Entre medias, a las **12:25**, el **mirador del Nakdong**: el río abriéndose
 abajo, en una de las curvas grandes, con los montes al fondo. Una de esas
 paradas que no estaban planeadas y acaban en la cabeza.
 
+{% include foto.html src="dia-16-cabina-hapcheon-changnyeong.jpg" ancho="844" alto="1500" alt="Ciclista delante de la cabina de certificación de 합천창녕보 con el pasaporte del Nakdonggang abierto en la mano." pie="합천창녕보, a primera hora. El día que enseñó que en el Nakdong la orilla que eliges cambia la etapa entera." %}
+
 ## La lección del día: cambiar de orilla
 
 Y aquí va el consejo práctico.

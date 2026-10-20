@@ -35,6 +35,7 @@ defaults:
 exclude:
   - requirements/
   - tests/
+  - _tools/
   - CONTRIBUTING.md
   - CHANGELOG.md
   - CODEOWNERS

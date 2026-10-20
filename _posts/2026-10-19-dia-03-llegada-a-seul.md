@@ -60,28 +60,39 @@ Por orden de urgencia real:
 
 ## La primera cena
 
-Soltamos las mochilas y salimos a cenar a las nueve pasadas, a **[다올 숯불구이
-명동점 (DAOL)](https://map.naver.com/p/entry/place/1220312094)**, en 명동8길
-8-11: un asador de carbón en pleno **Myeongdong**. Lo elegimos en el bus desde
-el aeropuerto, entre tres o cuatro fichas de Naver Map que nos fuimos pasando
-por el grupo.
+Soltamos las mochilas y salimos a cenar. A las **20:11** ya estábamos
+sentados, y a las **20:53** se pagaba la cuenta: fue una cena de llegar y
+caer, no de hacer sobremesa.
+
+El sitio fue
+**[조박사등갈비](https://map.naver.com/p/entry/place/13474004)**, en 퇴계로16길
+8, a cincuenta metros de la salida 4 del metro de **Myeongdong**. Lo elegimos
+en el bus desde el aeropuerto, entre tres o cuatro fichas de Naver Map que
+nos fuimos pasando por el grupo.
+
+Y aquí va algo que no supimos hasta volver a mirar las fotos: **la última
+cena del viaje, diecinueve días después, fue en esta misma mesa**. Sin
+planearlo, sin acordarnos de que habíamos estado. Está contado en el
+[día 22]({{ site.baseurl }}{% post_url 2026-10-19-dia-22-el-ktx-de-vuelta-a-seul-y-myeongdong %}),
+con la carta entera y el porqué de que un sitio así sea el mejor sitio.
+
+{% include foto.html src="dia-03-primera-cena-jobaksa.jpg" ancho="844" alto="1500" alt="Mesa de barbacoa coreana con la parrilla encastrada en el centro, costillas asándose y una docena de cuencos de banchan alrededor; al fondo, el tablón de precios del restaurante y la pared de azulejos firmados." pie="La primera cena del viaje. La misma parrilla, el mismo tablón de precios y la misma pared de firmas donde, sin saberlo, íbamos a cenar también la última noche." %}
 
 Fue la entrada en materia perfecta, porque la **barbacoa coreana** acabó
 siendo lo que más repetimos en todo el viaje. Funciona así: la mesa lleva
-**una parrilla de carbón encastrada en el centro**, te traen la carne cruda y
-la vas haciendo tú con unas pinzas.
+**una parrilla encastrada en el centro**, te traen la carne cruda y la vas
+haciendo tú con unas pinzas — o te la va cortando la dueña, que es lo que
+pasó aquella noche.
 
-Pedimos carne para los tres —**tiras finas de ternera** y una pieza más
-gruesa de **panceta**— y con ella llegó lo que en Corea viene siempre, gratis
-y sin pedirlo: lechuga y hojas de perilla para envolver, **kimchi**, rábano
-encurtido, ensalada de col, **ssamjang** —la pasta de soja y guindilla con la
-que se unta—, **ajo crudo en láminas** para asarlo en un hueco de la parrilla
-y un cuenco de aceite de sésamo con sal para mojar. Y cerveza **Terra**, una
-de las dos marcas que vas a ver en todas partes.
+Pedimos **등갈비**, costilla de cerdo, que es la especialidad de la casa, y
+con ella llegó lo que en Corea viene siempre, gratis y sin pedirlo: hojas
+para envolver, **kimchi**, rábano encurtido, brócoli, **ssamjang** —la pasta
+de soja y guindilla con la que se unta—, **ajo crudo en láminas** para asarlo
+en un hueco de la parrilla y un cuenco de caldo por cabeza. Con soju y
+cerveza.
 
-En su carta la carne va de los **18.000 wones** de la panceta madurada a los
-**67.000** del solomillo de *hanwoo*, la vaca autóctona coreana. Cierran a
-las diez.
+En su carta ninguna bandeja de carne pasa de **20.000 wones** y los guisos
+están entre 10.000 y 12.000. Cierran a las diez.
 
 **107.000 wones los tres**, unos 69 €. Es, con diferencia, la cena más cara
 de todo el viaje, y no porque fuera la mejor: porque llegas con hambre de
@@ -157,6 +168,6 @@ engorro a las once de la noche del primer día.
 ---
 
 **Datos del día** · Hong Kong → Incheon → Seúl · 2.067 km en avión + 49 km en
-bus · Bus del aeropuerto 17.000 wones/persona · Cena: barbacoa en 다올
-숯불구이 명동점, 107.000 wones los tres · Alojamiento: Seúl, cinco noches
+bus · Bus del aeropuerto 17.000 wones/persona · Cena: barbacoa en
+조박사등갈비, 107.000 wones los tres · Alojamiento: Seúl, cinco noches
 reservadas · Mañana: el centro histórico a pie.

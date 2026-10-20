@@ -28,7 +28,11 @@ brew install gitleaks        # o la release pineada que corresponda
 - Front matter completo siempre: `title`, `date`, `description`, `tags`.
 - Nada de datos personales en lo publicado: ni IBAN, ni teléfonos, ni
   localizadores de reserva, ni fotos con coordenadas GPS en el EXIF.
-- Las imágenes van a `assets/img/`, reescaladas y **sin metadatos**.
+- Las imágenes van a `assets/img/`, reescaladas y **sin metadatos**. No se
+  copian a mano: las prepara `_tools/preparar-foto.sh`, que reescala, quita
+  el EXIF entero, difumina a quien aparezca de fondo sin haberlo elegido y
+  escribe la línea de `include` con el tamaño ya medido. El nombre del
+  fichero no puede llevar fecha. Las reglas, en `blog.RQ010`.
 - Las versiones se pinean siempre; nunca `latest` ni `@v4` suelto.
 
 ## Testing

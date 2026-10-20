@@ -27,6 +27,10 @@ cierras la puerta de casa, el viaje ya ha empezado.
 
 A las ocho de la tarde estábamos en la **Puerta del Sol**.
 
+{% include foto.html src="dia-01-salida-ayuntamiento.jpg" ancho="844" alto="1500" alt="Tres viajeros con la mochila puesta sostienen la bandera de Pilar de la Horadada delante de la fachada del ayuntamiento." pie="La foto de la salida, delante del ayuntamiento. De aquí a Seúl quedaban cincuenta horas de coche, aeropuertos y aviones." %}
+
+{% include foto.html src="dia-01-molinos-de-la-a31.jpg" ancho="844" alto="1500" alt="Aerogeneradores alineados sobre un llano de secano, vistos desde la ventanilla del copiloto con el retrovisor en primer plano." pie="Cuatrocientos cincuenta kilómetros de esto. La parte del viaje que nadie cuenta y que hay que hacer igual." %}
+
 ## El papeleo que hay que llevar hecho
 
 Ese mismo día, a media tarde, circularon por el grupo los documentos que

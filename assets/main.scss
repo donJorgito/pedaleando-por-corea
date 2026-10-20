@@ -66,6 +66,33 @@
   text-align: center;
 }
 
+/* Fotos del viaje (blog.RQ010). Minima ya limita `img` al ancho del
+   contenedor; lo que falta es el pie y, sobre todo, un techo para las
+   verticales: una foto de móvil a ancho completo ocupa pantalla y media. */
+.foto {
+  margin: 1.9em 0;
+
+  img {
+    display: block;
+    height: auto;
+    margin: 0 auto;
+    max-width: 100%;
+  }
+
+  figcaption {
+    color: #5c5c5c;
+    font-size: 0.88em;
+    line-height: 1.45;
+    margin-top: 0.55em;
+    text-align: center;
+  }
+}
+
+.foto--vertical img {
+  max-height: 78vh;
+  width: auto;
+}
+
 /* ------------------------------------------------------------------ *
  * Tema oscuro (blog.RQ009)
  *
@@ -184,6 +211,10 @@ $oscuro-visitado:     #b3a8ec;
 
   .nav-dias__titulo {
     color: #aeb6bd;
+  }
+
+  .foto figcaption {
+    color: $oscuro-texto-suave;
   }
 
   .tema-boton {

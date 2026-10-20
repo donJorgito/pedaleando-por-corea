@@ -29,6 +29,8 @@ De Madrid a **Hong Kong** con **Cathay Pacific** hay **10.500 km** y la noche
 entera por delante. Es el tramo largo, el que decide cómo llegas: o duermes
 algo, o aterrizas en Asia hecho polvo y con dos semanas de bici por delante.
 
+{% include foto.html src="dia-02-puerta-de-embarque.jpg" ancho="844" alto="1500" alt="Dos viajeros con mochilas delante del ventanal de una puerta de embarque; al fondo, en la pista, el avión del vuelo." pie="La puerta de embarque de Barajas, con el avión ya ahí fuera. Es el momento exacto en el que el viaje deja de ser un plan." %}
+
 ## La escala
 
 Llegamos al **aeropuerto de Hong Kong** de madrugada, pasada la una.

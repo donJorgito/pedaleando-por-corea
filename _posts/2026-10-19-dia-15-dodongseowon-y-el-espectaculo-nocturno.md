@@ -19,6 +19,8 @@ A las **12:14** sellamos en la **presa de Dalseong (달성보)**, siguiendo el
 Nakdong hacia el sur. Mañana de rodar tranquilo, con las piernas agradecidas
 por el día libre.
 
+{% include foto.html src="dia-15-pedaleando-nakdong.jpg" ancho="844" alto="1500" alt="Dos ciclistas de espaldas subiendo por el arcén de una carretera asfaltada, con un cerro cubierto de arbolado delante." pie="Pedaleando, que es lo que se hizo durante once días: carretera, arcén, la rueda del de delante y un cerro que tocaba subir." %}
+
 ## Dodongseowon, Patrimonio de la Humanidad
 
 A las **14:04** llegamos a **도동서원 (Dodongseowon)**, y resultó ser una de

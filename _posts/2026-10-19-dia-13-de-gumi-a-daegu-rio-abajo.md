@@ -31,6 +31,8 @@ mirar el reloj.
 La de **강정고령보** merece la parada: es la presa más vistosa de todas, con un
 edificio-mirador muy aparatoso al borde del agua.
 
+{% include foto.html src="dia-13-cabina-chilgokbo.jpg" ancho="844" alto="1500" alt="Ciclista dentro de la cabina de certificación de 칠곡보 mostrando el pasaporte abierto con una página ya casi llena de sellos." pie="칠곡보, y la página del pasaporte empezando a llenarse. A estas alturas ya se sella sin preguntar dónde está el sello." %}
+
 ## Daegu, y dos noches en el mismo sitio
 
 A media tarde entramos en **Daegu**, la tercera ciudad de Corea. Después de

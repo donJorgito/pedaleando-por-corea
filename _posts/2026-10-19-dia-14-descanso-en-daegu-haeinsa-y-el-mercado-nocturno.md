@@ -12,11 +12,29 @@ tags: [corea, daegu, haeinsa, templos, mercados, descanso, dia-a-dia]
 
 El único día del viaje sin tocar la bicicleta, y lo aprovechamos entero.
 
+## El cuaderno, antes de salir
+
+La mañana empezó con el **cuaderno de sellos del 국토종주** encima de la mesa
+del hotel. Es el objeto que organiza todo el viaje: lo editan el Ministerio
+de Medio Ambiente y el del Interior, y es lo que se sella en cada cabina de
+certificación de la ruta. Nos costó **4.000 wones cada uno** —unos 2,60 €—
+el día que salimos de Seúl.
+
+{% include foto.html src="dia-14-cuaderno-de-sellos.jpg" ancho="1033" alto="1500" alt="El cuaderno de sellos, de tapa marrón, con una bicicleta dorada grabada y el rótulo Korea's Cross Country Cycling Road Tour." pie="«Korea's Cross Country Cycling Road Tour». Tapa de polipiel y una bicicleta dorada: el pasaporte de la ruta." %}
+
+Por dentro es un mapa del país partido en carriles, y cada carril tiene su
+página con el esquema de las cabinas, las distancias entre ellas y el hueco
+redondo donde va cada sello.
+
+{% include foto.html src="dia-14-pagina-del-saejae.jpg" ancho="844" alto="1500" alt="Una mano sostiene el cuaderno abierto en la página del carril Saejae, con el esquema de las cabinas y varios sellos de tinta de colores." pie="La página del Saejae, el carril que cruza la montaña. El cuaderno lo despacha en una línea: «100 km, 6 h 40 min»." %}
+
 ## Haeinsa: el templo de los ochenta mil bloques
 
 Por la mañana cogimos un **bus desde Daegu hasta el templo de Haeinsa
 (해인사)**, en el parque nacional del monte Gaya. **29.100 wones los tres cada
 trayecto** — unos 6,40 € por persona y viaje, 19 € ida y vuelta para los tres.
+
+{% include foto.html src="dia-14-haeinsa.jpg" ancho="1345" alto="1500" alt="Una viajera delante de la puerta de entrada al templo, con un cartel negro de grandes caracteres chinos bajo un tejado de aleros pintados de verde y rojo." pie="La puerta de 가야산 해인사, la del monte Gaya. Desde la parada del bus hasta aquí, todo es bosque." %}
 
 A las **12:15** estábamos allí. Y Haeinsa no es un templo más: en sus
 depósitos **Janggyeong Panjeon** se guarda la **Tripitaka Koreana**, la
@@ -26,10 +44,17 @@ Unesco, y los depósitos que la conservan son una obra de ingeniería en sí
 mismos: están construidos para ventilar y regular la humedad de forma natural,
 y llevan siglos haciéndolo.
 
+{% include foto.html src="dia-14-cantos-de-la-tripitaka.jpg" ancho="844" alto="1500" alt="Primer plano del canto de tres bloques de madera oscurecida de la Tripitaka Koreana, con caracteres grabados en vertical y una pletina metálica remachada en el extremo." pie="El canto de los bloques: cada uno lleva grabado el título del texto y el número de volumen, y una pletina metálica remachada en el extremo. Hay unos ochenta mil así." %}
+
 La subida al templo, desde la parada del bus, es un paseo por el bosque que
 cruza las puertas rituales —entre ellas la **해탈문**, la puerta de la
 liberación— y que a principios de octubre, con el verde empezando a cambiar,
 es media visita por sí sola.
+
+Y arriba, el patio. Lo encontramos entero techado de faroles de papel
+colgados en franjas de colores, miles de ellos, de pared a pared.
+
+{% include foto.html src="dia-14-faroles-de-haeinsa.jpg" ancho="844" alto="1500" alt="Dos viajeros en el patio del templo y, sobre ellos, miles de faroles de papel colgados en franjas azul, rosa, amarilla y verde que tapan el cielo." pie="El patio del templo, techado de faroles de papel hasta donde alcanza la vista." %}
 
 Es la excursión que yo recomendaría del viaje entero después de la DMZ. Y
 cuesta seis euros de autobús.
@@ -45,12 +70,16 @@ Y tiene un extra que resultó ser el plan de la tarde: **se puede probar el
 hanbok**, el traje tradicional coreano. De las 158 fotos de ese día, **77 son
 de ese rato**, lo cual dice bastante de cuánto nos duró la vergüenza.
 
+{% include foto.html src="dia-14-hanbok.jpg" ancho="1344" alto="1500" alt="Los tres viajeros vestidos con hanbok —túnica azul, chaleco celeste y sombrero negro de ala ancha—, descalzos, delante de un biombo de caligrafía." pie="El hanbok del museo de medicina oriental, biombo de caligrafía incluido. Descalzos, que es como se entra." %}
+
 ## El mercado nocturno de Seomun
 
 Por la noche, el
 **[mercado de Seomun (서문시장)](https://map.naver.com/p/search/%EC%84%9C%EB%AC%B8%EC%8B%9C%EC%9E%A5)**,
 uno de los grandes de Corea, que al caer el sol se convierte en mercado
 nocturno de comida.
+
+{% include foto.html src="dia-14-mercado-de-seomun.jpg" ancho="844" alto="1500" alt="Un puesto del mercado nocturno: una mano con guante negro pasa un soplete de llama sobre dados de carne en una plancha, con ajos y pimientos verdes al lado." pie="El «steak» del puesto 24 del mercado de Seomun, soplete incluido. Diez mil wones, 6,61 € para los tres." %}
 
 Cenamos a base de picoteo, que es como hay que hacerlo:
 

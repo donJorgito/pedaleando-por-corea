@@ -71,6 +71,8 @@ colocó en fila delante de los pósteres, nos hizo las fotos — y **nos regaló
 un álbum suyo a cada uno**: tres cajas planas y precintadas con la cara del
 cantante en la portada, del tamaño de un CD pero sin disco dentro.
 
+{% include foto.html src="dia-22-casa-santuario.jpg" ancho="844" alto="1500" alt="Los tres viajeros en el pasillo del alojamiento, cada uno con un álbum precintado del cantante en las manos, rodeados de pósteres, vitrinas iluminadas y un traje de lentejuelas enmarcado en la pared." pie="La foto que había que hacerse: los tres con el álbum en las manos. Detrás, el traje de lentejuelas en su marco, las vitrinas con neón y el rótulo de «The King of K-Trot»." %}
+
 Fue intensa. Pero del tipo de intensidad que te alegra el día: se comunicaba
 con el traductor del móvil y nos dejó escrito cómo llegar a la estación de
 Myeongdong —«si sales de mi casa, bajas las escaleras y caminas recto hacia
@@ -106,8 +108,11 @@ comer bien y barato, y la carta entera son **cuatro platos**.
 - **비빔국수** — 12.000 wones, fideos fríos picantes.
 - **콩국수** — 13.000 wones, fideos en caldo frío de soja, solo en temporada.
 
-Pedimos lo obvio: **kalguksu y mandu**. Dos cosas que hay que saber antes de
-entrar:
+Pedimos lo obvio: **kalguksu y mandu**.
+
+{% include foto.html src="dia-22-kalguksu-y-mandu.jpg" ancho="844" alto="1500" alt="Mesa de madera con un cuenco de kalguksu —fideos en caldo con carne picada por encima— y una vaporera llena de empanadillas de masa fina; dos viajeros a los lados y el comedor con la ventana a la calle al fondo." pie="El kalguksu y los mandu, tal como salen. La masa de las empanadillas es tan fina que se transparenta el relleno." %}
+
+Dos cosas que hay que saber antes de entrar:
 
 1. **El kimchi es de ajo**, y pica de verdad. Es casi tan famoso como el
    kalguksu y no se parece al kimchi normal: lleva tanto ajo que te deja el
@@ -139,6 +144,8 @@ primera noche porque era lo que pillaba cerca del alojamiento y volvimos la
 última por lo mismo, sin acordarnos. Diecinueve días y mil doscientos
 kilómetros entre una cena y otra, en la misma mesa. Está contado también en
 el [día 3]({{ site.baseurl }}{% post_url 2026-10-19-dia-03-llegada-a-seul %}).
+
+{% include foto.html src="dia-22-ultima-barbacoa.jpg" ancho="1500" alto="844" alt="Mesa de barbacoa coreana con la parrilla redonda en el centro llena de tiras de costilla cruda, una cesta de lechuga morada con guindillas, un cuenco de salsa, brotes de soja, ajos, kimchi y un guiso humeando en olla de piedra." pie="La última cena: la parrilla con las tiras de costilla puestas, la lechuga para envolver, los ajos crudos, la salsa y el guiso humeando en su olla de piedra. Y ni un turista en el comedor." %}
 
 Es un sitio de barrio de toda la vida —salió en *백반기행*, un programa de
 televisión coreano dedicado a la comida de diario— y la carta lo dice todo:

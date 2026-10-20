@@ -10,8 +10,9 @@ description: >-
 tags: [corea, busan, compras, cosmetica, olive-young, daiso, bujeon, dia-a-dia]
 ---
 
-**Nueve fotos.** Es el día con menos fotos de todo el viaje, y tiene una
-explicación sencilla: **nos lo pasamos metidos en tiendas**.
+**Nueve fotos.** Es el día con menos fotos de los veinte que pasamos en Corea
+—solo los días de avión bajan de ahí— y tiene una explicación sencilla:
+**nos lo pasamos metidos en tiendas**.
 
 ## El día que se dedicó a comprar
 
@@ -30,8 +31,22 @@ viaje a Corea.
   resolver el problema práctico del final del viaje: **cómo llevarse todo eso
   a casa**.
 
+{% include foto.html src="dia-21-olive-young.jpg" ancho="896" alto="1200" alt="Una de las viajeras, en primer plano y sonriendo, delante de la fachada de una tienda Olive Young de Busan, con el rótulo negro y verde encima de las puertas de cristal y clientes entrando." pie="Una de las Olive Young de Seomyeon, el centro comercial de Busan. La pancarta de arriba es de la tienda del piso superior: 건담베이스 서면점, la del Gundam Base." %}
+
+La de la foto está en **서면 (Seomyeon)**, que es el barrio donde se concentra
+el comercio en Busan — y por si hacía falta rematar el cuadro, encima de la
+Olive Young había una tienda del **건담베이스**, la cadena oficial de maquetas
+de Gundam. Un edificio, dos religiones.
+
 **Dos de los tres se dejaron cerca de 300 € cada uno** en cremas y productos
 de belleza. Unos 600 € entre los dos. Yo no compré.
+
+{% include foto.html src="dia-21-el-botin-de-cosmetica.jpg" ancho="675" alto="1500" alt="Habitación de hotel con la cama cubierta de cajas y sobres de cosmética coreana: mascarillas de lámina, tubos, cremas, botes y blísteres, y una de las viajeras de pie al lado sosteniendo uno de los paquetes." pie="El botín, extendido sobre la cama del hotel para contarlo y repartirlo. Y esto es solo la compra de Busan: en Myeongdong todavía quedaba otra tanda." %}
+
+Esa es la foto que explica el día mejor que cualquier cifra: una cama de hotel
+desaparecida debajo de mascarillas de lámina, tubos y blísteres. Y no está
+desordenado por casualidad — hay que extenderlo todo para saber qué tienes
+antes de decidir cómo se mete en una maleta que todavía no has comprado.
 
 Y conviene decirlo bien: **ese gasto no fue de un día, fue de dos**. Lo que
 empezó aquí, en Busan, se remató **al día siguiente en Myeongdong**, que es
@@ -49,6 +64,8 @@ Entre tienda y tienda, a las **13:01** pasamos por el **mercado de Bujeon
 (부전시장)**, el mercado tradicional del centro de Busan, donde compramos **un
 cesto de peramanzanas** por **10.000 wones** — la fruta coreana que es mitad
 pera mitad manzana y que después de tres semanas ya era adicción.
+
+{% include foto.html src="dia-21-mercado-de-bujeon.jpg" ancho="844" alto="1500" alt="Una viajera en el pasillo cubierto del mercado de Bujeon, con los puestos a los dos lados, pancartas y carteles amarillos colgando del techo y un cajón de ajos en primer plano." pie="El pasillo del mercado de Bujeon: techo de chapa, pancartas, carteles amarillos y los puestos pegados unos a otros. Una de las nueve fotos del día." %}
 
 Y se recargó la T-money de uno de nosotros con otros 10.000 wones.
 
@@ -74,7 +91,8 @@ más bulto trae de vuelta.
 
 ---
 
-**Datos del día** · Busan, sin bici · Daiso, Olive Young y el mercado de
-Bujeon · 9 fotos, el mínimo del viaje · Peramanzanas: 10.000 wones · Pizza
+**Datos del día** · Busan, sin bici · Daiso, Olive Young en Seomyeon y el
+mercado de Bujeon · 9 fotos, el mínimo de los días en Corea · Peramanzanas:
+10.000 wones · Pizza
 y hamburguesas: 91.300 wones · Alojamiento: Angel Hotel · Mañana: el KTX de
 vuelta a Seúl.

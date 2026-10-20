@@ -33,6 +33,31 @@ edificio-mirador muy aparatoso al borde del agua.
 
 {% include foto.html src="dia-13-cabina-chilgokbo.jpg" ancho="844" alto="1500" alt="Ciclista dentro de la cabina de certificación de 칠곡보 mostrando el pasaporte abierto con una página ya casi llena de sellos." pie="칠곡보, y la página del pasaporte empezando a llenarse. A estas alturas ya se sella sin preguntar dónde está el sello." %}
 
+### El campo rosa, diez minutos antes de la cabina
+
+Y justo antes de sellar, a las **10:26**, pasó lo que no estaba en el plan: el
+carril bordea un parque al borde del río plantado entero de **핑크뮬리 (pink
+muhly)**, la hierba ornamental que en otoño se pone de un rosa que no parece
+real. **Quince fotos en cinco minutos**, que para nosotros es un atasco.
+
+{% include foto.html src="dia-13-pink-muhly.jpg" ancho="1500" alto="844" alt="Dos ciclistas asomados por el hueco de un marco blanco de madera clavado en medio de un campo de hierba rosa, con el río, una valla de cuerda y las montañas detrás." pie="El marco está puesto ahí para esto exactamente. El campo de pink muhly al borde del Nakdong, a un paso de la cabina de 칠곡보." %}
+
+Y los coreanos no lo dejan al azar: clavan **marcos blancos de madera en medio
+del campo** para que la gente se haga la foto dentro, con el encuadre ya
+resuelto.
+
+Tres cosas que aprendimos después sobre esta hierba:
+
+- No es coreana: el **털쥐꼬리새 (*Muhlenbergia capillaris*)** es **originaria
+  del centro y el oeste de Estados Unidos**, y se planta aquí como ornamental.
+- Se pone rosa **de septiembre a noviembre** y mide entre 30 y 90 cm, así que
+  te llega a la cintura.
+- Se puso de moda en Corea **a finales de los 2010** —el primer jardín de pink
+  muhly de Seúl se plantó en el 양재천 en 2018— y con la moda llegó el debate
+  de si era una especie invasora. Un estudio publicado en *Ecosphere* en 2023
+  la enfrentó una a una con diecisiete plantas autóctonas y concluyó que **no
+  les impide establecerse ni crecer**.
+
 ## Daegu, y dos noches en el mismo sitio
 
 A media tarde entramos en **Daegu**, la tercera ciudad de Corea. Después de
@@ -46,6 +71,16 @@ es lo que sube una ciudad grande frente a los moteles de carretera.
 
 Cenamos en el centro por **51.000 wones**, unos 34 €, y las fotos nos sitúan
 hasta pasadas las ocho dando vueltas por la calle 종로.
+
+{% include foto.html src="dia-13-cena-en-daegu.jpg" ancho="844" alto="1500" alt="Los tres viajeros cenando en una mesa larga de madera con parrilla empotrada, con dos platos de arroz con carne guisada, cuencos de verdura, un pote de barro y una botella de cerveza; detrás, una pizarra verde con la carta escrita a mano." pie="La cena en Daegu: platos de diario, la parrilla empotrada en la mesa sin usar y la carta escrita con tiza en la pizarra. 51.000 wones los tres." %}
+
+El sitio era de los de barrio, con la carta escrita con tiza en una pizarra
+verde. Lo caro, arriba, eran los **찜** —**아구찜** de rape, **가오리찜** de raya
+y **복찜** de pez globo, guisados picantes—, a **45.000 wones la ración grande
+y 38.000 la mediana**, para compartir. Y lo de diario, abajo y a la derecha:
+**덮밥** de cerdo o de calamar y guisos como el **청국장** o el **동태탕**, de
+**10.000 a 12.000**, con el arroz a 1.000. Ahí comimos, y de ahí sale la
+cuenta.
 
 ## El valor de parar
 

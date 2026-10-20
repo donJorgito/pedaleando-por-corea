@@ -14,16 +14,58 @@ tags: [corea, gukto-jongju, nakdonggang, haman, changwon, cuestas, dakgalbi, com
 Día largo de río con una decisión en medio que merece un apartado propio,
 porque es el tipo de cosa que no viene en ninguna guía.
 
-## Dos presas y un mirador
+## Dos presas, un mirador y una cabina de propina
 
 A las **10:08** sellamos en la **presa de Hapcheon-Changnyeong (합천창녕보)**.
 A las **15:32**, en la de **Changnyeong-Haman (창녕함안보)**.
 
-Entre medias, a las **12:25**, el **mirador del Nakdong**: el río abriéndose
-abajo, en una de las curvas grandes, con los montes al fondo. Una de esas
-paradas que no estaban planeadas y acaban en la cabeza.
-
 {% include foto.html src="dia-16-cabina-hapcheon-changnyeong.jpg" ancho="844" alto="1500" alt="Ciclista delante de la cabina de certificación de 합천창녕보 con el pasaporte del Nakdonggang abierto en la mano." pie="합천창녕보, a primera hora. El día que enseñó que en el Nakdong la orilla que eliges cambia la etapa entera." %}
+
+Entre medias, a las **12:25**, la parada que se queda: lo alto de **구름재
+(Gureumjae)** —literalmente «el paso de las nubes»—, con una pasarela de
+madera asomada al río. El Nakdong se abre abajo en una de las curvas grandes,
+con un puente atirantado blanco a lo lejos y los montes detrás.
+
+{% include foto.html src="dia-16-mirador-de-gureumjae.jpg" ancho="844" alto="1500" alt="Un ciclista en camiseta apoyado en la barandilla de madera de un mirador, mirando hacia el Nakdong, que hace una curva grande entre montes arbolados; al fondo, un puente atirantado blanco y la cordillera." pie="Lo alto de 구름재. El río se abre abajo, el puente atirantado queda a lo lejos y por ahí hay que seguir." %}
+
+Y pegada al mirador hay otra **cabina roja de sellar**: la de **구름재
+인증센터**. No es de las de las presas, así que es fácil no contarla — pero
+está ahí y sella igual. Un minuto después de hacer la foto del río ya
+teníamos el pasaporte dentro.
+
+## El río donde se decidió la guerra
+
+Y antes de todo eso, a las **10:02**, un sitio que no esperábamos encontrar en
+un carril bici: un **panel memorial de la Guerra de Corea** al borde del
+camino, con un **marco blanco plantado en medio del campo** para que mires el
+paisaje a través de él, un banco y una **mascota de dibujos animados con una
+bandera coreana** en la mano. Lo monta el **Ministerio de Patriotas y
+Veteranos (국가보훈부)**.
+
+{% include foto.html src="dia-16-batalla-de-changnyeong.jpg" ancho="844" alto="1500" alt="Un ciclista sentado en un banco de hormigón junto a una figura de dibujos animados con una bandera coreana y un panel negro titulado «창녕-영산 전투»; detrás, un marco blanco abierto sobre los arrozales y un monte arbolado." pie="El panel de la batalla de Changnyeong-Yeongsan, con la mascota, el banco y el marco blanco abierto sobre los arrozales. El campo que se ve por el marco es el campo de batalla." %}
+
+Lo que cuenta el panel es la **batalla de Changnyeong-Yeongsan (창녕-영산
+전투)**, de **agosto y septiembre de 1950**, conocida también como la
+**batalla del saliente del Naktong** (*Naktong Bulge*). Resumido de lo que
+pone allí mismo:
+
+- Fue parte del **perímetro defensivo del Nakdong (낙동강 방어선)**, la línea
+  que paró el avance norcoreano en los primeros meses de la guerra: **33 días
+  de combate** en esta zona.
+- Tres divisiones norcoreanas —la **2.ª, la 4.ª y la 9.ª**— contra las
+  divisiones estadounidenses **24.ª y 2.ª**, la **1.ª Brigada de Marines** y
+  el **17.º Regimiento** del ejército de Corea del Sur.
+- El plan norcoreano era tomar Changnyeong y Yeongsan y después cortar por
+  **Miryang** la vía de retirada del **VIII Ejército** estadounidense. No
+  salió.
+- Y el remate, que es lo que explica el panel: al dejar fijadas aquí a más de
+  tres divisiones enemigas, se sostuvo la línea del Nakdong, y eso fue **el
+  soporte de que saliera bien el desembarco de Incheon**.
+
+Lo cuento porque es facilísimo pasar de largo. Vas por un carril bici
+impecable, entre arrozales, con el río al lado — y ese río es la línea donde
+se decidió que Corea del Sur siguiera existiendo. Tres cuartos de siglo
+después, el mismo sitio tiene un marco para hacerte la foto.
 
 ## La lección del día: cambiar de orilla
 
@@ -58,7 +100,7 @@ el de que le hizo gracia la situación.
 Una tienda 24 h es el sitio menos romántico del mundo para que te pase algo
 así, y ahí está el detalle: la amabilidad en Corea no aparece donde la
 esperarías. Aparece en el mostrador de una tienda de carretera, a mitad de
-etapa, con tres tíos sudados mirando el expositor de los noodles.
+etapa, con los tres sudados mirando el expositor de los noodles.
 
 ## Dormir en un balneario
 
@@ -66,6 +108,8 @@ El alojamiento de esa noche fue el **숲속온천호텔** (literalmente, «hotel
 termal del bosque»), en Buk-myeon, Changwon: **78.545 wones**, unos 51 € los
 tres. Un hotel de aguas termales en mitad del campo, que después de un día
 largo es justo lo que uno quiere.
+
+{% include foto.html src="dia-16-hotel-del-bosque.jpg" ancho="844" alto="1500" alt="Dos de los viajeros de noche en el aparcamiento del hotel, delante de un edificio blanco con dos torreones de tejado cónico naranja y un letrero verde en el muro que dice 숲속호텔." pie="El hotel, de noche y con pinta de castillo de cuento: dos torreones cónicos, el muro blanco y el cartel de 숲속호텔. Dentro, aguas termales." %}
 
 ## La «cena picosita»: un restaurante de un solo plato
 
@@ -89,6 +133,8 @@ El **dakgalbi** es pollo deshuesado macerado en **gochujang** y hecho en una
 setas y cilindros de **tteok**, el pastel de arroz de los *tteokbokki*. No es
 un plato individual: es **una sartén única para toda la mesa**, de la que se
 come en común mientras termina de hacerse delante de ti.
+
+{% include foto.html src="dia-16-dakgalbi.jpg" ancho="1098" alto="1500" alt="Una sartén grande y plana sobre el hornillo de la mesa, con el pollo macerado en pasta roja de gochujang en el centro y, alrededor, col cortada, cebolleta, puerro y cilindros blancos de pastel de arroz, todo crudo todavía." pie="El dakgalbi tal como llega a la mesa: el pollo en su pasta roja en el centro y alrededor la col, el puerro y los cilindros de tteok. A partir de aquí se hace solo." %}
 
 Éramos tres y pedimos **dos raciones**, y no fue idea nuestra: lo recomendó la
 camarera. Como cada ración está pensada para dos personas, dos dan de sobra
@@ -124,7 +170,8 @@ Map](https://map.naver.com/p/entry/place/1885774239)**.
 
 ---
 
-**Datos del día** · Dalseong → Changwon (Buk-myeon) · 2 cabinas: 합천창녕보,
-창녕함안보 · Lo mejor: el mirador del Nakdong · El truco: cruzar a la orilla
+**Datos del día** · Dalseong → Changwon (Buk-myeon) · 2 presas: 합천창녕보,
+창녕함안보, más la cabina de 구름재 · Lo mejor: el mirador de 구름재 y el panel
+de la batalla del saliente del Naktong · El truco: cruzar a la orilla
 norte en Haman para evitar desnivel · Alojamiento: 숲속온천호텔, 78.545 wones
 · Cena: 닭갈비 en 복면닭갈비, 34.000 wones.

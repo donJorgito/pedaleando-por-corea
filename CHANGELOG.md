@@ -9,6 +9,45 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 ### Added
 
+- **Cuarta tanda de fotos** (`blog.RQ010`), **13 más**, para engordar los días
+  que se habían quedado con dos o tres: el día 10 (Yeoju → Chungju) sube de 2
+  a 8 y el día 11 (el puerto de Ihwaryeong) de 3 a 10. Entran el paso por
+  encima de la presa de 강천보, el **gato azul de 강천섬** —la escultura que se
+  queda sin nombre porque el cartel no se lee—, el camino de 탄금대, el cruce
+  de moteles de 용교리 con su castillo de neón, la carta del bunsik y la cena
+  al otro lado del río; y del día 11, el cartel de **«←정상 5km»**, el valle
+  desde lo alto del puerto, el **문경문** con sus tablillas en hanja, el
+  **baño de pies** —que era el «hallazgo del viaje» y no tenía foto—, el
+  puente de «piel de jirafa» y la carta y la mesa del 명문가마솥식당.
+
+  Privacidad de esta tanda (`blog.RQ005`): en la cena del día 10 había **una
+  cuenta bancaria y dos teléfonos** legibles en los rótulos de la ventana
+  —difuminados y mosaicados, porque con `-blur` solo se seguía leyendo
+  «269-4»—; en la del día 11, **el teléfono de la puerta**; y en el baño de
+  pies se difuminaron **las dos caras** del fondo que se reconocían a tamaño
+  de publicación. El calendario de pared del comedor se dejó: a 844 px de
+  ancho los números miden tres píxeles y no hay ningún día marcado
+  (`blog.RQ008`).
+
+  Y de medir el GPS de cada foto salieron datos y **una corrección**. El día
+  10 va **de 69 a 107 metros** en toda la etapa, que es la prueba de que lo de
+  «ninguna cuesta» no era una impresión. En el día 11, en cambio,
+  **Ihwaryeong son 548 metros, no 539**: lo dicen el monolito del propio
+  collado («백두대간 이화령 해발고 548m») y todas las fuentes consultadas, así
+  que se ha corregido en las ocho veces que aparecía. Se añade también el
+  perfil medido parada por parada —104 m al salir de Chungju, 223 en Suanbo,
+  **264 en el cruce de Haengchon**, 557,8 arriba, 118,8 al final de la
+  tarde—, que demuestra que **entre los dos puertos se baja**, y el hecho de
+  que la cima es **la divisoria entre la cuenca del Han y la del Nakdong**: el
+  cambio de río del viaje entero ocurre ahí.
+
+  Del arco del **영남대로** salieron dos cosas que el texto no contaba: que la
+  lista de etapas del camino real de Joseon (Chungju, Yeonpung, Mungyeong,
+  Hamchang, Sangju, Daegu, Cheongdo, Miryang, Yangsan, Dongnae) **es la ruta
+  que hicimos**, y que el carril se llama 새재 자전거길 por un paso, el
+  문경새재, **por el que no pasa**: cruza por Ihwaryeong, cuatro kilómetros al
+  suroeste.
+
 - **Tercera tanda de fotos** (`blog.RQ010`), **44 más**, que completan los
   días 13 a 24: el campo de 핑크뮬리 y la cena de Daegu; el día de descanso
   entero —Haeinsa, la Tripitaka, el hanbok, Seomun—; Dodongseowon de día y su

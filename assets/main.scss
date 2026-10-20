@@ -65,3 +65,177 @@
   margin-top: 1.2em;
   text-align: center;
 }
+
+/* ------------------------------------------------------------------ *
+ * Tema oscuro (blog.RQ009)
+ *
+ * Minima 2.5 compila sus colores a mano en cada regla, así que no hay
+ * variables que reasignar en caliente: hay que sobrescribir las reglas
+ * concretas que pintan. La paleta vive en un mixin y se aplica dos veces:
+ *
+ *   - por preferencia del sistema, salvo que el lector haya forzado claro;
+ *   - por elección manual, que manda sobre el sistema en los dos sentidos.
+ * ------------------------------------------------------------------ */
+
+$oscuro-fondo:        #15181c;
+$oscuro-fondo-alt:    #1d2228;
+$oscuro-texto:        #d9dde1;
+$oscuro-texto-fuerte: #eceff2;
+$oscuro-texto-suave:  #9aa2aa;
+$oscuro-borde:        #2c333a;
+$oscuro-enlace:       #7db4f5;
+$oscuro-visitado:     #b3a8ec;
+
+@mixin tema-oscuro {
+  color-scheme: dark;
+
+  body {
+    background-color: $oscuro-fondo;
+    color: $oscuro-texto;
+  }
+
+  a {
+    color: $oscuro-enlace;
+
+    &:visited {
+      color: $oscuro-visitado;
+    }
+
+    &:hover {
+      color: $oscuro-texto-fuerte;
+    }
+  }
+
+  blockquote {
+    border-left-color: $oscuro-borde;
+    color: $oscuro-texto-suave;
+  }
+
+  pre,
+  code {
+    background-color: $oscuro-fondo-alt;
+    border-color: $oscuro-borde;
+    color: $oscuro-texto;
+  }
+
+  table {
+    border-color: $oscuro-borde;
+    color: $oscuro-texto;
+
+    tr:nth-child(even) {
+      background-color: $oscuro-fondo-alt;
+    }
+
+    th {
+      background-color: #232a31;
+      border-bottom-color: #39424b;
+      border-color: $oscuro-borde;
+      color: $oscuro-texto-fuerte;
+    }
+
+    td {
+      border-color: $oscuro-borde;
+    }
+  }
+
+  .site-header {
+    border-bottom-color: $oscuro-borde;
+    border-top-color: #3a444e;
+  }
+
+  .site-title,
+  .site-title:visited {
+    color: $oscuro-texto-fuerte;
+  }
+
+  .site-nav {
+    background-color: $oscuro-fondo;
+    border-color: $oscuro-borde;
+
+    .page-link {
+      color: $oscuro-texto;
+    }
+
+    .menu-icon > svg path {
+      fill: $oscuro-texto-suave;
+    }
+  }
+
+  .site-footer {
+    border-top-color: $oscuro-borde;
+  }
+
+  .footer-col-wrapper,
+  .post-meta {
+    color: $oscuro-texto-suave;
+  }
+
+  .svg-icon {
+    fill: $oscuro-texto-suave;
+  }
+
+  .lista-dias__fecha {
+    color: $oscuro-texto-suave;
+  }
+
+  .nav-dias {
+    border-top-color: $oscuro-borde;
+  }
+
+  .nav-dias__titulo {
+    color: #aeb6bd;
+  }
+
+  .tema-boton {
+    background-color: rgba(29, 34, 40, 0.92);
+    border-color: #3a444e;
+    color: $oscuro-texto;
+  }
+}
+
+@media (prefers-color-scheme: dark) {
+  html:not([data-tema="claro"]) {
+    @include tema-oscuro;
+  }
+}
+
+html[data-tema="oscuro"] {
+  @include tema-oscuro;
+}
+
+/* El conmutador. Lo inyecta el script del <head>: si no hay JavaScript no
+   existe, y entonces el tema lo decide el sistema. Va fijo abajo a la
+   derecha para no pelearse con el menú de minima, que en el móvil ocupa la
+   esquina de arriba. */
+.tema-boton {
+  background-color: rgba(253, 253, 253, 0.92);
+  border: 1px solid #d5d5d5;
+  border-radius: 50%;
+  bottom: 0.9rem;
+  box-shadow: 0 1px 4px rgba(0, 0, 0, 0.18);
+  color: #424242;
+  cursor: pointer;
+  font-size: 1.15rem;
+  height: 2.6rem;
+  line-height: 1;
+  padding: 0;
+  position: fixed;
+  right: 0.9rem;
+  width: 2.6rem;
+  z-index: 20;
+
+  &:hover {
+    border-color: #2a7ae2;
+  }
+
+  &:focus-visible {
+    outline: 2px solid #2a7ae2;
+    outline-offset: 2px;
+  }
+}
+
+@media print {
+  .tema-boton {
+    display: none;
+  }
+}

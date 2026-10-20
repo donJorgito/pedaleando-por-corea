@@ -1,0 +1,90 @@
+<head>
+  <meta charset="utf-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+
+  {%- comment -%}
+  Copia del `head.html` de minima 2.5 con dos añadidos para blog.RQ009: el
+  `color-scheme` y el conmutador de tema. Minima 2.5 no tiene el gancho
+  `custom-head.html` de las versiones 3.x, así que la única forma de meter
+  nada en el <head> es sobrescribir el include entero. Si algún día cambia la
+  versión del tema, este fichero es lo primero que hay que revisar.
+  {%- endcomment -%}
+
+  <meta name="color-scheme" content="light dark">
+
+  {%- seo -%}
+  <link rel="stylesheet" href="{{ "/assets/main.css" | relative_url }}">
+  {%- feed_meta -%}
+  {%- if jekyll.environment == 'production' and site.google_analytics -%}
+    {%- include google-analytics.html -%}
+  {%- endif -%}
+
+  {%- comment -%}
+  Primer script: aplica el tema guardado ANTES del primer pintado. Va aquí
+  arriba y sin `defer` a propósito — en cuanto se mueva al final del body
+  aparece el destello blanco que RQ009 prohíbe.
+  {%- endcomment -%}
+  <script>
+    (function () {
+      try {
+        var guardado = window.localStorage.getItem('tema');
+        if (guardado === 'oscuro' || guardado === 'claro') {
+          document.documentElement.setAttribute('data-tema', guardado);
+        }
+      } catch (e) {
+        /* localStorage puede estar bloqueado: se sigue con el del sistema */
+      }
+    })();
+  </script>
+
+  {%- comment -%}
+  Segundo script: el botón para forzar claro u oscuro. Se inyecta desde JS
+  para no tener que sobrescribir también el layout y el header del tema.
+  Sin JavaScript no hay botón, pero sí hay tema oscuro: lo da la media query.
+  {%- endcomment -%}
+  <script>
+    document.addEventListener('DOMContentLoaded', function () {
+      var raiz = document.documentElement;
+      var sistemaOscuro = window.matchMedia('(prefers-color-scheme: dark)');
+
+      function esOscuro() {
+        var elegido = raiz.getAttribute('data-tema');
+        if (elegido === 'oscuro') return true;
+        if (elegido === 'claro') return false;
+        return sistemaOscuro.matches;
+      }
+
+      var boton = document.createElement('button');
+      boton.type = 'button';
+      boton.className = 'tema-boton';
+
+      function pintar() {
+        var oscuro = esOscuro();
+        var etiqueta = oscuro ? 'Cambiar a tema claro' : 'Cambiar a tema oscuro';
+        boton.setAttribute('aria-pressed', oscuro ? 'true' : 'false');
+        boton.setAttribute('aria-label', etiqueta);
+        boton.setAttribute('title', etiqueta);
+        boton.textContent = oscuro ? '☀' : '☾';
+      }
+
+      boton.addEventListener('click', function () {
+        var nuevo = esOscuro() ? 'claro' : 'oscuro';
+        raiz.setAttribute('data-tema', nuevo);
+        try {
+          window.localStorage.setItem('tema', nuevo);
+        } catch (e) {
+          /* sin almacenamiento el cambio vale solo para esta página */
+        }
+        pintar();
+      });
+
+      if (sistemaOscuro.addEventListener) {
+        sistemaOscuro.addEventListener('change', pintar);
+      }
+
+      pintar();
+      document.body.appendChild(boton);
+    });
+  </script>
+</head>

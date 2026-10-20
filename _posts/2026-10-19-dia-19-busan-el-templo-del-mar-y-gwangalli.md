@@ -39,9 +39,14 @@ buen motivo.
 
 ## La noche en Nampo-dong
 
-Por la tarde-noche bajamos a **남포동 (Nampo-dong)**, el centro viejo de Busan,
-donde está el mercado nocturno. Cenamos por **20.000 wones los tres**, unos
-13 €.
+Por la tarde-noche bajamos a **남포동 (Nampo-dong)**, el centro viejo de
+Busan, y cenamos en el
+**[부평깡통시장](https://map.naver.com/p/search/%EB%B6%80%ED%8F%89%EA%B9%A1%ED%86%B5%EC%8B%9C%EC%9E%A5)**,
+el mercado de Bupyeong, que al caer la tarde se convierte en **mercado
+nocturno de comida**: dos pasillos cubiertos de puestos, cada uno con lo
+suyo, y se cena yendo de uno a otro.
+
+**20.000 wones los tres**, unos 13 €.
 
 ## Y la lavadora
 

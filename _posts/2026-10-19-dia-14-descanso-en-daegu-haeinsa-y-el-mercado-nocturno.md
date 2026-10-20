@@ -47,8 +47,10 @@ de ese rato**, lo cual dice bastante de cuánto nos duró la vergüenza.
 
 ## El mercado nocturno de Seomun
 
-Por la noche, el **mercado de Seomun (서문시장)**, uno de los grandes de Corea,
-que al caer el sol se convierte en mercado nocturno de comida.
+Por la noche, el
+**[mercado de Seomun (서문시장)](https://map.naver.com/p/search/%EC%84%9C%EB%AC%B8%EC%8B%9C%EC%9E%A5)**,
+uno de los grandes de Corea, que al caer el sol se convierte en mercado
+nocturno de comida.
 
 Cenamos a base de picoteo, que es como hay que hacerlo:
 

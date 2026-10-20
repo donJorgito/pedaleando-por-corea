@@ -20,8 +20,15 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
   - Día 11: **명문가마솥식당** (호계길 4, Mungyeong), el comedor de pueblo
     del 갈비탕, con la aclaración de que el caldo era 갈비탕 y no *gomtang*.
   - Y enlace de Naver Map en los que ya estaban nombrados: el asador del
-    día 3, Tosokchon el día 5, Poem el día 7, el Poem de Busan el día 20 y
-    los dos del día 22.
+    día 3, Tosokchon el día 5, Poem el día 7, los mercados de Seomun
+    (día 14) y Bupyeong (día 19), el Poem de Busan el día 20 y los dos del
+    día 22. El del día 19 además tiene nombre por primera vez:
+    **부평깡통시장**, que el post dejaba en «el mercado nocturno».
+
+  Quedan sin identificar las cenas de los días 13, 15 y 18: las fotos no
+  dejan ver ningún rótulo y el GPS no se acerca lo suficiente a un solo
+  candidato. Se prefiere dejarlas sin nombre antes que acertar por
+  probabilidad.
 
 - El día 7 se cuenta **en el orden en que pasó**. **Imjingak no fue la última
   parada: fue la de mediodía**, a las 12:12, y allí están la locomotora

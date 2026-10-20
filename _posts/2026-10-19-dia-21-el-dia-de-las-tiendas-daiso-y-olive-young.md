@@ -31,25 +31,17 @@ viaje a Corea.
   a casa**.
 
 **Dos de los tres se dejaron cerca de 300 € cada uno** en cremas y productos
-de belleza, entre este día y los últimos de Seúl. Unos 600 € entre los dos. Yo
-no compré.
+de belleza. Unos 600 € entre los dos. Yo no compré.
+
+Y conviene decirlo bien: **ese gasto no fue de un día, fue de dos**. Lo que
+empezó aquí, en Busan, se remató **al día siguiente en Myeongdong**, que es
+donde está la mayor concentración de tiendas de cosmética del país. Entre las
+dos jornadas se juntó la cifra.
 
 Las cuentas completas están en
 [lo que cuesta cruzar Corea en bici]({{ site.baseurl }}{% post_url 2026-10-16-lo-que-cuesta-cruzar-corea-en-bici %}):
 si piensas entrar en Olive Young, **reserva una partida de presupuesto** o te
 descuadra el viaje.
-
-### El detalle logístico que no habíamos previsto
-
-A la ida fuimos **solo con mochila**. Nadie facturó maleta.
-
-A la vuelta, con dos de nosotros cargados de cosmética, hubo que comprar
-equipaje: **una maleta con ruedas en Daiso por 10.000 wones**, unos seis euros
-y medio. La maleta facturada venía incluida en el billete y a la ida no la
-usamos, así que a la vuelta facturaron una cada uno.
-
-Una maleta de seis euros sale más barata que cualquier recargo por exceso de
-equipaje. Si vas a comprar, cuenta con ello desde el principio.
 
 ## El mercado de Bujeon
 
@@ -83,6 +75,6 @@ más bulto trae de vuelta.
 ---
 
 **Datos del día** · Busan, sin bici · Daiso, Olive Young y el mercado de
-Bujeon · 9 fotos, el mínimo del viaje · Maleta de Daiso: 10.000 wones · Pizza
+Bujeon · 9 fotos, el mínimo del viaje · Peramanzanas: 10.000 wones · Pizza
 y hamburguesas: 91.300 wones · Alojamiento: Angel Hotel · Mañana: el KTX de
 vuelta a Seúl.

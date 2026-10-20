@@ -1,5 +1,6 @@
-# Publicación en GitHub Pages. Solo orquestación: construir y desplegar
-# y nada más: la lógica verificable vive en tests/ y la ejecuta ci.yml.
+# Publicación en GitHub Pages. Solo orquestación: construir y desplegar.
+# La pipeline no lleva lógica propia; lo que hay que verificar vive en
+# tests/ y lo ejecuta ci.yml.
 name: pages
 
 on:

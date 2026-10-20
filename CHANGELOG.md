@@ -159,6 +159,11 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 ### Changed
 
+- Quedaban dos referencias numeradas al estándar corporativo, una en
+  `pages.yml` y otra en `_config.yml`, que el primer barrido no vio
+  porque no contienen la palabra que buscaba. El comentario explica ahora el
+  porqué en vez de citar una regla.
+
 - **Fuera del repositorio toda referencia al estándar corporativo y a la
   empresa.** Aparecían en el `README`, en `CODEOWNERS`, en
   `.pre-commit-config.yaml`, en `.markdownlint.yml`, en `tests/run-all.sh`,

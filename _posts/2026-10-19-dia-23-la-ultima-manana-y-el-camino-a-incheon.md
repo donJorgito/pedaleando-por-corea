@@ -40,11 +40,33 @@ pantalla**, así que te hacen fotos y selfies ahí mismo, con su carita de
 dibujo animado puesta. No es una atracción montada para el turista: es cómo
 se informa a la gente en Incheon.
 
-Y a las **14:15** estábamos en el
-**Korean Traditional Culture Center**, un pequeño centro cultural dentro de la
-propia terminal, con figuras a tamaño real vestidas de **hanbok** de la corte
-de Joseon, con sus quitasoles azul y rojo. Entrada libre, para pasajeros en
-tránsito.
+## La corte de Joseon, en la terminal
+
+Y a las **14:15**, delante del **한국전통문화센터 (Korean Traditional Culture
+Center)** de la terminal 1, nos dimos de frente con lo mejor del día: **la
+corte de Joseon entera, en carne y hueso**. No eran figuras ni maniquíes:
+eran **actores**, quietos y en formación, esperando a que la gente se les
+pusiera al lado.
+
+Y eso hicimos. Nos metimos en medio de la fila y nos hicimos las fotos con
+ellos: **el rey** con su 익선관 y el **홍곤룡포**, la túnica roja con el dragón
+de cinco garras bordado al pecho; **la reina**, de 당의 granate y falda roja;
+el **príncipe heredero** de azul —su dragón tiene cuatro garras, no cinco, y
+ahí se ve el rango—; las **여령**, las bailarinas de palacio de amarillo; un
+**위장**, el oficial que guardaba el palacio, con su espada; y detrás, los
+criados sosteniendo en alto los dos quitasoles enormes, el **홍양산** rojo y
+el **청양산** azul, que es lo primero que ves desde lejos.
+
+El espectáculo se llama **왕가의 산책**, «el paseo de la familia real», y lo
+monta la agencia del patrimonio coreano dentro de la zona de embarque: en la
+**T1 son dos pases al día, a las 11:00 y a las 14:00**, en el este y el oeste
+del centro cultural. Es **gratis**, no hay que reservar y **hacerse la foto
+con los actores es parte de la cosa**: están ahí para eso.
+
+Aviso para quien lo quiera ver: es **después del control de pasaportes**, ya
+dentro. Si facturas con el tiempo justo, te lo pierdes. Nosotros lo pillamos
+por haber llegado con tres horas de margen, que era por las maletas, no por
+cultura.
 
 ## Y de vuelta
 
@@ -58,4 +80,6 @@ sin saber qué hora era.
 ---
 
 **Datos del día** · Seúl → Incheon en metro (~4.900 wones/persona) → Hong
-Kong · Última mañana en Myeongdong · Mañana: Madrid y casa.
+Kong · Última mañana en Myeongdong · En el aeropuerto: los robots guía y el
+«왕가의 산책», la corte de Joseon en la T1 (gratis, 11:00 y 14:00) · Mañana:
+Madrid y casa.

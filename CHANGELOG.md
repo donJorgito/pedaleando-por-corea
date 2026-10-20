@@ -9,6 +9,28 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 ### Added
 
+- **Tema oscuro** (`blog.RQ009`). El sitio respeta el `prefers-color-scheme`
+  del sistema operativo o del navegador —sin JavaScript, solo con la media
+  query— y añade un botón fijo abajo a la derecha para forzar claro u oscuro,
+  con la elección guardada en `localStorage` y aplicada antes del primer
+  pintado, de modo que no hay destello blanco al cargar. La preferencia del
+  sistema manda mientras el lector no elija nada.
+
+  Minima 2.5 compila sus colores regla a regla y **no tiene el gancho
+  `custom-head.html`** de las versiones 3.x, así que ha habido que
+  sobrescribir `_includes/head.html` entero —con una nota en el propio
+  fichero: es lo primero que hay que revisar si cambia la versión del tema— y
+  escribir la paleta oscura como sobrescritura explícita de las reglas de
+  minima que pintan, en un mixin que se aplica por media query y por atributo
+  `data-tema`.
+
+- El día 23 cuenta el **«왕가의 산책»**, el pase de la corte de Joseon en la
+  terminal 1 de Incheon: quién es cada personaje —el 홍곤룡포 del rey con su
+  dragón de cinco garras frente al del príncipe heredero, que tiene cuatro;
+  las 여령; el 위장; los dos quitasoles, 홍양산 y 청양산—, que es gratis, que
+  hay dos pases al día (11:00 y 14:00) y que está **pasado el control de
+  pasaportes**, que es el dato que decide si llegas a verlo o no.
+
 - El día 22 cuenta **la casa-santuario del último alojamiento**: la dueña y su
   hermana son fans de **이찬원 (Lee Chan-won)**, el pasillo está forrado de
   pósteres, vitrinas y un traje de escenario enmarcado, y les hizo
@@ -264,6 +286,14 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
   castellano como el resto del repositorio.
 
 ### Fixed
+
+- **En el aeropuerto no había figuras: había actores.** El día 23 describía
+  el Korean Traditional Culture Center «con figuras a tamaño real vestidas de
+  hanbok», y lo que hay en las fotos es la corte de Joseon representada por
+  **personas**, con uno de los tres metido en la fila posándose con ellas.
+  Confirmado en las fotos de las 14:15 y en la ficha oficial del
+  espectáculo, que dice justamente eso: que hacerse la foto con los
+  intérpretes es parte del acto.
 
 - **KakaoMap en bus y metro no es un hueco en la tabla.** La comparativa del
   día 3 dejaba la casilla vacía, como si no sirviera; va solo un poco por

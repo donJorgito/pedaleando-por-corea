@@ -14,7 +14,7 @@ Las crónicas de viaje suelen empezar en el aeropuerto de destino, como si
 llegar fuera gratis. No lo es: desde el sureste de España hasta Seúl hay dos
 días enteros de desplazamiento, y el primero no tiene nada de exótico.
 
-## 382 kilómetros hasta Madrid
+## Unos 450 kilómetros hasta Madrid
 
 Salimos de **Pilar de la Horadada** a las diez de la mañana. Por delante,
 **unos 450 km** de coche hasta Madrid, porque el vuelo salía de Barajas al día

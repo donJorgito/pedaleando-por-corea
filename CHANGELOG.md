@@ -222,6 +222,11 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
   entrada de ese día lo cuenta ahora con su hora; la de presupuesto solo
   llevaba la cifra.
 
+- **El encabezado del día 1 seguía dando la distancia vieja.** El cuerpo del
+  texto ya decía unos 450 km, pero el `##` de esa sección no se tocó en la
+  corrección anterior. Corregir un dato en la prosa y dejarlo en el título es
+  dejarlo publicado.
+
 - El dependiente del CU del día 16 no invitó «a un café»: invitó a **café
   recién hecho a los tres**, y además sacó **leche fresca** por si alguno lo
   quería cortado. La redacción anterior se leía como si el café hubiera sido

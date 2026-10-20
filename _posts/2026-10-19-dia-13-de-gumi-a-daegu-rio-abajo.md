@@ -58,6 +58,31 @@ Tres cosas que aprendimos después sobre esta hierba:
   la enfrentó una a una con diecisiete plantas autóctonas y concluyó que **no
   les impide establecerse ni crecer**.
 
+## El libro electrónico debajo de la almohada
+
+En la presa de Chilgok hay un **CU**, y paramos a tomar algo. Fui a buscar la
+cartera en la mochila y, al sacarla, me di cuenta de que **el libro
+electrónico se había quedado en el hotel**. Maldición.
+
+No había discusión posible: los otros dos siguieron río abajo y yo di media
+vuelta **solo**, de vuelta al **Sky Motel de Gumi**, donde habíamos dormido la
+noche anterior. De la cabina al motel hay **trece kilómetros en línea recta**
+—más por el carril—, así que entre ir y volver se me fueron **más de
+veintiséis kilómetros** que no estaban en la etapa.
+
+Las fotos lo dejan medido sin que haga falta contarlo: la última antes de dar
+media vuelta es de las **10:37**, en la cabina, y la siguiente de las
+**14:16**, ya otra vez río abajo. **Tres horas y treinta y nueve minutos** de
+agujero en el día.
+
+Llegué al hotel **justo cuando estaban limpiando mi habitación**. Y el libro
+estaba allí: **debajo de la almohada**, donde lo había dejado la noche
+anterior y donde no se me ocurrió mirar al hacer el equipaje.
+
+Desde ese día, la rutina cambió: **repasar la habitación y el equipaje dos
+veces** antes de salir, siempre. No volvimos a olvidarnos de nada en todo el
+viaje.
+
 ## Daegu, y dos noches en el mismo sitio
 
 A media tarde entramos en **Daegu**, la tercera ciudad de Corea. Después de
@@ -97,5 +122,6 @@ comunicada, con excursiones a mano y mercados que ver.
 ---
 
 **Datos del día** · Gumi → Daegu · 2 cabinas: 칠곡보, 강정고령보 · Lo mejor:
-llegar sabiendo que mañana no se pedalea · Alojamiento: Uneed Hotel, 2 noches,
-336.000 wones · Cena: 51.000 wones · Mañana: día de descanso y templo.
+llegar sabiendo que mañana no se pedalea · Lo peor: volver solo a Gumi a por
+el libro electrónico, más de 26 km de regalo · Alojamiento: Uneed Hotel, 2
+noches, 336.000 wones · Cena: 51.000 wones · Mañana: día de descanso y templo.

@@ -9,11 +9,12 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 ### Added
 
-- **Cuarta tanda de fotos** (`blog.RQ010`), **41 más**, para engordar los días
+- **Cuarta tanda de fotos** (`blog.RQ010`), **55 más**, para engordar los días
   que se habían quedado con dos o tres: el día 6 (Suwon y la Torre N) sube de
-  3 a 14, el día 8 (de Seúl al kilómetro 0) de 3 a 12, el día 10 (Yeoju →
+  3 a 14, el día 8 (de Seúl al kilómetro 0) de 3 a 12, el día 9 (del Han a
+  Yeoju) de 4 a 15, el día 10 (Yeoju →
   Chungju) de 2
-  a 8, el día 11 (el puerto de Ihwaryeong) de 3 a 10 y el día 12 (Sangju y el
+  a 10, el día 11 (el puerto de Ihwaryeong) de 3 a 10 y el día 12 (Sangju y el
   principio del Nakdong) de 3 a 11. Entran el paso por
   encima de la presa de 강천보, el **gato azul de 강천섬** —la escultura que se
   queda sin nombre porque el cartel no se lee—, el camino de 탄금대, el cruce
@@ -133,6 +134,37 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
   lo que parecía una cara de frente es un cogote. Y se descarta la foto del
   rótulo de la parada de autobús climatizada, que lleva dos teléfonos
   impresos.
+
+  Del día 9 entran once, y con ellas una **corrección de bulto**: el post
+  decía «seis cabinas» en el título, en la tabla y en la ficha, y las fotos
+  demuestran que fueron **siete** — a las 10:35 se sella en
+  **광나루자전거공원**, todavía en Seúl, y faltaba en la lista. Entran las bicis
+  cargadas esperando en una acera de Mapo, el carril del Han bajo un viaducto
+  con su «20» pintado en cada sentido, el sello del 광나루, la presa de
+  **팔당댐** —cuyas coordenadas se comprobaron contra OpenStreetMap: el punto de
+  la foto está a menos de 300 m del muro—, un **túnel de ferrocarril** con
+  doble línea amarilla, el **puente de tablas** de la vía verde, el 쉼터 con su
+  ciclista de hierro, el **panel de los cuatro ríos**, un autorretrato de la
+  tarde y la cena entera de Yeoju: la pared de precios y la mesa con la
+  parrilla en marcha.
+
+  Dos cosas que el día 9 **no** puede dar, y se dicen: **no hay ninguna foto
+  dentro de la cabina de 이포보** —las dos de las 16:22 y las 16:25 son del
+  azud desde la otra orilla—, y el autorretrato llegó por WhatsApp **sin
+  metadatos**, así que el pie no dice dónde se hizo en vez de inventárselo. La
+  pared de precios se publica **sin atribuirla al 목구멍**: la foto no tiene
+  rótulo y su GPS cae a dos kilómetros de la de la mesa, así que se describe lo
+  que se ve y nada más.
+
+  Privacidad del día 9 (`blog.RQ005`): el panel de los cuatro ríos llevaba
+  **ocho teléfonos legibles** —los dos de emergencias y los seis de los
+  talleres de 양평—, mosaicados en bloque. En el resto no hizo falta: en la
+  cabina de 광나루 los únicos coches están lejos y sin matrícula legible, y en
+  la cena solo salimos los tres.
+
+  Del día 10 entran dos **a petición expresa**: faltaba una foto por cabina y
+  había tres cabinas con dos fotos. Ahora están el sello de **강천보** de cerca
+  y la cabina de **충주탄금대**, la que cierra el carril del Namhangang.
 
   Criterio del día 8: no hizo falta difuminar nada (`blog.RQ005`), porque las
   únicas caras son las de los tres y el único tercero es un ciclista de
@@ -487,6 +519,23 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 ### Changed
 
+- **La foto de la Olive Young del día 21 se cambia por la original.** La que
+  estaba publicada es un montaje; la buena es la toma de al lado, la misma
+  fachada y sin sonrisa. Se publica desenespejada —las dos llegaron volteadas
+  por la cámara frontal, con el rótulo «OLIVE YOUNG» al revés—, así que ahora
+  el rótulo y la pancarta del 건담베이스 se leen. Nadie reconocible al fondo:
+  las dos personas que entran en la tienda están de espaldas.
+
+- **El día 13 gana la historia del libro electrónico.** En el CU de la presa
+  de 칠곡보, al buscar la cartera, el libro no estaba: se había quedado debajo
+  de la almohada del Sky Motel de Gumi. Vuelta en solitario de **trece
+  kilómetros en línea recta** (más por el carril) y **más de veintiséis** entre
+  ir y volver, mientras los otros dos seguían río abajo. El hueco está medido
+  en las fotos: la última antes de dar media vuelta es de las **10:37** en la
+  cabina y la siguiente de las **14:16** ya río abajo, **3 h 39 min** de
+  agujero. De ahí sale la rutina del resto del viaje: repasar habitación y
+  equipaje dos veces.
+
 - **Dos gates que no miraban donde hacía falta.** `blog.RQ008` comprobaba las
   fechas en la prosa de las entradas, el índice y el `README`, así que una
   página nueva como `mapa.html` entraba sin pasar por ahí: ahora también la
@@ -514,6 +563,15 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
   castellano como el resto del repositorio.
 
 ### Fixed
+
+- **Los tubos de cobre del día 18 no eran ninguna novedad.** El post decía que
+  los extractores de cobre labrado eran «algo que no habíamos visto en ningún
+  otro asador del viaje», y lo contradicen sus propias fotos: el del día 8 ya
+  sale en `dia-08-el-tubo-de-cobre.jpg` —hasta en el nombre del archivo— y el
+  del día 9 sale, subiendo desde la propia parrilla, en la cena de Yeoju.
+  Ahora dice lo que de verdad era distinto allí: la cantidad, veinte y pico
+  colgando del techo, y el **disco azul numerado** del arranque de cada uno,
+  que es el número de mesa (se leen el 15, el 16, el 20 y el 21 en la foto).
 
 - **El día 2 llevaba dos fechas escritas.** «Salimos de España el día 22 por
   la mañana y aterrizamos el día 23 por la tarde» fija el calendario del

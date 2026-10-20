@@ -24,6 +24,8 @@ ninguna de las dos.
 
 {% include foto.html src="dia-24-al-volante-en-la-a3.jpg" ancho="1031" alto="1500" alt="Las dos manos del conductor en el volante de un Toyota y, por el parabrisas, la autovía, un camión en el carril de al lado, campos secos y una línea de aerogeneradores en el horizonte." pie="La A-3 de vuelta: rastrojo, molinos y un camión. Después de tres semanas de ríos coreanos, la Mancha." %}
 
+{% include foto.html src="dia-24-los-molinos-de-la-mancha.jpg" ancho="1218" alto="700" alt="Vista por la ventanilla del coche en la A-3: una fila de aerogeneradores sobre una loma de monte bajo, naves y casas al pie, campos de rastrojo en primer plano y la bionda de la autovía cruzando la foto." pie="Los molinos, unos segundos después y sin el volante por medio: la fila entera en la loma, el rastrojo delante y la bionda. Esto es lo que hay a mitad de camino entre Madrid y casa." %}
+
 ## El almuerzo: la barbacoa española
 
 A mitad de camino, a las **13:15**, paramos a comer en el **restaurante

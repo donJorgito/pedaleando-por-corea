@@ -38,6 +38,8 @@ río, con su carril bici pintado aparte, y al fondo un mástil blanco curvado
 
 {% include foto.html src="dia-10-cruzando-gangcheonbo.jpg" ancho="844" alto="1500" alt="Carril bici sobre la coronación de una presa, con flechas y rombos pintados en el asfalto y la barandilla metálica a los dos lados; delante, dos ciclistas de espaldas, uno con la bici cargada, y al fondo un mástil blanco curvado con forma de vela y una torre redonda con el remate turquesa." pie="Cruzando 강천보 por encima, dos minutos antes de sellar. El mástil blanco con forma de vela se ve desde mucho antes; la torre redonda de la derecha es el otro remate de la presa." %}
 
+{% include foto.html src="dia-10-sellando-en-gangcheonbo.jpg" ancho="844" alto="1500" alt="Cabina roja de certificación con el cartel azul 강천보 / GANGCHEONBO, con un ciclista de pie dentro sellando el pasaporte, aparcabicis a la izquierda y césped alrededor." pie="강천보 de cerca, a las 09:40. Por dentro todas son iguales: el mapa de la ruta, el sello colgando de su cadenita y un suelo de chapa pisado por media Corea." %}
+
 ### 강천섬, el parque que no esperas
 
 Media hora después de sellar, a las **10:12**, el carril se mete en **강천섬
@@ -65,6 +67,8 @@ cualquiera: ahí **termina el carril del Namhangang y empieza el del Saejae
 
 Dicho de otra forma: hasta aquí has venido siguiendo el agua y en llano. A
 partir de aquí hay que subir.
+
+{% include foto.html src="dia-10-cabina-tangeumdae.jpg" ancho="844" alto="1500" alt="Cabina roja de certificación con el cartel azul 충주탄금대 / CHUNGJU TANGEUMDAE, con un ciclista dentro de pie sellando el pasaporte, otra cabina a la izquierda y el pavimento de adoquín rojo alrededor." pie="충주탄금대, tres minutos antes de la hora que quedó en el sello. Aquí se acaba el carril del Namhangang y empieza el del Saejae: la última cabina en llano." %}
 
 {% include foto.html src="dia-10-camino-de-tangeumdae.jpg" ancho="844" alto="1500" alt="Una de las viajeras caminando por un carril bici de pavimento rojo con la franja verde, con chaqueta gris, pantalón corto negro, gafas de sol y el casco en la mano; detrás, una barandilla azul, el río y la ladera arbolada." pie="탄금대, a las 14:44 en punto: la hora que quedó en el sello. Pavimento rojo con la franja verde, barandilla azul y el Namhangang detrás, despidiéndose." %}
 

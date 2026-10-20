@@ -160,9 +160,11 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 ### Changed
 
 - Quedaban dos referencias numeradas al estándar corporativo, una en
-  `pages.yml` y otra en `_config.yml`, que el primer barrido no vio
-  porque no contienen la palabra que buscaba. El comentario explica ahora el
-  porqué en vez de citar una regla.
+  `pages.yml` y otra en `_config.yml`, que el primer barrido no vio porque
+  citaban la norma por su número sin nombrarla. Los comentarios explican
+  ahora el porqué en vez de remitir a una regla. Como con las fechas: el
+  apunte no reproduce el texto retirado, que si no se queda publicado en el
+  sitio donde se cuenta que se ha quitado.
 
 - **Fuera del repositorio toda referencia al estándar corporativo y a la
   empresa.** Aparecían en el `README`, en `CODEOWNERS`, en

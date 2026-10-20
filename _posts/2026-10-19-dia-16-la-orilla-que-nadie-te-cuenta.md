@@ -49,8 +49,9 @@ A mediodía paramos a comer en un **CU** de la ruta, como tantas veces. Y esta
 vez el que estaba detrás del mostrador **hablaba algo de español**.
 
 Se puso a charlar con nosotros con lo que tenía, encantado de poder usarlo, y
-acabó **invitándonos a un café a los tres**. Sin más motivo que el de que le
-hizo gracia la situación.
+acabó **invitándonos a café recién hecho a los tres**. Y no se quedó ahí:
+**nos sacó leche fresca** por si alguno lo quería cortado. Sin más motivo que
+el de que le hizo gracia la situación.
 
 Una tienda 24 h es el sitio menos romántico del mundo para que te pase algo
 así, y ahí está el detalle: la amabilidad en Corea no aparece donde la

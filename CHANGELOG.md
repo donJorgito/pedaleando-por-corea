@@ -170,6 +170,11 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 ### Fixed
 
+- El dependiente del CU del día 16 no invitó «a un café»: invitó a **café
+  recién hecho a los tres**, y además sacó **leche fresca** por si alguno lo
+  quería cortado. La redacción anterior se leía como si el café hubiera sido
+  uno solo para tres.
+
 - **Pilar de la Horadada a Madrid son unos 450 km, no 382.** Los 382 eran la
   distancia **en línea recta** entre las dos ciudades, que no es la que se
   conduce. Corregido en los tres sitios de la entrada del día 1.

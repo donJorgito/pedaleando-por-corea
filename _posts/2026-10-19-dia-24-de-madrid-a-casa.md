@@ -13,12 +13,16 @@ dia: 24
 A las **09:27** aterrizábamos en **Barajas**. Por la tarde ya estábamos en
 casa.
 
+{% include foto.html src="dia-24-llegada-a-barajas.jpg" ancho="844" alto="1500" alt="Dos de los viajeros sentados con las mochilas puestas en el asiento corrido de un vagón blanco, mirando al frente con cara de sueño." pie="Nueve y media de la mañana en Madrid, con las mochilas todavía puestas y veinticuatro días en el cuerpo." %}
+
 ## Los últimos 450 kilómetros
 
 De Barajas a **Pilar de la Horadada** hay **unos 450 km de coche** —los
 mismos de la ida, ahora al revés—, cerca de cinco horas que hicimos con las
 maletas nuevas en el maletero y el cuerpo en una zona horaria que no era
 ninguna de las dos.
+
+{% include foto.html src="dia-24-al-volante-en-la-a3.jpg" ancho="1031" alto="1500" alt="Las dos manos del conductor en el volante de un Toyota y, por el parabrisas, la autovía, un camión en el carril de al lado, campos secos y una línea de aerogeneradores en el horizonte." pie="La A-3 de vuelta: rastrojo, molinos y un camión. Después de tres semanas de ríos coreanos, la Mancha." %}
 
 ## El almuerzo: la barbacoa española
 
@@ -27,6 +31,8 @@ Marino**, en **Honrubia (Cuenca)**, a pie de A-3. Y lo que pedimos, visto
 desde el avión del que acabábamos de bajar, tiene gracia: **plato
 combinado** de **huevo frito, patatas fritas, panceta, morcilla y chorizo a
 la parrilla**.
+
+{% include foto.html src="dia-24-plato-combinado.jpg" ancho="844" alto="1500" alt="Mesa de restaurante de carretera vista desde arriba: dos platos combinados con huevo frito, patatas fritas, panceta, morcilla y chorizo, una cesta de pan, botellines, una taza de café y los tres viajeros alrededor." pie="El plato combinado del Marino: huevo, patatas, panceta, morcilla y chorizo. La barbacoa coreana, versión A-3." %}
 
 O sea, **la versión española de la barbacoa coreana**: carne hecha a la
 brasa, variada, con guarnición, para compartir mesa y tardar un rato. Lo

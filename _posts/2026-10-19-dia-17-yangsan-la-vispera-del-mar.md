@@ -10,9 +10,10 @@ description: >-
 tags: [corea, gukto-jongju, yangsan, nakdonggang, buffet, sikhye, comida, dia-a-dia]
 ---
 
-Penúltima etapa, y la más corta de fotos de todo el viaje: **37**. Cuando
-llevas dieciséis días el paisaje deja de sorprenderte, y además íbamos con la
-cabeza puesta en lo de mañana.
+Penúltima etapa, y la más corta de fotos de las **once jornadas en bici**:
+**37**. Todas las demás pasan de cincuenta. Cuando llevas dieciséis días el
+paisaje deja de sorprenderte, y además íbamos con la cabeza puesta en lo de
+mañana.
 
 ## Una sola cabina
 
@@ -20,10 +21,30 @@ A las **14:16** sellamos en la cabina del **Centro del Agua de Yangsan
 (양산물문화관)**. Fue la única del día: en este tramo final el Nakdong va
 ancho, recto y con las cabinas muy espaciadas.
 
-A las **15:48** pasamos por el **parque del Memorial**, ya en Mulgeum, y de
-ahí al hotel.
-
 {% include foto.html src="dia-17-cabina-yangsan.jpg" ancho="844" alto="1500" alt="Dos ciclistas sonriendo en la cabina de certificación del Yangsan Water Culture Center, con el pasaporte abierto entre los dos." pie="양산물문화관, la única cabina del día. La penúltima de las treinta y cinco." %}
+
+### Las pasarelas voladas sobre el río
+
+Seis minutos antes de sellar, a las **14:10** y a menos de un kilómetro de la
+cabina, el carril hace lo que mejor hace en este tramo: se despega de la
+orilla y sigue **en voladizo sobre el agua**, con tablero de madera, barandilla
+doble —el pasamanos de madera por dentro, el tubo metálico por fuera— y el río
+abierto a la derecha.
+
+{% include foto.html src="dia-17-deck-del-nakdong.jpg" ancho="1135" alto="1500" alt="Pasarela de madera volada sobre el Nakdong, con barandilla metálica y pasamanos de madera a los lados, el río a la derecha y dos ciclistas de espaldas a lo lejos; al fondo, montes arbolados y un cartel rojo vertical en coreano." pie="El carril en voladizo sobre el Nakdong, a un paso de la cabina. Los dos de delante ya han cogido la curva; el cartel rojo avisa de que la madera resbala." %}
+
+Ese cartel rojo vertical del medio no es decorativo: arriba, en amarillo, pone
+**전방데크구간** —«tramo de pasarela a continuación»— y debajo, en rojo,
+**눈·비 올 때 미끄럼 주의**: «cuidado, resbala con lluvia o nieve». Nosotros lo
+cogimos con sol y seco, pero la advertencia tiene sentido. Es madera, y está
+volada sobre el río.
+
+A las **15:48**, ya en **Mulgeum**, paramos en un parque al pie del monte con
+un **estanque y una cascada artificial** montada sobre un peñasco de roca
+gris, con pinos recortados alrededor. Fue el último descanso del día antes del
+hotel.
+
+{% include foto.html src="dia-17-parque-del-memorial.jpg" ancho="880" alto="1500" alt="Una de las viajeras, en camiseta y mallas negras, sentada en una gran roca de granito al borde de un estanque, con una cascada artificial sobre rocas grises y pinos recortados detrás." pie="El último alto del día, en el parque de Mulgeum: el estanque, la cascada de piedra y una roca de granito a modo de banco. Diecisiete días de viaje en las piernas." %}
 
 ## El último hotel antes de Busan, otra vez sin reserva
 
@@ -57,6 +78,8 @@ sucio** al carro de la entrada —hay un cartel que lo recuerda—. El agua, los
 En la isla central hay lo que uno esperaría de una casa coreana un domingo:
 guisos, salteados, fritos, varios arroces, sopa, verduras aliñadas, hojas
 para envolver y una fila entera de *banchan*.
+
+{% include foto.html src="dia-17-buffet-coreano.jpg" ancho="844" alto="1500" alt="Los tres viajeros sentados a una mesa de madera oscura con los platos casi rebañados, vasos metálicos, palillos de acero y una botella de cerveza Cass; detrás, separada por una barandilla, la isla del buffet con las bandejas de comida alineadas." pie="Casi las siete de la tarde y los platos ya rebañados. Al fondo, al otro lado de la barandilla, la isla del buffet con las bandejas: ahí se va y se vuelve tantas veces como haga falta." %}
 
 Y aquí está lo interesante, que es justo lo contrario de una anécdota: **no
 comimos nada que no hubiéramos comido ya**. Diecisiete días después de

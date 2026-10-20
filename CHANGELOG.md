@@ -9,6 +9,35 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 ### Added
 
+- **Tercera tanda de fotos** (`blog.RQ010`), **44 más**, que completan los
+  días 13 a 24: el campo de 핑크뮬리 y la cena de Daegu; el día de descanso
+  entero —Haeinsa, la Tripitaka, el hanbok, Seomun—; Dodongseowon de día y su
+  festival de luz de noche; el mirador de 구름재 y el panel de la batalla del
+  saliente del Naktong; la pasarela volada sobre el Nakdong y el 한식뷔페 de
+  Yangsan; **el final de la ruta** —la última cabina, el certificado con la
+  medalla, la devolución de las bicis y Haeundae al atardecer—; el templo del
+  mar, Gamcheon, Huinnyeoul y los drones; la Olive Young de Seomyeon con el
+  botín de cosmética extendido en la cama; el KTX, la corte de Joseon de la
+  T1 de Incheon y el plato combinado de la A-3.
+
+  Las decisiones de privacidad de esta tanda (`blog.RQ005`): en el
+  certificado del 국토종주 se han tapado **el nombre, el número de
+  certificación y la fecha** —el documento lleva impreso el día exacto, que
+  es justo lo que no se publica (`blog.RQ008`)—; en la cena de celebración se
+  difuminaron **ocho caras** de quien cenaba al lado; en la foto del taller
+  de bicicletas se borraron **los dos teléfonos de los rótulos** y las caras
+  de dos personas que pasaban; y en el teléfono escrito en el muro del hotel
+  del bosque hubo que repetir el difuminado hasta que dejó de leerse. Para
+  texto grande, la máscara elíptica con `-blur` no basta: hay que mosaicar.
+
+  De revisar las fotos a tamaño completo salieron además **tres
+  correcciones** al texto ya publicado: el día 15 no tuvo «el recinto
+  iluminado» sino un centenar de esculturas de luz en el prado —y la
+  proyección sobre el ginkgo solo se hace viernes y sábado, que es por lo que
+  nos la perdimos—; el día 17 es la jornada **en bici** con menos fotos, no
+  la del viaje entero; y el día 21 es el día con menos fotos **de los pasados
+  en Corea**, porque los días de avión bajan de ahí.
+
 - **El mapa de la ruta, publicado en el propio sitio** (`blog.RQ011`), en
   `/mapa/` y enlazado desde la portada y desde la cabecera: los cinco
   carriles bici oficiales por colores, el **trazado real reconstruido con el

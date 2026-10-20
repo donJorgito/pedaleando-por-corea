@@ -37,8 +37,12 @@ Sobró tiempo, y se agradeció. Incheon es un aeropuerto para pasearlo: a las
 **13:32** andábamos con uno de **los robots que circulan solos por las
 terminales**: te guían hasta la puerta que buscas, y además llevan **cámara y
 pantalla**, así que te hacen fotos y selfies ahí mismo, con su carita de
-dibujo animado puesta. No es una atracción montada para el turista: es cómo
-se informa a la gente en Incheon.
+dibujo animado puesta.
+
+{% include foto.html src="dia-23-robot-de-incheon.jpg" ancho="844" alto="1500" alt="Dos viajeros a los lados de un robot guía blanco en la terminal de Incheon; el robot tiene dos corazones rojos dibujados en la pantalla de la cara y otra pantalla grande en el cuerpo con la imagen de una pista de aterrizaje." pie="El robot guía de Incheon, con los corazones puestos en la cara y la pista en la pantalla del cuerpo. Detrás, la terminal entera a lo suyo." %}
+
+No es una atracción montada para el turista: es cómo se informa a la gente en
+Incheon.
 
 ## La corte de Joseon, en la terminal
 
@@ -57,6 +61,8 @@ ahí se ve el rango—; las **여령**, las bailarinas de palacio de amarillo; u
 criados sosteniendo en alto los dos quitasoles enormes, el **홍양산** rojo y
 el **청양산** azul, que es lo primero que ves desde lejos.
 
+{% include foto.html src="dia-23-corte-de-joseon.jpg" ancho="1500" alto="844" alt="Un viajero en camiseta y pantalón corto, de pie en el centro de una formación de actores vestidos de corte coreana: el rey de túnica roja, la reina de granate, damas de palacio de amarillo y verde, y criados sosteniendo en alto un quitasol rojo y otro azul." pie="La corte de Joseon en la terminal 1, y uno de nosotros metido en medio en camiseta y pantalón corto. El rey a la derecha, la reina a su lado y los dos quitasoles arriba." %}
+
 El espectáculo se llama **왕가의 산책**, «el paseo de la familia real», y lo
 monta la agencia del patrimonio coreano dentro de la zona de embarque: en la
 **T1 son dos pases al día, a las 11:00 y a las 14:00**, en el este y el oeste
@@ -70,9 +76,17 @@ cultura.
 
 ## Y de vuelta
 
+Y lo último de Corea fue mirar por el ventanal: a las **14:35**, un **747 de
+carga con la bandera coreana en la cola** rodando por la pista, con la montaña
+detrás.
+
+{% include foto.html src="dia-23-carguero-en-incheon.jpg" ancho="1361" alto="1500" alt="Visto desde el ventanal de la terminal, un Boeing 747 de carga blanco rodando por la pista de Incheon, con una montaña azulada al fondo y la bandera coreana pintada en la cola." pie="Un 747 de carga con matrícula coreana rodando por la pista, y la montaña detrás. La última foto en tierra coreana." %}
+
 El vuelo salió por la tarde. A las **20:02** hacíamos escala en **Hong Kong**,
 y de ahí el tramo largo hasta Madrid, otra vez con la noche entera por
 delante.
+
+{% include foto.html src="dia-23-en-el-avion.jpg" ancho="844" alto="1500" alt="Los tres viajeros en sus asientos dentro del avión, mirando a la cámara desde abajo, con los respaldos y los cinturones alrededor." pie="Los tres ya sentados, con el viaje de vuelta entero por delante. Veinticuatro días en las piernas." %}
 
 El viaje terminaba igual que había empezado: en un aeropuerto, con el cuerpo
 sin saber qué hora era.

@@ -30,14 +30,33 @@ alrededor. Subes, caminas, y abajo hay gente haciendo la compra.
 
 ## La calle del pollo frito
 
-A las **15:30** acabamos en la **calle del pollo frito** de Suwon, que es
-exactamente lo que parece: una calle entera de restaurantes de pollo frito,
-uno detrás de otro.
+Bajando de la muralla acabamos en la **calle del pollo frito de Suwon**
+(**수원통닭거리**), que es exactamente lo que parece: una calle entera de
+asadores de pollo, uno detrás de otro, con las freidoras a la vista desde la
+acera. Está en 정조로800번길, pegada al mercado de Paldalmun.
+
+Nos metimos en uno de los clásicos: **[진미통닭 (Jinmi
+Tongdak)](https://map.naver.com/p/entry/place/13496253)**, en 정조로800번길
+21. Más de **15.000 reseñas** en Naver Map y abierto hasta las once de la
+noche.
 
 El pollo frito coreano, el **chikin**, es plato nacional y merece la fama: la
 fritura es finísima y crujiente, y las salsas van de la dulce de soja y ajo a
-la picante **yangnyeom**. Nos costó **20,18 € los tres**, y cayeron también
-**5.000 wones de bollos rellenos** por la calle.
+la picante **yangnyeom**. Aquí se pide por pollo entero, no por piezas:
+
+| Qué | Wones |
+| --- | ---: |
+| 후라이드 (frito a secas) | 21.000 |
+| 양념통닭 (con salsa picante) | 22.000 |
+| 반반 (mitad y mitad) | 22.000 |
+
+Acabamos con las dos bandejas delante —una de frito a secas y otra de
+**양념**, roja y pegajosa— y el rábano encurtido para cortar la grasa.
+**20,18 € los tres**, a las **15:26**. Y cayeron también **5.000 wones de
+bollos rellenos** por la calle.
+
+En Suwon el pollo no es un plan alternativo a la muralla: es parte de la
+visita, y la ciudad tiene fama nacional por esto.
 
 ## La Torre N, de noche
 
@@ -64,5 +83,6 @@ conviene quitarle el estigma antes de llegar.
 ---
 
 **Datos del día** · Seúl → Suwon → Seúl en tren · Fortaleza de Hwaseong,
-calle del pollo frito, Torre N · Tren 2.000 wones/persona · Alojamiento: Seúl
-· Mañana: la DMZ, la frontera con Corea del Norte.
+calle del pollo frito (진미통닭), Torre N · Tren 2.000 wones/persona · Pollo:
+20,18 € los tres · Alojamiento: Seúl · Mañana: la DMZ, la frontera con Corea
+del Norte.

@@ -93,9 +93,18 @@ otra estación de tren reconvertida, y de ahí al alojamiento: el **성보촌
 유스호스텔 (Sungbochon Youth Hostel)**, en Hogye-myeon, Mungyeong. **129.600
 wones**, unos 85 € los tres.
 
-Cenamos **caldo de huesos** con **soju y cerveza**: **62.000 wones**, unos
-40 €. El caldo coreano de huesos de ternera, el *gomtang*, es exactamente lo
-que el cuerpo pide después de un día así.
+Cenamos a dos pasos, en el
+**[명문가마솥식당](https://map.naver.com/p/entry/place/15157288)** (호계길 4),
+y fue de los sitios más agradables de toda la ruta: un comedor de pueblo con
+la tele puesta, la carta en carteles pegados a la pared y la familia
+atendiendo. Entramos casi con la hora de cerrar encima —echan el cierre a las
+ocho— y aun así nos sentaron sin prisa.
+
+Pedimos **caldo de huesos** con **soju y cerveza**: **62.000 wones**, unos
+40 €. Es el **갈비탕**, caldo de costilla de ternera cocido durante horas,
+que allí sale a 13.000 o 15.000 wones el cuenco según el corte; y es
+exactamente lo que el cuerpo pide después de un día así. El soju y la cerveza,
+a **4.000** cada uno.
 
 ---
 
@@ -103,4 +112,5 @@ que el cuerpo pide después de un día así.
 **Ihwaryeong (539 m)** · 4 cabinas: 수안보온천, 행촌교차로, 이화령, 불정역 ·
 Comida: noodles, huevos, rábano y manzanas de Mungyeong en una tienda 24 h ·
 Lo mejor: el baño de pies · Lo peor: la cuesta, obviamente · Alojamiento:
-성보촌 유스호스텔, 129.600 wones · Cena: caldo de huesos, 62.000 wones.
+성보촌 유스호스텔, 129.600 wones · Cena: 갈비탕 en 명문가마솥식당, 62.000
+wones.

@@ -71,9 +71,17 @@ Si Gamcheon es color, Huinnyeoul es horizonte.
 ### Un bingsu de té antes de empezar el paseo
 
 Justo en el **arranque del sendero** hay una cafetería que se llama **포엠
-(Poem)** —**명동포엠 부산직영점**, en 해안산책길 10— y ahí paramos antes de
+(Poem)** —**[명동포엠 부산직영점](https://map.naver.com/p/entry/place/1297457460)**,
+en 해안산책길 10— y ahí paramos antes de
 echar a andar. Es una casa de **빙수 (bingsu)**: lo tienen de té verde, de
 té con leche, de mango, de fresa, de melón.
+
+Y resulta que ya habíamos estado. Su nombre completo significa «el Poem de
+Myeongdong, sucursal de Busan», y el de Myeongdong es exactamente donde nos
+tomamos el bingsu con gofre [la víspera de coger las
+bicis]({{ site.baseurl }}{% post_url 2026-10-19-dia-07-la-dmz-la-frontera-mas-tensa-del-mundo %}),
+tres semanas antes y seiscientos kilómetros más al norte. No lo supimos hasta
+mucho después.
 
 Nosotros pedimos el **de té**, y fue de las mejores cosas dulces del viaje:
 **10,68 €** para dos.

@@ -9,6 +9,35 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 ### Added
 
+- **Los sitios donde se cenó empiezan a tener nombre y enlace a Naver Map.**
+  Esta tanda cubre:
+  - Día 6: **진미통닭**, en la calle del pollo frito de Suwon (정조로800번길
+    21), con su carta de pollo entero y las dos bandejas, frita y 양념.
+  - Día 8: **정다운식당** (희우정로 27, Mapo), con el **영양버섯솥밥** de
+    cuatro setas que se recordaba sin nombre.
+  - Día 9: **목구멍 여주점** (여양로233번길 5-26) y su lema, *«숙성이고
+    나발이고 좋은 고기가 맛있습니다»*.
+  - Día 11: **명문가마솥식당** (호계길 4, Mungyeong), el comedor de pueblo
+    del 갈비탕, con la aclaración de que el caldo era 갈비탕 y no *gomtang*.
+  - Y enlace de Naver Map en los que ya estaban nombrados: el asador del
+    día 3, Tosokchon el día 5, Poem el día 7, el Poem de Busan el día 20 y
+    los dos del día 22.
+
+- El día 7 se cuenta **en el orden en que pasó**. **Imjingak no fue la última
+  parada: fue la de mediodía**, a las 12:12, y allí están la locomotora
+  acribillada de la estación de Jangdan y las cintas de la alambrada. La
+  última parada, a las 16:15, fue **통일촌 (Tongilchon)**, el pueblo agrícola
+  que está dentro de la zona de control civil, con su sala inmersiva. Y se
+  añaden la cena en Myeongdong y el bingsu en **포엠 (Poem)**, 명동4길 13 —
+  que resulta ser la casa madre del Poem de Busan del día 20, enlazados
+  ahora el uno con el otro.
+
+- El día 9 cuenta **cómo se perdió el grupo** entre la cabina del museo de
+  Yangpyeong y la de la presa de Ipo: el «nos vemos en el camino», los 17 km
+  de desvío, la ronda de llamadas y por qué hubo que seguir hasta Yeoju de
+  noche (en Ipo no hay nada). Reconstruido con las horas del chat del grupo
+  y el GPS de las fotos, y con las dos lecciones que deja.
+
 - El día 3 cuenta **dónde fue la primera cena**: **다올 숯불구이 명동점
   (DAOL)**, 명동8길 8-11, un asador de carbón de Myeongdong elegido en el bus
   desde el aeropuerto. Qué se pidió —tiras de ternera, panceta, los banchan,

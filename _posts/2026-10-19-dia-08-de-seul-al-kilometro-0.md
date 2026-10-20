@@ -114,10 +114,21 @@ Nos equivocamos un par de veces, retrocedimos más de lo necesario y llegamos
 de noche. Pero el pasaporte tenía tres sellos, y las bicis habían aguantado.
 Nosotros también.
 
-Lo celebramos como se celebra en Corea: **barbacoa coreana** en un sitio cerca
-del alojamiento, con arroz con setas. **52.000 wones**, unos 34 €. Te sientas
-alrededor de la parrilla encastrada en la mesa, te traen la carne cruda y la
-vas haciendo tú mientras se llena la mesa de banchan.
+Lo celebramos como se celebra en Corea: **barbacoa coreana** en el
+**[정다운식당](https://map.naver.com/p/entry/place/1290565117)**, en 희우정로
+27, a un paso del alojamiento de Mapo. Un sitio de
+barrio, de los de menú del día para oficinistas, sin una palabra en inglés.
+
+Cenamos a las **19:30**: carne a la parrilla —**소갈비살** a 17.000 wones los
+120 gramos, **삼겹살** a 14.000 los 150— y, lo que mejor se recuerda, el
+**영양버섯솥밥**: **arroz hecho en olla con cuatro clases de setas**
+—참송이, 새송이, 표고 y 만가닥—, 14.000 wones. Llega hirviendo en su propia
+olla y se remata echando agua al fondo para despegar y comerse el socarrat.
+**52.000 wones**, unos 34 €.
+
+Te sientas alrededor de la parrilla encastrada en la mesa, con el tubo
+extractor de cobre bajando del techo, te traen la carne cruda y la vas
+haciendo tú mientras se llena la mesa de banchan.
 
 Después de un primer día que había consistido en pedalear en dirección
 contraria, costaba imaginar mejor final.
@@ -126,5 +137,6 @@ contraria, costaba imaginar mejor final.
 
 **Datos del día** · Seúl (Mapo) → Incheon (Ara Seohae, km 0) → Seúl (Yeouido) ·
 ~67 km · 3 cabinas: 아라서해갑문, 아라한강갑문, 여의도 · Alojamiento: Alto 201
-(Mapo, Seúl) · Cena: barbacoa coreana, 52.000 wones · Lo mejor: el canal Ara ·
+(Mapo, Seúl) · Cena: barbacoa en 정다운식당, 52.000 wones · Lo mejor: el
+canal Ara ·
 Lo peor: gastar la mañana en llegar a la salida.

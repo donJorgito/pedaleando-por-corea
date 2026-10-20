@@ -60,10 +60,11 @@ Por orden de urgencia real:
 
 ## La primera cena
 
-Soltamos las mochilas y salimos a cenar a las nueve pasadas, a **다올
-숯불구이 명동점 (DAOL)**, en 명동8길 8-11: un asador de carbón en pleno
-**Myeongdong**. Lo elegimos en el bus desde el aeropuerto, entre tres o cuatro
-fichas de Naver Map que nos fuimos pasando por el grupo.
+Soltamos las mochilas y salimos a cenar a las nueve pasadas, a **[다올 숯불구이
+명동점 (DAOL)](https://map.naver.com/p/entry/place/1220312094)**, en 명동8길
+8-11: un asador de carbón en pleno **Myeongdong**. Lo elegimos en el bus desde
+el aeropuerto, entre tres o cuatro fichas de Naver Map que nos fuimos pasando
+por el grupo.
 
 Fue la entrada en materia perfecta, porque la **barbacoa coreana** acabó
 siendo lo que más repetimos en todo el viaje. Funciona así: la mesa lleva

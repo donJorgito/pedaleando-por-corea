@@ -53,8 +53,8 @@ Los números, puestos al lado de lo que cuesta eso en España, están en
 
 ## La comida: el kalguksu de la guía
 
-A las **14:08** comimos en el **명동교자 본점 (Myeongdong Kyoja)**, en 퇴계로
-129, a treinta metros de la salida 8 del metro de Myeongdong. No es un sitio
+A las **14:08** comimos en el **[명동교자 본점 (Myeongdong
+Kyoja)](https://map.naver.com/p/entry/place/11592650)**, en 퇴계로 129, a treinta metros de la salida 8 del metro de Myeongdong. No es un sitio
 cualquiera: lleva años **en la Guía Michelin de Seúl**, en la categoría de
 comer bien y barato, y la carta entera son **cuatro platos**.
 
@@ -88,7 +88,7 @@ en mitad de la calle, que siguen siendo de las mejores cosas que se pueden
 comer en este país.
 
 Y después, a las **19:30**, la despedida de verdad: **barbacoa coreana** en
-**조박사등갈비**, en 퇴계로16길 8, a cincuenta metros de la salida 4 del metro
+**[조박사등갈비](https://map.naver.com/p/entry/place/13474004)**, en 퇴계로16길 8, a cincuenta metros de la salida 4 del metro
 de Myeongdong. Y este es el apunte que más me importa del día: **no había un
 solo turista dentro**. Mesas de oficinistas, soju, ruido, y nosotros tres.
 

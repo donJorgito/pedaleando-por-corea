@@ -26,8 +26,8 @@ viaje a Corea.
 - **Olive Young** es la cadena de referencia: cremas, mascarillas,
   protectores solares, sérums. Precios muy por debajo de los europeos para las
   mismas marcas, y un surtido que aquí no existe.
-- **Daiso** es el bazar de todo a precios mínimos, y además es donde se
-  resuelve el problema práctico del final del viaje: **cómo llevarse todo eso
+- **Daiso** es el bazar de todo a precios mínimos, y es donde se empieza a
+  resolver el problema práctico del final del viaje: **cómo llevarse todo eso
   a casa**.
 
 **Dos de los tres se dejaron cerca de 300 € cada uno** en cremas y productos

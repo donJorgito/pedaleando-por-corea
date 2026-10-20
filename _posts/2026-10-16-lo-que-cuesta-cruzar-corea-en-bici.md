@@ -297,9 +297,10 @@ Así que esto no es una cifra que puedas meter en el presupuesto medio: o te
 pasa o no te pasa. Pero si te pasa son **300 € por cabeza** que no habías
 contado, y es más de lo que cuesta el alquiler de la bici.
 
-Daiso además es donde se resuelve el problema de volver cargado: una **maleta
-de ruedas por 10.000 wones**, menos de siete euros. Cumplió perfectamente el
-viaje de vuelta.
+El problema de volver cargado se resuelve por diez euros: **una maleta sin
+ruedas en Daiso por 5.000 wones** y **una de ruedas en un puesto de los
+지하상가**, las galerías subterráneas del metro de Seúl, **por 10.000**. Las
+dos cumplieron el viaje de vuelta.
 
 ### Medicina estética: 110 € por cuatro zonas
 

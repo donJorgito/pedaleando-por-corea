@@ -13,6 +13,8 @@ dia: 3
 A las **15:16** hora local tocamos tierra en el **aeropuerto de Incheon**.
 Cincuenta horas después de salir de casa, por fin Corea.
 
+{% include foto.html src="dia-03-el-salto-largo.jpg" ancho="844" alto="1500" alt="Cabina de un avión de pasillo doble vista desde un asiento, con los respaldos ocupados y un pasajero durmiendo tapado con la capucha." pie="El segundo tramo, el de Hong Kong a Incheon. A esas alturas del viaje ya se duerme en cualquier postura." %}
+
 ## Del aeropuerto al centro: las tres opciones, y lo que hicimos
 
 Son **49 km** de Incheon al centro de Seúl y hay tres maneras de bajar. Estos

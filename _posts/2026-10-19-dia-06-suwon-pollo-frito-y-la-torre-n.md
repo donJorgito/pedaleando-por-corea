@@ -28,6 +28,8 @@ Lo que la hace distinta de una muralla al uso es que **la ciudad sigue viva
 dentro**: no es un recinto arqueológico vallado, es un barrio con su muralla
 alrededor. Subes, caminas, y abajo hay gente haciendo la compra.
 
+{% include foto.html src="dia-06-hwaseong-canon.jpg" ancho="844" alto="1500" alt="Una viajera de pie junto a un cañón antiguo montado sobre ruedas de madera, en lo alto de la muralla de Hwaseong, con un pabellón de tejado curvo al fondo." pie="Arriba de la muralla de Hwaseong: casi seis kilómetros de almenas que se recorren andando, con la ciudad viva por dentro." %}
+
 ## La calle del pollo frito
 
 Bajando de la muralla acabamos en la **calle del pollo frito de Suwon**
@@ -58,6 +60,8 @@ bollos rellenos** por la calle.
 En Suwon el pollo no es un plan alternativo a la muralla: es parte de la
 visita, y la ciudad tiene fama nacional por esto.
 
+{% include foto.html src="dia-06-el-papelito-del-pollo.jpg" ancho="844" alto="1500" alt="Una mano sosteniendo un papel naranja con dos nombres escritos a mano en coreano, sobre el fondo de las baldosas de la acera." pie="Los dos asadores, apuntados a mano en un papelito: 진미통닭 y 용성통닭. Entramos en el primero." %}
+
 ## La Torre N, de noche
 
 Por la noche subimos a la **Torre N de Seúl**, en el monte Namsan. Llegamos
@@ -68,6 +72,8 @@ Han partiéndola por la mitad.
 Seúl es enorme y desde arriba se entiende de golpe. Es también el mejor sitio
 para hacerse una idea de lo que va a ser el primer día de bici: ese río que
 ves abajo es por donde vas a salir pedaleando.
+
+{% include foto.html src="dia-06-torre-n.jpg" ancho="844" alto="1500" alt="La Torre N de Seúl iluminada de azul de noche, vista desde abajo, con un viajero en primer plano a la derecha." pie="La Torre N desde abajo. Subir de noche es lo que vale: la ciudad entera encendida hasta donde alcanza la vista." %}
 
 ## La cena del 7-Eleven
 

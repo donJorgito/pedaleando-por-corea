@@ -9,6 +9,22 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 ### Added
 
+- **Segunda tanda de fotos** (`blog.RQ010`), **23 más**: el avión y el salto
+  largo, el robot Taekwon V, Bukchon, Changdeokgung con sus 잡상 y su 책가도,
+  el cambio de guardia de Gyeongbokgung, el 거북선 de 충무공이야기, Gwangjang,
+  la Starfield Library, la muralla de Hwaseong, el papelito con los dos
+  asadores de Suwon, la Torre N y el día de la DMZ entero —Gamaksan, la
+  locomotora de Jangdan, las cintas de la alambrada, las letras del tercer
+  túnel y la sala inmersiva de 통일촌—.
+
+  Cada foto se ha revisado a tamaño completo antes de publicarla, y de ahí
+  salieron tres decisiones: el cambio de guardia **se recortó** para dejar
+  fuera a los veinte espectadores de la primera fila (y a los ocho que
+  quedaban dentro del recorte se les difuminó la cara); en Gwangjang se
+  difuminaron **once caras** de quien comía al lado; y en dos fotos de la DMZ
+  se difuminó **la tarjeta de la excursión**, que llevaba a la vista un
+  nombre y un número de teléfono (`blog.RQ005`).
+
 - **El blog tiene fotos** (`blog.RQ010`). Primera tanda, **24**: la salida
   delante del ayuntamiento, la puerta de embarque, la primera cena, y sobre
   todo **las cabinas de certificación** —diecisiete, de las treinta y cinco
@@ -307,6 +323,11 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
   castellano como el resto del repositorio.
 
 ### Fixed
+
+- **El día 2 llevaba dos fechas escritas.** «Salimos de España el día 22 por
+  la mañana y aterrizamos el día 23 por la tarde» fija el calendario del
+  viaje entero, que es exactamente lo que `blog.RQ008` no publica. Ahora dice
+  lo mismo sin números: «por la mañana» y «a la tarde del día siguiente».
 
 - **La primera cena del viaje no fue donde decía el día 3: fue donde la
   última.** El post daba 다올 숯불구이 명동점, que era solo una de las fichas

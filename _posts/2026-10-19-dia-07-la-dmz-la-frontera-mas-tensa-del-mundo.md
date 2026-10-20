@@ -37,6 +37,8 @@ Se mueve. Ese es el chiste y por eso está lleno de gente cruzándolo despacio y
 riéndose. Es una parada ligera antes de lo que viene después, y el contraste
 funciona.
 
+{% include foto.html src="dia-07-puente-de-gamaksan.jpg" ancho="844" alto="1500" alt="Una viajera en primer plano y, detrás, el puente colgante de Gamaksan tendido sobre un barranco cubierto de bosque." pie="El puente colgante de Gamaksan, la primera parada del día. Se mueve, y de eso va." %}
+
 ## Imjingak, la locomotora y las cintas
 
 A mediodía, a las **12:12**, el autobús paró en **Imjingak** y en el parque
@@ -62,6 +64,10 @@ trozo de tela.
 La comida de la excursión fue justo después: **26.500 wones los tres**, unos
 17 €.
 
+{% include foto.html src="dia-07-locomotora-de-jangdan.jpg" ancho="844" alto="1500" alt="Una viajera apoyada en la barandilla delante de la locomotora de vapor de Jangdan, oxidada y agujereada a balazos, bajo una marquesina." pie="La locomotora de la estación de Jangdan: descarriló en la guerra y se quedó setenta años en la vía muerta. Los agujeros son de bala." %}
+
+{% include foto.html src="dia-07-cintas-en-la-alambrada.jpg" ancho="844" alto="1500" alt="Una viajera delante de una alambrada de la frontera con cientos de cintas de colores atadas a la malla y rollos de alambre de espino arriba." pie="Las cintas de Imjingak. Cada una lleva escrito el nombre de alguien que quedó al otro lado, y es lo que de verdad se te queda de la DMZ." %}
+
 ## El tercer túnel de infiltración
 
 A las **15:38** entramos en el **tercer túnel de infiltración**, y esto ya es
@@ -85,6 +91,8 @@ desayunaste esta mañana.
 
 No se puede fotografiar dentro.
 
+{% include foto.html src="dia-07-letras-dmz.jpg" ancho="844" alto="1500" alt="Las tres letras gigantes D, M y Z en rojo, amarillo y azul, plantadas en la explanada de la entrada; sobre la M hay un casco militar y una flor." pie="Las letras de la entrada del tercer túnel, con el casco encima de la M y una flor en el cañón del fusil. Dentro no se puede fotografiar: esto es lo que hay." %}
+
 ## La última parada: un pueblo dentro de la alambrada
 
 A las **16:15**, ya de vuelta, la excursión paró en **통일촌 (Tongilchon)**,
@@ -97,6 +105,8 @@ Allí nos metieron en una **sala inmersiva**: la reproducción de una casa del
 pueblo pintada de azul, con pantallas por ventanas, un suelo de cristal sobre
 la grava y un portal de vídeo al fondo. Un cierre raro y bonito para un día
 así.
+
+{% include foto.html src="dia-07-sala-inmersiva.jpg" ancho="1500" alto="844" alt="Un viajero en el pasillo de una casa reconstruida pintada de azul, con pantallas en las ventanas, suelo de cristal sobre la grava y un portal de vídeo al fondo." pie="La sala inmersiva de 통일촌: una casa del pueblo reproducida con pantallas por ventanas. Un cierre raro y bonito para un día así." %}
 
 ## Y de vuelta en Seúl: la cena y el último capricho antes de la bici
 

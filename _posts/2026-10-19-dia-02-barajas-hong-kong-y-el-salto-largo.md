@@ -39,11 +39,13 @@ Las escalas largas en el hemisferio equivocado tienen algo de limbo: ni es de
 día ni es de noche, no sabes qué hora es la tuya, y lo único sensato es beber
 agua y moverse. Desde ahí quedaban todavía **2.067 km** hasta Incheon.
 
+{% include foto.html src="dia-02-en-el-avion.jpg" ancho="844" alto="1500" alt="Tres viajeros sentados en la misma fila de un avión; el de delante sonríe a la cámara y otro sostiene una bolsa de plástico con comida traída de casa." pie="Diez mil quinientos kilómetros de butaca, con la bolsa de picoteo de casa como único lujo a bordo." %}
+
 ## Lo que se pierde por el camino
 
-Salimos de España el día 22 por la mañana y aterrizamos en Corea el día 23 por
-la tarde. Entre una cosa y otra, **el día 22 prácticamente no existió**: se
-fue entero en aviones y salas de espera.
+Salimos de España por la mañana y aterrizamos en Corea a la tarde del día
+siguiente. Entre una cosa y otra, **este segundo día prácticamente no
+existió**: se fue entero en aviones y salas de espera.
 
 Merece la pena contarlo porque al planificar es fácil engañarse. Si tienes
 veinticuatro días de vacaciones, **cuatro se te van en llegar y volver**. Los

@@ -10,10 +10,29 @@ layout: dia
 dia: 3
 ---
 
-A las **15:16** hora local tocamos tierra en el **aeropuerto de Incheon**.
-Cincuenta horas después de salir de casa, por fin Corea.
+## La escala, y un reloj que no se había enterado
+
+El día empezó en el **aeropuerto de Hong Kong**, entre los dos vuelos:
+
+{% include foto.html src="dia-03-la-escala-en-hong-kong.jpg" ancho="1001" alto="1500" alt="Dos viajeros con mochila y bolsas abrazados delante del ventanal de una sala de embarque, sobre moqueta azul con dibujos amarillos; detrás, la plataforma del aeropuerto con aviones de cola verde, una pasarela de embarque, un microbús blanco y, al fondo, montes envueltos en nubes bajas." pie="La escala de Hong Kong: moqueta azul, colas verdes de Cathay en la plataforma y los montes con nubes bajas al fondo. Y de día, aunque el móvil dijera otra cosa." %}
+
+Y trae de regalo la primera trampa del viaje. **El móvil marcó esta foto a la
+01:22, y en Hong Kong eran las 07:22 de la mañana.** El teléfono seguía con la
+hora de España y no se dio por enterado hasta que pilló red coreana, horas
+después.
+
+Si vas a reconstruir un viaje con las horas de tus propias fotos —que es
+exactamente lo que he hecho para escribir este blog—, **lo primero es
+comprobar en qué huso estaba el reloj**. Que esta era de día lo dice la propia
+imagen: nubes bajas sobre los montes, los aviones de cola verde en la
+plataforma y la luz plana de una mañana con bochorno.
+
+## Llegada a Incheon
 
 {% include foto.html src="dia-03-el-salto-largo.jpg" ancho="844" alto="1500" alt="Cabina de un avión de pasillo doble vista desde un asiento, con los respaldos ocupados y un pasajero durmiendo tapado con la capucha." pie="El segundo tramo, el de Hong Kong a Incheon. A esas alturas del viaje ya se duerme en cualquier postura." %}
+
+A media tarde tocamos tierra en el **aeropuerto de Incheon**. Dos días
+enteros después de salir de casa, por fin Corea.
 
 ## Del aeropuerto al centro: las tres opciones, y lo que hicimos
 
@@ -32,15 +51,32 @@ sale prácticamente igual que el bus** yendo tres, porque el bus se paga por
 cabeza y el coche no. En grupo, el taxi deja de ser el capricho que uno
 supone.
 
-Y aun así cogimos el bus. Llevábamos cincuenta horas de puerta a puerta y
+Y aun así cogimos el bus. Llevábamos dos días de puerta a puerta y
 estábamos demasiado espesos para empezar el viaje peleándonos con
 transbordos, máquinas de billetes y salidas de metro en un alfabeto que no
 sabíamos leer.
 
-No nos arrepentimos, porque el bus resultó ser **una barbaridad de cómodo**:
-butacones enormes y reclinables, de los de dormir de verdad, durante la hora y
-media de trayecto hasta el centro. Entre aterrizar, pasar los trámites,
-esperar y rodar, a las **20:11** estábamos en Seúl.
+A las **15:16**, con los trámites hechos y el billete en la mano, estábamos en
+el andén:
+
+{% include foto.html src="dia-03-el-anden-del-6001.jpg" ancho="926" alto="1500" alt="Selfie de los tres viajeros con mochila en el andén de autobuses del aeropuerto de Incheon, uno de ellos mostrando el billete a la cámara; detrás, el poste de la parada con el rótulo luminoso «5B-4», un panel electrónico con el número 6001 y el destino 東大門, y el morro de un autocar." pie="El andén 5B-4 del aeropuerto de Incheon, a las 15:16, con el billete ya en la mano. El panel canta el 6001 y su destino: 동대문, Dongdaemun." %}
+
+El poste de la parada lo explica todo sin necesidad de preguntar: **andén
+5B-4**, línea **6001**, destino **동대문 / Dongdaemun** —con el **DDP**, la
+Dongdaemun Design Plaza, como referencia—, y debajo el aviso en cuatro
+idiomas: **«TICKET ONLY»** y **«선착순 탑승 / first-served ride»**. Es decir:
+el billete se compra antes, y luego se sube **por orden de llegada**, sin
+asiento asignado. Nada que preguntar a nadie: está escrito en el poste.
+
+Y no nos arrepentimos, porque el bus resultó ser **una barbaridad de cómodo**:
+
+{% include foto.html src="dia-03-el-butacon-del-bus.jpg" ancho="1001" alto="1500" alt="Interior del autobús del aeropuerto con dos de los viajeros sentados en butacas anchas de piel con reposacabezas, cinturón puesto y el equipaje de mano en el regazo; a los lados, cortinillas de tela beige a medio cerrar y las placas numeradas de los asientos en el techo." pie="El butacón del 6001: piel, reposacabezas, cortinilla y sitio de sobra. Hora y media de esto después de dos días de aviones." %}
+
+**Butacas anchas de piel, con reposacabezas y cortinilla**, de las de dormir
+de verdad, durante la hora y media de trayecto hasta el centro. A las
+**15:22** ya estábamos sentados, y **a las 17:32 andábamos por Seúl**: no de
+noche, como uno esperaría después de dos días de aviones, sino con la tarde
+entera por delante.
 
 **Qué haríamos otra vez**: el metro. Es más rápido y mucho más barato, y
 llegando descansado no tiene ninguna dificultad. Pero si aterrizas fundido
@@ -60,17 +96,40 @@ Por orden de urgencia real:
    que no: la devolución de las bicis, algunos puestos de mercado y las
    lavadoras de pago.
 
+## La primera caminata: el 재미로 y la torre
+
+Antes de cenar hubo tiempo de soltar las mochilas y subir a estirar las
+piernas. A las **17:32** estábamos aquí, en la cuesta que sube de Myeongdong
+hacia **Namsan**, por delante de la puerta de la **숭의여자대학교**:
+
+{% include foto.html src="dia-03-namsan-al-fondo.jpg" ancho="844" alto="1500" alt="Una viajera con camisa turquesa, pantalón corto vaquero y una rodillera, de pie y con las manos en la cintura sobre una chapa de bronce en el suelo; detrás, una calle en cuesta con cables cruzando el cielo, la puerta de la universidad 숭의여자대학교 y, al fondo sobre el monte, la torre de Namsan." pie="Primera tarde en Seúl, a las 17:32: la cuesta hacia Namsan con la torre al fondo. Y los pies puestos donde dice el suelo." %}
+
+Mira al suelo de la foto: está de pie sobre una **chapa de bronce con dos
+huellas de pies** y las palabras **재미로** y **PHOTO SPOT**. No es
+casualidad: hay varias en la cuesta, y están puestas exactamente donde hay que
+colocarse para que **la torre de Namsan te salga encajada entre los
+edificios**. La ciudad te dice dónde ponerte para hacer la foto. Y funciona.
+
+También está la otra lectura, menos amable: llevábamos **dos días enteros de
+puerta a puerta** y lo primero que hicimos al llegar fue buscar una cuesta. La
+rodillera de la foto no es decorativa.
+
 ## La primera cena
 
-Soltamos las mochilas y salimos a cenar. A las **20:11** ya estábamos
-sentados, y a las **20:53** se pagaba la cuenta: fue una cena de llegar y
-caer, no de hacer sobremesa.
+A las **20:11** ya estábamos sentados, y a las **20:53** se pagaba la cuenta:
+fue una cena de llegar y caer, no de hacer sobremesa.
 
 El sitio fue
 **[조박사등갈비](https://map.naver.com/p/entry/place/13474004)**, en 퇴계로16길
-8, a cincuenta metros de la salida 4 del metro de **Myeongdong**. Lo elegimos
-en el bus desde el aeropuerto, entre tres o cuatro fichas de Naver Map que
-nos fuimos pasando por el grupo.
+8, a cincuenta metros de la salida 4 del metro de **Myeongdong**. Y la forma
+de llegar hasta él merece un párrafo, porque es la que de verdad se usa.
+
+Entre las **18:43 y las 18:56** de aquella tarde nos pasamos por el grupo
+**tres fichas de Naver Map** con sus candidatos: un **DAOL**, un
+**Hyodam Kalguksu Dakhanmari** y un **Deungchon Shabu-Shabu** de Myeongdong.
+Repasando el chat, acabamos cenando en **ninguno de los tres**. El sitio donde
+entramos no se eligió: se encontró andando, con el grupo de WhatsApp lleno de
+enlaces que nadie volvió a abrir.
 
 Y aquí va algo que no supimos hasta volver a mirar las fotos: **la última
 cena del viaje, diecinueve días después, fue en esta misma mesa**. Sin

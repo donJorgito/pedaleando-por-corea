@@ -549,6 +549,34 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
   Banpo y la luna gigante; la del 5, la biblioteca de Starfield y las manos
   doradas del Gangnam Style; y del 21 solo hay el mercado de Bujeon a
   mediodía. La pizza de aquella noche no se fotografió.
+- **Sexta tanda de fotos** (`blog.RQ010`), **seis más**, para los tres días de
+  ida, que eran los más flacos del blog. El día 2 sube de 2 a 4 con **la
+  cubierta de la T4** vista desde la calzada de acceso —las ondas de chapa,
+  las vigas amarillas y el intradós de bambú— y, **diez segundos después** por
+  la misma ventanilla, **los tres en el coche** camino del aeropuerto. El día
+  3 pasa de 2 a 6: la **escala de Hong Kong** con las colas verdes en la
+  plataforma, el **andén 5B-4** del bus 6001 con el billete en la mano, el
+  **butacón del bus** del aeropuerto —que el texto prometía y no demostraba— y
+  la primera tarde en Seúl con **la torre de Namsan** al fondo. El día 1 se
+  queda en 2 y no es por pereza: su carpeta tiene **cinco fotos en total**, y
+  son dos escenas.
+
+  De esa última salió un apartado nuevo: en la cuesta hacia Namsan hay
+  **chapas de bronce con dos huellas de pies, el rótulo 재미로 y la palabra
+  PHOTO SPOT**, puestas donde hay que colocarse para que la torre salga
+  encajada entre los edificios. Se lee en la propia foto.
+
+  Y el día 1 gana la cuenta atrás de la salida, que estaba entera en el grupo
+  de WhatsApp y no se había usado: **11:48** «pa las doce estoy en el
+  ayuntamiento», **11:52** «aquí tienes la camiseta», **11:57** el primer
+  «¡disfrutar muchísimo del viaje!», **12:00** «¿estáis ahí ya?» — «sí, en la
+  puerta». La foto del ayuntamiento es de las **12:03:18**.
+
+  Privacidad de esta tanda (`blog.RQ005`): en el andén del aeropuerto se
+  mosaicaron **la cara del conductor**, visible por la puerta del autocar, y
+  **la fecha del día que el panel de la parada llevaba impresa** (`blog.RQ008`)
+  — la primera vez que una fecha del viaje aparece dentro de una foto y no en
+  el texto.
 
 ### Changed
 
@@ -597,6 +625,49 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 ### Fixed
 
+- **El reloj de las fotos mentía en la escala, y con él tres párrafos.** El
+  día 2 decía que llegamos a Hong Kong «de madrugada, pasada la una», y el
+  día 3 que tocamos tierra en Incheon «a las 15:16 hora local». Las dos cosas
+  salían de leer el EXIF como si fuera hora local, y no lo era: en las fotos
+  de Hong Kong el nombre de archivo da **23:22 UTC** y el EXIF **01:22**, o
+  sea **UTC+2** — el móvil seguía en hora española y no cambió de huso hasta
+  pillar red coreana. En Hong Kong eran **las 07:22 de la mañana**, y la foto
+  lo enseña: luz de día y nubes bajas sobre los montes. Ahora el día 2 cuenta
+  las dos horas a la vez, que es lo que de verdad desorienta de una escala
+  así, y el día 3 abre con el aviso de comprobar el huso antes de fiarse de
+  las horas de tus propias fotos.
+
+- **A las 15:16 ya estábamos en el andén del bus, no aterrizando.** Esa hora
+  es la de la foto del **andén 5B-4** de Incheon, con el billete en la mano y
+  los trámites hechos, así que el avión había tocado tierra antes. Y «a las
+  20:11 estábamos en Seúl» tampoco: a las **17:32** ya estábamos andando por
+  la cuesta de Namsan —foto y GPS—, y las 20:11 son las de sentarse a cenar.
+  El día 3 pierde dos horas de margen y gana una tarde entera.
+
+- **Las «cincuenta horas de puerta a puerta» eran unas cuarenta y cuatro.** De
+  la foto del ayuntamiento (**12:03**) a la del andén de Incheon (**15:16**
+  coreanas) hay **44 horas y pico**, no cincuenta. Como el dato exacto depende
+  de a qué hora salió cada uno de su casa —y eso no está en ninguna parte—, se
+  sustituye por «dos días enteros» en los tres sitios donde aparecía: días 1,
+  3 y 23. De paso, el día 1 dejaba de cuadrar consigo mismo: decía que se
+  salió «a las diez de la mañana» y la despedida del ayuntamiento es de las
+  **12:03**.
+
+- **La primera cena no se eligió en el bus.** El día 3 decía que el
+  restaurante salió «de tres o cuatro fichas de Naver Map que nos fuimos
+  pasando por el grupo» en el bus del aeropuerto. Las fichas existen y están
+  fechadas —**18:43 a 18:56**, ya en Seúl, no en el bus—, son **tres** (un
+  DAOL, un Hyodam Kalguksu Dakhanmari y un Deungchon Shabu-Shabu de
+  Myeongdong) y **ninguna** es el sitio donde se cenó. Ahora el post cuenta
+  eso: que el sitio no se eligió, se encontró andando, con el grupo lleno de
+  enlaces que nadie volvió a abrir.
+
+  Nota de método, porque esto afecta a todo lo que salga del chat: las horas
+  del export de WhatsApp están en **hora de España**, no de Corea. Se
+  comprueba con el día 1, donde el mensaje «sí, en la puerta» de las **12:00**
+  va seguido de las fotos del ayuntamiento a las **12:03** del EXIF. Para
+  cualquier día en Corea hay que **sumar siete horas**.
+
 - **Los tubos de cobre del día 18 no eran ninguna novedad.** El post decía que
   los extractores de cobre labrado eran «algo que no habíamos visto en ningún
   otro asador del viaje», y lo contradicen sus propias fotos: el del día 8 ya
@@ -606,10 +677,11 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
   colgando del techo, y el **disco azul numerado** del arranque de cada uno,
   que es el número de mesa (se leen el 15, el 16, el 20 y el 21 en la foto).
 
-- **El día 2 llevaba dos fechas escritas.** «Salimos de España el día 22 por
-  la mañana y aterrizamos el día 23 por la tarde» fija el calendario del
-  viaje entero, que es exactamente lo que `blog.RQ008` no publica. Ahora dice
-  lo mismo sin números: «por la mañana» y «a la tarde del día siguiente».
+- **El día 2 llevaba dos fechas escritas.** Decía de qué día de septiembre
+  salíamos de España y en cuál aterrizábamos, con los dos números puestos, y
+  eso fija el calendario del viaje entero — que es exactamente lo que
+  `blog.RQ008` no publica. Ahora dice lo mismo sin números: «por la mañana» y
+  «a la tarde del día siguiente».
 
 - **La primera cena del viaje no fue donde decía el día 3: fue donde la
   última.** El post daba 다올 숯불구이 명동점, que era solo una de las fichas

@@ -21,7 +21,7 @@ maletas, que ahora sí había maletas.
 ## Al aeropuerto en metro
 
 Y aquí, un detalle que cierra el círculo del tercer día. Si te acuerdas,
-**llegamos a Seúl en bus** porque veníamos fundidos de cincuenta horas de
+**llegamos a Seúl en bus** porque veníamos fundidos de dos días enteros de
 viaje. Para volver hicimos lo que habríamos hecho de haber llegado
 descansados: **metro hasta Incheon**.
 

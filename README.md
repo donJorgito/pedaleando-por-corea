@@ -56,7 +56,7 @@ de CI/CD están pineadas al SHA de 40 caracteres con el semver en comentario.
 | Componente | Versión |
 | --- | --- |
 | `actions/checkout` | v7.0.1 |
-| `actions/configure-pages` | v5.0.0 |
+| `actions/configure-pages` | v6.0.0 |
 | `actions/jekyll-build-pages` | v1.0.13 |
 | `actions/upload-pages-artifact` | v5.0.0 |
 | `actions/deploy-pages` | v5.0.1 |

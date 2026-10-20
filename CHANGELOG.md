@@ -159,6 +159,9 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 ### Changed
 
+- `actions/configure-pages` sube a v6.0.0. La tabla de versiones del
+  `README` se actualiza con ella.
+
 - Quedaban dos referencias numeradas al estándar corporativo, una en
   `pages.yml` y otra en `_config.yml`, que el primer barrido no vio porque
   citaban la norma por su número sin nombrarla. Los comentarios explican

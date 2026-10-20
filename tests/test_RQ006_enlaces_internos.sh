@@ -29,6 +29,20 @@ for f in _posts/*.md *.md; do
              err=1 ;;
         esac
         continue ;;
+      *site.baseurl*)
+        # Enlace a una página del sitio: {{ site.baseurl }}/mapa/. Aquí no
+        # hay post_url que resolver, así que lo que se comprueba es que
+        # alguna página declare ese permalink; si no, el enlace es un 404.
+        perma=$(printf '%s' "$destino" \
+                | sed -E 's/.*site\.baseurl[[:space:]]*\}\}[[:space:]]*//')
+        [ -n "$perma" ] || continue
+        if ! grep -rqE "^permalink:[[:space:]]*$perma\$" \
+             --include='*.html' --include='*.md' . 2>/dev/null; then
+          echo "RQ006: $(basename "$f") enlaza a $perma y ninguna página" \
+               "declara ese permalink"
+          err=1
+        fi
+        continue ;;
     esac
     ruta=${destino%%#*}
     ruta=${ruta#/}

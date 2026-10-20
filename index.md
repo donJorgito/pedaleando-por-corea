@@ -14,6 +14,11 @@ número de día, no por fecha.
 Fuimos tres. Esto es lo que vimos, lo que costó, dónde dormimos, qué comimos y
 en qué nos equivocamos — por si a alguien le sirve para preparar el suyo.
 
+Y si lo que quieres es verlo de un golpe: **[el mapa de la
+ruta]({{ site.baseurl }}/mapa/)**, con los carriles bici oficiales, el
+trazado que hicimos de verdad, las cabinas de certificación y los
+alojamientos.
+
 ## El viaje, día a día
 
 {% assign dias = site.posts | where_exp: "p", "p.dia" | sort: "dia" %}

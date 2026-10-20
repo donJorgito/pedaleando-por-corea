@@ -33,6 +33,12 @@ brew install gitleaks        # o la release pineada que corresponda
   el EXIF entero, difumina a quien aparezca de fondo sin haberlo elegido y
   escribe la línea de `include` con el tamaño ya medido. El nombre del
   fichero no puede llevar fecha. Las reglas, en `blog.RQ010`.
+- `mapa.html` **no se edita a mano**: lo genera
+  `_tools/generar-mapa-publico.py` a partir del mapa de trabajo, que vive
+  fuera del repositorio y está fechado. El generador traduce todas las fechas
+  a «día N» y aborta si se le cuela alguna. La fecha de salida del viaje se
+  le pasa por argumento y **no se escribe en ningún fichero de aquí** — eso
+  incluye los comentarios y los ejemplos. Las reglas, en `blog.RQ011`.
 - Las versiones se pinean siempre; nunca `latest` ni `@v4` suelto.
 
 ## Testing

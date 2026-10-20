@@ -24,6 +24,10 @@ Conviene ir temprano y colocarse pronto, porque se llena. Si vienes del día
 anterior habiendo visto Changdeokgung, Gyeongbokgung es el otro grande: más
 monumental, más reconstruido, más multitudinario.
 
+{% include foto.html src="dia-05-cambio-de-guardia.jpg" ancho="740" alto="1500" alt="Un guardia de palacio con túnica azul y sombrero negro de ala ancha desfilando con un estandarte, delante del muro de tejas de Gyeongbokgung." pie="El cambio de guardia de Gyeongbokgung: veinte minutos de tambores, estandartes y túnicas de colores, y no cuesta nada." %}
+
+{% include foto.html src="dia-05-gyeongbokgung.jpg" ancho="844" alto="1500" alt="Un viajero posando en la explanada de piedra de Gyeongbokgung, con el gran pabellón del trono al fondo y gente vestida de hanbok paseando." pie="Gyeongbokgung por dentro, con el 勤政殿 al fondo. Media explanada va de hanbok alquilado: es la estampa normal del palacio." %}
+
 ## La Casa Azul
 
 A las **11:14** subimos a la **Casa Azul (청와대, Cheong Wa Dae)**, la antigua
@@ -36,6 +40,8 @@ diez minutos del bullicio.
 
 Pero antes de entrar ahí habíamos hecho la primera parada de comer del día,
 que conviene contar aparte.
+
+{% include foto.html src="dia-05-barco-tortuga.jpg" ancho="844" alto="1500" alt="Una viajera de pie delante de la reproducción a tamaño real de un barco tortuga coreano, con la cabeza de dragón de la proa asomando por encima." pie="La reproducción del 거북선, el barco tortuga de Yi Sun-sin, en el museo subterráneo de 충무공이야기, debajo de la plaza de Gwanghwamun." %}
 
 ## Tongin: picotear por seis euros entre tres
 
@@ -120,6 +126,8 @@ Hubo también un gasto de **2.000 wones en gachapones** que alguien se apuntó
 religiosamente en las cuentas del grupo. Corea es un país peligroso para quien
 tenga debilidad por las máquinas de bolas.
 
+{% include foto.html src="dia-05-gwangjang.jpg" ancho="844" alto="1500" alt="Dos viajeros sentados en la banqueta de un puesto del mercado de Gwangjang, con bandejas de fritura y marisco en la barra y los farolillos del pasillo encima." pie="Gwangjang a media tarde: banqueta, barra y la cocinera a medio metro del plato. Las caras de quien no venía con nosotros van difuminadas a propósito." %}
+
 ## Gangnam y la estatua del caballito
 
 Por la tarde cogimos el metro hasta el **COEX**, en **Gangnam**, para ver la
@@ -151,6 +159,10 @@ Estuvimos allí sobre las **18:23**, con el cielo ya azul oscuro al otro lado
 del cristal y las estanterías encendidas. Si vas a Gangnam, aunque no te
 interesen ni las marcas ni el caballito, entra a verla. Tienes los horarios
 en la [página oficial](https://m.starfield.co.kr/coexmall/library/intro?lang=en).
+
+{% include foto.html src="dia-05-manos-de-gangnam.jpg" ancho="844" alto="1500" alt="Dos viajeros de noche bajo la escultura monumental de dos manos cruzadas del Gangnam Style, iluminada en dorado delante del centro de convenciones." pie="El caballito de Gangnam: dos manos doradas enormes delante del COEX. Es una tontería, y hay cola para la foto." %}
+
+{% include foto.html src="dia-05-biblioteca-starfield.jpg" ancho="844" alto="1500" alt="Un viajero leyendo un libro de pie junto a una estantería altísima, con el atrio del centro comercial y la gran pared curva de libros al fondo." pie="별마당 도서관, la Starfield Library del COEX: trece metros de estanterías curvas, libros de verdad y entrada libre." %}
 
 ---
 

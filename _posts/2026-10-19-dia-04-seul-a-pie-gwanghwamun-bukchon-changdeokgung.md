@@ -31,6 +31,8 @@ almirante Yi Sun-sin y la del rey Sejong, y el palacio de Gyeongbokgung al
 fondo. Es el centro simbólico del país y el sitio desde el que se entiende el
 resto de Seúl.
 
+{% include foto.html src="dia-04-el-robot-de-seul.jpg" ancho="844" alto="1500" alt="Los tres viajeros sentados en un banco bajo una figura gigante de robot de los años setenta, con la fachada amarilla de un taller detrás." pie="Robot Taekwon V, el gigante del cine de animación coreano de los setenta, plantado en la puerta de un taller del centro de Seúl." %}
+
 ## La comida casera, y la lección del menú único
 
 Antes de subir a Bukchon paramos a comer, y esa acabó siendo una de las
@@ -74,12 +76,22 @@ Dos cosas que conviene saber:
 - **Sube.** Las vistas buenas, con los tejados en primer plano y los rascacielos
   detrás, están arriba del todo, y se llega con las piernas.
 
+{% include foto.html src="dia-04-bukchon.jpg" ancho="844" alto="1500" alt="Dos viajeros abrazados en el centro de una calle empinada de Bukchon, con tejados curvos de casas tradicionales a los dos lados." pie="Bukchon a media tarde y casi vacío. Las hanok de alrededor son casas en las que vive gente: por eso hay carteles pidiendo silencio." %}
+
+{% include foto.html src="dia-04-bukchon-callejon.jpg" ancho="844" alto="1500" alt="Una viajera apoyada en el muro de una casa tradicional, al pie de una escalera de piedra, bajo un pino que asoma por encima del tejado." pie="Un muro, un pino y un tejado de tejas: el callejón de Bukchon que sale en todas las postales, esta vez sin cola para la foto." %}
+
 ## Changdeokgung, el palacio que merece el desvío
 
 A las **15:48** entramos en el **palacio de Changdeokgung**. De los cinco
 palacios de Seúl, si solo vas a ver uno, es este: está declarado Patrimonio de
 la Humanidad y es el que mejor conserva el trazado original, encajado en la
 ladera en lugar de impuesto sobre ella.
+
+{% include foto.html src="dia-04-changdeokgung.jpg" ancho="844" alto="1500" alt="Una viajera posando en lo alto de una escalera de piedra, con los tejados del palacio de Changdeokgung abajo y los rascacielos de Seúl al fondo." pie="Changdeokgung desde arriba: los tejados del palacio en primer plano y la ciudad moderna justo detrás. El cartel del escalón avisa de la pendiente." %}
+
+{% include foto.html src="dia-04-figuras-del-tejado.jpg" ancho="1500" alto="844" alt="Primer plano de siete figuras de barro alineadas en la cumbrera de un tejado de palacio, con el muro rojo de madera detrás." pie="잡상 (*japsang*): las figuritas de barro que remataban las cumbreras de los tejados de palacio para espantar lo que no debía entrar." %}
+
+{% include foto.html src="dia-04-changdeokgung-interior.jpg" ancho="844" alto="1500" alt="Un viajero sentado tras una mesa baja lacada en rojo con dos libros antiguos abiertos encima, delante de un biombo pintado con estanterías de libros." pie="Dentro del palacio: dos libros abiertos sobre la mesa de lectura y, detrás, un 책가도, el biombo pintado con estanterías llenas de libros y objetos." %}
 
 ## La merienda, que costó más que la comida
 
@@ -125,6 +137,8 @@ Es un plan de noche muy agradecido después de un día entero andando: la
 ribera del Han está llena de gente hasta tarde, hay tiendas 24 h para
 comprar algo y sentarte, y se respira fresco. Si estás en Seúl en temporada
 de fuente, dedícale una noche.
+
+{% include foto.html src="dia-04-luna-y-puente.jpg" ancho="844" alto="1500" alt="Una viajera de noche sosteniendo sobre su cabeza una luna gigante iluminada, con los edificios azules de las islas flotantes del río Han detrás." pie="La luna de Sebitseom, el sitio donde todo el mundo se hace la foto. Nosotros también." %}
 
 ---
 

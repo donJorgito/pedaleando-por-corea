@@ -9,8 +9,9 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 ### Added
 
-- **Cuarta tanda de fotos** (`blog.RQ010`), **21 más**, para engordar los días
-  que se habían quedado con dos o tres: el día 10 (Yeoju → Chungju) sube de 2
+- **Cuarta tanda de fotos** (`blog.RQ010`), **30 más**, para engordar los días
+  que se habían quedado con dos o tres: el día 8 (de Seúl al kilómetro 0) sube
+  de 3 a 12, el día 10 (Yeoju → Chungju) de 2
   a 8, el día 11 (el puerto de Ihwaryeong) de 3 a 10 y el día 12 (Sangju y el
   principio del Nakdong) de 3 a 11. Entran el paso por
   encima de la presa de 강천보, el **gato azul de 강천섬** —la escultura que se
@@ -85,6 +86,27 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
   comprobó al 300 %: no se lee nada. Y el túnel de luz **se queda sin nombre a
   propósito**: no hay cartel en la foto y no se ha podido verificar que tenga
   uno, así que se dice eso.
+
+  Del día 8 (el kilómetro 0) entran nueve, y de paso el post gana la mitad de
+  los datos que le faltaban: la **bandera de Pilar de la Horadada** desplegada
+  delante del centro de certificación, el **cartel de la oficina** —que no dice
+  국토종주 sino **4대강 자전거길 인증센터**, la red de los cuatro grandes ríos—,
+  la losa de **«0 m · START»**, el **arco de salida con sus dos chapas (서울 21
+  km / 부산 633 km)**, el túnel vegetal del canal Ara, el **pasaporte con los
+  tres sellos del día** y la cena del 정다운식당 (la carta de la pared, la mesa
+  con el tubo de cobre y la parrilla en marcha). La ficha del pasaporte da el
+  tiempo oficial del tramo, **21 km en 1 h 30 min**, y los sellos dan el real:
+  de 13:49 a 16:02, **2 h 13** con parada en el CU. Se añade también la tabla
+  de precios de la carta tal como estaba esa noche y el dato de que los
+  **정식** del mediodía van a 11.000 y 12.000 wones, que es lo que respalda el
+  «sitio de barrio para oficinistas» que ya decía el texto.
+
+  Criterio del día 8: no hizo falta difuminar nada (`blog.RQ005`), porque las
+  únicas caras son las de los tres y el único tercero es un ciclista de
+  espaldas y lejano en la foto de la pérgola. Y se **descartan** las cuatro
+  fotos de las letras gigantes de **SEOUL**: su GPS cae en el centro de la
+  ciudad, a quince kilómetros de donde el post sitúa esa mañana, y no hay
+  manera de verificar cuándo se dio ese paseo, así que no entran.
 
 - **Tercera tanda de fotos** (`blog.RQ010`), **44 más**, que completan los
   días 13 a 24: el campo de 핑크뮬리 y la cena de Daegu; el día de descanso

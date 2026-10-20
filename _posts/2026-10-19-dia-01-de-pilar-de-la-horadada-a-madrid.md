@@ -2,7 +2,7 @@
 title: "Día 1 · De Pilar de la Horadada a Madrid, que también cuenta"
 date: 2026-10-19 08:00:00 +0200
 description: >-
-  El viaje a Corea empieza en la puerta de casa, con 382 km de coche hasta
+  El viaje a Corea empieza en la puerta de casa, con unos 450 km de coche hasta
   Madrid y la Korea e-Arrival Card ya tramitada. El papeleo previo y la
   despedida del primer día.
 tags: [corea, gukto-jongju, preparativos, dia-a-dia, viaje]
@@ -17,7 +17,7 @@ días enteros de desplazamiento, y el primero no tiene nada de exótico.
 ## 382 kilómetros hasta Madrid
 
 Salimos de **Pilar de la Horadada** a las diez de la mañana. Por delante,
-**382 km** de coche hasta Madrid, porque el vuelo salía de Barajas al día
+**unos 450 km** de coche hasta Madrid, porque el vuelo salía de Barajas al día
 siguiente y no merecía la pena jugársela con los horarios.
 
 Hubo despedida en el ayuntamiento antes de arrancar, con camiseta del viaje
@@ -60,5 +60,5 @@ montado era el día a día de la ruta, y ahí es donde empieza lo interesante.
 
 ---
 
-**Datos del día** · Pilar de la Horadada → Madrid · 382 km en coche ·
+**Datos del día** · Pilar de la Horadada → Madrid · unos 450 km en coche ·
 Alojamiento: Madrid · Mañana: Barajas y el primer vuelo.

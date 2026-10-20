@@ -159,6 +159,21 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 ### Changed
 
+- **Fuera del repositorio toda referencia al estándar corporativo y a la
+  empresa.** Aparecían en el `README`, en `CODEOWNERS`, en
+  `.pre-commit-config.yaml`, en `.markdownlint.yml`, en `tests/run-all.sh`,
+  en `dependabot.yml` y en `ci.yml`. Las prácticas se quedan —un requisito
+  por funcionalidad, un test por requisito, gates en CI, dependencias
+  pineadas al SHA—; lo que desaparece es de dónde salen. Los encabezados del
+  `README`, que eran los de una plantilla corporativa en inglés, pasan a
+  castellano como el resto del repositorio.
+
+### Fixed
+
+- **Pilar de la Horadada a Madrid son unos 450 km, no 382.** Los 382 eran la
+  distancia **en línea recta** entre las dos ciudades, que no es la que se
+  conduce. Corregido en los tres sitios de la entrada del día 1.
+
 - La lavandería de Busan fueron **4.000 wones el lavado y 4.000 el secado**,
   no 5.000 y 3.000. Los dos apuntes de Settle Up repartían calderilla entre
   los hermanos; el precio de las máquinas era el mismo. El total, 8.000
@@ -210,8 +225,6 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
   además de las diarias; su test distingue los dos patrones.
 - El coste del pasaporte del ciclista en la entrada del día 1 pasa de «unos
   4.000 wones» a la cifra exacta del recibo.
-
-### Fixed
 
 - **El cocinero de la carne era del día 12, no del día 15.** Y la historia es
   mejor de lo que se habia contado, porque está escrita: hay captura de la

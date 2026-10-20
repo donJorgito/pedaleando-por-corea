@@ -1,11 +1,9 @@
-# Guardarraíl local antes del push. Forma deliberada:
-# SOLO `repo: local`, nunca `repo: https://github.com/...` — cada hook invoca
-# una herramienta ya instalada en la máquina.
+# Guardarraíl local antes del push. Forma deliberada: SOLO `repo: local`,
+# nunca `repo: https://github.com/...` — cada hook invoca una herramienta ya
+# instalada en la máquina, de modo que el commit no dependa de descargar
+# nada en ese momento.
 #
-# Las herramientas no se descargan durante el commit: se instalan antes,
-# a mano, y siempre con la versión pineada. Vienen de PyPI público, de
-# modo que la garantía la da el pineo y no el origen. Para instalarlas,
-# estos son los comandos:
+# Las herramientas se instalan desde PyPI público con la versión pineada:
 #
 #   pip install --user pre-commit==4.0.1 pre-commit-hooks==5.0.0
 #   brew install gitleaks   # o descarga pineada de la release

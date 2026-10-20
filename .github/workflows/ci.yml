@@ -1,6 +1,6 @@
 # Gates de calidad. La numeración no implica orden: corren en paralelo.
-# Todas las actions van pineadas al SHA de 40 caracteres, con el semver
-# en comentario (convención para Actions, cuyo ref es git y no un digest).
+# Todas las actions van pineadas al SHA de 40 caracteres, con el semver en
+# comentario (convención para Actions, cuyo ref es git y no un digest).
 name: ci
 
 on:

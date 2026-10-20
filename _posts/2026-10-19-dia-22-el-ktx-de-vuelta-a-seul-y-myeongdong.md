@@ -21,7 +21,13 @@ velocidad coreano.
 Nos costó **104,20 € los tres**, **34,73 € por persona**, comprado con
 antelación desde España.
 
-Y aquí está lo que de verdad se te queda del día: **ese tren deshace en un
+Y aquí está el número que lo explica: la línea de alta velocidad entre Seúl y
+Busan mide **387 km** y la clásica, por la que iba el tren antes, **442**.
+Nosotros habíamos hecho **633 km** para cubrir lo mismo, porque el carril bici
+no va en línea recta: va **siguiendo los ríos**, con todas sus curvas, y eso
+son doscientos kilómetros largos de más.
+
+Así que lo que de verdad se te queda del día es esto: **ese tren deshace en un
 rato lo que nos había costado once días de pedalear**. Pasas por delante de
 los ríos que has remontado, de las presas donde sellaste, de la cordillera que
 cruzaste sudando, y todo pasa por la ventanilla en un suspiro.

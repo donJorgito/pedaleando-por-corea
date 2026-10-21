@@ -9,6 +9,170 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 ### Added
 
+- **Cuarta tanda de fotos** (`blog.RQ010`), **55 más**, para engordar los días
+  que se habían quedado con dos o tres: el día 6 (Suwon y la Torre N) sube de
+  3 a 14, el día 8 (de Seúl al kilómetro 0) de 3 a 12, el día 9 (del Han a
+  Yeoju) de 4 a 15, el día 10 (Yeoju →
+  Chungju) de 2
+  a 10, el día 11 (el puerto de Ihwaryeong) de 3 a 10 y el día 12 (Sangju y el
+  principio del Nakdong) de 3 a 11. Entran el paso por
+  encima de la presa de 강천보, el **gato azul de 강천섬** —la escultura que se
+  queda sin nombre porque el cartel no se lee—, el camino de 탄금대, el cruce
+  de moteles de 용교리 con su castillo de neón, la carta del bunsik y la cena
+  al otro lado del río; y del día 11, el cartel de **«←정상 5km»**, el valle
+  desde lo alto del puerto, el **문경문** con sus tablillas en hanja, el
+  **baño de pies** —que era el «hallazgo del viaje» y no tenía foto—, el
+  puente de «piel de jirafa» y la carta y la mesa del 명문가마솥식당.
+
+  Privacidad de esta tanda (`blog.RQ005`): en la cena del día 10 había **una
+  cuenta bancaria y dos teléfonos** legibles en los rótulos de la ventana
+  —difuminados y mosaicados, porque con `-blur` solo se seguía leyendo
+  «269-4»—; en la del día 11, **el teléfono de la puerta**; y en el baño de
+  pies se difuminaron **las dos caras** del fondo que se reconocían a tamaño
+  de publicación. El calendario de pared del comedor se dejó: a 844 px de
+  ancho los números miden tres píxeles y no hay ningún día marcado
+  (`blog.RQ008`).
+
+  Y de medir el GPS de cada foto salieron datos y **una corrección**. El día
+  10 va **de 69 a 107 metros** en toda la etapa, que es la prueba de que lo de
+  «ninguna cuesta» no era una impresión. En el día 11, en cambio,
+  **Ihwaryeong son 548 metros, no 539**: lo dicen el monolito del propio
+  collado («백두대간 이화령 해발고 548m») y todas las fuentes consultadas, así
+  que se ha corregido en las ocho veces que aparecía. Se añade también el
+  perfil medido parada por parada —104 m al salir de Chungju, 223 en Suanbo,
+  **264 en el cruce de Haengchon**, 557,8 arriba, 118,8 al final de la
+  tarde—, que demuestra que **entre los dos puertos se baja**, y el hecho de
+  que la cima es **la divisoria entre la cuenca del Han y la del Nakdong**: el
+  cambio de río del viaje entero ocurre ahí.
+
+  Del arco del **영남대로** salieron dos cosas que el texto no contaba: que la
+  lista de etapas del camino real de Joseon (Chungju, Yeonpung, Mungyeong,
+  Hamchang, Sangju, Daegu, Cheongdo, Miryang, Yangsan, Dongnae) **es la ruta
+  que hicimos**, y que el carril se llama 새재 자전거길 por un paso, el
+  문경새재, **por el que no pasa**: cruza por Ihwaryeong, cuatro kilómetros al
+  suroeste.
+
+  Del día 12 entran ocho: el **pasaporte abierto en la página del Nakdonggang**
+  delante de la cabina del 상주상풍교, el museo de la bicicleta de Sangju por
+  fuera y su **biciclo** por dentro, el **túnel de luz de 원평동** al
+  anochecer, y la cena entera —la mesa con la parrilla y los platillos, la
+  tabla de hanwoo, **la pantalla del traductor del cocinero** y la foto con
+  él—. La página del pasaporte es la que más ha dado: de ahí salen las
+  **distancias entre cabinas** impresas en el mapa (11 km al 상주보, 17 al
+  낙단보, 19 al 구미보, 35 al de Chilgok → 47 km de sello a sello ese día) y la
+  letra pequeña del pie, que dice que el tramo del Nakdong del 국토종주, de
+  상주상풍교 a 낙동강하구둑, mide **324 km** — o sea que al sellar el 상풍교
+  quedaban 324 de los 633 y aún no se había llegado a la mitad.
+
+  Dos **correcciones** del día 12 contra la evidencia. El sello del 상풍교 pasa
+  de **10:26 a 10:12**, que es la hora de la foto en la que el sello **ya está
+  puesto** en el pasaporte (las 10:26 eran las fotos de grupo, un cuarto de
+  hora después). Y se cae lo de que «en el patio de fuera hasta prestan bicis
+  raras para dar una vuelta»: lo que hay es una **fila de bicis antiguas
+  apoyadas en la barandilla de la terraza** y, dentro, un biciclo **atornillado
+  a una peana** para subirse a hacerse la foto. Se describe lo que se ve.
+
+  Hallazgos de leer los rótulos con lupa: el cartel oficial de la cabina dice
+  **«SANGJUSANGPUNG BRIDEG»**, con la G y la E cambiadas; la pancarta del museo
+  anuncia el **주말 문화학교** en el salón multiusos del 2.º piso, **el 2.º y el
+  4.º domingo de cada mes de 13:00 a 16:00**; y las cámaras del asador son
+  **음이온 해동숙성고** de marca **Everest**, cámaras de descongelado y
+  maduración por iones negativos.
+
+  Privacidad y criterio del día 12 (`blog.RQ005`): la pantalla del traductor se
+  publica **entera** porque no hay en ella ningún dato personal —solo
+  «스페인어» y el botón «새 번역»— y porque es la prueba de que la cita larga del
+  post está transcrita palabra por palabra. La foto **con el cocinero** se
+  publica **sin difuminar y sin nombre**: posó él, abrazado a los dos, y no hay
+  ningún dato identificativo a la vista. El placard de precios de la mesa se
+  comprobó al 300 %: no se lee nada. Y el túnel de luz **se queda sin nombre a
+  propósito**: no hay cartel en la foto y no se ha podido verificar que tenga
+  uno, así que se dice eso.
+
+  Del día 8 (el kilómetro 0) entran nueve, y de paso el post gana la mitad de
+  los datos que le faltaban: la **bandera de Pilar de la Horadada** desplegada
+  delante del centro de certificación, el **cartel de la oficina** —que no dice
+  국토종주 sino **4대강 자전거길 인증센터**, la red de los cuatro grandes ríos—,
+  la losa de **«0 m · START»**, el **arco de salida con sus dos chapas (서울 21
+  km / 부산 633 km)**, el túnel vegetal del canal Ara, el **pasaporte con los
+  tres sellos del día** y la cena del 정다운식당 (la carta de la pared, la mesa
+  con el tubo de cobre y la parrilla en marcha). La ficha del pasaporte da el
+  tiempo oficial del tramo, **21 km en 1 h 30 min**, y los sellos dan el real:
+  de 13:49 a 16:02, **2 h 13** con parada en el CU. Se añade también la tabla
+  de precios de la carta tal como estaba esa noche y el dato de que los
+  **정식** del mediodía van a 11.000 y 12.000 wones, que es lo que respalda el
+  «sitio de barrio para oficinistas» que ya decía el texto.
+
+  Y del día 6 entran once, que es el día que peor parado estaba: tres fotos
+  para una fortaleza Patrimonio de la Humanidad, un palacio, nueve mercados y
+  una torre. Ahora están el **LOVE del parque de 장안**, la **puerta norte** de
+  Hwaseong desde los escalones y su placa en hanja —**長安門**, legible en la
+  foto—, el **수원천** corriendo por dentro de la muralla, las figuras
+  recortadas y el **patio del 우화관** en el palacio, el logo de **«JINMI
+  CHICKEN SINCE 1981»** en el cristal de la pollería, **las dos bandejas** de
+  pollo en la mesa, una galería del mercado cubierto, Seúl de noche desde
+  Namsan y los **candados** del mirador.
+
+  Con ellas el post gana cuatro secciones y los datos que las sostienen, todos
+  verificados: la muralla mide **5,74 km** y se hizo entre **1794 y 1796** con
+  el diseño de **Jeong Yak-yong**, que se inventó una grúa y un carro para
+  abaratarla y lo anotó todo en el **화성성역의궤**, el informe de obra que
+  permitió reconstruirla igual después de la guerra de Corea; **장안문** es la
+  puerta norte pero también la principal, porque el rey llegaba desde Hanyang,
+  se llama así por **Chang'an** y es **más grande que Namdaemun**, o sea la
+  puerta de muralla más grande del país; el **화홍문** es puerta de agua,
+  puente y puesto militar a la vez, y fue la tercera obra más cara de la
+  fortaleza; el **우화관** era la casa de huéspedes oficial y se reabrió en
+  **2024**, ciento diecinueve años después; y el **수원남문시장** no es un
+  mercado sino **nueve**, el conjunto más grande de Gyeonggi, con 220 años y
+  fundado por el mismo rey que la muralla. Se corrige de paso el orden del día:
+  entre la muralla y el pollo estuvo el palacio, que no se contaba.
+
+  Privacidad del día 6 (`blog.RQ005`): en la foto de la mesa se han
+  **mosaicado dos caras** de la mesa de al lado —una con gafas, perfectamente
+  reconocible a 844 px—. En la del mercado no hizo falta: comprobado al 400 %,
+  lo que parecía una cara de frente es un cogote. Y se descarta la foto del
+  rótulo de la parada de autobús climatizada, que lleva dos teléfonos
+  impresos.
+
+  Del día 9 entran once, y con ellas una **corrección de bulto**: el post
+  decía «seis cabinas» en el título, en la tabla y en la ficha, y las fotos
+  demuestran que fueron **siete** — a las 10:35 se sella en
+  **광나루자전거공원**, todavía en Seúl, y faltaba en la lista. Entran las bicis
+  cargadas esperando en una acera de Mapo, el carril del Han bajo un viaducto
+  con su «20» pintado en cada sentido, el sello del 광나루, la presa de
+  **팔당댐** —cuyas coordenadas se comprobaron contra OpenStreetMap: el punto de
+  la foto está a menos de 300 m del muro—, un **túnel de ferrocarril** con
+  doble línea amarilla, el **puente de tablas** de la vía verde, el 쉼터 con su
+  ciclista de hierro, el **panel de los cuatro ríos**, un autorretrato de la
+  tarde y la cena entera de Yeoju: la pared de precios y la mesa con la
+  parrilla en marcha.
+
+  Dos cosas que el día 9 **no** puede dar, y se dicen: **no hay ninguna foto
+  dentro de la cabina de 이포보** —las dos de las 16:22 y las 16:25 son del
+  azud desde la otra orilla—, y el autorretrato llegó por WhatsApp **sin
+  metadatos**, así que el pie no dice dónde se hizo en vez de inventárselo. La
+  pared de precios se publica **sin atribuirla al 목구멍**: la foto no tiene
+  rótulo y su GPS cae a dos kilómetros de la de la mesa, así que se describe lo
+  que se ve y nada más.
+
+  Privacidad del día 9 (`blog.RQ005`): el panel de los cuatro ríos llevaba
+  **ocho teléfonos legibles** —los dos de emergencias y los seis de los
+  talleres de 양평—, mosaicados en bloque. En el resto no hizo falta: en la
+  cabina de 광나루 los únicos coches están lejos y sin matrícula legible, y en
+  la cena solo salimos los tres.
+
+  Del día 10 entran dos **a petición expresa**: faltaba una foto por cabina y
+  había tres cabinas con dos fotos. Ahora están el sello de **강천보** de cerca
+  y la cabina de **충주탄금대**, la que cierra el carril del Namhangang.
+
+  Criterio del día 8: no hizo falta difuminar nada (`blog.RQ005`), porque las
+  únicas caras son las de los tres y el único tercero es un ciclista de
+  espaldas y lejano en la foto de la pérgola. Y se **descartan** las cuatro
+  fotos de las letras gigantes de **SEOUL**: su GPS cae en el centro de la
+  ciudad, a quince kilómetros de donde el post sitúa esa mañana, y no hay
+  manera de verificar cuándo se dio ese paseo, así que no entran.
+
 - **Tercera tanda de fotos** (`blog.RQ010`), **44 más**, que completan los
   días 13 a 24: el campo de 핑크뮬리 y la cena de Daegu; el día de descanso
   entero —Haeinsa, la Tripitaka, el hanbok, Seomun—; Dodongseowon de día y su
@@ -352,8 +516,86 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
   gratis con solo pedirlas, pero con 30 min de lavado y 45 de secado y la
   máquina compartida, así que hay que estar con la alarma— y un
   presupuesto final realista de 2.300 € por cabeza.
+- **Quinta tanda de fotos** (`blog.RQ010`), **seis más**, todas de mesa y de
+  gente. Cuatro son cenas que faltaban: la **cena de Myeongdong** del día 7
+  —mesa de formica, sillas de escay y cuencos de sopa, con el GPS de la foto
+  cayendo en Myeongdong— y el **bingsu de mango con gofre del 포엠** esa misma
+  noche; del día 14, los **rollos de panceta** en la plancha del puesto y los
+  tres **cenando sentados en el suelo del mercado de Seomun**, con las
+  bandejas apoyadas en un tablón delante de una persiana cerrada; y del día
+  16, el **dakgalbi ya hecho** quince minutos después de la foto del crudo que
+  ya estaba publicada.
+- **El cuarto de la foto**, apartado nuevo en el día 12 (`blog.RQ010`): el
+  **ciclista coreano** con el que el grupo no dejaba de coincidir, y la foto
+  de los cuatro abrazados en la pasarela del **상주상풍교**. La foto no estaba
+  localizada: se encontró barriendo las hojas de contacto día a día, y el
+  sitio sale del GPS de la propia imagen —36.49881, 128.26584, a diez metros
+  de la cabina de 상주상풍교, catorce minutos después del sello de las 10:12—.
+  Lo que no se puede verificar se deja marcado como lo que es: que se cruzaron
+  **en varias paradas y en días distintos** es recuerdo del grupo, no hay más
+  fotos suyas en el resto del corpus.
+
+  Privacidad de esta tanda (`blog.RQ005`): **seis caras de fondo**
+  mosaicadas —una en la cena del mercado de Seomun y cinco en la mesa de al
+  lado del asador de dakgalbi—, y comprobadas a 200 % de zoom, porque con
+  `-blur` a esos tamaños se seguían reconociendo. Se **descartó** una foto del
+  día 21 que no era de cena sino el cartel del wifi del hotel, con usuario y
+  contraseña legibles.
+
+  Y un hueco que toca documentar en vez de rellenar: **los días 1, 2, 4, 5 y
+  21 no tienen ninguna foto de cena**. No es que no se publique: es que no
+  existe en el corpus. Barriendo el EXIF de los cinco días, el 1 y el 2 no
+  tienen **ninguna** foto después de las 18:00; la tarde del 4 es la fuente de
+  Banpo y la luna gigante; la del 5, la biblioteca de Starfield y las manos
+  doradas del Gangnam Style; y del 21 solo hay el mercado de Bujeon a
+  mediodía. La pizza de aquella noche no se fotografió.
+- **Sexta tanda de fotos** (`blog.RQ010`), **seis más**, para los tres días de
+  ida, que eran los más flacos del blog. El día 2 sube de 2 a 4 con **la
+  cubierta de la T4** vista desde la calzada de acceso —las ondas de chapa,
+  las vigas amarillas y el intradós de bambú— y, **diez segundos después** por
+  la misma ventanilla, **los tres en el coche** camino del aeropuerto. El día
+  3 pasa de 2 a 6: la **escala de Hong Kong** con las colas verdes en la
+  plataforma, el **andén 5B-4** del bus 6001 con el billete en la mano, el
+  **butacón del bus** del aeropuerto —que el texto prometía y no demostraba— y
+  la primera tarde en Seúl con **la torre de Namsan** al fondo. El día 1 se
+  queda en 2 y no es por pereza: su carpeta tiene **cinco fotos en total**, y
+  son dos escenas.
+
+  De esa última salió un apartado nuevo: en la cuesta hacia Namsan hay
+  **chapas de bronce con dos huellas de pies, el rótulo 재미로 y la palabra
+  PHOTO SPOT**, puestas donde hay que colocarse para que la torre salga
+  encajada entre los edificios. Se lee en la propia foto.
+
+  Y el día 1 gana la cuenta atrás de la salida, que estaba entera en el grupo
+  de WhatsApp y no se había usado: **11:48** «pa las doce estoy en el
+  ayuntamiento», **11:52** «aquí tienes la camiseta», **11:57** el primer
+  «¡disfrutar muchísimo del viaje!», **12:00** «¿estáis ahí ya?» — «sí, en la
+  puerta». La foto del ayuntamiento es de las **12:03:18**.
+
+  Privacidad de esta tanda (`blog.RQ005`): en el andén del aeropuerto se
+  mosaicaron **la cara del conductor**, visible por la puerta del autocar, y
+  **la fecha del día que el panel de la parada llevaba impresa** (`blog.RQ008`)
+  — la primera vez que una fecha del viaje aparece dentro de una foto y no en
+  el texto.
 
 ### Changed
+
+- **La foto de la Olive Young del día 21 se cambia por la original.** La que
+  estaba publicada es un montaje; la buena es la toma de al lado, la misma
+  fachada y sin sonrisa. Se publica desenespejada —las dos llegaron volteadas
+  por la cámara frontal, con el rótulo «OLIVE YOUNG» al revés—, así que ahora
+  el rótulo y la pancarta del 건담베이스 se leen. Nadie reconocible al fondo:
+  las dos personas que entran en la tienda están de espaldas.
+
+- **El día 13 gana la historia del libro electrónico.** En el CU de la presa
+  de 칠곡보, al buscar la cartera, el libro no estaba: se había quedado debajo
+  de la almohada del Sky Motel de Gumi. Vuelta en solitario de **trece
+  kilómetros en línea recta** (más por el carril) y **más de veintiséis** entre
+  ir y volver, mientras los otros dos seguían río abajo. El hueco está medido
+  en las fotos: la última antes de dar media vuelta es de las **10:37** en la
+  cabina y la siguiente de las **14:16** ya río abajo, **3 h 39 min** de
+  agujero. De ahí sale la rutina del resto del viaje: repasar habitación y
+  equipaje dos veces.
 
 - **Dos gates que no miraban donde hacía falta.** `blog.RQ008` comprobaba las
   fechas en la prosa de las entradas, el índice y el `README`, así que una
@@ -383,10 +625,63 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 ### Fixed
 
-- **El día 2 llevaba dos fechas escritas.** «Salimos de España el día 22 por
-  la mañana y aterrizamos el día 23 por la tarde» fija el calendario del
-  viaje entero, que es exactamente lo que `blog.RQ008` no publica. Ahora dice
-  lo mismo sin números: «por la mañana» y «a la tarde del día siguiente».
+- **El reloj de las fotos mentía en la escala, y con él tres párrafos.** El
+  día 2 decía que llegamos a Hong Kong «de madrugada, pasada la una», y el
+  día 3 que tocamos tierra en Incheon «a las 15:16 hora local». Las dos cosas
+  salían de leer el EXIF como si fuera hora local, y no lo era: en las fotos
+  de Hong Kong el nombre de archivo da **23:22 UTC** y el EXIF **01:22**, o
+  sea **UTC+2** — el móvil seguía en hora española y no cambió de huso hasta
+  pillar red coreana. En Hong Kong eran **las 07:22 de la mañana**, y la foto
+  lo enseña: luz de día y nubes bajas sobre los montes. Ahora el día 2 cuenta
+  las dos horas a la vez, que es lo que de verdad desorienta de una escala
+  así, y el día 3 abre con el aviso de comprobar el huso antes de fiarse de
+  las horas de tus propias fotos.
+
+- **A las 15:16 ya estábamos en el andén del bus, no aterrizando.** Esa hora
+  es la de la foto del **andén 5B-4** de Incheon, con el billete en la mano y
+  los trámites hechos, así que el avión había tocado tierra antes. Y «a las
+  20:11 estábamos en Seúl» tampoco: a las **17:32** ya estábamos andando por
+  la cuesta de Namsan —foto y GPS—, y las 20:11 son las de sentarse a cenar.
+  El día 3 pierde dos horas de margen y gana una tarde entera.
+
+- **Las «cincuenta horas de puerta a puerta» eran unas cuarenta y cuatro.** De
+  la foto del ayuntamiento (**12:03**) a la del andén de Incheon (**15:16**
+  coreanas) hay **44 horas y pico**, no cincuenta. Como el dato exacto depende
+  de a qué hora salió cada uno de su casa —y eso no está en ninguna parte—, se
+  sustituye por «dos días enteros» en los tres sitios donde aparecía: días 1,
+  3 y 23. De paso, el día 1 dejaba de cuadrar consigo mismo: decía que se
+  salió «a las diez de la mañana» y la despedida del ayuntamiento es de las
+  **12:03**.
+
+- **La primera cena no se eligió en el bus.** El día 3 decía que el
+  restaurante salió «de tres o cuatro fichas de Naver Map que nos fuimos
+  pasando por el grupo» en el bus del aeropuerto. Las fichas existen y están
+  fechadas —**18:43 a 18:56**, ya en Seúl, no en el bus—, son **tres** (un
+  DAOL, un Hyodam Kalguksu Dakhanmari y un Deungchon Shabu-Shabu de
+  Myeongdong) y **ninguna** es el sitio donde se cenó. Ahora el post cuenta
+  eso: que el sitio no se eligió, se encontró andando, con el grupo lleno de
+  enlaces que nadie volvió a abrir.
+
+  Nota de método, porque esto afecta a todo lo que salga del chat: las horas
+  del export de WhatsApp están en **hora de España**, no de Corea. Se
+  comprueba con el día 1, donde el mensaje «sí, en la puerta» de las **12:00**
+  va seguido de las fotos del ayuntamiento a las **12:03** del EXIF. Para
+  cualquier día en Corea hay que **sumar siete horas**.
+
+- **Los tubos de cobre del día 18 no eran ninguna novedad.** El post decía que
+  los extractores de cobre labrado eran «algo que no habíamos visto en ningún
+  otro asador del viaje», y lo contradicen sus propias fotos: el del día 8 ya
+  sale en `dia-08-el-tubo-de-cobre.jpg` —hasta en el nombre del archivo— y el
+  del día 9 sale, subiendo desde la propia parrilla, en la cena de Yeoju.
+  Ahora dice lo que de verdad era distinto allí: la cantidad, veinte y pico
+  colgando del techo, y el **disco azul numerado** del arranque de cada uno,
+  que es el número de mesa (se leen el 15, el 16, el 20 y el 21 en la foto).
+
+- **El día 2 llevaba dos fechas escritas.** Decía de qué día de septiembre
+  salíamos de España y en cuál aterrizábamos, con los dos números puestos, y
+  eso fija el calendario del viaje entero — que es exactamente lo que
+  `blog.RQ008` no publica. Ahora dice lo mismo sin números: «por la mañana» y
+  «a la tarde del día siguiente».
 
 - **La primera cena del viaje no fue donde decía el día 3: fue donde la
   última.** El post daba 다올 숯불구이 명동점, que era solo una de las fichas

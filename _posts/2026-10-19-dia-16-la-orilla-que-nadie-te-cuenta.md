@@ -136,6 +136,8 @@ come en común mientras termina de hacerse delante de ti.
 
 {% include foto.html src="dia-16-dakgalbi.jpg" ancho="1098" alto="1500" alt="Una sartén grande y plana sobre el hornillo de la mesa, con el pollo macerado en pasta roja de gochujang en el centro y, alrededor, col cortada, cebolleta, puerro y cilindros blancos de pastel de arroz, todo crudo todavía." pie="El dakgalbi tal como llega a la mesa: el pollo en su pasta roja en el centro y alrededor la col, el puerro y los cilindros de tteok. A partir de aquí se hace solo." %}
 
+{% include foto.html src="dia-16-el-dakgalbi-hecho.jpg" ancho="844" alto="1500" alt="Los tres viajeros alrededor de una mesa de madera con la sartén de dakgalbi ya hecho en el centro, rodeada de platillos de banchan, un cuenco de caldo, una cesta de lechuga con ajos y salsa, y un cazo de arroz; al fondo, otra mesa con comensales y el ventanal con frases escritas a mano en coreano." pie="Quince minutos después, a las 19:52: el pollo ya hecho, los banchan alrededor, la lechuga para envolver y el cazo de arroz. Dos raciones para tres, 34.000 wones." %}
+
 Éramos tres y pedimos **dos raciones**, y no fue idea nuestra: lo recomendó la
 camarera. Como cada ración está pensada para dos personas, dos dan de sobra
 para tres. Dos por 17.000 son los **34.000 wones** del apunte, y nos

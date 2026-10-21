@@ -113,6 +113,11 @@ así.
 A las **19:30** cenábamos ya en **Myeongdong**: **bibimbap y mandu, 43.600
 wones**, unos 28 € los tres.
 
+{% include foto.html src="dia-07-la-cena-en-myeongdong.jpg" ancho="844" alto="1500" alt="Selfie desde arriba de los tres viajeros sentados a una mesa blanca de formica en un comedor de barrio, con cuencos de sopa, kimchi, un platito de huevo, saleros, cubiertos metálicos y dos latas; detrás, mesas vacías, sillas de escay y un cartel vertical naranja con letras coreanas." pie="La cena de Myeongdong a las 19:50, con la mesa recién puesta: los cuencos de sopa, el kimchi, los saleros y los palillos de acero. Sitio de barrio, mesas de formica y sillas de escay, 43.600 wones los tres." %}
+
+El local era de los de siempre: **formica blanca, sillas de escay, cuencos de
+sopa para cada uno y palillos de acero**. Nada de carta en inglés.
+
 Y a las **21:00**, el remate:
 **[포엠 (Poem)](https://map.naver.com/p/entry/place/19923805)**, en 명동4길
 13, una cafetería de postres que abre hasta las once. Pedimos **bingsu con
@@ -122,6 +127,13 @@ El **bingsu** (빙수) es el postre coreano de hielo raspado —tan fino que
 parece nieve— con leche, y encima fruta, helado o pasta de judía roja, en un
 cuenco del tamaño de un barreño y para compartir. Lo mejor que te puede pasar
 después de un día entero andando.
+
+{% include foto.html src="dia-07-el-bingsu-de-poem.jpg" ancho="844" alto="1500" alt="Los tres viajeros alrededor de una mesa de madera en una cafetería: un cuenco negro con bingsu de hielo cubierto de dados de mango y una bola de helado, y en un plato aparte un gofre con nata y helado espolvoreado de azúcar; detrás, el ventanal con vinilos y la calle iluminada." pie="El bingsu de mango y el gofre con nata del 포엠, a las 20:55 y por 35.000 wones. El cuenco es para los tres." %}
+
+En la foto está todo lo que pedimos: el **bingsu de mango** con su bola de
+helado encima, el **gofre con nata y helado** espolvoreado de azúcar, y el
+expositor de la mesa con las fotos de los demás bingsus por si quedaba alguna
+duda de a qué va la gente a esta casa.
 
 Guárdate el nombre, porque vuelve a salir: tres semanas después, en el
 acantilado de Huinnyeoul en Busan, nos tomamos otro bingsu en una cafetería

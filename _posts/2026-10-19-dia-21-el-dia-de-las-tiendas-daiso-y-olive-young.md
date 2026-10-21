@@ -31,7 +31,7 @@ viaje a Corea.
   resolver el problema práctico del final del viaje: **cómo llevarse todo eso
   a casa**.
 
-{% include foto.html src="dia-21-olive-young.jpg" ancho="896" alto="1200" alt="Una de las viajeras, en primer plano y sonriendo, delante de la fachada de una tienda Olive Young de Busan, con el rótulo negro y verde encima de las puertas de cristal y clientes entrando." pie="Una de las Olive Young de Seomyeon, el centro comercial de Busan. La pancarta de arriba es de la tienda del piso superior: 건담베이스 서면점, la del Gundam Base." %}
+{% include foto.html src="dia-21-olive-young.jpg" ancho="844" alto="1500" alt="Una de las viajeras en primer plano, con cara de circunstancias, delante de la fachada de una tienda Olive Young de Busan: el rótulo negro con la O verde encima de las puertas de cristal, dos clientes entrando y la pancarta del Gundam Base en el piso de arriba." pie="Una de las Olive Young de Seomyeon, el centro comercial de Busan. La pancarta de arriba es de la tienda del piso superior: 건담베이스 서면점, la del Gundam Base." %}
 
 La de la foto está en **서면 (Seomyeon)**, que es el barrio donde se concentra
 el comercio en Busan — y por si hacía falta rematar el cuadro, encima de la

@@ -114,11 +114,15 @@ más.
 
 {% include foto.html src="dia-18-barbacoa-ilimitada.jpg" ancho="844" alto="1500" alt="Dos de los viajeros a una mesa de barbacoa coreana vista desde arriba: en el centro, una parrilla redonda con panceta de cerdo haciéndose, un tubo extractor de cobre bajando del techo justo encima, cuencos de banchan alrededor y una tabla de madera con forma de cerdo; al fondo, el local lleno de gente cenando." pie="La cena de celebración: barbacoa a la carta ilimitada, el tubo de cobre del extractor encima de la parrilla y la tabla con forma de cerdo. El local estaba lleno, y era jueves." %}
 
-Y el sitio tenía algo que no habíamos visto en ningún otro asador del viaje:
-en vez de las campanas de acero de siempre, **tubos extractores de cobre
-labrado** bajando del techo sobre cada parrilla, cada uno con su **disco
-numerado** a media altura. La carne llegaba en una **tabla de madera con la
-silueta de un cerdo**, por si quedaba alguna duda de qué se cenaba.
+Los **tubos extractores de cobre labrado** sobre cada parrilla no eran
+ninguna novedad: los llevábamos viendo desde la primera cena de la ruta, en
+Seúl, y en Yeoju el de nuestra mesa salía de la propia parrilla hacia arriba
+como una chimenea. Lo distinto aquí era la cantidad —**veinte y pico
+bajando del techo**, uno por mesa— y que cada uno llevaba un **disco azul
+numerado** en el arranque, el número de la mesa, que es lo que se ve cuando
+levantas la vista en un asador lleno un jueves por la noche. La carne llegaba
+en una **tabla de madera con la silueta de un cerdo**, por si quedaba alguna
+duda de qué se cenaba.
 
 Después de 633 kilómetros, no se nos ocurrió mejor forma de cerrarlo.
 

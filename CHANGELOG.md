@@ -37,11 +37,13 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
   juegos tradicionales** de la fundación cultural de Suwon —오징어,
   **사방치기** y **딱지치기**—, gratis y sin reserva de nueve a cinco y media.
 
-- **Quién eligió el asador de pollo de Suwon** (día 6): un **señor coreano
-  muy mayor que hablaba español** se acercó en mitad de la calle, le pedimos
-  recomendación y nos escribió a mano los dos nombres en un papelito. Bajamos
-  la calle comparando sus garabatos con los carteles de cada puerta hasta dar
-  con el primero. El pie de foto antes no contaba de dónde salía el papel.
+- **Quién eligió el asador de pollo de Suwon** (día 6), con sección propia:
+  al salir del palacio entramos en la **oficina de turismo** de al lado a
+  preguntar por la zona, y el señor que atendía era **muy mayor y hablaba
+  español**. Le pedimos recomendación para el pollo frito y nos escribió a
+  mano los dos nombres en un papelito. Bajamos la calle comparando sus
+  garabatos con los carteles de cada puerta hasta dar con el primero. El pie
+  de foto antes no contaba de dónde salía el papel.
 
 - **El bicho azul del 강천섬 tiene nombre** (día 10). Es un **tigre**, el
   animal nacional coreano, y no un tigre cualquiera: la cara ancha, los ojos

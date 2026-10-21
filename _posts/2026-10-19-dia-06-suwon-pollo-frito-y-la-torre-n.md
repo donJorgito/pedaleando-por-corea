@@ -128,23 +128,28 @@ palacio, el patio es tuyo, de nueve de la mañana a cinco y media de la tarde.
 Lo que es un detalle fino, porque sales de ver la casa de huéspedes de los
 funcionarios del rey y te encuentras a los críos corriendo por el mismo sitio.
 
+## El señor de la oficina de turismo
+
+Al salir del palacio entramos en la **oficina de turismo** que hay al lado, a
+preguntar qué más había por la zona. Y ahí estaba lo mejor del día: el señor
+que atendía era **muy mayor y hablaba español**. En Suwon.
+
+Así que aprovechamos para pedirle lo que de verdad nos interesaba: dónde se
+come bien el pollo frito. No nos lo dijo de palabra. Lo **escribió a mano en
+un papelito** y nos lo dio. Dos nombres.
+
+{% include foto.html src="dia-06-el-papelito-del-pollo.jpg" ancho="844" alto="1500" alt="Una mano sosteniendo un papel naranja con dos nombres escritos a mano en coreano, sobre el fondo de las baldosas de la acera." pie="El papelito del señor de la oficina de turismo: 진미통닭 y 용성통닭, sus dos asadores de confianza, escritos a mano." %}
+
 ## La calle del pollo frito
 
-Al salir del palacio acabamos en la **calle del pollo frito de Suwon**
-(**수원통닭거리**), que es exactamente lo que parece: una calle entera de
-asadores de pollo, uno detrás de otro, con las freidoras a la vista desde la
-acera. Está en 정조로800번길, pegada al mercado de Paldalmun.
+Los dos estaban en la **calle del pollo frito de Suwon** (**수원통닭거리**),
+que es exactamente lo que parece: una calle entera de asadores de pollo, uno
+detrás de otro, con las freidoras a la vista desde la acera. Está en
+정조로800번길, pegada al mercado de Paldalmun.
 
-Y aquí pasó lo mejor del día. Con una calle entera de asadores iguales, no
-hay manera de elegir. Se nos acercó **un señor coreano muy mayor que hablaba
-español** —así, sin más, en mitad de Suwon—, nos preguntó de dónde éramos, y
-aprovechamos para pedirle lo único que nos hacía falta: cuál era el bueno. No
-nos lo dijo: lo **escribió a mano en un papelito** y nos lo dio. Dos nombres.
-
-{% include foto.html src="dia-06-el-papelito-del-pollo.jpg" ancho="844" alto="1500" alt="Una mano sosteniendo un papel naranja con dos nombres escritos a mano en coreano, sobre el fondo de las baldosas de la acera." pie="El papelito del señor que hablaba español: 진미통닭 y 용성통닭, sus dos asadores de confianza, escritos a mano." %}
-
-Así que bajamos la calle con el papel en la mano, comparando los garabatos
-con los carteles de cada puerta hasta dar con el primero de los dos. Es,
+Y menos mal que llevábamos el papel, porque con una calle entera de asadores
+iguales no hay manera de elegir. La bajamos entera comparando los garabatos
+con los carteles de cada puerta, hasta dar con el primero de los dos. Es,
 seguramente, la mejor forma de elegir restaurante que hemos usado en el
 viaje: sin reseñas, sin estrellas y sin buscador.
 

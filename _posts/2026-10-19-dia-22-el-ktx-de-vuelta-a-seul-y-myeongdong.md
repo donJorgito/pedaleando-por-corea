@@ -3,6 +3,8 @@ title: "Día 22 · El KTX de vuelta a Seúl: 400 km en dos horas y media"
 date: 2026-10-19 08:42:00 +0200
 layout: dia
 dia: 22
+km_dia: 0
+km_ruta: 633
 description: >-
   Deshacer en tren de alta velocidad lo que costó once días en bicicleta: el
   KTX de Busan a Seúl, el kalguksu con estrella de guía de Myeongdong y la
@@ -180,11 +182,11 @@ Y después, a las **19:30**, la despedida de verdad: **barbacoa coreana** en
 de Myeongdong. Y este es el apunte que más me importa del día: **no había un
 solo turista dentro**. Mesas de oficinistas, soju, ruido, y nosotros tres.
 
-Y hay algo más, que descubrimos revisando las fotos para escribir esto:
-**es el mismo restaurante de la primera noche del viaje**. La misma parrilla,
-el mismo tablón de precios, la misma pared de azulejos firmados. Entramos la
-primera noche porque era lo que pillaba cerca del alojamiento y volvimos la
-última por lo mismo, sin acordarnos. Diecinueve días y mil doscientos
+Y hay algo más: **es el mismo restaurante de la primera noche del viaje**. La
+misma parrilla, el mismo tablón de precios, la misma pared de azulejos
+firmados. La primera vez entramos porque pillaba cerca del alojamiento; la
+última volvimos a propósito, porque nos había gustado tanto que cerrar el
+viaje en otro sitio no tenía sentido. Diecinueve días y mil doscientos
 kilómetros entre una cena y otra, en la misma mesa. Está contado también en
 el [día 3]({{ site.baseurl }}{% post_url 2026-10-19-dia-03-llegada-a-seul %}).
 

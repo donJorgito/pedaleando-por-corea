@@ -1,0 +1,30 @@
+{%- comment -%}
+Contador de kilómetros del 국토종주, arriba y abajo de cada día.
+
+Mide el avance sobre la ruta oficial de 633 km, no el total pedaleado: los
+desvíos a los alojamientos, la vuelta a por el libro electrónico del día 13 y
+los paseos de después de la meta se cuentan en el texto de cada día.
+
+Las posiciones de las cabinas están ancladas en tres datos comprobados: el
+canal Ara son 21 km, 상주상풍교 es el km 309 y 낙동강하구둑 el 633. Sale la
+cuenta: del 상풍교 al 구미보 dan 47 km, los mismos «47 km de sello a sello»
+que cuenta el día 12.
+{%- endcomment -%}
+{%- if page.dia -%}
+{%- assign hoy = page.km_dia | default: 0 -%}
+{%- assign acum = page.km_ruta | default: 0 -%}
+<p class="km-dia">
+  <span class="km-dia__icono" aria-hidden="true">🚲</span>
+  {%- if hoy > 0 %}
+  <strong>Hoy: {{ hoy }} km de ruta</strong> · llevamos
+  <strong>{{ acum }}</strong> de los 633 km del 국토종주
+  {%- elsif acum == 0 %}
+  <strong>Todavía sin bici</strong> · la ruta arranca el día 8
+  {%- elsif acum >= 633 %}
+  <strong>Ruta terminada</strong> · 633 de 633 km del 국토종주
+  {%- else %}
+  <strong>Hoy, sin bici</strong> · seguimos con <strong>{{ acum }}</strong> de
+  los 633 km del 국토종주
+  {%- endif %}
+</p>
+{%- endif -%}

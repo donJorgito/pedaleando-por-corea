@@ -3,6 +3,8 @@ title: "Día 9 · Del Han a Yeoju: la vía verde, la presa de Paldang y siete ca
 date: 2026-10-19 08:16:00 +0200
 layout: dia
 dia: 9
+km_dia: 102
+km_ruta: 136
 description: >-
   Primera etapa de verdad del 국토종주: salir de Seúl por el río Han, la presa
   de Paldang, la vía verde sobre el antiguo ferrocarril y siete cabinas de
@@ -139,13 +141,12 @@ Dos lecciones de las que sirven:
 
 {% include foto.html src="dia-09-presa-de-ipo.jpg" ancho="844" alto="1500" alt="El río al atardecer desde la orilla, con cañas en primer plano y un puente a contraluz al fondo. No se ve ni una casa." pie="La presa de Ipo a las cuatro y media de la tarde. Esto es literalmente todo lo que hay: por eso hubo que seguir hasta Yeoju con la noche encima." %}
 
-Y a las **16:25**, tres minutos después de la foto de arriba y desde el mismo
-punto —las coordenadas de las dos son idénticas—, el autorretrato de esperar
+Y tres minutos después, sin moverse del sitio, el autorretrato de esperar
 solo en mitad de la nada:
 
 {% include foto.html src="dia-09-selfie-en-ipo.jpg" ancho="844" alto="1500" alt="Autorretrato de un ciclista con casco azul y camiseta de tirantes negra, sonriendo a cámara, con la presa de Ipo y su puente de cubiertas blancas al fondo, sobre el río." pie="Esperando en la presa de Ipo a las 16:25, con la presa entera detrás. De la cabina de 이포보 no hay ni una foto: ese rato se fue en mandar la ubicación y llamar a dos móviles que no cogía nadie." %}
 
-{% include foto.html src="dia-09-cabina-yeojubo.jpg" ancho="844" alto="1500" alt="Cabina roja de certificación con el cartel 여주보 y un ciclista de pie en la puerta con el pasaporte en la mano." pie="여주보, al final de un día de 128 kilómetros y un grupo perdido. La última cabina del día siempre se sella con otra cara." %}
+{% include foto.html src="dia-09-cabina-yeojubo.jpg" ancho="844" alto="1500" alt="Cabina roja de certificación con el cartel 여주보 y un ciclista de pie en la puerta con el pasaporte en la mano." pie="여주보, al final de un día de 128 kilómetros —102 de ellos de ruta oficial, el resto desvíos y vueltas de más— y un grupo perdido. La última cabina del día siempre se sella con otra cara." %}
 
 ## Dormir en Yeoju y la barbacoa de rigor
 

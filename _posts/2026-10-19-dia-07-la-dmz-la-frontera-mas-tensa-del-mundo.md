@@ -9,6 +9,8 @@ description: >-
 tags: [corea, dmz, imjingak, tongilchon, corea-del-norte, excursiones, dia-a-dia]
 layout: dia
 dia: 7
+km_dia: 0
+km_ruta: 0
 ---
 
 Último día en Seúl antes de coger las bicis, y lo dedicamos a lo que para

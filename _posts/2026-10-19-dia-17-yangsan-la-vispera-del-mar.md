@@ -3,6 +3,8 @@ title: "Día 17 · Yangsan, la víspera del mar"
 date: 2026-10-19 08:32:00 +0200
 layout: dia
 dia: 17
+km_dia: 62
+km_ruta: 601
 description: >-
   Penúltima etapa del 국토종주: de Changwon a Yangsan por el Nakdong, el
   segundo y último hotel al que llegamos sin reserva, y un buffet coreano de

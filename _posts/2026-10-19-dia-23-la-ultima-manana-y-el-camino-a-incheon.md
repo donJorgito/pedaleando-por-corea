@@ -3,6 +3,8 @@ title: "Día 23 · La última mañana en Seúl y el camino a Incheon"
 date: 2026-10-19 08:44:00 +0200
 layout: dia
 dia: 23
+km_dia: 0
+km_ruta: 633
 description: >-
   Último día en Corea: la mañana suelta en Myeongdong, el metro hasta el
   aeropuerto de Incheon y el vuelo de vuelta vía Hong Kong.

@@ -7,6 +7,8 @@ description: >-
 tags: [corea, seul, suwon, hwaseong, comida, dia-a-dia]
 layout: dia
 dia: 6
+km_dia: 0
+km_ruta: 0
 ---
 
 Día de excursión fuera de Seúl por la mañana y de mirador por la noche. Y de
@@ -107,7 +109,24 @@ honor del rey cuando el rey no estaba. Lo tiraron en tiempos de la ocupación y
 se volvió a levantar en la **segunda fase de la obra, terminada en 2024**.
 Ciento diecinueve años después.
 
-{% include foto.html src="dia-06-el-patio-de-uhwagwan.jpg" ancho="844" alto="1500" alt="Una viajera sola en medio de un patio enorme de arena clara, delante de un edificio bajo de tejado de teja negra con el cartel que lee Uhwagwan, y las trazas de los cimientos antiguos marcadas en el suelo." pie="14:15. El patio de delante del 우화관, con las trazas de lo que había antes dibujadas en la arena. El edificio tiene dos años." %}
+{% include foto.html src="dia-06-el-patio-de-uhwagwan.jpg" ancho="844" alto="1500" alt="Una viajera sola en medio de un patio enorme de arena clara, delante de un edificio bajo de tejado de teja negra con el cartel que lee Uhwagwan, y las trazas de los cimientos antiguos marcadas en el suelo." pie="14:15. El patio de delante del 우화관, con el campo del juego del calamar marcado en la tierra: el círculo arriba y el cuerpo cuadrado abajo. El edificio tiene dos años." %}
+
+### Lo que hay dibujado en la tierra del patio
+
+Esas líneas del suelo no son las trazas de los cimientos antiguos. Es un
+**campo de juego**, y en concreto *ese* juego: el **오징어**, el juego del
+calamar. El de la serie. Se llama así porque el campo que se dibuja en el
+suelo tiene forma de calamar —un círculo arriba, que es la cabeza, y un
+cuerpo recto debajo—, y en la foto se ve exactamente eso: la rueda redonda
+arriba y el rectángulo grande delante, unidos por una cintura estrecha.
+
+El patio del 우화관 funciona como **zona permanente de juegos tradicionales**
+de la fundación cultural de Suwon, con el 오징어, la **사방치기** —nuestra
+rayuela— y el **딱지치기**, el de las fichas de papel que hay que voltear de
+un manotazo. Es **gratis** y no hay que reservar: si tienes la entrada del
+palacio, el patio es tuyo, de nueve de la mañana a cinco y media de la tarde.
+Lo que es un detalle fino, porque sales de ver la casa de huéspedes de los
+funcionarios del rey y te encuentras a los críos corriendo por el mismo sitio.
 
 ## La calle del pollo frito
 
@@ -116,14 +135,25 @@ Al salir del palacio acabamos en la **calle del pollo frito de Suwon**
 asadores de pollo, uno detrás de otro, con las freidoras a la vista desde la
 acera. Está en 정조로800번길, pegada al mercado de Paldalmun.
 
-{% include foto.html src="dia-06-el-papelito-del-pollo.jpg" ancho="844" alto="1500" alt="Una mano sosteniendo un papel naranja con dos nombres escritos a mano en coreano, sobre el fondo de las baldosas de la acera." pie="Los dos asadores, apuntados a mano en un papelito: 진미통닭 y 용성통닭. Entramos en el primero." %}
+Y aquí pasó lo mejor del día. Con una calle entera de asadores iguales, no
+hay manera de elegir. Se nos acercó **un señor coreano muy mayor que hablaba
+español** —así, sin más, en mitad de Suwon—, nos preguntó de dónde éramos, y
+aprovechamos para pedirle lo único que nos hacía falta: cuál era el bueno. No
+nos lo dijo: lo **escribió a mano en un papelito** y nos lo dio. Dos nombres.
 
-Nos metimos en uno de los clásicos: **[진미통닭 (Jinmi
+{% include foto.html src="dia-06-el-papelito-del-pollo.jpg" ancho="844" alto="1500" alt="Una mano sosteniendo un papel naranja con dos nombres escritos a mano en coreano, sobre el fondo de las baldosas de la acera." pie="El papelito del señor que hablaba español: 진미통닭 y 용성통닭, sus dos asadores de confianza, escritos a mano." %}
+
+Así que bajamos la calle con el papel en la mano, comparando los garabatos
+con los carteles de cada puerta hasta dar con el primero de los dos. Es,
+seguramente, la mejor forma de elegir restaurante que hemos usado en el
+viaje: sin reseñas, sin estrellas y sin buscador.
+
+El primero resultó ser **[진미통닭 (Jinmi
 Tongdak)](https://map.naver.com/p/entry/place/13496253)**, en 정조로800번길
-21. Más de **15.000 reseñas** en Naver Map y abierto hasta las once de la
-noche.
+21, uno de los clásicos de la calle: más de **15.000 reseñas** en Naver Map y
+abierto hasta las once de la noche. El señor sabía lo que escribía.
 
-{% include foto.html src="dia-06-desde-1981.jpg" ancho="844" alto="1500" alt="El papelito naranja sostenido delante del cristal de la pollería, con el logo redondo del establecimiento: un pollo blanco de dibujos en un círculo rojo que dice JINMI CHICKEN SINCE 1981." pie="14:30, el papelito contra el cristal del sitio bueno. El logo lo deja claro: «JINMI CHICKEN SINCE 1981». Cuarenta y cinco años friendo pollo." %}
+{% include foto.html src="dia-06-desde-1981.jpg" ancho="844" alto="1500" alt="El papelito naranja sostenido delante del cristal de la pollería, con el logo redondo del establecimiento: un pollo blanco de dibujos en un círculo rojo que dice JINMI CHICKEN SINCE 1981." pie="El papelito contra el cristal del sitio, comprobando que los garabatos cuadran. El logo lo deja claro: «JINMI CHICKEN SINCE 1981». Cuarenta y cinco años friendo pollo." %}
 
 El pollo frito coreano, el **chikin**, es plato nacional y merece la fama: la
 fritura es finísima y crujiente, y las salsas van de la dulce de soja y ajo a

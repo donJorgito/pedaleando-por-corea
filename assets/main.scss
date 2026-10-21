@@ -24,6 +24,20 @@
   margin-bottom: 0.9em;
 }
 
+/* Contador de kilómetros del 국토종주, arriba y abajo de cada día. */
+.km-dia {
+  background-color: #f4f6f8;
+  border-left: 4px solid #2a7ae2;
+  border-radius: 3px;
+  font-size: 0.95em;
+  margin: 1.6em 0;
+  padding: 0.6em 0.9em;
+}
+
+.km-dia__icono {
+  margin-right: 0.35em;
+}
+
 /* Navegación entre días, al pie de cada entrada. */
 .nav-dias {
   border-top: 1px solid #e8e8e8;
@@ -203,6 +217,11 @@ $oscuro-visitado:     #b3a8ec;
 
   .lista-dias__fecha {
     color: $oscuro-texto-suave;
+  }
+
+  .km-dia {
+    background-color: #212830;
+    border-left-color: #5fa0f0;
   }
 
   .nav-dias {

@@ -8,6 +8,8 @@ description: >-
 tags: [corea, gukto-jongju, seul, incheon, yeouido, cabinas, dia-a-dia]
 layout: dia
 dia: 8
+km_dia: 34
+km_ruta: 34
 ---
 
 El país se cruza de noroeste a sureste, de Seúl a Busan, y el contador oficial
@@ -231,7 +233,9 @@ contraria, costaba imaginar mejor final.
 ---
 
 **Datos del día** · Seúl (Mapo) → Incheon (Ara Seohae, km 0) → Seúl (Yeouido) ·
-~67 km · 3 cabinas: 아라서해갑문, 아라한강갑문, 여의도 · En el arco de salida:
+~67 km pedaleados, de los que **34 cuentan como ruta oficial**: los otros
+treinta y tantos fueron ir desde Mapo hasta la salida · 3 cabinas:
+아라서해갑문, 아라한강갑문, 여의도 · En el arco de salida:
 **서울 21 km, 부산 633 km** · El canal Ara son **21 km
 que el pasaporte cronometra en 1 h 30**; nosotros, 2 h 13 con parada en el CU
 · Alojamiento: Alto 201 (Mapo, Seúl) · Cena: barbacoa en 정다운식당, 52.000

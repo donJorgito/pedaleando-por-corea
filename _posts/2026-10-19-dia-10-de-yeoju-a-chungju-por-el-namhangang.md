@@ -3,6 +3,8 @@ title: "Día 10 · De Yeoju a Chungju: el Namhangang y el final de la vía del r
 date: 2026-10-19 08:18:00 +0200
 layout: dia
 dia: 10
+km_dia: 73
+km_ruta: 209
 description: >-
   Tercera etapa del 국토종주 remontando el río Namhangang de Yeoju a Chungju,
   pasando por las presas de Gangcheon y Binaeseom hasta Tangeumdae, donde se

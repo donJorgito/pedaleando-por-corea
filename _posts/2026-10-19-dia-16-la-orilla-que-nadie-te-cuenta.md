@@ -3,6 +3,8 @@ title: "Día 16 · La orilla que nadie te cuenta: cambiar de lado del río para 
 date: 2026-10-19 08:30:00 +0200
 layout: dia
 dia: 16
+km_dia: 94
+km_ruta: 539
 description: >-
   De Dalseong a Changwon por el Nakdong, con el mirador del río, la lección
   del día —en Haman nos desviamos por la orilla norte, con mucho menos

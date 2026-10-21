@@ -3,6 +3,8 @@ title: "Día 14 · Descanso en Daegu: Haeinsa, la medicina oriental y el mercado
 date: 2026-10-19 08:26:00 +0200
 layout: dia
 dia: 14
+km_dia: 0
+km_ruta: 421
 description: >-
   Día sin bici en Daegu: excursión en bus al templo de Haeinsa y su Tripitaka
   Koreana, el museo de medicina oriental con hanbok y el mercado nocturno de

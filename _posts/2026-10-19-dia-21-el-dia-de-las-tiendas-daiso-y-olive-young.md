@@ -3,6 +3,8 @@ title: "Día 21 · El día de las tiendas: Daiso, Olive Young y la cosmética co
 date: 2026-10-19 08:40:00 +0200
 layout: dia
 dia: 21
+km_dia: 0
+km_ruta: 633
 description: >-
   El día que se fue entero en tiendas: Daiso, Olive Young y la cosmética
   coreana, el mercado de Bujeon y la cena en que nos rendimos a la pizza

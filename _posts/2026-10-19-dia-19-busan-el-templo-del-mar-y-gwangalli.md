@@ -3,6 +3,8 @@ title: "Día 19 · Busan: el templo sobre el mar y la playa de Gwangalli"
 date: 2026-10-19 08:36:00 +0200
 layout: dia
 dia: 19
+km_dia: 0
+km_ruta: 633
 description: >-
   Primer día de turismo en Busan, ya sin bicis: Haedong Yonggungsa colgado del
   acantilado y la discusión sobre su edad, los dragones del templo, la playa

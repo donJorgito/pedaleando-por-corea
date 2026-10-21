@@ -5,6 +5,8 @@ layout: dia
 dia: 20
 km_dia: 0
 km_ruta: 633
+km_total: 0
+km_total_acum: 836
 description: >-
   El mejor día de Busan: la lonja de Jagalchi a primera hora, el pueblo de
   colores de Gamcheon, el puente levadizo de Yeongdo con su arco de 75 grados,

@@ -10,15 +10,25 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 ### Added
 
 - **Contador de kilómetros en todas las entradas del viaje**, arriba y abajo
-  de cada día: cuántos se hicieron ese día y cuántos se llevan de los **633
-  del 국토종주**. Mide el avance sobre la ruta oficial, no el total pedaleado
-  —los desvíos a los alojamientos, la vuelta a por el libro del día 13 y los
-  paseos de después de la meta siguen contados en el texto—. Las posiciones
-  de las cabinas están ancladas en tres datos comprobados: el canal Ara son
-  **21 km**, **상주상풍교 es el km 309** (del mapa oficial que fotografiamos
-  el día 12) y **낙동강하구둑 el 633**. La cuenta cierra sola: del 상풍교 al
-  구미보 salen **47 km**, exactamente los «47 km de sello a sello» que ya
-  contaba el día 12, y los días suman 633 clavados.
+  de cada día, con **dos cuentas en paralelo**: los kilómetros **pedaleados
+  de verdad** y el **avance sobre los 633 del 국토종주**, cada uno con su
+  acumulado. Salen **836 km pedaleados para 633 de ruta**: doscientos y pico
+  de propina en desvíos.
+
+  *La cuenta de la ruta es exacta.* Las posiciones de las cabinas están
+  ancladas en tres datos comprobados: el canal Ara son **21 km**,
+  **상주상풍교 es el km 309** (del mapa oficial que fotografiamos el día 12)
+  y **낙동강하구둑 el 633**. Cierra sola: del 상풍교 al 구미보 salen **47
+  km**, exactamente los «47 km de sello a sello» que ya contaba el día 12, y
+  los días suman 633 clavados.
+
+  *La cuenta del total es aproximada.* Sale de medir, en el track de fotos de
+  cada jornada, los tramos de antes de la primera cabina y de después de la
+  última —que son justo las idas y venidas a los alojamientos— y sumarlos a
+  los km de ruta entre cabinas. A eso se le añaden los desvíos gordos que ya
+  cuenta el texto: los **34 km de Mapo al kilómetro 0**, los **26 de volver a
+  Gumi a por el libro electrónico**, las **dos subidas a Dodongseowon** y el
+  paseo de después de la meta hasta la tienda de bicis, el hotel y Haeundae.
 
 - **El robot que patrulla Deoksugung** (día 5), con foto. Es el **순라봇**
   (**궁능순찰로봇**), el robot de patrulla con IA del **궁능유적본부**:
@@ -942,6 +952,11 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
   castellano como el resto del repositorio.
 
 ### Fixed
+
+- **El día 9 no fueron 128 kilómetros.** El pie del 여주보 daba esa cifra y no
+  la sostiene nada de lo medido, que da unos **110**. Se queda sin número:
+  «al final del día más largo de todo el viaje», que sí lo es. Y el día 8
+  pasa de «~67 km» a «~70», para cuadrar con el contador.
 
 - **Fuera lo de contar de dónde salen los datos.** Al lector le da igual el
   método. Se van la hora al segundo «que lo dice el EXIF» del día 2, el

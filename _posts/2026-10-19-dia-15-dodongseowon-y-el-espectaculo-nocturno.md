@@ -5,6 +5,8 @@ layout: dia
 dia: 15
 km_dia: 24
 km_ruta: 445
+km_total: 65
+km_total_acum: 591
 description: >-
   De Daegu río abajo hasta Dodongseowon, academia neoconfuciana declarada
   Patrimonio de la Humanidad —con el único muro de barro que es Tesoro

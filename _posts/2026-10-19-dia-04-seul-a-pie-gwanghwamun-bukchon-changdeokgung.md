@@ -11,6 +11,8 @@ layout: dia
 dia: 4
 km_dia: 0
 km_ruta: 0
+km_total: 0
+km_total_acum: 0
 ---
 
 Primer día entero en Corea, y el plan fue el más sensato posible con el

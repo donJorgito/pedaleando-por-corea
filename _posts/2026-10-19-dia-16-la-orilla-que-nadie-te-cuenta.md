@@ -5,6 +5,8 @@ layout: dia
 dia: 16
 km_dia: 94
 km_ruta: 539
+km_total: 105
+km_total_acum: 696
 description: >-
   De Dalseong a Changwon por el Nakdong, con el mirador del río, la lección
   del día —en Haman nos desviamos por la orilla norte, con mucho menos

@@ -10,6 +10,8 @@ layout: dia
 dia: 1
 km_dia: 0
 km_ruta: 0
+km_total: 0
+km_total_acum: 0
 ---
 
 Las crónicas de viaje suelen empezar en el aeropuerto de destino, como si

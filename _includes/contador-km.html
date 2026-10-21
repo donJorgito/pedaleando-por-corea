@@ -1,30 +1,53 @@
 {%- comment -%}
-Contador de kilómetros del 국토종주, arriba y abajo de cada día.
+Contador de kilómetros, arriba y abajo de cada día. Dos cuentas en paralelo:
 
-Mide el avance sobre la ruta oficial de 633 km, no el total pedaleado: los
-desvíos a los alojamientos, la vuelta a por el libro electrónico del día 13 y
-los paseos de después de la meta se cuentan en el texto de cada día.
+  Ruta   — avance sobre los 633 km oficiales del 국토종주. Es exacto. Las
+           posiciones de las cabinas están ancladas en tres datos comprobados:
+           el canal Ara son 21 km, 상주상풍교 es el km 309 y 낙동강하구둑 el
+           633. Cierra sola: del 상풍교 al 구미보 salen 47 km, los mismos «47
+           de sello a sello» que cuenta el día 12.
 
-Las posiciones de las cabinas están ancladas en tres datos comprobados: el
-canal Ara son 21 km, 상주상풍교 es el km 309 y 낙동강하구둑 el 633. Sale la
-cuenta: del 상풍교 al 구미보 dan 47 km, los mismos «47 km de sello a sello»
-que cuenta el día 12.
+  Total  — todo lo pedaleado de verdad, desvíos incluidos. Es aproximado: sale
+           de medir, en el track de fotos de cada jornada, los tramos de antes
+           de la primera cabina y de después de la última —las idas y venidas
+           a los alojamientos— y sumarlos a los km de ruta entre cabinas, más
+           los desvíos gordos que cuenta el texto: los 34 km de Mapo al
+           kilómetro 0, los 26 de volver a Gumi a por el libro electrónico,
+           las dos subidas a Dodongseowon y el paseo de después de la meta.
 {%- endcomment -%}
 {%- if page.dia -%}
 {%- assign hoy = page.km_dia | default: 0 -%}
 {%- assign acum = page.km_ruta | default: 0 -%}
-<p class="km-dia">
-  <span class="km-dia__icono" aria-hidden="true">🚲</span>
+{%- assign hoy_t = page.km_total | default: 0 -%}
+{%- assign acum_t = page.km_total_acum | default: 0 -%}
+<div class="km-dia">
   {%- if hoy > 0 %}
-  <strong>Hoy: {{ hoy }} km de ruta</strong> · llevamos
-  <strong>{{ acum }}</strong> de los 633 km del 국토종주
+  <p class="km-dia__linea">
+    <span class="km-dia__icono" aria-hidden="true">🚲</span>
+    <strong>Hoy: {{ hoy_t }} km</strong>, de ellos <strong>{{ hoy }}</strong>
+    de ruta oficial
+  </p>
+  <p class="km-dia__linea km-dia__linea--acum">
+    Acumulado: <strong>{{ acum_t }} km</strong> pedaleados ·
+    <strong>{{ acum }}</strong> de los 633 del 국토종주
+  </p>
   {%- elsif acum == 0 %}
-  <strong>Todavía sin bici</strong> · la ruta arranca el día 8
+  <p class="km-dia__linea">
+    <span class="km-dia__icono" aria-hidden="true">🚲</span>
+    <strong>Todavía sin bici</strong> · la ruta arranca el día 8
+  </p>
   {%- elsif acum >= 633 %}
-  <strong>Ruta terminada</strong> · 633 de 633 km del 국토종주
+  <p class="km-dia__linea">
+    <span class="km-dia__icono" aria-hidden="true">🚲</span>
+    <strong>Ruta terminada</strong> · 633 de 633 km del 국토종주, y
+    <strong>{{ acum_t }}</strong> pedaleados en total
+  </p>
   {%- else %}
-  <strong>Hoy, sin bici</strong> · seguimos con <strong>{{ acum }}</strong> de
-  los 633 km del 국토종주
+  <p class="km-dia__linea">
+    <span class="km-dia__icono" aria-hidden="true">🚲</span>
+    <strong>Hoy, sin bici</strong> · seguimos con <strong>{{ acum_t }} km</strong>
+    pedaleados y <strong>{{ acum }}</strong> de los 633 del 국토종주
+  </p>
   {%- endif %}
-</p>
+</div>
 {%- endif -%}

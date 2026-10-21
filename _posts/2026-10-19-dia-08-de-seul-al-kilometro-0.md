@@ -10,6 +10,8 @@ layout: dia
 dia: 8
 km_dia: 34
 km_ruta: 34
+km_total: 70
+km_total_acum: 70
 ---
 
 El país se cruza de noroeste a sureste, de Seúl a Busan, y el contador oficial
@@ -233,7 +235,7 @@ contraria, costaba imaginar mejor final.
 ---
 
 **Datos del día** · Seúl (Mapo) → Incheon (Ara Seohae, km 0) → Seúl (Yeouido) ·
-~67 km pedaleados, de los que **34 cuentan como ruta oficial**: los otros
+~70 km pedaleados, de los que **34 cuentan como ruta oficial**: los otros
 treinta y tantos fueron ir desde Mapo hasta la salida · 3 cabinas:
 아라서해갑문, 아라한강갑문, 여의도 · En el arco de salida:
 **서울 21 km, 부산 633 km** · El canal Ara son **21 km

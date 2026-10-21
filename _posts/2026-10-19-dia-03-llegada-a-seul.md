@@ -10,6 +10,8 @@ layout: dia
 dia: 3
 km_dia: 0
 km_ruta: 0
+km_total: 0
+km_total_acum: 0
 ---
 
 ## La escala, y un reloj que no se había enterado

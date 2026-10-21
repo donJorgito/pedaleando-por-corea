@@ -53,6 +53,8 @@ salsa roja, cuencos de arroz, sopa con tofu, una fuente grande para
 compartir y una fila de **banchan** —los platillos de acompañamiento:
 encurtidos, kimchi, verduras— que ocupan todo el hueco que queda.
 
+{% include foto.html src="dia-04-la-mesa-del-menu-unico.jpg" ancho="844" alto="1500" alt="Mesa corrida de madera vista desde un extremo, llena de platos: dos cazuelas de piedra negra con guiso rojo humeante, cuencos de arroz blanco, sopas claras, una fila de platillos de banchan y cucharas y palillos de metal alineados; los tres viajeros sentados alrededor y una nevera de bebidas y la pared azul al fondo." pie="Las 12:18 en una callejuela de Insadong. Esto es el menú único: no se elige nada y la mesa se llena sola. Dos cazuelas de piedra, arroz, sopa y la fila entera de banchan." %}
+
 ¿El precio? **29.700 wones los tres.** Unos **19 €**, es decir, **menos de
 6,50 € por persona** por comer así.
 

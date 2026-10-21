@@ -22,11 +22,11 @@ Madrid.
 De la escala queda una foto por la ventanilla, de noche: una ciudad de
 rascacielos pegada al agua negra.
 
-{% include foto.html src="dia-24-hong-kong-de-noche.jpg" ancho="1500" alto="675" alt="Vista nocturna desde la ventanilla de un avión: una península de rascacielos iluminados recortada sobre el agua negra, con las luces de la ciudad extendiéndose hacia el horizonte." pie="Rascacielos y agua negra desde la ventanilla. Esta llegó por WhatsApp y no trae ni hora ni coordenadas, pero por el trayecto y la hora solo puede ser Hong Kong." %}
+{% include foto.html src="dia-24-hong-kong-de-noche.jpg" ancho="1500" alto="675" alt="Vista nocturna desde la ventanilla de un avión: una península de rascacielos iluminados recortada sobre el agua negra, con las luces de la ciudad extendiéndose hacia el horizonte." pie="Rascacielos y agua negra desde la ventanilla: Hong Kong en plena escala." %}
 
 Y lo de siempre en un vuelo largo: la bandeja.
 
-{% include foto.html src="dia-24-la-bandeja-del-avion.jpg" ancho="1500" alto="844" alt="Bandeja de comida de avión medio terminada: un envase con pasta gratinada y patatas, un panecillo mordido, un bol de postre rosa, una lata de refresco verde y los cubiertos encima." pie="La bandeja del vuelo, ya mediada: pasta gratinada, patatas, panecillo y un postre rosa. Veinte días de arroz, sopa y banchan, y el aterrizaje gastronómico fue este. Sin datos: llegó por WhatsApp." %}
+{% include foto.html src="dia-24-la-bandeja-del-avion.jpg" ancho="1500" alto="844" alt="Bandeja de comida de avión medio terminada: un envase con pasta gratinada y patatas, un panecillo mordido, un bol de postre rosa, una lata de refresco verde y los cubiertos encima." pie="La bandeja del vuelo, ya mediada: pasta gratinada, patatas, panecillo y un postre rosa. Veinte días de arroz, sopa y banchan, y el aterrizaje gastronómico fue este." %}
 
 Y en algún momento del tramo largo, el ala:
 

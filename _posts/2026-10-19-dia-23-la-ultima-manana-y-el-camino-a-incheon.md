@@ -37,7 +37,7 @@ Una hora larga de trayecto, por unos **4.900 wones** por persona en lugar de
 los 17.000 del bus. Más rápido y tres veces más barato, como ya sospechábamos
 el primer día.
 
-{% include foto.html src="dia-23-camino-de-incheon.jpg" ancho="677" alto="1500" alt="Autorretrato a contrapicado dentro de un vagón de tren: uno de los viajeros con gafas de sol en primer plano y, al lado, una pasajera dormida con la cabeza echada hacia atrás y la cara difuminada; en el techo, un cartel publicitario en inglés que dice «Easy Plan · Exclusively for Foreigners»." pie="Camino del aeropuerto. El cartel del techo anuncia una tarifa de datos «exclusively for foreigners»; la vecina de asiento iba a lo suyo. Esta llegó por WhatsApp y no trae datos. La cara de la pasajera va difuminada: no pidió salir aquí." %}
+{% include foto.html src="dia-23-camino-de-incheon.jpg" ancho="677" alto="1500" alt="Autorretrato a contrapicado dentro de un vagón de tren: uno de los viajeros con gafas de sol en primer plano y, al lado, una pasajera dormida con la cabeza echada hacia atrás y la cara difuminada; en el techo, un cartel publicitario en inglés que dice «Easy Plan · Exclusively for Foreigners»." pie="Camino del aeropuerto. El cartel del techo anuncia una tarifa de datos «exclusively for foreigners»; la vecina de asiento iba a lo suyo. La cara de la pasajera va difuminada: no pidió salir aquí." %}
 
 A las **11:59** estábamos ya en el **aeropuerto de Incheon**, con horas de
 margen: había que **facturar las maletas** —las compradas la víspera, cargadas
@@ -96,7 +96,7 @@ Y lo último antes de embarcar fue lo menos coreano posible, otra vez: un
 dónut de nata y frambuesa de una cadena americana, comido mirando la pista
 por el ventanal.
 
-{% include foto.html src="dia-23-el-donut-de-la-espera.jpg" ancho="1500" alto="675" alt="Sobre la repisa de un ventanal de aeropuerto, un dónut glaseado con nata y frambuesa por encima, al lado de su bolsa de papel de lunares verdes; al otro lado del cristal, la pista con aviones aparcados y montañas al fondo." pie="El dónut de la espera, con la pista y las montañas detrás. Llegó por WhatsApp y no trae datos; por la luz y por el paisaje de la pista, es Incheon." %}
+{% include foto.html src="dia-23-el-donut-de-la-espera.jpg" ancho="1500" alto="675" alt="Sobre la repisa de un ventanal de aeropuerto, un dónut glaseado con nata y frambuesa por encima, al lado de su bolsa de papel de lunares verdes; al otro lado del cristal, la pista con aviones aparcados y montañas al fondo." pie="El dónut de la espera, con la pista y las montañas detrás, en Incheon." %}
 
 ## Y de vuelta
 

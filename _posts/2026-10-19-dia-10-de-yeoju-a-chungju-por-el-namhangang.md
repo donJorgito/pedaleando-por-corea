@@ -45,13 +45,37 @@ río, con su carril bici pintado aparte, y al fondo un mástil blanco curvado
 Media hora después de sellar, a las **10:12**, el carril se mete en **강천섬
 (Gangcheonseom)**, una isla-parque del Namhangang en **여주시 강천면**. Es una
 pradera enorme con hileras de álamos, una escultura blanca de letras gigantes
-a un lado y, en medio de la hierba, **un felino azul sentado sobre un pedestal
+a un lado y, en medio de la hierba, **un tigre azul sentado sobre un pedestal
 blanco**, más alto que cualquiera de nosotros.
 
-{% include foto.html src="dia-10-gato-de-gangcheonseom.jpg" ancho="1334" alto="1500" alt="Un ciclista con casco y gafas de sol, de pie en una pradera de hierba seca, al lado de una escultura de un felino sentado más alta que él, pintada de azul con rayas blancas y con los ojos amarillos; a la derecha, una bicicleta cargada con una banderita de España apoyada sobre su caballete, y detrás una hilera de álamos altos." pie="강천섬, media hora después de la presa. El cartelito de al lado no se lee en la foto, así que el bicho se queda sin nombre. La banderita de la bici sí se reconoce." %}
+{% include foto.html src="dia-10-gato-de-gangcheonseom.jpg" ancho="1334" alto="1500" alt="Un ciclista con casco y gafas de sol, de pie en una pradera de hierba seca, al lado de una escultura de un tigre sentado más alta que él, pintada de azul con rayas blancas, los ojos amarillos y los colmillos a la vista; a la derecha, una bicicleta cargada con una banderita de España apoyada sobre su caballete, y detrás una hilera de álamos altos." pie="강천섬, media hora después de la presa. El cartelito de al lado no se lee en la foto, así que la obra se queda sin título y sin autor; el bicho, en cambio, tiene nombre de sobra. La banderita de la bici sí se reconoce." %}
+
+### Por qué hay un tigre, y por qué sale con esa cara
+
+Porque **el tigre es el animal nacional coreano**, y uno se lo encuentra por
+todas partes en cuanto empieza a mirar. Pero no es un tigre cualquiera: es
+*ese* tigre, el de cara ancha, ojos saltones y colmillos de dibujo animado,
+que viene directo de la pintura popular del Joseon.
+
+El género se llama **작호도 (鵲虎圖)** y se conoce como **까치호랑이**, «la
+urraca y el tigre»: un tigre y una **까치** —la urraca coreana, la misma que
+nos salió al paso el penúltimo día— juntos, casi siempre con un pino detrás.
+Y la gracia está en cómo está pintado cada uno. **El tigre sale ridículo, con
+cara de bobo**, mientras **la urraca se planta delante con toda la dignidad**.
+La lectura clásica es que el tigre es el *yangban*, la clase que mandaba, y la
+urraca el pueblo llano: una sátira del orden social pintada en una lámina que
+se colgaba en casa.
+
+Si ese tigre te suena de algo sin haber visto un solo cuadro, es por esto:
+**호돌이 (Hodori)**, la mascota de los **Juegos Olímpicos de Seúl de 1988**,
+salió precisamente del tigre del 까치호랑이. De ahí a un parque del Namhangang
+pintado de azul eléctrico hay cuatro siglos y ningún salto raro.
 
 No viene en ninguna guía de la ruta, y es uno de esos sitios en los que paras
-sin haberlo planeado. Que es, al final, para lo que sirve ir en bici.
+sin haberlo planeado. Que es, al final, para lo que sirve ir en bici — y el
+tigre no está solo: 강천섬 lleva años funcionando como museo al aire libre,
+con obra repartida por la pradera dentro del programa **«지붕 없는 박물관»**,
+«el museo sin tejado», de la fundación cultural de la provincia de Gyeonggi.
 
 {% include foto.html src="dia-10-cabina-binaeseom.jpg" ancho="844" alto="1500" alt="Cabina de certificación con el cartel 비내섬 y un ciclista sosteniendo abierto el pasaporte sellado." pie="비내섬. Tres cabinas en un día y ninguna cuesta: es la jornada más cómoda de toda la ruta." %}
 

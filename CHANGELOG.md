@@ -9,6 +9,23 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 ### Added
 
+- **El bicho azul del 강천섬 tiene nombre** (día 10). Es un **tigre**, el
+  animal nacional coreano, y no un tigre cualquiera: la cara ancha, los ojos
+  saltones y los colmillos de dibujo animado vienen de la pintura popular del
+  Joseon, el género **작호도 (鵲虎圖)** o **까치호랑이**, «la urraca y el
+  tigre» — el tigre pintado ridículo como sátira del *yangban* y la urraca
+  plantada con dignidad como el pueblo llano. De ahí salió **호돌이
+  (Hodori)**, la mascota de los **Juegos Olímpicos de Seúl de 1988**. Se
+  añade además que 강천섬 funciona como museo al aire libre dentro del
+  programa **«지붕 없는 박물관»** de la fundación cultural de Gyeonggi. El
+  cartelito de la obra sigue siendo ilegible incluso ampliado, así que la
+  escultura se queda sin título y sin autor.
+
+- **La comida de mediodía del día 4** (`blog.RQ010`): la mesa del menú único
+  a las **12:18** en una callejuela de Insadong, con las dos cazuelas de
+  piedra, el arroz, las sopas y la fila entera de banchan. Hasta ahora el
+  menú único se contaba sin enseñarlo.
+
 - **El récord de la fuente del puente de Banpo** (día 4). El día decía «una
   cortina de agua de más de un kilómetro» sin más: son **1.140 metros**, y
   desde **2008** está en el **Guinness como la fuente de puente más larga
@@ -889,6 +906,18 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
   castellano como el resto del repositorio.
 
 ### Fixed
+
+- **Fuera las coletillas sobre de dónde salió cada foto.** Nueve pies de foto
+  repartidos por los días 9, 11, 17, 19, 22, 23 y 24 explicaban que la imagen
+  «llegó por WhatsApp y no trae datos». Eso es contabilidad interna, no le
+  interesa a nadie que lea: las fotos se quedan, la coletilla se va. Donde
+  hacía falta, el pie se reescribe para que siga diciendo lo que sí se sabe
+  (el comedor del día 11, el parque del día 17, Incheon y Hong Kong del
+  23 y el 24). Se mantienen las menciones narrativas al grupo de WhatsApp de
+  los días 1 y 3, que son parte de la historia.
+
+- **Las almejas del día 20 no fueron al aire libre.** El pie decía «en otra
+  mesa y al aire libre»; lo segundo no consta. Se queda en «en otra mesa».
 
 - **Los molinos del día 24 no están en la A-3.** Las dos fotos del coche
   —el volante con el camión y la fila de aerogeneradores— llevan

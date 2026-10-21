@@ -283,7 +283,7 @@ Y el final del 갈비탕 no se come con cuchara: se levanta el puchero con las d
 manos y se apura el caldo a morro. Después de 548 metros de puerto, eso no es
 mala educación, es justicia:
 
-{% include foto.html src="dia-11-apurando-el-caldo.jpg" ancho="675" alto="1500" alt="Uno de los viajeros, sentado a la mesa del comedor, levanta con las dos manos un puchero de piedra negro y se bebe el caldo directamente; el cuenco le tapa la cara entera. Sobre la mesa, el plato base vacío, cuchara y palillos de metal y un platillo de kimchi. Al fondo, los carteles de la carta pegados a la pared." pie="Apurando el caldo del 갈비탕 a dos manos. Esta llegó por WhatsApp y no trae datos, pero el comedor es el mismo: detrás se ven los carteles de la pared, con los platos en dos tamaños —대 20.000, 보통 15.000—." %}
+{% include foto.html src="dia-11-apurando-el-caldo.jpg" ancho="675" alto="1500" alt="Uno de los viajeros, sentado a la mesa del comedor, levanta con las dos manos un puchero de piedra negro y se bebe el caldo directamente; el cuenco le tapa la cara entera. Sobre la mesa, el plato base vacío, cuchara y palillos de metal y un platillo de kimchi. Al fondo, los carteles de la carta pegados a la pared." pie="Apurando el caldo del 갈비탕 a dos manos. El comedor es el mismo: detrás se ven los carteles de la pared, con los platos en dos tamaños —대 20.000, 보통 15.000—." %}
 
 ---
 

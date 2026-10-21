@@ -57,7 +57,7 @@ hotel.
 Subimos las escaleras por curiosear qué había arriba y nos encontramos con
 esto:
 
-{% include foto.html src="dia-17-el-monumento-desde-la-escalera.jpg" ancho="675" alto="1500" alt="Escalinata ancha de piedra gris que sube entre pinos hacia un monumento blanco formado por varios pilares inclinados que se abren hacia arriba como una llama, con el cielo despejado al fondo." pie="La escalinata que sube al monumento. Esta llegó por WhatsApp y no trae datos de hora ni de sitio, pero es el mismo parque del alto de las cuatro menos cuarto." %}
+{% include foto.html src="dia-17-el-monumento-desde-la-escalera.jpg" ancho="675" alto="1500" alt="Escalinata ancha de piedra gris que sube entre pinos hacia un monumento blanco formado por varios pilares inclinados que se abren hacia arriba como una llama, con el cielo despejado al fondo." pie="La escalinata que sube al monumento, en el mismo parque del alto de las cuatro menos cuarto." %}
 
 Lo de arriba es el **양산항일독립운동기념탑**: el monumento a la resistencia
 contra la ocupación japonesa y a la independencia, de Yangsan. Está en el

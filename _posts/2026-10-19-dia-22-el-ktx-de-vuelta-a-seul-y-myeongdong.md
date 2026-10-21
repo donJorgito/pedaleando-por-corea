@@ -50,7 +50,7 @@ marea de gente a cualquier hora. Es donde se deja el dinero en cosmética
 coreana quien venga a eso — y dos de nosotros venían a eso. Aquí se remató la
 compra que habían empezado el día anterior en Busan.
 
-{% include foto.html src="dia-22-la-cosmetica.jpg" ancho="844" alto="1500" alt="Estantería de una tienda de cosmética con cajas doradas y blancas de crema de caracol apiladas, un cartel rosa que anuncia «KOREA No.1 Original» y, debajo, cajas naranjas y blancas de otra marca." pie="Dos baldas del botín. Las cajas doradas y blancas son crema de caracol —오리지날 y 인텐시브, con 탱·탱·수·분 y 쫀·쫀·영·양 de reclamo— y, curiosidad: el nombre del producto va en castellano, «Crema Caracol», en una caja coreana vendida en Seúl. Esta llegó por WhatsApp y no trae datos." %}
+{% include foto.html src="dia-22-la-cosmetica.jpg" ancho="844" alto="1500" alt="Estantería de una tienda de cosmética con cajas doradas y blancas de crema de caracol apiladas, un cartel rosa que anuncia «KOREA No.1 Original» y, debajo, cajas naranjas y blancas de otra marca." pie="Dos baldas del botín. Las cajas doradas y blancas son crema de caracol —오리지날 y 인텐시브, con 탱·탱·수·분 y 쫀·쫀·영·양 de reclamo— y, curiosidad: el nombre del producto va en castellano, «Crema Caracol», en una caja coreana vendida en Seúl." %}
 
 ### La casa-santuario de la dueña
 

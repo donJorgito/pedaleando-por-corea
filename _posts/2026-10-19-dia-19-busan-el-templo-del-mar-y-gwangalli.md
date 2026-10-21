@@ -128,9 +128,7 @@ sigue siendo un puerto de pescadores con una ciudad de cristal encima.
 
 ## Where are you from?
 
-En algún momento de ese día pasamos por delante de esto. No puedo decir dónde
-ni a qué hora —es una de las fotos que llegaron por WhatsApp y esas vienen sin
-datos—, pero vale la pena:
+En algún momento de ese día pasamos por delante de esto, y vale la pena:
 
 {% include foto.html src="dia-19-where-are-you-from.jpg" ancho="675" alto="1500" alt="Un viajero pegando una pegatina en un gran panel blanco titulado «Where are you from?», con un mapamundi, la torre de Busan y el puente de Gwangan dibujados, y filas de banderas de países cubiertas de puntos de colores." pie="«Where are you from? Please place a sticker on your home country or region!» Las mujeres pegan rojo, los hombres azul y los niños amarillo." %}
 
@@ -184,7 +182,7 @@ coreana son los **인형뽑기방**, los salones de máquinas de garra. No es un
 máquina suelta en la esquina de un bar: son locales enteros, abiertos a la
 calle, iluminados como un quirófano y decorados sin ninguna timidez.
 
-{% include foto.html src="dia-19-maquinas-de-peluches.jpg" ancho="844" alto="1500" alt="Interior de un salón de máquinas de garra iluminado enteramente de rosa y morado: dos filas de máquinas con peluches dentro a lo largo de un pasillo con el suelo a cuadros rosas y blancos, y el techo lleno de paneles luminosos." pie="Un salón de máquinas de garra: dos filas de máquinas, suelo a cuadros rosa y el techo entero iluminado. Es otra de las fotos de WhatsApp, así que no puedo decir en qué calle estaba." %}
+{% include foto.html src="dia-19-maquinas-de-peluches.jpg" ancho="844" alto="1500" alt="Interior de un salón de máquinas de garra iluminado enteramente de rosa y morado: dos filas de máquinas con peluches dentro a lo largo de un pasillo con el suelo a cuadros rosas y blancos, y el techo lleno de paneles luminosos." pie="Un salón de máquinas de garra: dos filas de máquinas, suelo a cuadros rosa y el techo entero iluminado." %}
 
 Rosa de suelo a techo, cuadros en el pavimento y dos filas de máquinas llenas
 de peluches, sin un alma dentro y con las luces a plena potencia. Esa imagen

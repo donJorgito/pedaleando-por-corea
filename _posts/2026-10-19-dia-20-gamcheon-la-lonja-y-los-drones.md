@@ -123,9 +123,9 @@ banchan incluidos.
 
 {% include foto.html src="dia-20-pez-sable.jpg" ancho="1098" alto="1500" alt="Mesa de madera con una bandeja de pescado frito en tramos, dos cuencos de arroz, sopas y una ronda de platitos de banchan; los tres viajeros alrededor y el cartel de precios del restaurante en la pared." pie="El pescaíto frito con el galchi en tramos, arroz, sopa y la ronda de banchan. Esto son 28.000 wones para tres." %}
 
-Lo de las almejas fue una hora después, a las **14:33**, en otra mesa y al
-aire libre: bandejas corridas de color amarillo chillón, taburetes, y el
-marisco abierto encima de una fuente blanca.
+Lo de las almejas fue una hora después, a las **14:33**, en otra mesa:
+bandejas corridas de color amarillo chillón, taburetes, y el marisco abierto
+encima de una fuente blanca.
 
 {% include foto.html src="dia-20-las-almejas.jpg" ancho="970" alto="1500" alt="Mesa corrida de plástico amarillo en un puesto del mercado con una fuente blanca llena de almejas y vieiras abiertas, una bandeja de banchan, un platito de salsa roja y tres viajeros sentados alrededor; detrás, un cartel azul con los caracteres 영도 en rojo." pie="Los 80.000 wones del viaje, en una mesa amarilla de plástico: almejas y vieiras abiertas, banchan y poco más. Lo más caro y de lo mejor." %}
 

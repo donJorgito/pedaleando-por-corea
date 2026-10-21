@@ -100,7 +100,7 @@ tienda 24 h a por un refresco y quedamos en vernos **«en el camino»**.
 Ahí está el error, y es el de un grupo que todavía no llevaba ni dos días
 rodando junto: **«en el camino» no es un sitio.**
 
-{% include foto.html src="dia-09-autorretrato-con-casco.jpg" ancho="844" alto="1500" alt="Autorretrato a contraluz de un ciclista con casco azul y camiseta de tirantes, con las ramas de un árbol y el cielo azul detrás." pie="Autorretrato de la tarde, de las pocas fotos del día en las que salgo yo. Llegó por WhatsApp y sin metadatos, así que el sitio exacto se queda sin saber." %}
+{% include foto.html src="dia-09-autorretrato-con-casco.jpg" ancho="844" alto="1500" alt="Autorretrato a contraluz de un ciclista con casco azul y camiseta de tirantes, con las ramas de un árbol y el cielo azul detrás." pie="Autorretrato de la tarde, de las pocas fotos del día en las que salgo yo." %}
 
 Yo tiré adelante dando por hecho que ellos iban por delante, así que apreté
 para alcanzarlos. Ellos, mientras tanto, se habían **salido del carril bici**

@@ -9,6 +9,40 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 ### Added
 
+- **Contador de kilómetros en todas las entradas del viaje**, arriba y abajo
+  de cada día: cuántos se hicieron ese día y cuántos se llevan de los **633
+  del 국토종주**. Mide el avance sobre la ruta oficial, no el total pedaleado
+  —los desvíos a los alojamientos, la vuelta a por el libro del día 13 y los
+  paseos de después de la meta siguen contados en el texto—. Las posiciones
+  de las cabinas están ancladas en tres datos comprobados: el canal Ara son
+  **21 km**, **상주상풍교 es el km 309** (del mapa oficial que fotografiamos
+  el día 12) y **낙동강하구둑 el 633**. La cuenta cierra sola: del 상풍교 al
+  구미보 salen **47 km**, exactamente los «47 km de sello a sello» que ya
+  contaba el día 12, y los días suman 633 clavados.
+
+- **El robot que patrulla Deoksugung** (día 5), con foto. Es el **순라봇**
+  (**궁능순찰로봇**), el robot de patrulla con IA del **궁능유적본부**:
+  conduce solo con lídar y visión artificial, lleva cámara normal y térmica
+  y busca incendios, intrusos o visitantes caídos, conectado a una sala de
+  control. El nombre es un chiste: **순라** era la ronda nocturna del Joseon
+  y los que la hacían, los **순라군**. Lo probaron en Deoksugung de agosto a
+  noviembre, después de un primer ensayo en **Changdeokgung** —el palacio del
+  día anterior— entre febrero y abril; en las tumbas de **서오릉**, con
+  cuestas, pusieron en cambio **un robot de dos piernas**.
+
+- **El juego del calamar en el patio del 우화관** (día 6). Las líneas de la
+  tierra no eran las trazas de los cimientos antiguos: es el campo del
+  **오징어**, con el círculo arriba y el cuerpo recto debajo, que es de donde
+  le viene el nombre a la serie. El patio funciona como **zona permanente de
+  juegos tradicionales** de la fundación cultural de Suwon —오징어,
+  **사방치기** y **딱지치기**—, gratis y sin reserva de nueve a cinco y media.
+
+- **Quién eligió el asador de pollo de Suwon** (día 6): un **señor coreano
+  muy mayor que hablaba español** se acercó en mitad de la calle, le pedimos
+  recomendación y nos escribió a mano los dos nombres en un papelito. Bajamos
+  la calle comparando sus garabatos con los carteles de cada puerta hasta dar
+  con el primero. El pie de foto antes no contaba de dónde salía el papel.
+
 - **El bicho azul del 강천섬 tiene nombre** (día 10). Es un **tigre**, el
   animal nacional coreano, y no un tigre cualquiera: la cara ancha, los ojos
   saltones y los colmillos de dibujo animado vienen de la pintura popular del
@@ -906,6 +940,29 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
   castellano como el resto del repositorio.
 
 ### Fixed
+
+- **Fuera lo de contar de dónde salen los datos.** Al lector le da igual el
+  método. Se van la hora al segundo «que lo dice el EXIF» del día 2, el
+  párrafo del día 3 sobre comprobar en qué huso estaba el reloj al
+  reconstruir un viaje con las fotos, y el «las coordenadas de las dos son
+  idénticas» del día 9.
+
+- **La bolsa de casa no era el único lujo a bordo** (día 2). En un vuelo de
+  esa longitud dieron cena, desayuno y snacks; la bolsa de picoteo era el
+  refuerzo, no el menú.
+
+- **La última cena no fue casualidad** (días 3 y 22). Las dos entradas decían
+  que volvimos al restaurante de la primera noche «sin planearlo, sin
+  acordarnos de que habíamos estado». No es verdad: volvimos a propósito,
+  porque la primera nos había gustado tanto que no se nos ocurrió mejor
+  manera de cerrar el viaje.
+
+- **Nada es una tontería** (día 5). La estatua del Gangnam Style estaba
+  despachada dos veces como «una tontería». Fuera: hay cola para la foto y
+  es una de esas cosas que marcan el sitio donde estás.
+
+- **El valle de Ihwaryeong es el que se acababa de subir** (día 11), no el
+  que quedaba por bajar. El pie decía «por ese valle se baja».
 
 - **Fuera las coletillas sobre de dónde salió cada foto.** Nueve pies de foto
   repartidos por los días 9, 11, 17, 19, 22, 23 y 24 explicaban que la imagen

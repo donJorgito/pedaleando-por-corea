@@ -3,6 +3,8 @@ title: "Día 12 · El museo de la bicicleta de Sangju y el principio del Nakdong
 date: 2026-10-19 08:22:00 +0200
 layout: dia
 dia: 12
+km_dia: 79
+km_ruta: 356
 description: >-
   De Mungyeong a Gumi: el museo de la bicicleta de Sangju (gratis), el cambio
   al río Nakdong y las presas de Sangju, Nakdan y Gumi. La foto con el

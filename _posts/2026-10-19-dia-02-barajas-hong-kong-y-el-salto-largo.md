@@ -8,6 +8,8 @@ description: >-
 tags: [corea, gukto-jongju, vuelos, preparativos, dia-a-dia]
 layout: dia
 dia: 2
+km_dia: 0
+km_ruta: 0
 ---
 
 Segundo día de viaje y todavía no habíamos visto Corea. Esto conviene tenerlo
@@ -27,8 +29,8 @@ por debajo, un **intradós de listones de bambú** que corre de punta a punta de
 la terminal. Un techo de madera entero, y la mayoría de la gente pasa por
 debajo mirando el panel de salidas.
 
-**Diez segundos después** —10:33:11, lo dice el EXIF— el móvil giró hacia
-dentro del coche, y ahí está el viaje justo antes de empezar:
+**Diez segundos después** el móvil giró hacia dentro del coche, y ahí está el
+viaje justo antes de empezar:
 
 {% include foto.html src="dia-02-camino-del-aeropuerto.jpg" ancho="1322" alto="1500" alt="Selfie dentro de un coche: tres viajeros con el cinturón puesto, el de delante sonriendo a la cámara con camiseta gris con el número 40, en el medio una mujer con gafas de sol y pañuelo turquesa, y detrás un hombre con camiseta blanca; por la ventanilla, cielo azul y las farolas de la autovía del aeropuerto." pie="Los tres en el coche, diez segundos después del techo. Camiseta del «1986 · 40», cinturón puesto y las farolas del aeropuerto por la ventanilla." %}
 
@@ -65,7 +67,7 @@ Las escalas largas en el hemisferio equivocado tienen algo de limbo: no sabes
 qué hora es la tuya y lo único sensato es beber agua y moverse. Desde ahí
 quedaban todavía **2.067 km** hasta Incheon.
 
-{% include foto.html src="dia-02-en-el-avion.jpg" ancho="844" alto="1500" alt="Tres viajeros sentados en la misma fila de un avión; el de delante sonríe a la cámara y otro sostiene una bolsa de plástico con comida traída de casa." pie="Diez mil quinientos kilómetros de butaca, con la bolsa de picoteo de casa como único lujo a bordo." %}
+{% include foto.html src="dia-02-en-el-avion.jpg" ancho="844" alto="1500" alt="Tres viajeros sentados en la misma fila de un avión; el de delante sonríe a la cámara y otro sostiene una bolsa de plástico con comida traída de casa." pie="Diez mil quinientos kilómetros de butaca. De comer no faltó —cena, desayuno y snacks a lo largo de la noche—; la bolsa de casa era solo el refuerzo." %}
 
 ## Lo que se pierde por el camino
 

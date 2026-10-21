@@ -3,6 +3,8 @@ title: "Día 15 · Dodongseowon: una academia confuciana del siglo XVI, y su esp
 date: 2026-10-19 08:28:00 +0200
 layout: dia
 dia: 15
+km_dia: 24
+km_ruta: 445
 description: >-
   De Daegu río abajo hasta Dodongseowon, academia neoconfuciana declarada
   Patrimonio de la Humanidad —con el único muro de barro que es Tesoro

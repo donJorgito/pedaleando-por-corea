@@ -8,6 +8,8 @@ description: >-
 tags: [corea, seul, mercados, tongin, gwangjang, deoksugung, gangnam, coex, biblioteca, comida, dia-a-dia]
 layout: dia
 dia: 5
+km_dia: 0
+km_ruta: 0
 ---
 
 El día que más kilómetros hicimos a pie y el que mejor se come por menos
@@ -93,6 +95,32 @@ Y ahí se acabó el plan a pie: **se puso a llover con ganas**. Así que desde
 el propio palacio bajamos al metro y nos fuimos al otro mercado, que estaba
 a cubierto.
 
+### El robot que patrulla el palacio
+
+Pero antes de irnos nos cruzamos con esto, rodando solo por el camino de
+grava entre los paraguas:
+
+{% include foto.html src="dia-05-el-robot-de-deoksugung.jpg" ancho="675" alto="1500" alt="Un robot blanco y gris del tamaño de un carrito de la compra, con cuatro ruedas, cámaras y sensores en la parte de arriba y una franja luminosa naranja alrededor, parado en un camino de grava junto a un muro de ladrillo; en el costado lleva escrito 순라봇 y un dibujo de nudo tradicional coreano, y tiene toda la carcasa salpicada de gotas de lluvia." pie="순라봇, el robot que patrulla Deoksugung. Las gotas de la carcasa son de la lluvia que nos echó del palacio." %}
+
+Pone **순라봇** en el costado, y debajo, más pequeño, **궁능순찰로봇**:
+robot de patrulla de palacios y tumbas reales. No es un juguete ni una
+atracción para visitantes. Lo lleva el **궁능유적본부**, el organismo que
+gestiona los palacios y las tumbas reales de la dinastía Joseon, y va
+**conduciéndose solo** con lídar y visión artificial, con cámara normal y
+cámara térmica, buscando incendios, intrusos o visitantes que se hayan caído
+al suelo. Va conectado a una sala de control y puede soltar avisos por
+megafonía.
+
+El nombre es un chiste bueno: **순라** era la ronda nocturna de vigilancia en
+el Joseon, y los que la hacían eran los **순라군**. Cuatro siglos después la
+ronda la hace una caja con ruedas.
+
+Lo estaban probando en Deoksugung **de agosto a noviembre**, un robot y nada
+más, después de un primer ensayo en **Changdeokgung** —el palacio del día
+anterior— entre febrero y abril. En el otro sitio donde lo probaron a la vez,
+las tumbas de **서오릉** en Goyang, no pusieron este: allí el terreno tiene
+cuestas y piedras, así que mandaron **un robot de dos piernas**.
+
 ## Gwangjang: aquí sí comimos de verdad
 
 A las **15:12** entrábamos en el **mercado de Gwangjang (광장시장)**, y esto
@@ -135,9 +163,9 @@ Por la tarde cogimos el metro hasta el **COEX**, en **Gangnam**, para ver la
 a tamaño monumental, delante del centro de convenciones. Llegamos a las
 **18:12**.
 
-Es una tontería y lo sabes mientras vas, pero está ahí y hay cola para la
-foto. Gangnam, alrededor, es el contraste completo con Bukchon: cristal,
-marcas y avenidas de ocho carriles.
+Hay cola para la foto, y con razón: es una de esas cosas que marcan el sitio
+donde estás. Gangnam, alrededor, es el contraste completo con Bukchon:
+cristal, marcas y avenidas de ocho carriles.
 
 ## La biblioteca dentro del centro comercial
 
@@ -160,13 +188,14 @@ del cristal y las estanterías encendidas. Si vas a Gangnam, aunque no te
 interesen ni las marcas ni el caballito, entra a verla. Tienes los horarios
 en la [página oficial](https://m.starfield.co.kr/coexmall/library/intro?lang=en).
 
-{% include foto.html src="dia-05-manos-de-gangnam.jpg" ancho="844" alto="1500" alt="Dos viajeros de noche bajo la escultura monumental de dos manos cruzadas del Gangnam Style, iluminada en dorado delante del centro de convenciones." pie="El caballito de Gangnam: dos manos doradas enormes delante del COEX. Es una tontería, y hay cola para la foto." %}
+{% include foto.html src="dia-05-manos-de-gangnam.jpg" ancho="844" alto="1500" alt="Dos viajeros de noche bajo la escultura monumental de dos manos cruzadas del Gangnam Style, iluminada en dorado delante del centro de convenciones." pie="El caballito de Gangnam: dos manos doradas enormes delante del COEX, iluminadas de noche y con su cola para la foto." %}
 
 {% include foto.html src="dia-05-biblioteca-starfield.jpg" ancho="844" alto="1500" alt="Un viajero leyendo un libro de pie junto a una estantería altísima, con el atrio del centro comercial y la gran pared curva de libros al fondo." pie="별마당 도서관, la Starfield Library del COEX: trece metros de estanterías curvas, libros de verdad y entrada libre." %}
 
 ---
 
 **Datos del día** · Seúl a pie y en metro · Gyeongbokgung, Casa Azul,
-Tongin, museo Chungmugong, Deoksugung bajo la lluvia, Gwangjang, COEX y la
-Starfield Library · Comida y cena de mercado: 75.200 wones los tres ·
+Tongin, museo Chungmugong, Deoksugung bajo la lluvia —con 순라봇 de
+ronda—, Gwangjang, COEX y la Starfield Library · Comida y cena de mercado:
+75.200 wones los tres ·
 Alojamiento: Seúl · Mañana: Suwon y su fortaleza.

@@ -8,6 +8,8 @@ description: >-
 tags: [corea, gukto-jongju, balance, regreso, comida, dia-a-dia]
 layout: dia
 dia: 24
+km_dia: 0
+km_ruta: 633
 ---
 
 ## La noche en el aire

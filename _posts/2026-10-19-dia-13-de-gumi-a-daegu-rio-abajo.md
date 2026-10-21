@@ -3,6 +3,8 @@ title: "Día 13 · De Gumi a Daegu, río abajo y a la ciudad"
 date: 2026-10-19 08:24:00 +0200
 layout: dia
 dia: 13
+km_dia: 65
+km_ruta: 421
 description: >-
   Etapa tranquila por el Nakdong de Gumi a Daegu, con el campo de pink muhly,
   la vuelta a por el libro olvidado y la parada en 강정고령보: la presa más

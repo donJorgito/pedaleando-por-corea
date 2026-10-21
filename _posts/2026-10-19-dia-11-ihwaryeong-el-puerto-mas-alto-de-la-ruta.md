@@ -3,6 +3,8 @@ title: "Día 11 · Ihwaryeong, el puerto más alto de la ruta, y un baño de pie
 date: 2026-10-19 08:20:00 +0200
 layout: dia
 dia: 11
+km_dia: 68
+km_ruta: 277
 description: >-
   La etapa dura del 국토종주: los puertos de Sojoryeong e Ihwaryeong (548 m,
   el punto más alto de todas las rutas certificadas de Corea), el mercadillo
@@ -98,12 +100,12 @@ Así que cuando coronas el puerto más alto de la ruta, lo que estás cruzando
 por debajo no es un túnel de carretera: es una cordillera que volvieron a
 coser.
 
-Y el mirador merece los trece minutos que nos quedamos sentados: el valle se
-abre hacia el sur entre dos cordales, con una cicatriz de roca pelada en la
-ladera de la derecha y, al fondo del todo, los campos amarillos del fondo del
-valle. Todo lo que venía después estaba ahí abajo.
+Y el mirador merece los trece minutos que nos quedamos sentados, porque lo
+que se ve desde ahí es **el valle que acabábamos de subir**: se abre entre
+dos cordales, con una cicatriz de roca pelada en la ladera de la derecha y,
+al fondo del todo, los campos amarillos. Toda la mañana cabía en esa foto.
 
-{% include foto.html src="dia-11-desde-lo-alto-de-ihwaryeong.jpg" ancho="1500" alto="844" alt="Vista desde el mirador de lo alto de Ihwaryeong: un valle que se abre entre dos cordales arbolados, con una mancha de roca desnuda en la ladera de la derecha, pinos en primer plano, una barandilla metálica blanca abajo y cielo azul despejado." pie="El valle desde lo alto del puerto, con la barandilla del mirador en primer plano. La mancha clara de la derecha es roca desnuda en la ladera. Por ese valle se baja." %}
+{% include foto.html src="dia-11-desde-lo-alto-de-ihwaryeong.jpg" ancho="1500" alto="844" alt="Vista desde el mirador de lo alto de Ihwaryeong: un valle que se abre entre dos cordales arbolados, con una mancha de roca desnuda en la ladera de la derecha, pinos en primer plano, una barandilla metálica blanca abajo y cielo azul despejado." pie="El valle desde lo alto del puerto, con la barandilla del mirador en primer plano. La mancha clara de la derecha es roca desnuda en la ladera. Por ahí abajo acabábamos de subir." %}
 
 Y después, lo mejor del día: **la bajada**. Y aquí también hay número: del
 puerto al arco de **문경문**, ya abajo, se pasa de **557,8 a 213,3 metros en

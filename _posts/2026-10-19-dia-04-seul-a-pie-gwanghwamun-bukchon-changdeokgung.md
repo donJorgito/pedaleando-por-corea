@@ -9,6 +9,8 @@ description: >-
 tags: [corea, seul, palacios, bukchon, insadong, banpo, rio-han, free-tour, dia-a-dia]
 layout: dia
 dia: 4
+km_dia: 0
+km_ruta: 0
 ---
 
 Primer día entero en Corea, y el plan fue el más sensato posible con el

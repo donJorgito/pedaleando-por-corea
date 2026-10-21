@@ -8,6 +8,8 @@ description: >-
 tags: [corea, seul, incheon, transporte, comida, dia-a-dia]
 layout: dia
 dia: 3
+km_dia: 0
+km_ruta: 0
 ---
 
 ## La escala, y un reloj que no se había enterado
@@ -21,11 +23,9 @@ Y trae de regalo la primera trampa del viaje. **El móvil marcó esta foto a la
 hora de España y no se dio por enterado hasta que pilló red coreana, horas
 después.
 
-Si vas a reconstruir un viaje con las horas de tus propias fotos —que es
-exactamente lo que he hecho para escribir este blog—, **lo primero es
-comprobar en qué huso estaba el reloj**. Que esta era de día lo dice la propia
-imagen: nubes bajas sobre los montes, los aviones de cola verde en la
-plataforma y la luz plana de una mañana con bochorno.
+Que era de día se ve a simple vista: nubes bajas sobre los montes, los
+aviones de cola verde en la plataforma y la luz plana de una mañana con
+bochorno.
 
 ## Llegada a Incheon
 
@@ -131,13 +131,14 @@ Repasando el chat, acabamos cenando en **ninguno de los tres**. El sitio donde
 entramos no se eligió: se encontró andando, con el grupo de WhatsApp lleno de
 enlaces que nadie volvió a abrir.
 
-Y aquí va algo que no supimos hasta volver a mirar las fotos: **la última
-cena del viaje, diecinueve días después, fue en esta misma mesa**. Sin
-planearlo, sin acordarnos de que habíamos estado. Está contado en el
+Y acabó valiendo para las dos puntas del viaje: **la última cena, diecinueve
+días después, fue en esta misma mesa**. Volvimos a propósito, porque esta
+primera nos gustó tanto que no se nos ocurrió mejor manera de cerrarlo. Está
+contado en el
 [día 22]({{ site.baseurl }}{% post_url 2026-10-19-dia-22-el-ktx-de-vuelta-a-seul-y-myeongdong %}),
 con la carta entera y el porqué de que un sitio así sea el mejor sitio.
 
-{% include foto.html src="dia-03-primera-cena-jobaksa.jpg" ancho="844" alto="1500" alt="Mesa de barbacoa coreana con la parrilla encastrada en el centro, costillas asándose y una docena de cuencos de banchan alrededor; al fondo, el tablón de precios del restaurante y la pared de azulejos firmados." pie="La primera cena del viaje. La misma parrilla, el mismo tablón de precios y la misma pared de firmas donde, sin saberlo, íbamos a cenar también la última noche." %}
+{% include foto.html src="dia-03-primera-cena-jobaksa.jpg" ancho="844" alto="1500" alt="Mesa de barbacoa coreana con la parrilla encastrada en el centro, costillas asándose y una docena de cuencos de banchan alrededor; al fondo, el tablón de precios del restaurante y la pared de azulejos firmados." pie="La primera cena del viaje. La misma parrilla, el mismo tablón de precios y la misma pared de firmas a la que volveríamos la última noche, diecinueve días después." %}
 
 Fue la entrada en materia perfecta, porque la **barbacoa coreana** acabó
 siendo lo que más repetimos en todo el viaje. Funciona así: la mesa lleva

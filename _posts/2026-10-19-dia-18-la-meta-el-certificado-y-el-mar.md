@@ -3,6 +3,8 @@ title: "Día 18 · La meta: el certificado, la devolución de las bicis y el mar
 date: 2026-10-19 08:34:00 +0200
 layout: dia
 dia: 18
+km_dia: 32
+km_ruta: 633
 description: >-
   Último día sobre la bici: la cabina de la desembocadura del Nakdong, el
   certificado del 국토종주 en el centro de certificación de Busan, la

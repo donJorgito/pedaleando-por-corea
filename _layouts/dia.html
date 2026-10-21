@@ -2,7 +2,11 @@
 layout: post
 ---
 
+{% include contador-km.html %}
+
 {{ content }}
+
+{% include contador-km.html %}
 
 {% assign n_anterior = page.dia | minus: 1 %}
 {% assign n_siguiente = page.dia | plus: 1 %}

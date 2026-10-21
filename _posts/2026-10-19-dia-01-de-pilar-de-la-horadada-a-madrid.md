@@ -8,6 +8,8 @@ description: >-
 tags: [corea, gukto-jongju, preparativos, dia-a-dia, viaje]
 layout: dia
 dia: 1
+km_dia: 0
+km_ruta: 0
 ---
 
 Las crónicas de viaje suelen empezar en el aeropuerto de destino, como si

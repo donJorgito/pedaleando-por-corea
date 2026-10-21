@@ -5,6 +5,8 @@ layout: dia
 dia: 11
 km_dia: 68
 km_ruta: 277
+km_total: 75
+km_total_acum: 335
 description: >-
   La etapa dura del 국토종주: los puertos de Sojoryeong e Ihwaryeong (548 m,
   el punto más alto de todas las rutas certificadas de Corea), el mercadillo

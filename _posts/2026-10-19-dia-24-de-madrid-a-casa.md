@@ -10,6 +10,8 @@ layout: dia
 dia: 24
 km_dia: 0
 km_ruta: 633
+km_total: 0
+km_total_acum: 836
 ---
 
 ## La noche en el aire

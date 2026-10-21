@@ -5,6 +5,8 @@ layout: dia
 dia: 9
 km_dia: 102
 km_ruta: 136
+km_total: 110
+km_total_acum: 180
 description: >-
   Primera etapa de verdad del 국토종주: salir de Seúl por el río Han, la presa
   de Paldang, la vía verde sobre el antiguo ferrocarril y siete cabinas de
@@ -146,7 +148,7 @@ solo en mitad de la nada:
 
 {% include foto.html src="dia-09-selfie-en-ipo.jpg" ancho="844" alto="1500" alt="Autorretrato de un ciclista con casco azul y camiseta de tirantes negra, sonriendo a cámara, con la presa de Ipo y su puente de cubiertas blancas al fondo, sobre el río." pie="Esperando en la presa de Ipo a las 16:25, con la presa entera detrás. De la cabina de 이포보 no hay ni una foto: ese rato se fue en mandar la ubicación y llamar a dos móviles que no cogía nadie." %}
 
-{% include foto.html src="dia-09-cabina-yeojubo.jpg" ancho="844" alto="1500" alt="Cabina roja de certificación con el cartel 여주보 y un ciclista de pie en la puerta con el pasaporte en la mano." pie="여주보, al final de un día de 128 kilómetros —102 de ellos de ruta oficial, el resto desvíos y vueltas de más— y un grupo perdido. La última cabina del día siempre se sella con otra cara." %}
+{% include foto.html src="dia-09-cabina-yeojubo.jpg" ancho="844" alto="1500" alt="Cabina roja de certificación con el cartel 여주보 y un ciclista de pie en la puerta con el pasaporte en la mano." pie="여주보, al final del día más largo de todo el viaje y con el grupo perdido. La última cabina del día siempre se sella con otra cara." %}
 
 ## Dormir en Yeoju y la barbacoa de rigor
 

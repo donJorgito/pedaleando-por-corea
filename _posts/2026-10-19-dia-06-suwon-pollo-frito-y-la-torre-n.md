@@ -9,6 +9,8 @@ layout: dia
 dia: 6
 km_dia: 0
 km_ruta: 0
+km_total: 0
+km_total_acum: 0
 ---
 
 Día de excursión fuera de Seúl por la mañana y de mirador por la noche. Y de

@@ -10,6 +10,8 @@ layout: dia
 dia: 2
 km_dia: 0
 km_ruta: 0
+km_total: 0
+km_total_acum: 0
 ---
 
 Segundo día de viaje y todavía no habíamos visto Corea. Esto conviene tenerlo

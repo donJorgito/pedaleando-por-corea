@@ -10,6 +10,8 @@ layout: dia
 dia: 5
 km_dia: 0
 km_ruta: 0
+km_total: 0
+km_total_acum: 0
 ---
 
 El día que más kilómetros hicimos a pie y el que mejor se come por menos

@@ -17,9 +17,13 @@ porque es el tipo de cosa que no viene en ninguna guía.
 ## Dos presas, un mirador y una cabina de propina
 
 A las **10:08** sellamos en la **presa de Hapcheon-Changnyeong (합천창녕보)**.
-A las **15:32**, en la de **Changnyeong-Haman (창녕함안보)**.
+A las **15:19**, en la de **Changnyeong-Haman (창녕함안보)**.
 
 {% include foto.html src="dia-16-cabina-hapcheon-changnyeong.jpg" ancho="844" alto="1500" alt="Ciclista delante de la cabina de certificación de 합천창녕보 con el pasaporte del Nakdonggang abierto en la mano." pie="합천창녕보, a primera hora. El día que enseñó que en el Nakdong la orilla que eliges cambia la etapa entera." %}
+
+{% include foto.html src="dia-16-la-cabina-desde-fuera.jpg" ancho="844" alto="1500" alt="Cabina roja de certificación con el rótulo 창녕함안보 en lo alto, vista desde fuera, con la puerta abierta y el mapa de la ruta pegado dentro; al lado, una marquesina metálica con paneles informativos azules, un contenedor de reciclaje y dos bicicletas cargadas apoyadas a la izquierda." pie="창녕함안보 por fuera, a las 15:17. Esto es una cabina de sellado completa: la caseta roja, la marquesina de al lado para resguardarse y el panel con el mapa del tramo." %}
+
+{% include foto.html src="dia-16-cabina-changnyeong-haman.jpg" ancho="844" alto="1500" alt="Autorretrato de un ciclista con casco azul dentro de la cabina de 창녕함안보, sonriendo y enseñando a cámara el pasaporte abierto por la página del Nakdonggang, con los sellos ya estampados." pie="Y por dentro, dos minutos después: el pasaporte del Nakdong abierto con el sello recién puesto. 창녕함안보, la segunda presa del día." %}
 
 Entre medias, a las **12:25**, la parada que se queda: lo alto de **구름재
 (Gureumjae)** —literalmente «el paso de las nubes»—, con una pasarela de
@@ -32,6 +36,8 @@ Y pegada al mirador hay otra **cabina roja de sellar**: la de **구름재
 인증센터**. No es de las de las presas, así que es fácil no contarla — pero
 está ahí y sella igual. Un minuto después de hacer la foto del río ya
 teníamos el pasaporte dentro.
+
+{% include foto.html src="dia-16-cabina-gureumjae.jpg" ancho="844" alto="1500" alt="Autorretrato de un ciclista con casco azul delante de la cabina roja del 구름재 인증센터, enseñando el pasaporte abierto; sobre la cabina, el rótulo blanco con el nombre del centro de certificación." pie="구름재 인증센터, a las 12:26. Esta no es de presa y no sale en las listas de la ruta que corren por ahí, pero tiene su sello y cuenta igual." %}
 
 ## El río donde se decidió la guerra
 

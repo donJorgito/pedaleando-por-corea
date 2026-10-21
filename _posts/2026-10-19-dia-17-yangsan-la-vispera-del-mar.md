@@ -23,6 +23,12 @@ ancho, recto y con las cabinas muy espaciadas.
 
 {% include foto.html src="dia-17-cabina-yangsan.jpg" ancho="844" alto="1500" alt="Dos ciclistas sonriendo en la cabina de certificación del Yangsan Water Culture Center, con el pasaporte abierto entre los dos." pie="양산물문화관, la única cabina del día. La penúltima de las treinta y cinco." %}
 
+Dos minutos antes, a las **14:14**, el gesto de siempre, que a estas alturas ya
+se hacía sin mirar: entrar en la caseta roja, abrir el pasaporte por la página
+que toca, apretar.
+
+{% include foto.html src="dia-17-sellando-en-yangsan.jpg" ancho="844" alto="1500" alt="Uno de los viajeros, con casco y gafas de sol, inclinado sobre la repisa del interior de una cabina de certificación roja, sellando el pasaporte; en la pared del fondo, el mapa de los centros de certificación del 국토종주 y, en el dintel exterior, el rótulo azul del Yangsan Water Culture Center." pie="Sellando dentro de la caseta, a las 14:14. En el dintel, el rótulo: 양산물문화관 · YANGSAN WATER CULTURE CENTER. En la pared del fondo, el mapa con todos los 인증센터 de la ruta — cada vez quedaban menos sin tachar." %}
+
 ### Las pasarelas voladas sobre el río
 
 Seis minutos antes de sellar, a las **14:10** y a menos de un kilómetro de la
@@ -45,6 +51,42 @@ gris, con pinos recortados alrededor. Fue el último descanso del día antes del
 hotel.
 
 {% include foto.html src="dia-17-parque-del-memorial.jpg" ancho="880" alto="1500" alt="Una de las viajeras, en camiseta y mallas negras, sentada en una gran roca de granito al borde de un estanque, con una cascada artificial sobre rocas grises y pinos recortados detrás." pie="El último alto del día, en el parque de Mulgeum: el estanque, la cascada de piedra y una roca de granito a modo de banco. Diecisiete días de viaje en las piernas." %}
+
+### El parque no era un parque cualquiera
+
+Subimos las escaleras por curiosear qué había arriba y nos encontramos con
+esto:
+
+{% include foto.html src="dia-17-el-monumento-desde-la-escalera.jpg" ancho="675" alto="1500" alt="Escalinata ancha de piedra gris que sube entre pinos hacia un monumento blanco formado por varios pilares inclinados que se abren hacia arriba como una llama, con el cielo despejado al fondo." pie="La escalinata que sube al monumento. Esta llegó por WhatsApp y no trae datos de hora ni de sitio, pero es el mismo parque del alto de las cuatro menos cuarto." %}
+
+Lo de arriba es el **양산항일독립운동기념탑**: el monumento a la resistencia
+contra la ocupación japonesa y a la independencia, de Yangsan. Está en el
+**parque vecinal nº 7 de la ciudad nueva de Gachon-ri (물금 가촌리)**, se
+levantó en **2009** por iniciativa de un comité ciudadano y costó **550
+millones de wones** —400 del ayuntamiento y 150 del Ministerio de Patronazgo
+a los Patriotas y Veteranos—.
+
+{% include foto.html src="dia-17-el-monumento-y-los-relieves.jpg" ancho="1500" alto="675" alt="Base del monumento: una plataforma de piedra clara, un ara de granito negro en primer plano, el pie de los pilares blancos con una placa que lleva el nombre grabado en coreano y, abriéndose a los dos lados, dos muros curvos de piedra con relieves tallados en bajorrelieve." pie="La base, con el nombre grabado —양산항일독립운동기념탑— y los dos muros de relieves abriéndose a los lados. El ara negra del centro es para las ofrendas." %}
+
+Los dos muros curvos que se abren a los lados no son decoración: cuentan tres
+episodios en bajorrelieve —**las milicias campesinas (의병), el Gobierno
+Provisional y el Ejército de la Independencia (광복군)**—, y en el conjunto
+hay además un **muro con las tablillas de los nombres (위패벽)**. La base de
+los pilares reproduce los **cuatro trigramas del 태극**, los mismos que están
+en las cuatro esquinas de la bandera coreana.
+
+{% include foto.html src="dia-17-selfie-en-el-memorial.jpg" ancho="844" alto="1500" alt="Autorretrato de dos de los viajeros muy cerca de la cámara, sonriendo, con los pilares blancos del monumento y las copas de los pinos detrás, sobre cielo azul." pie="Las 16:05 en el memorial. Al fondo, los pilares abriéndose: una semana larga de pedalear y todavía parando a leer placas." %}
+
+Trece minutos más tarde, bajando ya hacia el hotel, se cruzó la última
+sorpresa del día:
+
+{% include foto.html src="dia-17-la-urraca.jpg" ancho="844" alto="1500" alt="Una urraca de pecho blanco, cabeza negra y alas con reflejos azules, posada en el suelo de hojarasca al pie de una valla verde." pie="Una 까치 a las 16:18, en Mulgeum. Están por todo el país y uno acaba sin mirarlas." %}
+
+Es una **까치**, la urraca coreana (*Pica serica*), que hasta **2018** se
+clasificaba como subespecie de la urraca europea y desde entonces es especie
+propia. En Corea es un **길조**, un pájaro de buen agüero: el refrán dice que
+*«si la urraca canta por la mañana, es que viene visita»* —de ahí su otro
+nombre, 희작, «el pájaro de la alegría»—. Buena señal para la víspera.
 
 ## El último hotel antes de Busan, otra vez sin reserva
 
@@ -75,7 +117,7 @@ isla central las veces que quieras y, al terminar, **llevas tú mismo el plato
 sucio** al carro de la entrada —hay un cartel que lo recuerda—. El agua, los
 *banchan* y la bebida de después van incluidos.
 
-En la isla central hay lo que uno esperaría de una casa coreana un domingo:
+En la isla central hay lo que uno esperaría de una casa coreana cualquiera:
 guisos, salteados, fritos, varios arroces, sopa, verduras aliñadas, hojas
 para envolver y una fila entera de *banchan*.
 
@@ -120,4 +162,4 @@ Dormimos pronto.
 **Datos del día** · Changwon → Yangsan · 1 cabina: 양산물문화관 ·
 Alojamiento: The Terrazzo, 100.000 wones, el segundo y último sin reserva ·
 Cena: buffet 다담뜰한식뷔페, 12.000 wones por cabeza · Lo nuevo: el 식혜 ·
-Mañana: el mar.
+De propina: el 양산항일독립운동기념탑 y una 까치 · Mañana: el mar.

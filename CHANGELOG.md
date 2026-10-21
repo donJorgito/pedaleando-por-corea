@@ -9,6 +9,187 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 ### Added
 
+- **El récord de la fuente del puente de Banpo** (día 4). El día decía «una
+  cortina de agua de más de un kilómetro» sin más: son **1.140 metros**, y
+  desde **2008** está en el **Guinness como la fuente de puente más larga
+  del mundo**.
+
+- **El día 24 pasa de cuatro fotos a ocho** (`blog.RQ010`), con una sección
+  nueva —**«La noche en el aire»**— que hasta ahora no existía: el día
+  empezaba directamente en Barajas. Y con un dato que no estaba en ninguna
+  parte: **la vuelta fue con Cathay Pacific**, y se sabe porque el winglet
+  de la foto lleva el pájaro blanco sobre verde de la compañía. Entran el
+  **autorretrato de los tres acomodados para el tramo largo**, **Hong Kong
+  de noche desde la ventanilla**, la **bandeja de a bordo** y **el ala al
+  amanecer**. Al pasajero de la fila de atrás se le difumina la cara.
+
+  Y el **día 23** se lleva una más: el **dónut** de la espera en el
+  ventanal, con la pista delante.
+
+- **El día 23 pasa de cuatro fotos a diez** (`blog.RQ010`). Lo mejor es lo
+  que estaba escondido en las de las 08:40: no eran de la calle, eran del
+  **desayuno dentro del alojamiento** —las coordenadas coinciden con las de
+  la casa—, y fue **el desayuno menos coreano de los veinticuatro días**:
+  huevos fritos, pan de molde, mantequilla en porciones y café con leche en
+  vaso. Entran también el **tren al aeropuerto**, el **carro de maletas en
+  el vestíbulo de Incheon** (11:59), la **cola** de las 12:34, el **plano
+  general de la corte de Joseon** bajo la pantalla gigante de Lancôme y la
+  **«water zone» de la escala en Hong Kong**.
+
+  Privacidad: en la foto del tren va difuminada **la cara de la pasajera
+  dormida** del asiento de al lado, y en la del desayuno, **el escudo
+  municipal de la camiseta**.
+
+- **El día 22 pasa de tres fotos a doce** (`blog.RQ010`), y con dos sitios
+  que el texto no sabía nombrar. Los **mandus callejeros** no eran de un
+  puesto cualquiera: la caja de la foto pone **남대문 가메골 손만두 ·
+  "since 1978"**, y las coordenadas caen en **남대문시장4길**, el mercado
+  de Namdaemun — un clásico de cola, **왕만두** de masa gruesa a **1.200
+  wones la pieza**, que cuadra con los 12.000 del apunte. Y la plazoleta del
+  busking de media tarde es el arranque del **재미로**, la **calle del tebeo
+  de Seúl**: 450 m desde la boca 3 del metro de Myeongdong hasta el Centro
+  de Animación, convertidos en calle temática en **diciembre de 2013** con
+  obra cedida gratis por unos **setenta autores coreanos**, el centro
+  **재미랑** a media subida y la escultura de **SEOUL** a la entrada.
+
+  Entran el **KTX en el andén de Busan** (06:46) y el **interior del vagón**
+  (07:01), la **pantalla del traductor** con las indicaciones que escribió
+  la dueña del alojamiento, el **retrato de las 13:39** al salir de la
+  clínica, el **busking del 재미로**, la **caja de mandus**, el **tablón de
+  precios del asador**, **Myeongdong de noche** y una balda de la
+  **cosmética** comprada.
+
+- **El día 17 pasa de cuatro fotos a nueve** (`blog.RQ010`). El alto de media
+  tarde en Mulgeum no era un parque cualquiera: arriba de la escalinata está
+  el **양산항일독립운동기념탑**, el monumento de Yangsan a la resistencia
+  contra la ocupación y a la independencia, levantado en **2009** en el
+  parque vecinal nº 7 de 가촌리 por **550 millones de wones** —400 del
+  ayuntamiento y 150 del Ministerio de Patronazgo a los Patriotas y
+  Veteranos—, con los **cuatro trigramas del 태극** en la base de los
+  pilares, tres episodios en bajorrelieve (**의병**, Gobierno Provisional y
+  **광복군**) en los muros curvos y un **위패벽** con las tablillas de los
+  nombres. Entran la **escalinata**, la **base con los relieves** y el
+  **autorretrato de las 16:05**.
+
+  Se añaden también el **gesto de sellar dentro de la caseta** de
+  양산물문화관 (14:14, dos minutos antes de la foto que ya estaba) y la
+  **까치 de las 16:18**, la urraca coreana (*Pica serica*), especie propia
+  desde **2018** y **길조** de manual: «si la urraca canta por la mañana, es
+  que viene visita».
+
+- **Seis fotos que faltaban en los días 9, 11 y 16** (`blog.RQ010`), todas
+  pedidas una por una: el **autorretrato en la presa de Ipo** (día 9, 16:25,
+  con las mismas coordenadas que la foto del río que ya estaba); el **puesto
+  de manzanas de Mungyeong con dos de los viajeros** y el final del **갈비탕
+  apurado a dos manos** (día 11); y las **cabinas del día 16** que el texto
+  citaba sin enseñar: **창녕함안보 por fuera y por dentro** y la del **구름재
+  인증센터**.
+
+  Del puesto de manzanas sale además un dato que no estaba: la palabra que se
+  repite en los carteles rojos es **감홍**, que no es la marca sino **la
+  variedad** —piel roja oscura, muy dulce, solo en su punto en octubre y
+  especialidad de la comarca, apodada «el Hermès de las manzanas»—, y la
+  carpa blanca del fondo es del **ayuntamiento de Mungyeong**.
+
+  Privacidad: en esa foto van difuminados **el teléfono móvil del vendedor**,
+  que estaba repetido en dos pancartas, y **la cara de la vendedora**.
+
+- **El día 15 pasa de cinco fotos a diecinueve** (`blog.RQ010`). De los 83
+  archivos del día salen catorce más: la **cabina de 달성보** (12:14, el día
+  la citaba sin enseñarla), el cartel del **낙동강**, el túnel del carril
+  bici, el **muro de teja y barro**, las **placas 道東書院 / 中正堂**, la de
+  **居仁齋**, el **ginkgo de Kim Goeng-pil**, las piezas de luz **de día** y
+  **de noche**, el **ginkgo iluminado**, un **huevo de cerca**, la **pantalla
+  de autocheck-in del motel**, la **pantalla del pedido** del asador, la
+  carne en la parrilla y la **mascarilla facial** de las 21:38.
+
+  Del texto, todo nuevo y con fuente: Dodongseowon se fundó en **1568** como
+  **쌍계서원**, ardió en la invasión japonesa, se reconstruyó en el sitio
+  actual en **1604-1605** y en **1607** el rey le dio cédula y el nombre
+  actual —«la vía vino al este»—, rebautizando de paso el pueblo. Fue una de
+  las **47 seowon** que se libraron de la orden de supresión de **1871**. Y
+  el hallazgo: desde **1963** el aula 중정당, el santuario y **la tapia** son
+  **보물 제350호**, y esa tapia —zócalo de piedra, cinco hiladas de 암키와 y
+  discos de 수막새 cada metro, por la armonía del 음양— es **el único muro de
+  barro de Corea declarado Tesoro**. Las dos residencias se llaman **거인재**
+  y **거의재**, «habitar en el 仁» y «habitar en el 義», y el 거인재 cuenta
+  como pabellón *del este* aunque esté al oeste, porque queda a la izquierda
+  del que preside. El ginkgo es el **김굉필나무**: más de 400 años, unos 25 m
+  y 8,8 m de perímetro.
+
+  Y dos cosas que solo se ven en las fotos: el **kiosco de autocheck-in** del
+  motel, con el catálogo entero (트윈 80.000, 특실 y 온돌 60.000, VIP 70.000,
+  장애인실 60.000) y los 사용중 de las ocupadas; y la letra pequeña de la
+  pantalla del asador — **3.000 wones de 상차림 por mesa**, primer pedido
+  desde 500 g y el banchan extra del **셀프코너**. El hotel, además, está
+  dentro del **대구국가산업단지** y se cenó en **과학마을**.
+
+  Método (`blog.RQ002`): EXIF/GPS de los 83 archivos cruzado con Nominatim
+  (달성보 en 논공읍, el 서원 en 구지서로/현풍읍, el hotel en
+  국가산단대로42길/대구국가산업단지); fuentes de texto, ko.wikipedia
+  (달성 도동서원 y 달성 도동서원 중정당·사당·담장, que es de donde salen el
+  보물 350 y el detalle del muro) y búsqueda abierta para el ginkgo y los
+  nombres de las residencias.
+
+- **El día 19 pasa de cinco fotos a trece** (`blog.RQ010`). Entran
+  **dia-19-el-templo-y-la-gente** (11:34, la terraza del templo con todo el
+  mundo dentro), los tres dragones de 용궁사 —**dia-19-el-dragon-pintado**
+  (madera y 단청), **dia-19-la-esfera-sobre-los-dragones** (granito con la
+  sílaba 옴) y **dia-19-el-dragon-de-hierro** (el de metal sobre los
+  pinos)—, **dia-19-el-puerto-bajo-el-puente** (el puerto pesquero con el
+  puente de Gwangan y Marine City detrás), **dia-19-where-are-you-from** (el
+  panel de pegatinas por país), **dia-19-look-forward** (la escultura de
+  bronce de 광복로, 18:46) y **dia-19-maquinas-de-peluches**.
+
+  Del texto: el nombre **海東龍宮寺** desglosado; los **108 escalones** y el
+  **득남불**, el Buda de barriga negra de frotarla; el **해수관음대불** de
+  unos diez metros y la condición de **관음성지**. Y la parte incómoda: el
+  templo dice haberse fundado en **1376** por 나옹화상 혜근, pero en **1999**
+  《부산일보》 contó que el **기장군청** publicó esa versión en su boletín y
+  **tuvo que rectificarla como dato no confirmado** cuando el **기장문화원** y
+  vecinos objetaron; el director del centro cultural cifró entonces la
+  antigüedad real en **veinte o veinticinco años** y un vecino declaró que el
+  terreno se usaba para cultivo y pastoreo. En **2021** el templo seguía
+  tramitando su registro como **말사** de **화엄사** (distrito 19 de la orden
+  Jogye). De la noche: **광복로** viene de **光復** (la Liberación de 1945),
+  está en 광복동 y se reconvirtió de carretera de dos carriles en calle de
+  sentido único con aceras ensanchadas.
+
+  Método (`blog.RQ002`): horas y ubicaciones del templo, Gwangalli y 광복로
+  verificadas con el EXIF y el GPS de los archivos y cruzadas con Nominatim
+  (la foto de las 18:46 cae en 광복로, 남포동3가, 중구); fuentes de texto,
+  ko.wikipedia (해동용궁사) con sus dos referencias —《부산일보》 y 불교닷컴— y
+  búsqueda abierta para el 득남불 y el 해수관음대불. Lo que **no** se ha
+  podido verificar se dice en el propio texto: la autoría de la escultura
+  «Look Forward» y la ubicación de las dos fotos llegadas por WhatsApp (el
+  panel de pegatinas y el salón de máquinas), que no llevan EXIF.
+
+  Privacidad (`blog.RQ005`): dos recortes hechos a propósito para dejar fuera
+  a desconocidos reconocibles —la persona del fondo en la foto de la esfera y
+  el pescador del borde inferior en la del puerto—.
+
+- **El día 21 gana una foto y el contexto de 서면** (`blog.RQ010`). El día
+  solo tiene **nueve archivos** en total, y de esos nueve **dos son carteles
+  con la contraseña del wifi** (una cafetería y el hotel) y otro es el montaje
+  que el autor pidió no publicar, así que el margen era corto: entra
+  **dia-21-bujeon-a-reventar**, el pasillo del mercado a reventar de gente.
+
+  Del texto: **서면** no es «un barrio comercial» sino uno de los dos centros
+  urbanos de Busan y el cruce de las líneas 1 y 2 del metro, con la
+  **서면 메디컬 스트리트** —una avenida de clínicas, muchas de cirugía
+  estética, a la que vienen a operarse de Japón y China— a dos pasos de la
+  Olive Young. Y el mercado de Bujeon no está solo: son **seis mercados
+  seguidos** entre el cruce de Seomyeon y 부전역, asociados desde **2006**
+  como **부전마켓타운**, levantados por los desplazados de la Guerra de Corea
+  y alimentados por lo que llegaba en tren a 부전역 — la misma historia que la
+  de Gamcheon el día anterior. La «peramanzana» queda identificada: es el
+  **배** (*Pyrus pyrifolia* var. *culta*), la pera coreana, que madura en
+  octubre.
+
+  Privacidad (`blog.RQ005`): en la foto del mercado se mosaicaron **las dos
+  caras reconocibles** del primer plano, una vendedora y un cliente. Los
+  carteles del wifi no se publican, obviamente.
+
 - **Cuarta tanda de fotos** (`blog.RQ010`), **55 más**, para engordar los días
   que se habían quedado con dos o tres: el día 6 (Suwon y la Torre N) sube de
   3 a 14, el día 8 (de Seúl al kilómetro 0) de 3 a 12, el día 9 (del Han a
@@ -578,6 +759,90 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
   — la primera vez que una fecha del viaje aparece dentro de una foto y no en
   el texto.
 
+- **강정고령보 en el día 13** (`blog.RQ010`), **4 fotos más** y tres secciones
+  nuevas para una parada que el post mencionaba de pasada («la presa más
+  vistosa de todas, con un edificio-mirador muy aparatoso») y de la que no
+  había ni una sola foto. Entran la **cabina de 강정고령보** con el sello
+  morado recién dado y el pasaporte abierto en la página de aguas abajo (las
+  **15:21**, verificado por EXIF), la **piedra del 우륵교** con el mástil del
+  mirador y la cubierta del 디아크 al fondo (las **15:23**), el **디아크** de
+  frente y la **presa con la carpa de cemento** en primer plano.
+
+  Lo que se documenta, con la fuente de cada dato: la presa mide **953,5 m**
+  (833,5 fijos + 120 móviles) y es **la más larga de las 16** del plan de los
+  cuatro ríos; dos compuertas de **45 × 11,6 m**; **1.500 kW** de
+  minihidráulica para unos **3.000 hogares**; **317.900 millones de wones** de
+  coste; y está catalogada como una de las **doce vistas de Daegu**. Todo el
+  conjunto está diseñado sobre la cultura de **대가야**: el mirador **탄주대**
+  imita la **cerámica gaya y el 가야금**, y el **낙락섬** es una isla con forma
+  de rueda dentada por los nueve municipios de Dalseong. El **디아크** es
+  **The ARC, *Architecture of River Culture***, de **Hani Rashid**, **3.761
+  m²** en sótano y tres plantas, premiado en los **한국건축문화대상 de 2014**,
+  y su forma son **un pez saltando** y las ondas del **물수제비**, la piedra
+  que rebota en el agua — de ahí la carpa de cemento de la orilla.
+
+  Y el nombre del puente, que se lee en la placa verde de la foto: **우륵교**,
+  por **우륵 (于勒)**, el músico de la corte de 대가야 que compuso las doce
+  piezas del 가야금 por encargo del rey 가실, se pasó a Silla cuando su reino
+  cayó y acabó aceptando que le recortaran la obra a cinco piezas con el
+  «alegres pero no lascivas, tristes pero no desgarradas» que en Corea se
+  sigue citando.
+
+  Método (`blog.RQ003`): los nombres de las tres presas que faltaban y sus
+  distancias (**23 km** a 달성보, **38** a 합천창녕보, **55** a 창녕함안보)
+  salen de ampliar la página del pasaporte en la propia foto, igual que el
+  rótulo **강문화관 디아크** de la pared del edificio. Las dos fotos del 디아크
+  y de la carpa vienen del grupo de WhatsApp y **no llevan EXIF**, así que se
+  publican sin ninguna afirmación de hora. Privacidad (`blog.RQ005`): en la
+  foto del 우륵교 se mosaicó **la cara del ciclista que estaba junto a la
+  puerta de la cabina**, el único desconocido reconocible del lote.
+
+- **El día 20 pasa de cuatro fotos a doce** (`blog.RQ010`) y gana tres
+  secciones: la lonja de **자갈치시장 a primera hora**, la **pared de los
+  peces de 감내아랫길** y el **영도대교**, el puente levadizo.
+
+  Las fotos nuevas son **dia-20-jagalchi-por-la-manana** (la mascota y el
+  mural de la entrada, 09:48), **dia-20-el-pescado-por-platos** (los cajones
+  con el pescado puesto por bandejas), **dia-20-gamcheon-y-el-mar** (el
+  mirador con el puerto al fondo, 11:21), **dia-20-los-peces-de-los-deseos**
+  (la esquina de las tablillas, 12:57), **dia-20-las-almejas** (los 80.000
+  wones en la mesa amarilla, 14:33), **dia-20-el-arco-de-los-75-grados**
+  (15:21), **dia-20-la-ventana-de-huinnyeoul** (17:06) y
+  **dia-20-fall-in-gwangalli** (19:03).
+
+  Del **영도대교** se cuenta lo que explica el arco: es el primer puente que
+  unió Busan con una isla y el primer levadizo de una sola hoja del país, el
+  único que queda; se abrió el **23 de noviembre de 1934** como 부산대교 con
+  **60.000 personas** mirando; se levantaba de dos a siete veces al día hasta
+  que lo pararon en **septiembre de 1966**; es **monumento municipal número
+  56** desde **2006**; y desde la reconstrucción (reapertura el **27 de
+  noviembre de 2013**, **214,8 × 25,3 m**) vuelve a levantar su hoja de
+  **31,3 m y 590 toneladas** hasta los **75°** en unos dos minutos, una vez
+  por semana. Con el fondo que no sale en las postales: los desplazados de la
+  guerra que iban allí a buscar a su familia, los adivinos que vivían de ello
+  y la canción «굳세어라 금순아».
+
+  De **감천문화마을** se completa el origen —no solo refugiados, también los
+  creyentes de **태극도**, que le dieron al barrio su nombre antiguo,
+  태극도마을— y se añaden las cifras: **3,08 millones de visitantes en 2019**,
+  murales desde **2009** (estudiantes de **동서대** y vecinos, 마을미술
+  프로젝트), «pueblo cultural» en **febrero de 2010**, **500 personas en 25
+  visitas** de funcionarios extranjeros entre **2012** y **2018**, y el
+  **공간문화대상** presidencial de **2016**. Del espectáculo de drones se
+  nombra lo que es: el **「광안리 M 드론라이트쇼」** del distrito de 수영구,
+  el primer espectáculo de drones permanente del país, una sesión semanal de
+  unos doce minutos, gratis, con tema distinto cada semana.
+
+  Método (`blog.RQ003`): el orden del día se reconstruyó con el **GPS del
+  EXIF** y geocodificación inversa contra OpenStreetMap, no de memoria — así
+  se vio que a mediodía seguíamos en 감천동 y no en la lonja. La historia del
+  puente y la del barrio salen de ko.wikipedia (영도대교, 감천문화마을,
+  태극도) y los datos del espectáculo, de su web oficial. Privacidad
+  (`blog.RQ005`): la foto de las almejas se recortó por arriba para dejar
+  fuera a los dos comensales reconocibles de la mesa de al lado, y la de la
+  pared de los peces se recortó por abajo para quitar una pancarta de aviso
+  vecinal con **dos teléfonos móviles** y una fecha.
+
 ### Changed
 
 - **La foto de la Olive Young del día 21 se cambia por la original.** La que
@@ -624,6 +889,65 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
   castellano como el resto del repositorio.
 
 ### Fixed
+
+- **Los molinos del día 24 no están en la A-3.** Las dos fotos del coche
+  —el volante con el camión y la fila de aerogeneradores— llevan
+  coordenadas, y caen en la **A-30, la autovía de Murcia, a la altura de
+  Pozo Cañada (Albacete)**, a las 14:40. La A-3 fue el tramo de antes, el
+  del almuerzo en Honrubia, y eso sí está bien. Tampoco es «a mitad de
+  camino»: a esa altura queda ya el último tercio.
+
+- **Dos cosas del día 23.** (1) A las 08:40 no «andábamos por Myeongdong
+  delante del alojamiento»: estábamos **dentro, desayunando**. (2) La foto
+  de los tres sentados en el avión estaba puesta después de la escala de
+  Hong Kong, y es **de las 15:25**, todavía en Incheon y antes de despegar.
+  Se pone donde toca.
+
+- **La carta del asador del día 22 estaba redondeada.** La tabla juntaba
+  부대찌개, 순두부찌개 y 북어해장국 en un «10.000 – 12.000». El tablón, ya
+  fotografiado y legible, dice otra cosa: **부대찌개 12.000** (y mínimo dos
+  personas, igual que el 철판제육+된장찌개, que además lleva 180 g), y
+  **10.000 clavados** para 해물된장찌개, 북어해장국, 순두부찌개 y 냉면 —dos
+  platos que ni siquiera estaban—. Se añaden también los dos **후식** a
+  5.000 y el horario, que está en un cartel aparte.
+
+- **El día 17 nombraba un día de la semana.** La frase sobre el buffet decía
+  «lo que uno esperaría de una casa coreana un domingo», y con eso cualquiera
+  ata el calendario del viaje entero. Queda «una casa coreana cualquiera».
+
+- **La hora del sello de 창녕함안보 (día 16) estaba trece minutos tarde.** El
+  día daba las **15:32**, que es la hora de las últimas fotos de esa parada;
+  el autorretrato con el pasaporte sellado dentro de la cabina está hecho a
+  las **15:19**, y la de la cabina por fuera a las 15:17, las tres en
+  35,377 N / 128,551 E. Se corrige a **15:19**.
+
+- **Tres datos del día 15 estaban mal.** (1) La llegada a Dodongseowon no fue
+  a las **14:04** sino a las **13:51**: el GPS pone las fotos en 구지서로
+  (현풍읍) desde esa hora. (2) El ginkgo no tiene **450 años**: las fichas
+  coreanas le dan **unos 400** (alguna, 440), 25 m de alto y 8,8 m de
+  perímetro, y se plantó al reconstruir la academia. (3) La academia se
+  describía como «una de las cinco más importantes del país», que es una
+  etiqueta de prensa turística sin fuente firme; se sustituye por los datos
+  verificables: una de las **nueve** inscritas por la Unesco en **2019** y
+  **사적 제488호** desde **2007**.
+
+- **El día 15 nombraba el día de la semana.** Decía «nosotros caímos en
+  lunes», que combinado con las fechas aproximadas permite deducir el
+  calendario del viaje. Cambiado por «entre semana», que es lo que hacía
+  falta para entender que nos perdimos la proyección del ginkgo.
+
+- **El día 20 colocaba la lonja a la hora equivocada.** El post decía «a las
+  **12:50** estábamos en el mercado de Jagalchi»; el GPS de la foto de las
+  12:49 cae en **옥천로, 감천2동**, es decir todavía en Gamcheon. En Jagalchi
+  estuvimos dos veces y ninguna a esa hora: un paseo a las **09:48** y la
+  comida a las **13:30**, con el marisco a las **14:33**. Reescrito el día
+  entero en ese orden. De paso: la visita a Gamcheon no fue de «hora y media»
+  sino de casi dos horas (**11:00-12:57**), y los archivos de allí no son 28
+  sino **31 de los 75** del día.
+
+- **La hora del segundo sello del día 13.** El post daba las **15:23** para la
+  cabina de 강정고령보; el EXIF de la foto del sello es de las **15:21:28**, y
+  las 15:23 son las fotos de después, ya en el puente. Corregido en el texto.
 
 - **El reloj de las fotos mentía en la escala, y con él tres párrafos.** El
   día 2 decía que llegamos a Hong Kong «de madrugada, pasada la una», y el

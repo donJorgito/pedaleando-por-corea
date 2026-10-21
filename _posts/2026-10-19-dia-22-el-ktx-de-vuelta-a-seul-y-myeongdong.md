@@ -21,6 +21,10 @@ velocidad coreano.
 Nos costó **104,20 € los tres**, **34,73 € por persona**, comprado con
 antelación desde España.
 
+{% include foto.html src="dia-22-el-ktx-en-busan.jpg" ancho="844" alto="1500" alt="Andén cubierto de la estación de Busan a primera hora, con un tren KTX azul y blanco parado a la izquierda y una de las viajeras de pie en medio del andén, cargada con mochila y bolsas, mirando a cámara." pie="Las 06:46 en el andén de la estación de Busan, con el KTX ya puesto. Once días de pedalear a punto de deshacerse en dos horas y media." %}
+
+{% include foto.html src="dia-22-dentro-del-ktx.jpg" ancho="844" alto="1500" alt="Interior de un vagón del KTX: dos de los viajeros en sus asientos junto a la ventanilla, uno con gafas de sol mirando a cámara y la otra consultando el móvil, con las mochilas y una manta sobre las rodillas." pie="Las 07:01, ya dentro. A partir de aquí el paisaje de once días pasa por la ventanilla en un suspiro." %}
+
 Y aquí está el número que lo explica: la línea de alta velocidad entre Seúl y
 Busan mide **387 km** y la clásica, por la que iba el tren antes, **442**.
 Nosotros habíamos hecho **633 km** para cubrir lo mismo, porque el carril bici
@@ -45,6 +49,8 @@ una detrás de otra, puestos de comida callejera por el medio de la calle y una
 marea de gente a cualquier hora. Es donde se deja el dinero en cosmética
 coreana quien venga a eso — y dos de nosotros venían a eso. Aquí se remató la
 compra que habían empezado el día anterior en Busan.
+
+{% include foto.html src="dia-22-la-cosmetica.jpg" ancho="844" alto="1500" alt="Estantería de una tienda de cosmética con cajas doradas y blancas de crema de caracol apiladas, un cartel rosa que anuncia «KOREA No.1 Original» y, debajo, cajas naranjas y blancas de otra marca." pie="Dos baldas del botín. Las cajas doradas y blancas son crema de caracol —오리지날 y 인텐시브, con 탱·탱·수·분 y 쫀·쫀·영·양 de reclamo— y, curiosidad: el nombre del producto va en castellano, «Crema Caracol», en una caja coreana vendida en Seúl. Esta llegó por WhatsApp y no trae datos." %}
 
 ### La casa-santuario de la dueña
 
@@ -79,6 +85,8 @@ Myeongdong —«si sales de mi casa, bajas las escaleras y caminas recto hacia
 la derecha durante 6 minutos»— con el mismo entusiasmo con el que nos
 enseñaba las vitrinas.
 
+{% include foto.html src="dia-22-las-instrucciones-de-momo.jpg" ancho="844" alto="1500" alt="Una mano sostiene un móvil con la aplicación de traducción abierta: arriba el texto original en coreano con su transcripción, y debajo, en español, las indicaciones para llegar a la estación de metro de Myeongdong." pie="Las instrucciones, tal cual nos las dio: coreano arriba, romanización en medio y la traducción al español debajo. Las 10:30 de la mañana, recién llegados." %}
+
 Tres semanas cruzando Corea en bici y el último alojamiento acabó siendo el
 más memorable.
 
@@ -92,6 +100,8 @@ cara por unos **110 €**.
 
 Los números, puestos al lado de lo que cuesta eso en España, están en
 [lo que cuesta cruzar Corea en bici]({{ site.baseurl }}{% post_url 2026-10-16-lo-que-cuesta-cruzar-corea-en-bici %}).
+
+{% include foto.html src="dia-22-despues-del-botox.jpg" ancho="844" alto="1500" alt="Retrato de uno de los viajeros en la calle, en camiseta azul, sonriendo a cámara, con los escaparates y los rótulos de Myeongdong desenfocados detrás." pie="A las 13:39, cincuenta minutos después de entrar en la clínica y de vuelta en la calle. Ni tiritas ni aparato: se entra, se sale y se sigue el día." %}
 
 ## La comida: el kalguksu de la guía
 
@@ -123,6 +133,29 @@ Dos cosas que hay que saber antes de entrar:
 Se come en un comedor grande repartido en varias plantas, con cola en la
 puerta y turnos rápidos. **Última comanda a las 20:30.**
 
+## La calle de los tebeos y el escenario de la esquina
+
+Media hora después de comer, a las **14:39**, nos cruzamos con un montaje de
+altavoces, cables y micrófonos en la plazoleta que hay nada más salir por la
+**boca 3 del metro de Myeongdong**: dos chicas cantando y bailando delante de
+unas letras gigantes de colores que dicen **SEOUL**, con un corrillo de
+amigas esperando su turno sentadas al lado del equipo.
+
+{% include foto.html src="dia-22-el-busking-de-jaemiro.jpg" ancho="1500" alto="1487" alt="Plazoleta urbana con una escultura de letras gigantes de colores que forman la palabra SEOUL; delante, una chica canta con micrófono y otra baila, con altavoces, cables y un corrillo de jóvenes sentados a un lado, y rótulos de comercios al fondo." pie="Busking de K-pop a las 14:39 en el arranque del 재미로, con la escultura de SEOUL detrás. En el zócalo, los hashtags del sitio: #zaemiro #명동재미로." %}
+
+El sitio tiene nombre propio y no es una plaza cualquiera: es el arranque del
+**재미로 (Jaemiro)**, la **«calle del tebeo» de Seúl**. Son **450 metros**
+que suben desde la boca 3 del metro de Myeongdong hasta el antiguo **Centro
+de Animación de Seúl**, en la falda del Namsan, convertidos en calle temática
+de cómic en **diciembre de 2013**: murales, esculturas y paradas temáticas a
+lo largo de la cuesta, con contenidos cedidos **gratis por unos setenta
+autores coreanos**, y un centro cultural, el **재미랑**, a media subida.
+
+El nombre es un juego: **재미** es «diversión» y **-로** es «calle», pero
+junto suena también a *미로*, laberinto. Y la escultura de **SEOUL** que se ve
+en la foto es el hito de la entrada — el monolito negro de la derecha lleva
+grabado **재미로 · Seoul Comics Road**.
+
 ## La cena: mandus callejeros y la última barbacoa
 
 La última cena en Corea fue en dos tiempos.
@@ -131,6 +164,16 @@ Primero, a las **18:57**, **mandus callejeros** por **12.000 wones los
 tres**: ocho euros. Las empanadillas compradas en un puesto y comidas de pie
 en mitad de la calle, que siguen siendo de las mejores cosas que se pueden
 comer en este país.
+
+{% include foto.html src="dia-22-los-mandus-de-gamegol.jpg" ancho="844" alto="1500" alt="Una de las viajeras, de noche en una calle de mercado llena de puestos y rótulos luminosos, sosteniendo con las dos manos una caja rosa de cartón con asa y una etiqueta azul; detrás, la gente paseando entre los puestos." pie="La caja recién comprada, a las 18:57. Pone 남대문 가메골 손만두 · «Namdaemun Gamegol Dumpling» y, en una esquina, «since 1978»." %}
+
+Y la caja tiene historia. No era un puesto cualquiera: es el
+**가메골손왕만두**, en pleno **mercado de Namdaemun (남대문시장)**, que
+lleva **desde 1978** en el mismo sitio y es de las paradas obligadas del
+mercado — de las que tienen cola. Hace **왕만두**, empanadillas grandes de
+masa gruesa y esponjosa, estilo bollo al vapor, y la pieza va por **1.200
+wones**. Si la cuenta cuadra, los 12.000 wones del apunte son **diez
+mandus** para tres.
 
 Y después, a las **19:30**, la despedida de verdad: **barbacoa coreana** en
 **[조박사등갈비](https://map.naver.com/p/entry/place/13474004)**, en 퇴계로16길 8, a cincuenta metros de la salida 4 del metro
@@ -148,17 +191,23 @@ el [día 3]({{ site.baseurl }}{% post_url 2026-10-19-dia-03-llegada-a-seul %}).
 {% include foto.html src="dia-22-ultima-barbacoa.jpg" ancho="1500" alto="844" alt="Mesa de barbacoa coreana con la parrilla redonda en el centro llena de tiras de costilla cruda, una cesta de lechuga morada con guindillas, un cuenco de salsa, brotes de soja, ajos, kimchi y un guiso humeando en olla de piedra." pie="La última cena: la parrilla con las tiras de costilla puestas, la lechuga para envolver, los ajos crudos, la salsa y el guiso humeando en su olla de piedra. Y ni un turista en el comedor." %}
 
 Es un sitio de barrio de toda la vida —salió en *백반기행*, un programa de
-televisión coreano dedicado a la comida de diario— y la carta lo dice todo:
+televisión coreano dedicado a la comida de diario— y la carta lo dice todo.
+Está en un tablón enmarcado en la pared, con cada plato en **cuatro idiomas**
+—coreano, inglés, japonés y chino— y una foto al lado:
+
+{% include foto.html src="dia-22-la-carta-del-asador.jpg" ancho="844" alto="1500" alt="Tablón de precios enmarcado en la pared de un asador coreano, dividido en tres columnas —식사류, 안주류 y 주류—, con cada plato escrito en coreano, inglés, japonés y chino, el precio en rojo a la derecha y fotos de las carnes entre medias." pie="El tablón, a las 19:32. Tres columnas: 식사류 (platos de comer), 안주류 (para acompañar la bebida) y 주류 (bebida). Los dos platos de 12.000 llevan la coletilla 2인 이상: mínimo dos personas." %}
 
 | Plato | Precio |
 | --- | ---: |
 | 등갈비 (costilla de cerdo, 270 g) | 18.000 |
 | 생삼겹살 (panceta fresca, 200 g) | 18.000 |
-| 갈비살 (entrecot de costilla, 150 g) | 20.000 |
 | 오리훈제 (pato ahumado, 200 g) | 18.000 |
-| 철판제육 + 된장찌개 | 12.000 |
-| 부대찌개, 순두부찌개, 북어해장국 | 10.000 – 12.000 |
+| 갈비살 (entrecot de costilla, 150 g) | 20.000 |
+| 철판제육 + 된장찌개 (mínimo 2, 180 g) | 12.000 |
+| 부대찌개 (mínimo 2) | 12.000 |
+| 해물된장찌개, 북어해장국, 순두부찌개, 냉면 | 10.000 |
 | 계란찜 (huevo al vapor) | 5.000 |
+| 후식 누룽지탕 / 후식 잔치국수 | 5.000 |
 | Soju o cerveza | 5.000 |
 
 Y al final, el detalle que distingue a un sitio coreano de uno para
@@ -167,7 +216,16 @@ te sacan **누룽지탕** —sopa del arroz tostado que queda pegado al fondo de
 olla— o **잔치국수**, fideos finos en caldo. Se cierra la barbacoa con una
 sopa caliente, y tiene todo el sentido del mundo.
 
-Abren de **11:00 a 22:00**.
+Abren de **11:00 a 22:00** — lo pone en un cartel pegado en la pared, al lado
+del tablón: 영업시간 오전 11시 ~ 오후 10시까지. Y en el de al lado, lo que
+en Corea se declara siempre: **김치 국내산, 쌀 국내산** — el kimchi y el
+arroz, de producción nacional.
+
+Y después de cenar, el paseo de rigor: Myeongdong de noche, con los puestos
+de comida callejera montados en mitad de la calzada y la gente en fila para
+cada uno.
+
+{% include foto.html src="dia-22-myeongdong-de-noche.jpg" ancho="844" alto="1500" alt="Autorretrato nocturno de uno de los viajeros en una calle de Myeongdong llena de gente, con los carros de comida callejera iluminados a los lados y las pantallas y rótulos de las tiendas al fondo." pie="Las 20:32 en Myeongdong. Puestos a los dos lados, pantallas encima y gente a cualquier hora: la última noche en Seúl." %}
 
 ## Las maletas, y dónde se compran
 
@@ -195,5 +253,6 @@ equipaje. Si vas a comprar cosmética, cuenta con ello.
 **Datos del día** · Busan → Seúl en KTX (34,73 € por persona) · Myeongdong ·
 Alojamiento: Soo Guest House, 150.000 wones, y la casa-santuario de su dueña ·
 Comida: 명동교자 본점 ·
-Cena: mandus callejeros (12.000 wones) y barbacoa en 조박사등갈비 ·
+Cena: mandus de 가메골손왕만두 en Namdaemun (12.000 wones) y barbacoa en
+조박사등갈비 · De paso: el 재미로, la calle del tebeo ·
 Maletas: 5.000 en Daiso y 10.000 en los 지하상가.

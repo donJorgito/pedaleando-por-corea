@@ -122,6 +122,16 @@ Mungyeong es tierra de manzana y aquí no es un reclamo turístico: es el
 producto de la comarca, vendido por quien lo cultiva, a pie de carretera.
 Compramos unas cuantas.
 
+{% include foto.html src="dia-11-las-manzanas-de-mungyeong.jpg" ancho="1500" alto="1125" alt="Dos de los viajeros de pie junto a sus bicis delante de un puesto de manzanas al borde de la carretera, cada uno con una manzana roja en cada mano, riéndose. Detrás, el toldo rojo, la pancarta amarilla del puesto y cajas de manzanas rojas y verdes apiladas, tarros de conserva y una carpa blanca con el logo del ayuntamiento." pie="El puesto de manzanas, con dos manzanas por barba. La pancarta amarilla anuncia 문경산 사과농원 —huerto de manzanas de Mungyeong— y la palabra que se repite en los carteles rojos es 감홍, la variedad que venden aquí. El teléfono del puesto y la cara de la vendedora van difuminados." %}
+
+En los carteles rojos del puesto, repetida por todas partes, hay una palabra:
+**감홍**. No es la marca del puesto, es **la variedad de manzana**: una
+cultivada en Corea, de piel roja oscura, muy dulce, que **solo está en su
+punto en octubre** y que en Mungyeong es la especialidad de la comarca —los
+propios coreanos la llaman, medio en broma, *«el Hermès de las manzanas»* por
+lo que cuesta—. Y la carpa blanca del fondo no es de los vendedores: lleva el
+nombre del **ayuntamiento de Mungyeong (문경시)**.
+
 ### La puerta y el camino viejo
 
 A las **14:19**, con el puerto ya hecho y la bajada terminada, la carretera
@@ -268,6 +278,12 @@ pueblo, dos licores de fruta y de flor silvestre que no vas a encontrar en
 ningún aeropuerto.
 
 {% include foto.html src="dia-11-cena-en-mungyeong.jpg" ancho="844" alto="1500" alt="Selfie de los tres viajeros a una mesa larga de madera en un comedor de pueblo, con dos cuencos de caldo humeante en pucheros de piedra negra, un cuenco blanco de caldo con costilla, un bol de arroz, hojas de lechuga y media docena de platillos de banchan; al fondo, la cocina abierta, una nevera, un televisor encendido y una puerta de cristal verde con rótulos pegados por el lado de la calle." pie="El comedor del 명문가마솥식당, a las ocho y dos minutos de la tarde. El caldo llega hirviendo en puchero de piedra; todo lo demás que se ve en la mesa son banchan, y son gratis. Los rótulos de la puerta se leen al revés porque están pegados por fuera; el número de teléfono va tapado." %}
+
+Y el final del 갈비탕 no se come con cuchara: se levanta el puchero con las dos
+manos y se apura el caldo a morro. Después de 548 metros de puerto, eso no es
+mala educación, es justicia:
+
+{% include foto.html src="dia-11-apurando-el-caldo.jpg" ancho="675" alto="1500" alt="Uno de los viajeros, sentado a la mesa del comedor, levanta con las dos manos un puchero de piedra negro y se bebe el caldo directamente; el cuenco le tapa la cara entera. Sobre la mesa, el plato base vacío, cuchara y palillos de metal y un platillo de kimchi. Al fondo, los carteles de la carta pegados a la pared." pie="Apurando el caldo del 갈비탕 a dos manos. Esta llegó por WhatsApp y no trae datos, pero el comedor es el mismo: detrás se ven los carteles de la pared, con los platos en dos tamaños —대 20.000, 보통 15.000—." %}
 
 ---
 

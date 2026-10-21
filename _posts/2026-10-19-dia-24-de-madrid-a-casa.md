@@ -10,6 +10,28 @@ layout: dia
 dia: 24
 ---
 
+## La noche en el aire
+
+El día 24 empieza, en realidad, a doce mil metros. La vuelta la hicimos con
+**Cathay Pacific**, con la escala de Hong Kong partiendo el viaje en dos: un
+tramo corto desde Incheon y, después, la noche entera de un tirón hasta
+Madrid.
+
+{% include foto.html src="dia-24-el-tramo-largo.jpg" ancho="844" alto="1500" alt="Autorretrato dentro de la cabina del avión: los tres viajeros en sus asientos junto a las ventanillas, dos de ellos mirando a cámara con cara de sueño, el tercero en primer plano; al fondo, otro pasajero con la cara difuminada." pie="Acomodados para el tramo largo. El pasajero del fondo va difuminado: no es parte de la crónica." %}
+
+De la escala queda una foto por la ventanilla, de noche: una ciudad de
+rascacielos pegada al agua negra.
+
+{% include foto.html src="dia-24-hong-kong-de-noche.jpg" ancho="1500" alto="675" alt="Vista nocturna desde la ventanilla de un avión: una península de rascacielos iluminados recortada sobre el agua negra, con las luces de la ciudad extendiéndose hacia el horizonte." pie="Rascacielos y agua negra desde la ventanilla. Esta llegó por WhatsApp y no trae ni hora ni coordenadas, pero por el trayecto y la hora solo puede ser Hong Kong." %}
+
+Y lo de siempre en un vuelo largo: la bandeja.
+
+{% include foto.html src="dia-24-la-bandeja-del-avion.jpg" ancho="1500" alto="844" alt="Bandeja de comida de avión medio terminada: un envase con pasta gratinada y patatas, un panecillo mordido, un bol de postre rosa, una lata de refresco verde y los cubiertos encima." pie="La bandeja del vuelo, ya mediada: pasta gratinada, patatas, panecillo y un postre rosa. Veinte días de arroz, sopa y banchan, y el aterrizaje gastronómico fue este. Sin datos: llegó por WhatsApp." %}
+
+Y en algún momento del tramo largo, el ala:
+
+{% include foto.html src="dia-24-el-ala-de-cathay.jpg" ancho="675" alto="1500" alt="Vista desde la ventanilla del avión: el extremo del ala con el winglet pintado de verde azulado y el logotipo blanco de un ave estilizada, con el cielo rosado del amanecer arriba y el terreno pardo abajo." pie="El winglet, con el pájaro blanco de Cathay Pacific sobre verde. Debajo, tierra parda y seca: ya no era Corea." %}
+
 A las **09:27** aterrizábamos en **Barajas**. Por la tarde ya estábamos en
 casa.
 
@@ -20,11 +42,12 @@ casa.
 De Barajas a **Pilar de la Horadada** hay **unos 450 km de coche** —los
 mismos de la ida, ahora al revés—, cerca de cinco horas que hicimos con las
 maletas nuevas en el maletero y el cuerpo en una zona horaria que no era
-ninguna de las dos.
+ninguna de las dos. La **A-3** hasta pasar Honrubia, y de Albacete en
+adelante la **A-30**, la autovía de Murcia.
 
-{% include foto.html src="dia-24-al-volante-en-la-a3.jpg" ancho="1031" alto="1500" alt="Las dos manos del conductor en el volante de un Toyota y, por el parabrisas, la autovía, un camión en el carril de al lado, campos secos y una línea de aerogeneradores en el horizonte." pie="La A-3 de vuelta: rastrojo, molinos y un camión. Después de tres semanas de ríos coreanos, la Mancha." %}
+{% include foto.html src="dia-24-al-volante-en-la-a3.jpg" ancho="1031" alto="1500" alt="Las dos manos del conductor en el volante de un Toyota y, por el parabrisas, la autovía, un camión en el carril de al lado, campos secos y una línea de aerogeneradores en el horizonte." pie="Las 14:40 en la A-30, la autovía de Murcia, a la altura de Pozo Cañada (Albacete): rastrojo, molinos y un camión. Después de tres semanas de ríos coreanos, la Mancha." %}
 
-{% include foto.html src="dia-24-los-molinos-de-la-mancha.jpg" ancho="1218" alto="700" alt="Vista por la ventanilla del coche en la A-3: una fila de aerogeneradores sobre una loma de monte bajo, naves y casas al pie, campos de rastrojo en primer plano y la bionda de la autovía cruzando la foto." pie="Los molinos, unos segundos después y sin el volante por medio: la fila entera en la loma, el rastrojo delante y la bionda. Esto es lo que hay a mitad de camino entre Madrid y casa." %}
+{% include foto.html src="dia-24-los-molinos-de-la-mancha.jpg" ancho="1218" alto="700" alt="Vista por la ventanilla del coche en la autovía: una fila de aerogeneradores sobre una loma de monte bajo, naves y casas al pie, campos de rastrojo en primer plano y la bionda de la autovía cruzando la foto." pie="Los molinos, unos segundos después y sin el volante por medio: la fila entera en la loma, el rastrojo delante y la bionda. Último tercio del camino, con Albacete ya detrás." %}
 
 ## El almuerzo: la barbacoa española
 

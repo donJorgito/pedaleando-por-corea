@@ -125,6 +125,10 @@ funciona **de abril a octubre**, todos los días, **de cuatro a seis pases
 diarios de veinte minutos**. Es al aire libre y **gratis**: te sientas en el
 parque y ya está. Si llueve o hace mucho viento, se cancela.
 
+Y lo de «más de un kilómetro» no es una forma de hablar: la fuente mide
+**1.140 metros** y desde **2008** figura en el **Guinness como la fuente de
+puente más larga del mundo**.
+
 ## Sebitseom, las islas flotantes
 
 Después caminamos un poco río arriba hasta **세빛섬 (Sebitseom)**, tres islas

@@ -14,6 +14,10 @@ tags: [corea, busan, compras, cosmetica, olive-young, daiso, bujeon, dia-a-dia]
 —solo los días de avión bajan de ahí— y tiene una explicación sencilla:
 **nos lo pasamos metidos en tiendas**.
 
+Y de esas nueve, **dos son carteles de la contraseña del wifi**: la de una
+cafetería a las 11:44 y la del hotel a las 20:51. Ese es el nivel de cosecha
+fotográfica del día.
+
 ## El día que se dedicó a comprar
 
 Sin bicis, con la ruta terminada y Busan ya recorrida el día anterior, la
@@ -33,10 +37,18 @@ viaje a Corea.
 
 {% include foto.html src="dia-21-olive-young.jpg" ancho="844" alto="1500" alt="Una de las viajeras en primer plano, con cara de circunstancias, delante de la fachada de una tienda Olive Young de Busan: el rótulo negro con la O verde encima de las puertas de cristal, dos clientes entrando y la pancarta del Gundam Base en el piso de arriba." pie="Una de las Olive Young de Seomyeon, el centro comercial de Busan. La pancarta de arriba es de la tienda del piso superior: 건담베이스 서면점, la del Gundam Base." %}
 
-La de la foto está en **서면 (Seomyeon)**, que es el barrio donde se concentra
-el comercio en Busan — y por si hacía falta rematar el cuadro, encima de la
-Olive Young había una tienda del **건담베이스**, la cadena oficial de maquetas
-de Gundam. Un edificio, dos religiones.
+La de la foto está en **서면 (Seomyeon)**, que no es «un barrio comercial» de
+Busan: es **el centro de Busan**. Uno de los dos núcleos urbanos del plan de
+la ciudad, el cruce donde se juntan las **líneas 1 y 2 del metro** y la zona
+más concurrida del municipio. Y por si hacía falta rematar el cuadro, encima
+de la Olive Young había una tienda del **건담베이스**, la cadena oficial de
+maquetas de Gundam. Un edificio, dos religiones.
+
+Que el día de la cosmética cayera precisamente aquí tiene su lógica: a dos
+pasos está la **서면 메디컬 스트리트**, una avenida entera de clínicas —
+oftalmólogos, dentistas y, sobre todo, **cirugía estética**— a la que viene
+gente de Japón y de China expresamente a operarse. La piel, en Seomyeon, es
+un sector económico.
 
 **Dos de los tres se dejaron cerca de 300 € cada uno** en cremas y productos
 de belleza. Unos 600 € entre los dos. Yo no compré.
@@ -67,7 +79,32 @@ pera mitad manzana y que después de tres semanas ya era adicción.
 
 {% include foto.html src="dia-21-mercado-de-bujeon.jpg" ancho="844" alto="1500" alt="Una viajera en el pasillo cubierto del mercado de Bujeon, con los puestos a los dos lados, pancartas y carteles amarillos colgando del techo y un cajón de ajos en primer plano." pie="El pasillo del mercado de Bujeon: techo de chapa, pancartas, carteles amarillos y los puestos pegados unos a otros. Una de las nueve fotos del día." %}
 
+La «peramanzana», por cierto, tiene nombre: es el **배**, la pera coreana
+(*Pyrus pyrifolia* var. *culta*), que fuera de Asia se vende como pera nashi
+o directamente como *Korean pear*. Es redonda como una manzana, de piel
+marrón dorada, durísima, crujiente y llena de agua, y **madura en octubre**:
+la pillamos justo en temporada, que es parte de por qué nos enganchó.
+
 Y se recargó la T-money de uno de nosotros con otros 10.000 wones.
+
+### Seis mercados pegados y la misma historia de siempre
+
+El de Bujeon no está solo. Desde el cruce de Seomyeon hasta la estación de
+부전역 hay **seis mercados seguidos**: el 서면종합시장, el 부전시장, un
+mercado entero dedicado al **ginseng** (부전인삼시장), una galería comercial y
+el **부산전자종합시장**, el mercado de electrónica que montaron en los años
+setenta y que llegó a ser el mayor de todo el sureste del país. En **2006**
+los seis se asociaron bajo un mismo nombre, **부전마켓타운**, para aguantar el
+tirón de los centros comerciales.
+
+Y el origen es el mismo que el de medio Busan: **el 부전시장 y el
+서면종합시장 los levantaron los desplazados de la Guerra de Corea**, que
+fueron llegando de todas partes y se instalaron ahí. Funcionaron porque la
+fruta, la verdura y el pescado entraban en la ciudad **por la estación de
+부전역**, que estaba justo al lado. Un día antes nos habían contado esa misma
+historia en Gamcheon; aquí la cuenta un pasillo lleno de gente.
+
+{% include foto.html src="dia-21-bujeon-a-reventar.jpg" ancho="844" alto="1500" alt="Pasillo central del mercado de Bujeon completamente lleno de gente, con los puestos a los dos lados, rótulos amarillos y azules colgando, una pancarta blanca atravesada sobre el pasillo y, en medio de la multitud, uno de los viajeros mirando a cámara con las manos en la cintura." pie="El mercado de Bujeon a la una de la tarde. No es una calle peatonal: es el pasillo entre dos filas de puestos, y va así de lleno." %}
 
 ## La cena del desertor
 

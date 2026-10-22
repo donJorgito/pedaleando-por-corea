@@ -5,8 +5,8 @@ layout: dia
 dia: 9
 km_dia: 102
 km_ruta: 136
-km_total: 110
-km_total_acum: 180
+km_total: 125
+km_total_acum: 195
 description: >-
   Primera etapa de verdad del 국토종주: salir de Seúl por el río Han, la presa
   de Paldang, la vía verde sobre el antiguo ferrocarril y siete cabinas de

@@ -5,8 +5,8 @@ layout: dia
 dia: 12
 km_dia: 79
 km_ruta: 356
-km_total: 96
-km_total_acum: 431
+km_total: 82
+km_total_acum: 429
 description: >-
   De Mungyeong a Gumi: el museo de la bicicleta de Sangju (gratis), el cambio
   al río Nakdong y las presas de Sangju, Nakdan y Gumi. La foto con el

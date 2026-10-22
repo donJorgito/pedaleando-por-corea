@@ -12,7 +12,7 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - **Contador de kilómetros en todas las entradas del viaje**, arriba y abajo
   de cada día, con **dos cuentas en paralelo**: los kilómetros **pedaleados
   de verdad** y el **avance sobre los 633 del 국토종주**, cada uno con su
-  acumulado. Salen **836 km pedaleados para 633 de ruta**: doscientos y pico
+  acumulado. Salen **784 km pedaleados para 633 de ruta**: ciento cincuenta
   de propina en desvíos.
 
   *La cuenta de la ruta es exacta.* Las posiciones de las cabinas están
@@ -22,13 +22,16 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
   km**, exactamente los «47 km de sello a sello» que ya contaba el día 12, y
   los días suman 633 clavados.
 
-  *La cuenta del total es aproximada.* Sale de medir, en el track de fotos de
-  cada jornada, los tramos de antes de la primera cabina y de después de la
-  última —que son justo las idas y venidas a los alojamientos— y sumarlos a
-  los km de ruta entre cabinas. A eso se le añaden los desvíos gordos que ya
-  cuenta el texto: los **34 km de Mapo al kilómetro 0**, los **26 de volver a
-  Gumi a por el libro electrónico**, las **dos subidas a Dodongseowon** y el
-  paseo de después de la meta hasta la tienda de bicis, el hotel y Haeundae.
+  *La cuenta del total es aproximada.* A los km de ruta se le suman las idas
+  y venidas a los alojamientos, medidas una a una sobre el track de fotos de
+  cada jornada, más los desvíos gordos que ya cuenta el texto: los **34 km de
+  Mapo al kilómetro 0**, los **20 de la perdida antes de Ipo** y los **26 de
+  volver solo a Gumi a por el libro electrónico**.
+
+  *Y la bici se aparca al llegar al alojamiento*, que es lo que se hizo todos
+  los días: nada de lo que pasa después cuenta. Ni las cenas, ni el **Uber de
+  ida y vuelta a Dodongseowon** del día 15, ni **Haeundae** el día 18, que
+  fue en metro y con las bicis ya entregadas.
 
 - **El robot que patrulla Deoksugung** (día 5), con foto. Es el **순라봇**
   (**궁능순찰로봇**), el robot de patrulla con IA del **궁능유적본부**:

@@ -5,8 +5,8 @@ layout: dia
 dia: 18
 km_dia: 32
 km_ruta: 633
-km_total: 68
-km_total_acum: 836
+km_total: 46
+km_total_acum: 784
 description: >-
   Último día sobre la bici: la cabina de la desembocadura del Nakdong, el
   certificado del 국토종주 en el centro de certificación de Busan, la

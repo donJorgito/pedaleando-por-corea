@@ -6,7 +6,7 @@ dia: 14
 km_dia: 0
 km_ruta: 421
 km_total: 0
-km_total_acum: 526
+km_total_acum: 524
 description: >-
   Día sin bici en Daegu: excursión en bus al templo de Haeinsa y su Tripitaka
   Koreana, el museo de medicina oriental con hanbok y el mercado nocturno de

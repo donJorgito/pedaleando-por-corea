@@ -5,8 +5,8 @@ layout: dia
 dia: 10
 km_dia: 73
 km_ruta: 209
-km_total: 80
-km_total_acum: 260
+km_total: 77
+km_total_acum: 272
 description: >-
   Tercera etapa del 국토종주 remontando el río Namhangang de Yeoju a Chungju,
   pasando por las presas de Gangcheon y Binaeseom hasta Tangeumdae, donde se

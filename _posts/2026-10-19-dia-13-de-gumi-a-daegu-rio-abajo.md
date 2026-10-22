@@ -6,7 +6,7 @@ dia: 13
 km_dia: 65
 km_ruta: 421
 km_total: 95
-km_total_acum: 526
+km_total_acum: 524
 description: >-
   Etapa tranquila por el Nakdong de Gumi a Daegu, con el campo de pink muhly,
   la vuelta a por el libro olvidado y la parada en 강정고령보: la presa más

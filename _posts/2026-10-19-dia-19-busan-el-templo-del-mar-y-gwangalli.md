@@ -6,7 +6,7 @@ dia: 19
 km_dia: 0
 km_ruta: 633
 km_total: 0
-km_total_acum: 836
+km_total_acum: 784
 description: >-
   Primer día de turismo en Busan, ya sin bicis: Haedong Yonggungsa colgado del
   acantilado y la discusión sobre su edad, los dragones del templo, la playa

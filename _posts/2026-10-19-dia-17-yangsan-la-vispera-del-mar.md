@@ -5,8 +5,8 @@ layout: dia
 dia: 17
 km_dia: 62
 km_ruta: 601
-km_total: 72
-km_total_acum: 768
+km_total: 70
+km_total_acum: 738
 description: >-
   Penúltima etapa del 국토종주: de Changwon a Yangsan por el Nakdong, el
   segundo y último hotel al que llegamos sin reserva, y un buffet coreano de

@@ -6,7 +6,7 @@ dia: 21
 km_dia: 0
 km_ruta: 633
 km_total: 0
-km_total_acum: 836
+km_total_acum: 784
 description: >-
   El día que se fue entero en tiendas: Daiso, Olive Young y la cosmética
   coreana, el mercado de Bujeon y la cena en que nos rendimos a la pizza

@@ -6,7 +6,7 @@ dia: 23
 km_dia: 0
 km_ruta: 633
 km_total: 0
-km_total_acum: 836
+km_total_acum: 784
 description: >-
   Último día en Corea: la mañana suelta en Myeongdong, el metro hasta el
   aeropuerto de Incheon y el vuelo de vuelta vía Hong Kong.

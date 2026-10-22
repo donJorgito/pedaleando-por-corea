@@ -6,7 +6,7 @@ dia: 22
 km_dia: 0
 km_ruta: 633
 km_total: 0
-km_total_acum: 836
+km_total_acum: 784
 description: >-
   Deshacer en tren de alta velocidad lo que costó once días en bicicleta: el
   KTX de Busan a Seúl, el kalguksu con estrella de guía de Myeongdong y la

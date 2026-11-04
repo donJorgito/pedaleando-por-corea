@@ -12,6 +12,11 @@ km_dia: 0
 km_ruta: 0
 km_total: 0
 km_total_acum: 0
+image:
+  path: /assets/img/tarjetas/dia-01-salida-ayuntamiento.jpg
+  width: 1200
+  height: 630
+  alt: "Tres viajeros con la mochila puesta sostienen la bandera de Pilar de la Horadada delante de la fachada del ayuntamiento."
 ---
 
 Las crónicas de viaje suelen empezar en el aeropuerto de destino, como si

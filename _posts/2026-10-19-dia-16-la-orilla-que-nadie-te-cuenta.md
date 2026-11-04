@@ -13,6 +13,11 @@ description: >-
   desnivel que la ruta oficial— y una cena de dakgalbi en un restaurante que
   solo sirve un plato.
 tags: [corea, gukto-jongju, nakdonggang, haman, changwon, cuestas, dakgalbi, comida, dia-a-dia]
+image:
+  path: /assets/img/tarjetas/dia-16-cabina-hapcheon-changnyeong.jpg
+  width: 1200
+  height: 630
+  alt: "Ciclista delante de la cabina de certificación de 합천창녕보 con el pasaporte del Nakdonggang abierto en la mano."
 ---
 
 Día largo de río con una decisión en medio que merece un apartado propio,

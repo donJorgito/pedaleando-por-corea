@@ -12,6 +12,11 @@ description: >-
   segundo y último hotel al que llegamos sin reserva, y un buffet coreano de
   12.000 wones por cabeza donde probamos el 식혜.
 tags: [corea, gukto-jongju, yangsan, nakdonggang, buffet, sikhye, comida, dia-a-dia]
+image:
+  path: /assets/img/tarjetas/dia-17-cabina-yangsan.jpg
+  width: 1200
+  height: 630
+  alt: "Dos ciclistas sonriendo en la cabina de certificación del Yangsan Water Culture Center, con el pasaporte abierto entre los dos."
 ---
 
 Penúltima etapa, y la más corta de fotos de las **once jornadas en bici**:

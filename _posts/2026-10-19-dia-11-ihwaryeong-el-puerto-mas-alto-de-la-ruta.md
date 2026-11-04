@@ -12,6 +12,11 @@ description: >-
   el punto más alto de todas las rutas certificadas de Corea), el mercadillo
   de manzanas de Mungyeong y un baño de pies termal gratis.
 tags: [corea, gukto-jongju, saejae, ihwaryeong, mungyeong, puertos, yeongnam-daero, dia-a-dia]
+image:
+  path: /assets/img/tarjetas/dia-11-cabina-suanbo.jpg
+  width: 1200
+  height: 630
+  alt: "Ciclista sonriendo delante de la cabina de certificación de 수안보온천."
 ---
 
 Este es **el día duro**. El que todo el mundo que ha hecho la ruta menciona, y

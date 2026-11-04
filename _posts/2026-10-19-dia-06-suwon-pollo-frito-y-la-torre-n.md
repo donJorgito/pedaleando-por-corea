@@ -11,6 +11,11 @@ km_dia: 0
 km_ruta: 0
 km_total: 0
 km_total_acum: 0
+image:
+  path: /assets/img/tarjetas/dia-06-el-love-de-jangan.jpg
+  width: 1200
+  height: 630
+  alt: "Dos viajeros sentados en un banco de madera delante de unas letras gigantes que forman la palabra LOVE, con un campo de rosas blancas artificiales plantadas en el césped detrás."
 ---
 
 Día de excursión fuera de Seúl por la mañana y de mirador por la noche. Y de

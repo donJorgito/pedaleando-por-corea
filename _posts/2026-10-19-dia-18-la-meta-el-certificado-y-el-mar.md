@@ -12,6 +12,11 @@ description: >-
   certificado del 국토종주 en el centro de certificación de Busan, la
   devolución de las bicicletas y la playa de Haeundae.
 tags: [corea, gukto-jongju, busan, meta, certificado, haeundae, dia-a-dia]
+image:
+  path: /assets/img/tarjetas/dia-18-cabina-final.jpg
+  width: 1200
+  height: 630
+  alt: "Uno de los ciclistas de pie dentro de una cabina roja de certificación, con el pasaporte abierto en una mano y el casco azul bajo el brazo; en el frontal de la cabina, un cartel azul que dice 낙동강하구둑 / NAKDONGGANG ESTUARY BANK."
 ---
 
 Once días después de salir de Mapo, el río se acabó.

@@ -11,6 +11,11 @@ description: >-
   Último día en Corea: la mañana suelta en Myeongdong, el metro hasta el
   aeropuerto de Incheon y el vuelo de vuelta vía Hong Kong.
 tags: [corea, seul, incheon, vuelos, dia-a-dia]
+image:
+  path: /assets/img/tarjetas/dia-23-el-ultimo-desayuno.jpg
+  width: 1200
+  height: 630
+  alt: "Una de las viajeras sentada a una mesa blanca, desayunando: un plato azul con dos huevos fritos y una tostada de pan de molde con mantequilla, un vaso de café con leche, servilletas y porciones de mantequilla sobre la mesa, y un brik de leche en primer plano."
 ---
 
 Dieciocho fotos y ocho mensajes en el grupo. El día que menos se habla es

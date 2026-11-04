@@ -12,6 +12,11 @@ description: >-
   pasando por las presas de Gangcheon y Binaeseom hasta Tangeumdae, donde se
   acaba el río y empieza la montaña.
 tags: [corea, gukto-jongju, namhangang, chungju, tangeumdae, cabinas, comida, dia-a-dia]
+image:
+  path: /assets/img/tarjetas/dia-10-cabina-gangcheonbo.jpg
+  width: 1200
+  height: 630
+  alt: "Carril bici de asfalto con la señalización pintada en el suelo, curvando hacia una cabina roja de certificación que se ve pequeña al fondo, con ciclistas al lado."
 ---
 
 Día de río. De los que no tienen una anécdota grande y sin embargo son los que

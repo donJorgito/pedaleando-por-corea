@@ -9,6 +9,25 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 ### Added
 
+- **Cada día comparte con su propia foto** (`blog.RQ012`). Hasta ahora las 26
+  entradas compartían la misma tarjeta, la del kilómetro 0: daba igual que
+  mandaras el día 11 o el día 20, la previsualización era idéntica. Ahora cada
+  una de las **24 entradas de día** declara la suya, hecha de **su primera
+  foto**.
+
+  Y no es la foto a pelo, que era la trampa: el 88% de las fotos del viaje son
+  verticales de móvil y las aplicaciones recortan la tarjeta a 1,91:1, así que
+  servirlas tal cual dejaría a la vista una banda del centro — un torso, media
+  bici, el suelo. `_tools/preparar-tarjeta.sh` mete la foto entera escalada a
+  la altura de la tarjeta y rellena los lados con la misma foto ampliada y
+  desenfocada, que es lo que se hace en los vídeos verticales. Las 24 salen a
+  1200 × 630 y ocupan 2 MB en total.
+
+  Las dos entradas por temas no llevan foto, así que se quedan con la tarjeta
+  del sitio. El test de `blog.RQ012` comprueba las tres cosas que pueden
+  romperse sin que se note: que cada día declare su tarjeta, que la tarjeta
+  exista y mida lo que debe, y que no haya tarjetas que no use nadie.
+
 - **El contador ya cuenta.** `analitica.goatcounter` pasa a
   `pedaleando-por-corea`, el sitio dado de alta en GoatCounter, y con eso el
   include de `blog.RQ013` deja de estar en blanco: cada página publicada suma

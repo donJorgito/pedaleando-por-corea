@@ -13,6 +13,11 @@ description: >-
   Nacional de Corea—, y el espectáculo de luces nocturno al que volvimos en
   Uber desde el hotel.
 tags: [corea, gukto-jongju, dodongseowon, confucianismo, nakdonggang, dia-a-dia]
+image:
+  path: /assets/img/tarjetas/dia-15-pedaleando-nakdong.jpg
+  width: 1200
+  height: 630
+  alt: "Dos ciclistas de espaldas subiendo por el arcén de una carretera asfaltada, con un cerro cubierto de arbolado delante."
 ---
 
 De vuelta a la bici después del día de descanso, y con el mejor hallazgo

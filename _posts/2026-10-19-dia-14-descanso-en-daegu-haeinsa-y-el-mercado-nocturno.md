@@ -12,6 +12,11 @@ description: >-
   Koreana, el museo de medicina oriental con hanbok y el mercado nocturno de
   Seomun. Qué cuesta y cómo organizarlo.
 tags: [corea, daegu, haeinsa, templos, mercados, descanso, dia-a-dia]
+image:
+  path: /assets/img/tarjetas/dia-14-cuaderno-de-sellos.jpg
+  width: 1200
+  height: 630
+  alt: "El cuaderno de sellos, de tapa marrón, con una bicicleta dorada grabada y el rótulo Korea's Cross Country Cycling Road Tour."
 ---
 
 El único día del viaje sin tocar la bicicleta, y lo aprovechamos entero.

@@ -12,6 +12,11 @@ km_dia: 0
 km_ruta: 0
 km_total: 0
 km_total_acum: 0
+image:
+  path: /assets/img/tarjetas/dia-05-cambio-de-guardia.jpg
+  width: 1200
+  height: 630
+  alt: "Un guardia de palacio con túnica azul y sombrero negro de ala ancha desfilando con un estandarte, delante del muro de tejas de Gyeongbokgung."
 ---
 
 El día que más kilómetros hicimos a pie y el que mejor se come por menos

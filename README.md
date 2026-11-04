@@ -49,7 +49,7 @@ pre-commit run --all-files         # obligatorio antes de cada push
 | `_config.yml` | `analitica.goatcounter` | contador de visitas; vacío = no se mide nada (`blog.RQ013`) |
 | `_config.yml` | `instagram_username` | enlace al perfil en el pie de todas las páginas (`blog.RQ014`) |
 | `_posts/*.md` | `title`, `date`, `description`, `tags` | metadatos de cada entrada |
-| `_posts/*.md` | `image` | tarjeta propia de esa entrada, si no se quiere la del sitio |
+| `_posts/*.md` | `image` | tarjeta propia de esa entrada; la hace `_tools/preparar-tarjeta.sh` |
 | `mapa.html` | `permalink: /mapa/` | la página del mapa, que se genera y no se escribe a mano |
 
 ## Dependencias

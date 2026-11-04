@@ -13,6 +13,11 @@ km_dia: 0
 km_ruta: 0
 km_total: 0
 km_total_acum: 0
+image:
+  path: /assets/img/tarjetas/dia-07-puente-de-gamaksan.jpg
+  width: 1200
+  height: 630
+  alt: "Una viajera en primer plano y, detrás, el puente colgante de Gamaksan tendido sobre un barranco cubierto de bosque."
 ---
 
 Último día en Seúl antes de coger las bicis, y lo dedicamos a lo que para

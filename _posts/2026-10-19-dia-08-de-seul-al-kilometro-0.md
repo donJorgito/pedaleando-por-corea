@@ -12,6 +12,11 @@ km_dia: 34
 km_ruta: 34
 km_total: 70
 km_total_acum: 70
+image:
+  path: /assets/img/tarjetas/dia-08-la-bandera-en-el-kilometro-0.jpg
+  width: 1200
+  height: 630
+  alt: "Los tres viajeros de pie delante de la fachada de cristal del centro de certificación de Ara, sosteniendo entre ellos una bandera partida en rojo y verde con una torre dorada y un pilar blanco con la cruz de Santiago; a los lados, las tres bicicletas con las mochilas atadas al portaequipajes."
 ---
 
 El país se cruza de noroeste a sureste, de Seúl a Busan, y el contador oficial

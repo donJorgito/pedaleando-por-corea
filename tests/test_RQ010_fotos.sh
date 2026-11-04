@@ -55,8 +55,12 @@ for img in assets/img/*; do
     *20[0-9][0-9]*)
       echo "RQ010: $base lleva una fecha en el nombre (blog.RQ008)"; err=1 ;;
   esac
-  grep -rq "src=\"$base\"" _posts/ \
-    || { echo "RQ010: $base no lo usa ninguna entrada"; err=1; }
+  # Huérfana = la que no usa nadie. Casi todas las usa una entrada por el
+  # include, pero la tarjeta de previsualización (blog.RQ012) la declara la
+  # configuración del sitio, así que ahí también cuenta como usada.
+  if ! grep -rq "src=\"$base\"" _posts/ && ! grep -q "$base" _config.yml; then
+    echo "RQ010: $base no lo usa ninguna entrada ni la configuración"; err=1
+  fi
 done
 
 # 4. Que el gate no pase por no haber mirado nada: si hay imágenes, tienen

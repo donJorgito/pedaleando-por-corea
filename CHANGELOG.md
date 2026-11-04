@@ -9,6 +9,48 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 ### Added
 
+- **Tres piezas para que el blog se encuentre y se sepa si se lee**
+  (`blog.RQ012`, `blog.RQ013`, `blog.RQ014`). El punto de partida, medido y no
+  supuesto: una búsqueda `site:donjorgito.github.io` en Google devuelve
+  **«no obtuvo ningún resultado»**, y en Bing tampoco hay nada. O sea que el
+  sitio estaba bien hecho para ser indexado —sitemap, `jekyll-seo-tag`,
+  `description` en todas las entradas, sin `noindex`— pero **Google no lo
+  había descubierto**: nadie le había dicho que existe y no hay enlaces
+  entrantes que lo lleven hasta aquí.
+
+  - **Tarjeta de previsualización al compartir un enlace.** Antes, al pegar
+    la dirección en WhatsApp o en un mensaje de Instagram, salía una línea de
+    texto sin foto. Ahora sale la imagen de los tres con la bandera en el
+    kilómetro 0, recortada a 1200 × 630 desde la foto **ya publicada** (sin
+    EXIF, sin coordenadas) en `assets/img/tarjeta-social.jpg`. Va declarada en
+    `defaults`, no como clave del sitio, porque `jekyll-seo-tag` 2.8 solo lee
+    `page.image`: una `image:` global no habría pintado nada. Cada entrada
+    puede poner la suya y gana sobre esta.
+  - **La propiedad en Search Console, acreditada.** `_config.yml` declara
+    `google_site_verification`, que `jekyll-seo-tag` convierte en la etiqueta
+    `meta` de todas las páginas. Es lo que permite mandarle el sitemap a
+    Google y leer después las búsquedas por las que entra la gente.
+  - **Contador de visitas, apagado hasta que se le ponga el código.**
+    GitHub Pages no registra accesos, así que sin esto no hay forma de saber
+    si lo leen. `_includes/analitica.html` carga GoatCounter —sin cookies,
+    sin identificadores, sin aviso de consentimiento— y solo si se cumplen
+    dos condiciones: compilación de producción y `analitica.goatcounter` con
+    un código. El script va pineado a `count.v5.js` con su hash `integrity`,
+    comprobado contra el fichero que sirve GoatCounter hoy. De paso
+    desaparece el `google-analytics.html` del tema, que era lo que había
+    enganchado al `<head>` y que habría metido cookies.
+  - **Las historias de Instagram, enlazadas.** La portada enlaza el álbum de
+    historias destacadas del viaje («Corea a piñón!») y avisa de que
+    Instagram pide tener cuenta para abrirlo, con el perfil como alternativa;
+    y `instagram_username` pone el icono del perfil en el pie de todas las
+    páginas. Enlazado y no incrustado: un `iframe` de Instagram metería sus
+    cookies y sus scripts en todo el sitio, que es justo lo que evita el
+    contador elegido.
+
+  El test de fotos (`blog.RQ010`) daba por huérfana la tarjeta social, porque
+  solo buscaba las imágenes usadas desde las entradas. Ahora también cuenta
+  como usada la que declara la configuración del sitio.
+
 - **Contador de kilómetros en todas las entradas del viaje**, arriba y abajo
   de cada día, con **dos cuentas en paralelo**: los kilómetros **pedaleados
   de verdad** y el **avance sobre los 633 del 국토종주**, cada uno con su

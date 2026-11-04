@@ -44,15 +44,26 @@ pre-commit run --all-files         # obligatorio antes de cada push
 | --- | --- | --- |
 | `_config.yml` | `url` + `baseurl` | dirección pública del sitio |
 | `_config.yml` | `plugins` | SEO e indexación |
+| `_config.yml` | `defaults` → `image` | foto de la tarjeta al compartir un enlace (`blog.RQ012`) |
+| `_config.yml` | `google_site_verification` | acredita el sitio ante Search Console (`blog.RQ013`) |
+| `_config.yml` | `analitica.goatcounter` | contador de visitas; vacío = no se mide nada (`blog.RQ013`) |
+| `_config.yml` | `instagram_username` | enlace al perfil en el pie de todas las páginas (`blog.RQ014`) |
 | `_posts/*.md` | `title`, `date`, `description`, `tags` | metadatos de cada entrada |
+| `_posts/*.md` | `image` | tarjeta propia de esa entrada, si no se quiere la del sitio |
 | `mapa.html` | `permalink: /mapa/` | la página del mapa, que se genera y no se escribe a mano |
 
 ## Dependencias
 
-El sitio es estático y las entradas no cargan nada de fuera. La única
-excepción es la página del mapa (`/mapa/`), que en el navegador del lector
-carga **Leaflet** desde `unpkg` y las teselas de **OpenTopoMap** y **Esri**:
-un mapa sin teselas no es un mapa. Van pineadas por versión en la propia URL.
+El sitio es estático y las entradas no cargan nada de fuera. Hay dos
+excepciones, las dos a la vista:
+
+1. La página del mapa (`/mapa/`), que en el navegador del lector carga
+   **Leaflet** desde `unpkg` y las teselas de **OpenTopoMap** y **Esri**: un
+   mapa sin teselas no es un mapa. Van pineadas por versión en la propia URL.
+2. El **contador de visitas** (`blog.RQ013`), que carga `count.v5.js` de
+   GoatCounter con su hash `integrity` — y solo si hay un código puesto en
+   `analitica.goatcounter`. Con la clave vacía, que es como se publica por
+   defecto, no se pide nada a terceros.
 
 Las acciones de CI/CD están pineadas al SHA de 40 caracteres con el semver en
 comentario.
@@ -69,7 +80,23 @@ comentario.
 | `gitleaks/gitleaks-action` | v3.0.0 |
 | `DavidAnson/markdownlint-cli2-action` | v24.2.0 |
 | Leaflet (solo en `/mapa/`) | 1.9.4 |
+| GoatCounter `count.js` (si se activa el contador) | v5 |
 | Runner | `ubuntu-24.04` |
+
+## Cómo saber si alguien lo lee
+
+GitHub Pages no cuenta visitas, así que hay dos cosas montadas y cada una
+responde a una pregunta distinta (`blog.RQ013`):
+
+- **Qué busca quien llega de Google** — la propiedad
+  `https://donjorgito.github.io/pedaleando-por-corea/` en Search Console, ya
+  acreditada con la etiqueta `google_site_verification`. Ahí están las
+  búsquedas, las impresiones, los clics y qué páginas tiene indexadas. Los
+  datos empiezan el día que se verifica: no hay histórico hacia atrás.
+- **Cuánta gente entra y por dónde** — el contador. Para encenderlo, dar de
+  alta un sitio en [GoatCounter](https://www.goatcounter.com/) y poner el
+  código elegido (`<código>.goatcounter.com`) en `analitica.goatcounter`. Sin
+  eso el blog funciona igual y no mide nada.
 
 ## Documentación de apoyo
 

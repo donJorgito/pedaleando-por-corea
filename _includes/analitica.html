@@ -1,0 +1,30 @@
+{%- comment -%}
+Medición de audiencia (blog.RQ013).
+
+GitHub Pages no da ningún registro de visitas: sirve el sitio y no cuenta
+nada, así que sin esto no hay forma de saber si alguien lo lee. El contador
+es GoatCounter, elegido por lo que NO hace: no pone cookies, no guarda
+identificadores por persona y no recoge datos personales, de modo que la
+página no necesita aviso de consentimiento.
+
+Dos condiciones para que se cargue:
+
+  1. `jekyll.environment == 'production'`, que en GitHub Pages es el valor
+     por defecto y en una compilación local no, así que probar el sitio en
+     casa no ensucia las cifras.
+  2. `site.analitica.goatcounter` con un código. Vacío = ni script ni
+     peticiones a terceros; el sitio funciona igual y no mide nada.
+
+El script va pineado a `count.v5.js`, la versión estable, con el hash SRI
+que publica GoatCounter y que se comprueba contra el fichero servido: el
+navegador se niega a ejecutarlo si cambia un byte. `count.js` sin versión
+también funciona, pero entonces se ejecuta aquí lo que haya ese día.
+{%- endcomment -%}
+{%- if jekyll.environment == 'production' and site.analitica.goatcounter and site.analitica.goatcounter != '' -%}
+<script
+  data-goatcounter="https://{{ site.analitica.goatcounter }}.goatcounter.com/count"
+  async
+  src="https://gc.zgo.at/count.v5.js"
+  crossorigin="anonymous"
+  integrity="sha384-atnOLvQb9t+jTSipvd75X2yginT4PjVbqDdlJAmxMm+wYElFmeR6EmLP5bYeoRVQ"></script>
+{%- endif -%}

@@ -11,6 +11,25 @@ description: >-
 lang: es
 author: Jorge Lázaro Molina
 
+# Instagram: el icono y el enlace al perfil que `minima` pone en el pie de
+# todas las páginas. El álbum de historias del viaje se enlaza aparte, en la
+# portada, porque es una URL de historia destacada y no un perfil (RQ014).
+instagram_username: don_jorgito
+
+# Propiedad de Search Console `https://donjorgito.github.io/pedaleando-por-corea/`
+# (cuenta jorgelazaro@gmail.com). `jekyll-seo-tag` convierte esto en la
+# etiqueta <meta name="google-site-verification"> de todas las páginas, que es
+# lo que acredita ante Google que el sitio es nuestro para poder mandarle el
+# sitemap y leer los informes de rendimiento (RQ013). El testigo es público
+# por diseño: va en el HTML servido.
+google_site_verification: 89J68STRF4-tL7FCG84PAY6yL8GJGl0akLL23F87dgw
+
+# Medición de audiencia. Vacío = no se carga ningún script y no se mide nada.
+# Con un código de GoatCounter puesto, cada página suma una visita sin
+# cookies, sin identificadores y sin datos personales (RQ013).
+analitica:
+  goatcounter: ""
+
 url: "https://donjorgito.github.io"
 baseurl: "/pedaleando-por-corea"
 
@@ -31,6 +50,21 @@ defaults:
       type: posts
     values:
       layout: post
+  # Imagen de previsualización al compartir un enlace (RQ012). Va por
+  # `defaults` y no como clave suelta del sitio a propósito: `jekyll-seo-tag`
+  # 2.8 solo mira `page.image`, nunca `site.image`, así que una clave global
+  # no pintaría nada. Cada entrada puede poner su propia `image:` en el front
+  # matter y gana sobre esta.
+  - scope:
+      path: ""
+    values:
+      image:
+        path: /assets/img/tarjeta-social.jpg
+        width: 1200
+        height: 630
+        alt: >-
+          Los tres ciclistas con la bandera de Pilar de la Horadada en el
+          kilómetro 0 del 국토종주, con las bicis aparcadas detrás.
 
 exclude:
   - requirements/

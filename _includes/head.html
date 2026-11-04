@@ -16,9 +16,13 @@
   {%- seo -%}
   <link rel="stylesheet" href="{{ "/assets/main.css" | relative_url }}">
   {%- feed_meta -%}
-  {%- if jekyll.environment == 'production' and site.google_analytics -%}
-    {%- include google-analytics.html -%}
-  {%- endif -%}
+  {%- comment -%}
+  El contador de visitas (blog.RQ013). Aquí estaba el `google-analytics.html`
+  del tema, que no se usa: Google Analytics pone cookies y pide aviso de
+  consentimiento para una crónica de un viaje en bici. El include decide por
+  sí mismo si se carga algo.
+  {%- endcomment -%}
+  {%- include analitica.html -%}
 
   {%- comment -%}
   Primer script: aplica el tema guardado ANTES del primer pintado. Va aquí

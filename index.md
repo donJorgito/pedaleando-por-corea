@@ -19,6 +19,12 @@ ruta]({{ site.baseurl }}/mapa/)**, con los carriles bici oficiales, el
 trazado que hicimos de verdad, las cabinas de certificación y los
 alojamientos.
 
+Lo que aquí no se mueve sí se mueve en vídeo: **[las historias del viaje en
+Instagram](https://www.instagram.com/stories/highlights/18137935441617427/)**,
+el álbum «Corea a piñón!». Para abrirlas Instagram pide tener cuenta; si no
+la tienes, ahí queda el perfil
+[don_jorgito](https://www.instagram.com/don_jorgito/).
+
 ## El viaje, día a día
 
 {% assign dias = site.posts | where_exp: "p", "p.dia" | sort: "dia" %}

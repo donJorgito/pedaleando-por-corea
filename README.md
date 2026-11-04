@@ -93,10 +93,11 @@ responde a una pregunta distinta (`blog.RQ013`):
   acreditada con la etiqueta `google_site_verification`. Ahí están las
   búsquedas, las impresiones, los clics y qué páginas tiene indexadas. Los
   datos empiezan el día que se verifica: no hay histórico hacia atrás.
-- **Cuánta gente entra y por dónde** — el contador. Para encenderlo, dar de
-  alta un sitio en [GoatCounter](https://www.goatcounter.com/) y poner el
-  código elegido (`<código>.goatcounter.com`) en `analitica.goatcounter`. Sin
-  eso el blog funciona igual y no mide nada.
+- **Cuánta gente entra y por dónde** — el contador, **encendido** con el
+  código `pedaleando-por-corea`: el panel está en
+  <https://pedaleando-por-corea.goatcounter.com/>. Vaciar
+  `analitica.goatcounter` lo apaga sin tocar nada más, y entonces el sitio no
+  carga ningún script ni mide nada.
 
 ## Documentación de apoyo
 

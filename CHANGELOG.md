@@ -9,6 +9,13 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 ### Added
 
+- **El contador ya cuenta.** `analitica.goatcounter` pasa a
+  `pedaleando-por-corea`, el sitio dado de alta en GoatCounter, y con eso el
+  include de `blog.RQ013` deja de estar en blanco: cada página publicada suma
+  una visita, sin cookies y sin pedir consentimiento. Panel en
+  `pedaleando-por-corea.goatcounter.com`. Vaciar la clave vuelve a apagarlo
+  sin tocar nada más.
+
 - **Tres piezas para que el blog se encuentre y se sepa si se lee**
   (`blog.RQ012`, `blog.RQ013`, `blog.RQ014`). El punto de partida, medido y no
   supuesto: una búsqueda `site:donjorgito.github.io` en Google devuelve

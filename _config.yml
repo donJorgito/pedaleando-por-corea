@@ -28,7 +28,7 @@ google_site_verification: 89J68STRF4-tL7FCG84PAY6yL8GJGl0akLL23F87dgw
 # Con un código de GoatCounter puesto, cada página suma una visita sin
 # cookies, sin identificadores y sin datos personales (RQ013).
 analitica:
-  goatcounter: ""
+  goatcounter: "pedaleando-por-corea"
 
 url: "https://donjorgito.github.io"
 baseurl: "/pedaleando-por-corea"

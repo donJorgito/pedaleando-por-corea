@@ -12,6 +12,11 @@ description: >-
   KTX de Busan a Seúl, el kalguksu con estrella de guía de Myeongdong y la
   última cena, una barbacoa coreana de barrio sin un solo turista.
 tags: [corea, ktx, seul, myeongdong, trenes, comida, barbacoa, dia-a-dia]
+image:
+  path: /assets/img/tarjetas/dia-22-el-ktx-en-busan.jpg
+  width: 1200
+  height: 630
+  alt: "Andén cubierto de la estación de Busan a primera hora, con un tren KTX azul y blanco parado a la izquierda y una de las viajeras de pie en medio del andén, cargada con mochila y bolsas, mirando a cámara."
 ---
 
 El día de la perspectiva. Y de una sensación difícil de explicar.

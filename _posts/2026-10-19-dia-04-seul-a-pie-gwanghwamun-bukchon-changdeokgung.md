@@ -13,6 +13,11 @@ km_dia: 0
 km_ruta: 0
 km_total: 0
 km_total_acum: 0
+image:
+  path: /assets/img/tarjetas/dia-04-el-robot-de-seul.jpg
+  width: 1200
+  height: 630
+  alt: "Los tres viajeros sentados en un banco bajo una figura gigante de robot de los años setenta, con la fachada amarilla de un taller detrás."
 ---
 
 Primer día entero en Corea, y el plan fue el más sensato posible con el

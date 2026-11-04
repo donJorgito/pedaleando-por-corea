@@ -12,6 +12,11 @@ km_dia: 0
 km_ruta: 0
 km_total: 0
 km_total_acum: 0
+image:
+  path: /assets/img/tarjetas/dia-03-la-escala-en-hong-kong.jpg
+  width: 1200
+  height: 630
+  alt: "Dos viajeros con mochila y bolsas abrazados delante del ventanal de una sala de embarque, sobre moqueta azul con dibujos amarillos; detrás, la plataforma del aeropuerto con aviones de cola verde, una pasarela de embarque, un microbús blanco y, al fondo, montes envueltos en nubes bajas."
 ---
 
 ## La escala, y un reloj que no se había enterado

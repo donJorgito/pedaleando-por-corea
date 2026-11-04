@@ -14,6 +14,11 @@ description: >-
   cara del viaje, donde el cocinero nos regaló anchangsal por tener un amigo
   español.
 tags: [corea, gukto-jongju, sangju, nakdonggang, gumi, cabinas, hanwoo, anchangsal, gente, dia-a-dia]
+image:
+  path: /assets/img/tarjetas/dia-12-el-pasaporte-del-nakdong.jpg
+  width: 1200
+  height: 630
+  alt: "Uno de los ciclistas sonriendo delante de una cabina roja de certificación, sosteniendo abierto el pasaporte en la página del Nakdonggang: un mapa con los sellos de las cabinas del río y sus distancias."
 ---
 
 Después del día de los puertos tocaba uno de recompensa, y lo fue: **todo

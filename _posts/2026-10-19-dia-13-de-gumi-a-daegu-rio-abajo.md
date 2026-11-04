@@ -12,6 +12,11 @@ description: >-
   la vuelta a por el libro olvidado y la parada en 강정고령보: la presa más
   larga del país, el puente de 우륵 y el edificio 디아크.
 tags: [corea, gukto-jongju, nakdonggang, daegu, cabinas, dia-a-dia]
+image:
+  path: /assets/img/tarjetas/dia-13-cabina-chilgokbo.jpg
+  width: 1200
+  height: 630
+  alt: "Ciclista dentro de la cabina de certificación de 칠곡보 mostrando el pasaporte abierto con una página ya casi llena de sellos."
 ---
 
 Etapa corta de cabinas y larga de río: solo **dos sellos** en todo el día,

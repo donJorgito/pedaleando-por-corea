@@ -12,6 +12,11 @@ description: >-
   de Paldang, la vía verde sobre el antiguo ferrocarril y siete cabinas de
   certificación hasta Yeoju.
 tags: [corea, gukto-jongju, han, yeoju, cabinas, via-verde, dia-a-dia]
+image:
+  path: /assets/img/tarjetas/dia-09-las-bicis-en-mapo.jpg
+  width: 1200
+  height: 630
+  alt: "Dos ciclistas esperando en el bordillo de una calle de Seúl, con las bicicletas cargadas con alforjas detrás y el sol bajo de la mañana."
 ---
 
 Si el día anterior fue ir a buscar el principio, este fue el primero que nos

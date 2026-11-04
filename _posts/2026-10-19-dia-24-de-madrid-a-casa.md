@@ -12,6 +12,11 @@ km_dia: 0
 km_ruta: 633
 km_total: 0
 km_total_acum: 784
+image:
+  path: /assets/img/tarjetas/dia-24-el-tramo-largo.jpg
+  width: 1200
+  height: 630
+  alt: "Autorretrato dentro de la cabina del avión: los tres viajeros en sus asientos junto a las ventanillas, dos de ellos mirando a cámara con cara de sueño, el tercero en primer plano; al fondo, otro pasajero con la cara difuminada."
 ---
 
 ## La noche en el aire

@@ -12,6 +12,11 @@ description: >-
   coreana, el mercado de Bujeon y la cena en que nos rendimos a la pizza
   después de dieciocho días comiendo coreano.
 tags: [corea, busan, compras, cosmetica, olive-young, daiso, bujeon, dia-a-dia]
+image:
+  path: /assets/img/tarjetas/dia-21-olive-young.jpg
+  width: 1200
+  height: 630
+  alt: "Una de las viajeras en primer plano, con cara de circunstancias, delante de la fachada de una tienda Olive Young de Busan: el rótulo negro con la O verde encima de las puertas de cristal, dos clientes entrando y la pancarta del Gundam Base en el piso de arriba."
 ---
 
 **Nueve fotos.** Es el día con menos fotos de los veinte que pasamos en Corea

@@ -12,6 +12,11 @@ description: >-
   acantilado y la discusión sobre su edad, los dragones del templo, la playa
   de Gwangalli y la noche en Nampo-dong.
 tags: [corea, busan, templos, gwangalli, playas, nampodong, dia-a-dia]
+image:
+  path: /assets/img/tarjetas/dia-19-buda-sonriente.jpg
+  width: 1200
+  height: 630
+  alt: "Un viajero sentado con las piernas cruzadas en un cojín de piedra delante de una estatua gigante de Buda sonriente y barrigón, junto a una pagoda de piedra de muchos pisos."
 ---
 
 Primera mañana en Busan sin bicicleta. Toca turismo, y Busan da para mucho.

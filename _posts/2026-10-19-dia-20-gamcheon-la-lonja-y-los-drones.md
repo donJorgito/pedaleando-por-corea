@@ -12,6 +12,11 @@ description: >-
   colores de Gamcheon, el puente levadizo de Yeongdo con su arco de 75 grados,
   el acantilado de Huinnyeoul y los drones de Gwangalli.
 tags: [corea, busan, gamcheon, jagalchi, marisco, drones, dia-a-dia]
+image:
+  path: /assets/img/tarjetas/dia-20-jagalchi-por-la-manana.jpg
+  width: 1200
+  height: 630
+  alt: "Un viajero posa junto a la figura recortada de la mascota del mercado, una gaviota blanca con delantal rosa donde pone JAGALCHI, delante de un mural azul con el puente de Gwangan, gaviotas y el rótulo «Jagalchi Market 자갈치시장»."
 ---
 
 Si tuviera que elegir un día de Busan, este. Cinco planes y los cinco buenos.

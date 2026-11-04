@@ -12,6 +12,11 @@ km_dia: 0
 km_ruta: 0
 km_total: 0
 km_total_acum: 0
+image:
+  path: /assets/img/tarjetas/dia-02-la-cubierta-de-la-t4.jpg
+  width: 1200
+  height: 630
+  alt: "La cubierta ondulada de la terminal 4 de Barajas vista desde la calzada de acceso, con las vigas amarillas y el intradós de bambú bajo las ondas de chapa gris; delante, un muro de hormigón y una fila de taxis y furgonetas."
 ---
 
 Segundo día de viaje y todavía no habíamos visto Corea. Esto conviene tenerlo

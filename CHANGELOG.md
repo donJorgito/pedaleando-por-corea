@@ -911,6 +911,14 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 ### Changed
 
+- `DavidAnson/markdownlint-cli2-action` sube a v25.0.0. El salto de versión
+  es de la acción; la herramienta que de verdad lintea sube de
+  `markdownlint-cli2` 0.23.2 a 0.24.0 y `markdownlint` de 0.41.1 a 0.42.0.
+  El SHA pineado es el commit al que apunta la etiqueta `v25.0.0` en el
+  repositorio de la acción, comprobado uno contra otro, y el gate de linting
+  pasa con las 26 entradas tal como están. La tabla de versiones del `README`
+  se actualiza con ella.
+
 - **La foto de la Olive Young del día 21 se cambia por la original.** La que
   estaba publicada es un montaje; la buena es la toma de al lado, la misma
   fachada y sin sonrisa. Se publica desenespejada —las dos llegaron volteadas

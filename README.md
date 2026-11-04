@@ -67,7 +67,7 @@ comentario.
 | `actions/upload-pages-artifact` | v5.0.0 |
 | `actions/deploy-pages` | v5.0.1 |
 | `gitleaks/gitleaks-action` | v3.0.0 |
-| `DavidAnson/markdownlint-cli2-action` | v24.2.0 |
+| `DavidAnson/markdownlint-cli2-action` | v25.0.0 |
 | Leaflet (solo en `/mapa/`) | 1.9.4 |
 | Runner | `ubuntu-24.04` |
 
